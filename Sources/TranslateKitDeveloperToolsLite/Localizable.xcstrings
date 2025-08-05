@@ -2755,7 +2755,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "格式"
+            "value" : "格式化"
           }
         },
         "zh-Hant" : {
@@ -5275,7 +5275,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "描述信息"
+            "value" : "性能测试"
           }
         },
         "zh-Hant" : {
@@ -6283,7 +6283,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "重新命名"
+            "value" : "重命名"
           }
         },
         "zh-Hant" : {
@@ -7795,7 +7795,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "开关"
+            "value" : "切换"
           }
         },
         "zh-Hant" : {
@@ -10819,7 +10819,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "代码覆盖率"
+            "value" : "测试覆盖率"
           }
         },
         "zh-Hant" : {
@@ -12583,7 +12583,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "依赖关系"
+            "value" : "依赖项"
           }
         },
         "zh-Hant" : {
@@ -22415,7 +22415,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "请输入 API 密钥…"
+            "value" : "请输入API密钥…"
           }
         },
         "zh-Hant" : {
@@ -23171,7 +23171,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "输入文件名称…"
+            "value" : "输入文件名…"
           }
         },
         "zh-Hant" : {
@@ -23423,7 +23423,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "输入方法名称…"
+            "value" : "输入方法名…"
           }
         },
         "zh-Hant" : {
@@ -23927,7 +23927,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "输入端口号码…"
+            "value" : "输入端口号…"
           }
         },
         "zh-Hant" : {
@@ -24432,7 +24432,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "生成文档中…"
+            "value" : "正在生成文档…"
           }
         },
         "zh-Hant" : {
@@ -24684,7 +24684,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "安装依赖中..."
+            "value" : "正在安装依赖..."
           }
         },
         "zh-Hant" : {

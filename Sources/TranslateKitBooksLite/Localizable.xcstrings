@@ -1243,7 +1243,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "注释"
+            "value" : "标记"
           }
         },
         "zh-Hant" : {
@@ -1999,7 +1999,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "浏览图书馆"
+            "value" : "浏览书库"
           }
         },
         "zh-Hant" : {
@@ -3511,7 +3511,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "导出亮点"
+            "value" : "导出重点"
           }
         },
         "zh-Hant" : {
@@ -4267,7 +4267,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "跳转到页面"
+            "value" : "跳转到页码"
           }
         },
         "zh-Hant" : {
@@ -4519,7 +4519,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "高亮标记"
+            "value" : "标记重点"
           }
         },
         "zh-Hant" : {
@@ -5527,7 +5527,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "固定书籍"
+            "value" : "钉选书籍"
           }
         },
         "zh-Hant" : {
@@ -8551,7 +8551,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "同步图书馆"
+            "value" : "同步书库"
           }
         },
         "zh-Hant" : {
@@ -9055,7 +9055,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "切换暗黑模式"
+            "value" : "切换暗色模式"
           }
         },
         "zh-Hant" : {
@@ -9559,7 +9559,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "注释"
+            "value" : "标记"
           }
         },
         "zh-Hant" : {
@@ -10315,7 +10315,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "畅销商品"
+            "value" : "畅销"
           }
         },
         "zh-Hant" : {
@@ -11575,7 +11575,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "收藏"
+            "value" : "书集"
           }
         },
         "zh-Hant" : {
@@ -12583,7 +12583,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "黑暗主题"
+            "value" : "暗色主题"
           }
         },
         "zh-Hant" : {
@@ -13843,7 +13843,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "类型"
+            "value" : "体裁"
           }
         },
         "zh-Hant" : {
@@ -14096,7 +14096,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "国际标准书号（ISBN）"
+            "value" : "ISBN"
           }
         },
         "zh-Hant" : {
@@ -14600,7 +14600,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "资料库"
+            "value" : "书库"
           }
         },
         "zh-Hant" : {
@@ -15608,7 +15608,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "备忘录"
+            "value" : "笔记"
           }
         },
         "zh-Hant" : {
@@ -17373,7 +17373,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "注释已成功保存。"
+            "value" : "标记已成功保存。"
           }
         },
         "zh-Hant" : {
@@ -18891,7 +18891,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "库同步完成。"
+            "value" : "书库同步完成。"
           }
         },
         "zh-Hant" : {
@@ -19397,7 +19397,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "图书馆中没有书籍。"
+            "value" : "书库中没有书籍。"
           }
         },
         "zh-Hant" : {
@@ -20156,7 +20156,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "页面已成功收藏。"
+            "value" : "已成功收藏页面。"
           }
         },
         "zh-Hant" : {
@@ -21168,7 +21168,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加书签……"
+            "value" : "添加书签…"
           }
         },
         "zh-Hant" : {
@@ -21421,7 +21421,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在此添加备注……"
+            "value" : "在此添加笔记…"
           }
         },
         "zh-Hant" : {
@@ -22933,7 +22933,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "输入章节名称…"
+            "value" : "输入章节名…"
           }
         },
         "zh-Hant" : {
@@ -23185,7 +23185,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "输入集合名称…"
+            "value" : "输入书集名…"
           }
         },
         "zh-Hant" : {
@@ -23437,7 +23437,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "输入类型…"
+            "value" : "输入体裁…"
           }
         },
         "zh-Hant" : {
@@ -24194,7 +24194,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "请输入出版商…"
+            "value" : "输入出版商…"
           }
         },
         "zh-Hant" : {
@@ -24446,7 +24446,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "请输入引文…"
+            "value" : "输入引文…"
           }
         },
         "zh-Hant" : {
@@ -24698,7 +24698,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "请输入阅读目标…"
+            "value" : "输入阅读目标…"
           }
         },
         "zh-Hant" : {
@@ -25707,7 +25707,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜索图书馆…"
+            "value" : "在书库中搜索…"
           }
         },
         "zh-Hant" : {
