@@ -1243,7 +1243,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "开票"
+            "value" : "开单"
           }
         },
         "zh-Hant" : {
@@ -2503,7 +2503,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "创建发票"
+            "value" : "创建费用单"
           }
         },
         "zh-Hant" : {
@@ -3007,7 +3007,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "存款"
+            "value" : "存入"
           }
         },
         "zh-Hant" : {
@@ -4015,7 +4015,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "生成发票"
+            "value" : "生成费用单"
           }
         },
         "zh-Hant" : {
@@ -4519,7 +4519,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "发票"
+            "value" : "费用单"
           }
         },
         "zh-Hant" : {
@@ -4771,7 +4771,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "记录时间"
+            "value" : "记录耗时"
           }
         },
         "zh-Hant" : {
@@ -8803,7 +8803,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "跟踪时间"
+            "value" : "跟踪耗时"
           }
         },
         "zh-Hant" : {
@@ -10063,7 +10063,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "欠款余额"
+            "value" : "欠款额"
           }
         },
         "zh-Hant" : {
@@ -10567,7 +10567,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "可计费时间"
+            "value" : "计费时数"
           }
         },
         "zh-Hant" : {
@@ -14347,7 +14347,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "费用"
+            "value" : "支出"
           }
         },
         "zh-Hant" : {
@@ -14599,7 +14599,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "费用"
+            "value" : "支出"
           }
         },
         "zh-Hant" : {
@@ -14851,7 +14851,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "发票号码"
+            "value" : "费用单号"
           }
         },
         "zh-Hant" : {
@@ -18637,7 +18637,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "费用批准待定。"
+            "value" : "支出待批准。"
           }
         },
         "zh-Hant" : {
@@ -18890,7 +18890,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "费用报销已提交审核。"
+            "value" : "支出报告已提交审核。"
           }
         },
         "zh-Hant" : {
@@ -19143,7 +19143,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "发票已发送。"
+            "value" : "费用单已发送。"
           }
         },
         "zh-Hant" : {
@@ -21670,7 +21670,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加费用详情…"
+            "value" : "添加支出详情…"
           }
         },
         "zh-Hant" : {
@@ -21922,7 +21922,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加发票编号…"
+            "value" : "添加费用单号…"
           }
         },
         "zh-Hant" : {
@@ -24694,7 +24694,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "输入发票号码…"
+            "value" : "输入费用单号…"
           }
         },
         "zh-Hant" : {
@@ -25198,7 +25198,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "请输入项目名称…"
+            "value" : "输入项目名称…"
           }
         },
         "zh-Hant" : {
@@ -25450,7 +25450,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "请输入收件人姓名…"
+            "value" : "输入收件人姓名…"
           }
         },
         "zh-Hant" : {
@@ -25702,7 +25702,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "请输入税号…"
+            "value" : "输入税号…"
           }
         },
         "zh-Hant" : {
