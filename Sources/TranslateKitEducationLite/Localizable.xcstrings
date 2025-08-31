@@ -250,8 +250,7 @@
             "value" : "回答问题"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.bookmark" : {
       "comment" : "Use for saving content for future reference",
@@ -502,8 +501,7 @@
             "value" : "書籤"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.checkAnswer" : {
       "comment" : "Use when reviewing the correctness of an answer",
@@ -754,8 +752,7 @@
             "value" : "检查答案"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.checkSolution" : {
       "comment" : "Use for reviewing the correct solution to a problem",
@@ -1006,8 +1003,7 @@
             "value" : "檢查解決方案"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.checkSolutionAgain" : {
       "comment" : "Use for checking the answer to a problem",
@@ -1259,8 +1255,7 @@
             "value" : "檢查解決方案"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.completeLesson" : {
       "comment" : "Use when finishing a lesson or module",
@@ -1511,8 +1506,7 @@
             "value" : "完成課程"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.downloadMaterials" : {
       "comment" : "Use for downloading educational materials",
@@ -1763,8 +1757,7 @@
             "value" : "下載資料"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.explain" : {
       "comment" : "Use for providing an explanation or clarification",
@@ -2015,8 +2008,7 @@
             "value" : "解釋"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.exploreTopic" : {
       "comment" : "Use for discovering additional content on a topic",
@@ -2267,8 +2259,7 @@
             "value" : "探索主題"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.focusMode" : {
       "comment" : "Use for enabling a distraction-free learning environment",
@@ -2519,8 +2510,7 @@
             "value" : "專注模式"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.generateReport" : {
       "comment" : "Use for generating a progress or performance report",
@@ -2771,8 +2761,7 @@
             "value" : "生成報告"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.grade" : {
       "comment" : "Use for grading or assessing performance",
@@ -3023,8 +3012,7 @@
             "value" : "评分"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.highlight" : {
       "comment" : "Use for marking important information",
@@ -3275,8 +3263,7 @@
             "value" : "螢光標示"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.listen" : {
       "comment" : "Use for audio learning or listening to instructions",
@@ -3527,8 +3514,7 @@
             "value" : "收听"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.markComplete" : {
       "comment" : "Use when completing a task or lesson",
@@ -3779,8 +3765,7 @@
             "value" : "標記完成"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.memorize" : {
       "comment" : "Use for committing information to memory",
@@ -4031,8 +4016,7 @@
             "value" : "记忆"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.practice" : {
       "comment" : "Use for engaging in learning exercises",
@@ -4283,8 +4267,7 @@
             "value" : "練習"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.quiz" : {
       "comment" : "Use for taking a quiz",
@@ -4535,8 +4518,7 @@
             "value" : "測驗"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.read" : {
       "comment" : "Use for reading learning material",
@@ -4787,8 +4769,7 @@
             "value" : "已讀"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.recordAnswer" : {
       "comment" : "Use for recording your response or answer",
@@ -5039,8 +5020,7 @@
             "value" : "記錄答案"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.repeatExercise" : {
       "comment" : "Use for repeating an exercise or activity",
@@ -5291,8 +5271,7 @@
             "value" : "重複練習"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.reportMistakes" : {
       "comment" : "Use for reporting errors or mistakes",
@@ -5543,8 +5522,7 @@
             "value" : "報告錯誤"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.review" : {
       "comment" : "Use for going over learned material",
@@ -5795,8 +5773,7 @@
             "value" : "檢視"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.scheduleTutoring" : {
       "comment" : "Use for scheduling a tutoring session",
@@ -6047,8 +6024,7 @@
             "value" : "安排輔導"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.skipChapter" : {
       "comment" : "Use for bypassing a chapter or section",
@@ -6299,8 +6275,7 @@
             "value" : "跳過章節"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.solve" : {
       "comment" : "Use for solving problems or exercises",
@@ -6551,8 +6526,7 @@
             "value" : "解決"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.startExercise" : {
       "comment" : "Use for initiating a learning activity",
@@ -6803,8 +6777,7 @@
             "value" : "開始運動"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.startLesson" : {
       "comment" : "Use for beginning a lesson",
@@ -7055,8 +7028,7 @@
             "value" : "開始課程"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.startTutoring" : {
       "comment" : "Use for beginning a tutoring session",
@@ -7307,8 +7279,7 @@
             "value" : "開始輔導"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.study" : {
       "comment" : "Use for engaging in study activities",
@@ -7559,8 +7530,7 @@
             "value" : "學習"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.submitAnswer" : {
       "comment" : "Use when submitting an answer to a question",
@@ -7811,8 +7781,7 @@
             "value" : "提交答案"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.takeNotes" : {
       "comment" : "Use for writing down important points",
@@ -8063,8 +8032,7 @@
             "value" : "做筆記"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.testYourself" : {
       "comment" : "Use for self-assessment activities",
@@ -8315,8 +8283,7 @@
             "value" : "自我測試"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.trackProgress" : {
       "comment" : "Use for monitoring learning or task progress",
@@ -8567,8 +8534,7 @@
             "value" : "追蹤進度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.viewProgress" : {
       "comment" : "Use for viewing learning progress",
@@ -8819,8 +8785,7 @@
             "value" : "查看進展"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.writeReflection" : {
       "comment" : "Use for writing a reflective thought or summary",
@@ -9071,8 +9036,7 @@
             "value" : "寫反思"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.assignment" : {
       "comment" : "Use for labeling a task or homework to be completed",
@@ -9323,8 +9287,7 @@
             "value" : "作业"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.chapter" : {
       "comment" : "Use for dividing content into distinct sections",
@@ -9575,8 +9538,7 @@
             "value" : "章节"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.completionCertificate" : {
       "comment" : "Use for awarding a certificate upon course completion",
@@ -9827,8 +9789,7 @@
             "value" : "完成證書"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.correctAnswers" : {
       "comment" : "Use for counting or showing correct responses in quizzes",
@@ -10079,8 +10040,7 @@
             "value" : "正確答案"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.course" : {
       "comment" : "Use to label an educational program or series of lessons",
@@ -10331,8 +10291,7 @@
             "value" : "課程"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.courseProgress" : {
       "comment" : "Use for tracking progress through a course",
@@ -10583,8 +10542,7 @@
             "value" : "課程進度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.curriculum" : {
       "comment" : "Use for the complete set of educational content",
@@ -10835,8 +10793,7 @@
             "value" : "課程"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.difficultyLevel" : {
       "comment" : "Use for indicating the complexity of content or tasks",
@@ -11087,8 +11044,7 @@
             "value" : "難度級別"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.exam" : {
       "comment" : "Use for labeling assessments or tests",
@@ -11339,8 +11295,7 @@
             "value" : "考試"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.exercise" : {
       "comment" : "Use for labeling practice activities or tasks",
@@ -11591,8 +11546,7 @@
             "value" : "運動"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.flashcards" : {
       "comment" : "Use for interactive learning tools in a question-answer format",
@@ -11843,8 +11797,7 @@
             "value" : "抽認卡"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.gradeLevel" : {
       "comment" : "Use for categorizing content based on educational stages",
@@ -12095,8 +12048,7 @@
             "value" : "年級等級"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.knowledgePoints" : {
       "comment" : "Use for awarding points based on learning achievements",
@@ -12347,8 +12299,7 @@
             "value" : "知識點"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.learningPath" : {
       "comment" : "Use for a structured sequence of lessons or activities",
@@ -12599,8 +12550,7 @@
             "value" : "學習路徑"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.learningStreak" : {
       "comment" : "Use for tracking consecutive days or sessions of learning",
@@ -12851,8 +12801,7 @@
             "value" : "學習連續天數"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.lesson" : {
       "comment" : "Use for individual instructional sessions",
@@ -13103,8 +13052,7 @@
             "value" : "課堂"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.notes" : {
       "comment" : "Use for personal annotations or study material",
@@ -13355,8 +13303,7 @@
             "value" : "備忘錄"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.practiceExercises" : {
       "comment" : "Use for exercises designed to reinforce learning",
@@ -13607,8 +13554,7 @@
             "value" : "練習題"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.quizResults" : {
       "comment" : "Use for showing the outcomes of a quiz",
@@ -13859,8 +13805,7 @@
             "value" : "測驗結果"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.score" : {
       "comment" : "Use for labeling a user's performance or results",
@@ -14111,8 +14056,7 @@
             "value" : "分數"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.student" : {
       "comment" : "Use to refer to a person engaged in learning",
@@ -14363,8 +14307,7 @@
             "value" : "學生"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.studyMaterials" : {
       "comment" : "Use for resources used in studying",
@@ -14615,8 +14558,7 @@
             "value" : "學習資料"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.studySessions" : {
       "comment" : "Use for tracking individual study sessions",
@@ -14867,8 +14809,7 @@
             "value" : "學習時段"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.studyTime" : {
       "comment" : "Use for tracking the amount of time spent studying",
@@ -15119,8 +15060,7 @@
             "value" : "學習時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.subject" : {
       "comment" : "Use to categorize topics or disciplines of study",
@@ -15371,8 +15311,7 @@
             "value" : "標題"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.teacher" : {
       "comment" : "Use to refer to a person providing instruction",
@@ -15623,8 +15562,7 @@
             "value" : "教師"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.testScore" : {
       "comment" : "Use for showing the results of a test",
@@ -15875,8 +15813,7 @@
             "value" : "考試成績"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.topic" : {
       "comment" : "Use for specific areas of focus within a subject",
@@ -16127,8 +16064,7 @@
             "value" : "主題"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.tutor" : {
       "comment" : "Use for a person providing one-on-one educational assistance",
@@ -16379,8 +16315,7 @@
             "value" : "導師"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.tutorial" : {
       "comment" : "Use for instructional content or guides",
@@ -16631,8 +16566,7 @@
             "value" : "教程"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.xp" : {
       "comment" : "Use for experience points earned through activities or tasks",
@@ -16883,8 +16817,7 @@
             "value" : "XP"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.achievementUnlockedDot" : {
       "comment" : "Use to notify the user of an unlocked achievement",
@@ -17136,8 +17069,7 @@
             "value" : "成就解鎖！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.answerCorrectDot" : {
       "comment" : "Confirmation that the user's answer is right",
@@ -17389,8 +17321,7 @@
             "value" : "你的答案是正確的！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.answerNeedsImprovementDot" : {
       "comment" : "Feedback for an incorrect or suboptimal answer",
@@ -17642,8 +17573,7 @@
             "value" : "答案需要改善。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.dailyStreakMaintainedDot" : {
       "comment" : "Use to congratulate maintaining a study streak",
@@ -17895,8 +17825,7 @@
             "value" : "每日連續績效得以保持！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.greatJobDot" : {
       "comment" : "Use for praising a user's achievement",
@@ -18148,8 +18077,7 @@
             "value" : "做得好！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.keepPracticingDot" : {
       "comment" : "Motivational message to encourage continued practice",
@@ -18401,8 +18329,7 @@
             "value" : "繼續練習！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.newLessonAvailableDot" : {
       "comment" : "Notification for a new lesson being available",
@@ -18654,8 +18581,7 @@
             "value" : "新課程可用！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.readyForNextLessonDot" : {
       "comment" : "Use to prompt users to move to the next lesson",
@@ -18907,8 +18833,7 @@
             "value" : "準備好進入下一課了嗎？"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.rememberToTakeNotesDot" : {
       "comment" : "Reminder to take notes while studying",
@@ -19160,8 +19085,7 @@
             "value" : "記得做筆記！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.studyGoalAchievedDot" : {
       "comment" : "Use to confirm the achievement of a study goal",
@@ -19413,8 +19337,7 @@
             "value" : "學習目標已達成！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.studySessionCompleteDot" : {
       "comment" : "Confirmation that the study session has ended",
@@ -19666,8 +19589,7 @@
             "value" : "學習會議已完成！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.takeAShortBreakDot" : {
       "comment" : "Use to suggest a break after studying",
@@ -19919,8 +19841,7 @@
             "value" : "休息一下吧！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.timeForQuizDot" : {
       "comment" : "Use to prompt the user to take a quiz",
@@ -20172,8 +20093,7 @@
             "value" : "時間進行測驗！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.timeToReviewDot" : {
       "comment" : "Use to prompt the user to review material",
@@ -20425,8 +20345,7 @@
             "value" : "時間進行複習！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.timeToTestYourKnowledgeDot" : {
       "comment" : "Prompt for a knowledge testing activity",
@@ -20678,8 +20597,7 @@
             "value" : "是時候測試你的知識了！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addStudyNotesDots" : {
       "comment" : "Placeholder for adding study notes",
@@ -20930,8 +20848,7 @@
             "value" : "新增學習筆記…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.courseProgressDots" : {
       "comment" : "Placeholder for tracking course progress",
@@ -21182,8 +21099,7 @@
             "value" : "課程進度…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.currentChapterDots" : {
       "comment" : "Placeholder for indicating the current chapter",
@@ -21434,8 +21350,7 @@
             "value" : "當前章節…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterAnswerDots" : {
       "comment" : "Placeholder for answer input fields",
@@ -21686,8 +21601,7 @@
             "value" : "輸入答案…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterFormulaDots" : {
       "comment" : "Placeholder for entering a formula",
@@ -21938,8 +21852,7 @@
             "value" : "輸入公式…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterQuestionHereDots" : {
       "comment" : "Placeholder for entering a question",
@@ -22190,8 +22103,7 @@
             "value" : "在此輸入問題…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterTopicToStudyDots" : {
       "comment" : "Placeholder for entering a study topic",
@@ -22442,8 +22354,7 @@
             "value" : "輸入學習主題…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.nameYourFlashcardDots" : {
       "comment" : "Placeholder for naming a flashcard",
@@ -22694,8 +22605,7 @@
             "value" : "命名你的抽認卡…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchExercisesDots" : {
       "comment" : "Placeholder for searching exercises",
@@ -22946,8 +22856,7 @@
             "value" : "搜尋練習…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchForLessonsDots" : {
       "comment" : "Placeholder for searching lessons",
@@ -23198,8 +23107,7 @@
             "value" : "搜尋課堂…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchTutorsDots" : {
       "comment" : "Placeholder for searching tutors",
@@ -23450,8 +23358,7 @@
             "value" : "搜索家教…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.studyGoalForTodayDots" : {
       "comment" : "Placeholder for today's study goal",
@@ -23702,8 +23609,7 @@
             "value" : "今天的學習目標…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.studySessionDurationDots" : {
       "comment" : "Placeholder for tracking the study session duration",
@@ -23954,8 +23860,7 @@
             "value" : "學習時段時長…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.timeSpentStudyingDots" : {
       "comment" : "Placeholder for tracking study time",
@@ -24206,8 +24111,7 @@
             "value" : "學習時間…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.typeDefinitionDots" : {
       "comment" : "Placeholder for typing a definition",
@@ -24458,8 +24362,7 @@
             "value" : "輸入定義…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.typeYourQuestionDots" : {
       "comment" : "Placeholder for typing a question",
@@ -24710,8 +24613,7 @@
             "value" : "輸入你的問題…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.whatDidYouLearnDots" : {
       "comment" : "Placeholder for summarizing learned material",
@@ -24962,8 +24864,7 @@
             "value" : "你學到了什麼…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.writeNotesHereDots" : {
       "comment" : "Placeholder for writing notes",
@@ -25214,8 +25115,7 @@
             "value" : "在這裡寫下筆記…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.writeSummaryDots" : {
       "comment" : "Placeholder for writing a summary",
@@ -25466,8 +25366,7 @@
             "value" : "撰寫…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.yourAnswerHereDots" : {
       "comment" : "Placeholder for entering an answer",
@@ -25718,8 +25617,7 @@
             "value" : "在這裡輸入你的答案…"
           }
         }
-      },
-      "proofread" : true
+      }
     }
   },
   "version" : "1.0"

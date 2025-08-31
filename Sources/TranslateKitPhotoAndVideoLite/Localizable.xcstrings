@@ -250,8 +250,7 @@
             "value" : "調整"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.applyFilter" : {
       "comment" : "Use for applying a filter to a photo or video",
@@ -502,8 +501,7 @@
             "value" : "套用過濾器"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.choosePhoto" : {
       "comment" : "Use for selecting a photo from the library",
@@ -754,8 +752,7 @@
             "value" : "選擇"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.compare" : {
       "comment" : "Use for comparing different photos or videos",
@@ -1006,8 +1003,7 @@
             "value" : "比較"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.copyLink" : {
       "comment" : "Use for copying a link to the clipboard",
@@ -1258,8 +1254,7 @@
             "value" : "複製連結"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.crop" : {
       "comment" : "Use for cropping a photo or video",
@@ -1510,8 +1505,7 @@
             "value" : "裁剪"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.deletePermanently" : {
       "comment" : "Use for permanently deleting a photo or video",
@@ -1762,8 +1756,7 @@
             "value" : "永久刪除"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.editPhoto" : {
       "comment" : "Use for editing a photo",
@@ -2014,8 +2007,7 @@
             "value" : "編輯照片"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.enableCamera" : {
       "comment" : "Use for enabling the camera to take photos or videos",
@@ -2266,8 +2258,7 @@
             "value" : "啟用相機"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.exportPDF" : {
       "comment" : "Use for exporting content as a PDF",
@@ -2518,8 +2509,7 @@
             "value" : "輸出為PDF"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.flip" : {
       "comment" : "Use for flipping a photo or video",
@@ -2770,8 +2760,7 @@
             "value" : "翻转"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.importPhotos" : {
       "comment" : "Use for importing photos into the app",
@@ -3022,8 +3011,7 @@
             "value" : "導入相片"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.markAsFavorite" : {
       "comment" : "Use for marking a photo or video as a favorite",
@@ -3274,8 +3262,7 @@
             "value" : "标记为最爱"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.mergeClips" : {
       "comment" : "Use for merging video clips",
@@ -3526,8 +3513,7 @@
             "value" : "合併片段"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.openInBrowser" : {
       "comment" : "Use for opening content in an external browser",
@@ -3778,8 +3764,7 @@
             "value" : "在瀏覽器中打開"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.playNow" : {
       "comment" : "Use for starting video playback immediately",
@@ -4030,8 +4015,7 @@
             "value" : "立即播放"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.recordVideo" : {
       "comment" : "Use for starting video recording",
@@ -4282,8 +4266,7 @@
             "value" : "錄製視頻"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.removeBackground" : {
       "comment" : "Use for removing the background from an image",
@@ -4534,8 +4517,7 @@
             "value" : "移除背景"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.replace" : {
       "comment" : "Use for replacing a photo or video",
@@ -4786,8 +4768,7 @@
             "value" : "取代"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.resize" : {
       "comment" : "Use for resizing a photo or video",
@@ -5038,8 +5019,7 @@
             "value" : "調整大小"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.revert" : {
       "comment" : "Use for reverting changes made to a photo or video",
@@ -5290,8 +5270,7 @@
             "value" : "回復"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.rotate" : {
       "comment" : "Use for rotating a photo or video",
@@ -5542,8 +5521,7 @@
             "value" : "旋轉"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.saveToPhotos" : {
       "comment" : "Use for saving a photo or video to the photo library",
@@ -5794,8 +5772,7 @@
             "value" : "儲存至「相片」"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.saveVideo" : {
       "comment" : "Use for saving a video to the library",
@@ -6046,8 +6023,7 @@
             "value" : "儲存影片"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.scan" : {
       "comment" : "Use for scanning a photo or document",
@@ -6298,8 +6274,7 @@
             "value" : "掃描"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.setAsDefault" : {
       "comment" : "Use for setting a photo or video as the default",
@@ -6550,8 +6525,7 @@
             "value" : "設為默認"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.shareDocument" : {
       "comment" : "Use for sharing a document",
@@ -6802,8 +6776,7 @@
             "value" : "分享文件"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.split" : {
       "comment" : "Use for splitting a video into segments",
@@ -7054,8 +7027,7 @@
             "value" : "分割"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.startRecording" : {
       "comment" : "Use for starting the recording",
@@ -7306,8 +7278,7 @@
             "value" : "開始錄音"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.stopRecording" : {
       "comment" : "Use for stopping the video recording",
@@ -7558,8 +7529,7 @@
             "value" : "停止錄音"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.takePhoto" : {
       "comment" : "Use for taking a photo",
@@ -7810,8 +7780,7 @@
             "value" : "影相"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.toggleGrid" : {
       "comment" : "Use for toggling the grid view",
@@ -8062,8 +8031,7 @@
             "value" : "切換網格"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.trim" : {
       "comment" : "Use for trimming a photo or video",
@@ -8314,8 +8282,7 @@
             "value" : "裁剪"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.trimVideo" : {
       "comment" : "Use for trimming a video",
@@ -8566,8 +8533,7 @@
             "value" : "剪輯影片"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.undoChanges" : {
       "comment" : "Use for undoing changes made to a photo or video",
@@ -8818,8 +8784,7 @@
             "value" : "撤銷更改"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.uploadPhoto" : {
       "comment" : "Use for uploading a photo to the platform",
@@ -9070,8 +9035,7 @@
             "value" : "上傳照片"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.useCamera" : {
       "comment" : "Use for activating the camera to capture a photo or video",
@@ -9322,8 +9286,7 @@
             "value" : "使用相機"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.zoomIn" : {
       "comment" : "Use for zooming into a photo or video",
@@ -9574,8 +9537,7 @@
             "value" : "放大"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.zoomOut" : {
       "comment" : "Use for zooming out of a photo or video",
@@ -9826,8 +9788,7 @@
             "value" : "縮小"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.albums" : {
       "comment" : "Use for displaying photo albums",
@@ -10078,8 +10039,7 @@
             "value" : "相簿"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.aperture" : {
       "comment" : "Use for displaying the aperture setting for a camera",
@@ -10330,8 +10290,7 @@
             "value" : "光圈"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.aspectRatio" : {
       "comment" : "Use for displaying the aspect ratio of an image or video",
@@ -10582,8 +10541,7 @@
             "value" : "比例"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.backgroundBlur" : {
       "comment" : "Use for displaying the background blur setting of an image or video",
@@ -10834,8 +10792,7 @@
             "value" : "背景模糊"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.brightness" : {
       "comment" : "Use for adjusting the brightness of an image or video",
@@ -11086,8 +11043,7 @@
             "value" : "亮度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.camera" : {
       "comment" : "Use for displaying the camera or camera-related settings",
@@ -11338,8 +11294,7 @@
             "value" : "相機"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.cameraRoll" : {
       "comment" : "Use for accessing the camera roll or photo library",
@@ -11590,8 +11545,7 @@
             "value" : "相片庫"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.color" : {
       "comment" : "Use for adjusting the color properties of an image or video",
@@ -11842,8 +11796,7 @@
             "value" : "顏色"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.contrast" : {
       "comment" : "Use for adjusting the contrast of an image or video",
@@ -12094,8 +12047,7 @@
             "value" : "對比度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.createdDate" : {
       "comment" : "Use for displaying the date when the photo or video was created",
@@ -12346,8 +12298,7 @@
             "value" : "創建日期"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.duration" : {
       "comment" : "Use for displaying the duration of a video or media clip",
@@ -12598,8 +12549,7 @@
             "value" : "持續時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.effects" : {
       "comment" : "Use for applying effects to an image or video",
@@ -12850,8 +12800,7 @@
             "value" : "效果"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.exposure" : {
       "comment" : "Use for adjusting the exposure of an image or video",
@@ -13102,8 +13051,7 @@
             "value" : "曝光度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.fileFormat" : {
       "comment" : "Use for displaying the file format of a media file",
@@ -13354,8 +13302,7 @@
             "value" : "文件格式"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.fileName" : {
       "comment" : "Use for displaying the file name of a media file",
@@ -13606,8 +13553,7 @@
             "value" : "文件名稱"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.fileSize" : {
       "comment" : "Use for displaying the size of a media file",
@@ -13858,8 +13804,7 @@
             "value" : "檔案大小"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.filters" : {
       "comment" : "Use for applying filters to an image or video",
@@ -14110,8 +14055,7 @@
             "value" : "濾鏡"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.gallery" : {
       "comment" : "Use for accessing the photo or video gallery",
@@ -14362,8 +14306,7 @@
             "value" : "相簿"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.height" : {
       "comment" : "Use for displaying the height of an image or video",
@@ -14614,8 +14557,7 @@
             "value" : "身高"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.image" : {
       "comment" : "Use for displaying or selecting an image",
@@ -14866,8 +14808,7 @@
             "value" : "影像"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.library" : {
       "comment" : "Use for accessing the media library",
@@ -15118,8 +15059,7 @@
             "value" : "資料庫"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.media" : {
       "comment" : "Use for referring to media files (photos, videos, etc.)",
@@ -15370,8 +15310,7 @@
             "value" : "媒體"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.mode" : {
       "comment" : "Use for selecting different modes or settings",
@@ -15622,8 +15561,7 @@
             "value" : "模式"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.photos" : {
       "comment" : "Use for displaying photos or photo-related content",
@@ -15874,8 +15812,7 @@
             "value" : "相片"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.playback" : {
       "comment" : "Use for controlling media playback",
@@ -16126,8 +16063,7 @@
             "value" : "播放"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.playbackSpeed" : {
       "comment" : "Use for adjusting the speed of media playback",
@@ -16378,8 +16314,7 @@
             "value" : "播放速度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.preview" : {
       "comment" : "Use for previewing a photo, video, or effect",
@@ -16630,8 +16565,7 @@
             "value" : "預覽"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.resolution" : {
       "comment" : "Use for displaying or adjusting media resolution",
@@ -16882,8 +16816,7 @@
             "value" : "分辨率"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.saturation" : {
       "comment" : "Use for adjusting the saturation of an image or video",
@@ -17134,8 +17067,7 @@
             "value" : "飽和度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.screenshot" : {
       "comment" : "Use for capturing a screenshot of the screen or media",
@@ -17386,8 +17318,7 @@
             "value" : "螢幕截圖"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.size" : {
       "comment" : "Use for displaying the size of an image or video",
@@ -17638,8 +17569,7 @@
             "value" : "大小"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.timeline" : {
       "comment" : "Use for displaying or interacting with the timeline of a video",
@@ -17890,8 +17820,7 @@
             "value" : "時間表"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.width" : {
       "comment" : "Use for displaying the width of an image or video",
@@ -18142,8 +18071,7 @@
             "value" : "闊度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.accessToYourCameraIsRequiredDot" : {
       "comment" : "Message displayed when camera access is needed",
@@ -18395,8 +18323,7 @@
             "value" : "需要訪問你的相機。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.accessToYourPhotosIsRequiredDot" : {
       "comment" : "Message displayed when photo access is needed",
@@ -18648,8 +18575,7 @@
             "value" : "需要訪問你的照片。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.changesHaveBeenSavedToYourDeviceDot" : {
       "comment" : "Message displayed after saving changes",
@@ -18901,8 +18827,7 @@
             "value" : "更改已保存到您的設備。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.convertingFileFormatDots" : {
       "comment" : "Message displayed when a file format is being converted",
@@ -19154,8 +19079,7 @@
             "value" : "正在轉換檔案格式..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.editingInProgressDots" : {
       "comment" : "Message displayed while editing is in progress",
@@ -19407,8 +19331,7 @@
             "value" : "編輯中..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.effectAppliedSuccessfullyDot" : {
       "comment" : "Message displayed when an effect is successfully applied",
@@ -19660,8 +19583,7 @@
             "value" : "特效成功應用。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.exportCompletedSuccessfullyDot" : {
       "comment" : "Message displayed after a successful export",
@@ -19913,8 +19835,7 @@
             "value" : "導出已成功完成。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.fileIsTooLargeToProcessDot" : {
       "comment" : "Message displayed when a file exceeds size limits",
@@ -20166,8 +20087,7 @@
             "value" : "文件太大，無法處理。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.filterAppliedSuccessfullyDot" : {
       "comment" : "Message displayed when a filter is successfully applied",
@@ -20419,8 +20339,7 @@
             "value" : "篩選器已成功應用。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.imageHasBeenSavedToYourLibraryDot" : {
       "comment" : "Message displayed when an image is saved to the library",
@@ -20672,8 +20591,7 @@
             "value" : "圖片已保存到您的相簿。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.importCompletedSuccessfullyDot" : {
       "comment" : "Message displayed after a successful import",
@@ -20925,8 +20843,7 @@
             "value" : "導入已成功完成。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.noMediaFilesFoundDot" : {
       "comment" : "Message displayed when no media files are found",
@@ -21178,8 +21095,7 @@
             "value" : "未找到媒體文件。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.processingLargeMediaFileDots" : {
       "comment" : "Message displayed while processing a large file",
@@ -21431,8 +21347,7 @@
             "value" : "正在處理大型媒體文件..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.theDevicesCameraIsNotAvailableDot" : {
       "comment" : "Message displayed when the camera is unavailable",
@@ -21684,8 +21599,7 @@
             "value" : "設備的相機不可用。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.videoExportCompleteDot" : {
       "comment" : "Message displayed when video export is completed",
@@ -21937,8 +21851,7 @@
             "value" : "視頻導出完成。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addCaptionDots" : {
       "comment" : "Placeholder for adding a caption to an image or video",
@@ -22190,8 +22103,7 @@
             "value" : "添加說明…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addPhotoDescriptionDots" : {
       "comment" : "Placeholder for adding a description to a photo",
@@ -22443,8 +22355,7 @@
             "value" : "添加照片描述…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addTagsDots" : {
       "comment" : "Placeholder for adding tags to an image or video",
@@ -22696,8 +22607,7 @@
             "value" : "添加標籤…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addVideoTitleDots" : {
       "comment" : "Placeholder for adding a title to a video",
@@ -22949,8 +22859,7 @@
             "value" : "添加視頻標題…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.adjustingColorsDots" : {
       "comment" : "Placeholder when adjusting color settings",
@@ -23202,8 +23111,7 @@
             "value" : "調整顏色中..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.adjustingExposureDots" : {
       "comment" : "Placeholder when adjusting exposure settings",
@@ -23455,8 +23363,7 @@
             "value" : "調整曝光中..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.analyzingImageDots" : {
       "comment" : "Placeholder when analyzing an image",
@@ -23708,8 +23615,7 @@
             "value" : "分析圖片中..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.applyingFiltersDots" : {
       "comment" : "Placeholder when applying filters to an image or video",
@@ -23961,8 +23867,7 @@
             "value" : "應用濾鏡中..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.creatingPreviewDots" : {
       "comment" : "Placeholder when creating a preview of the media",
@@ -24214,8 +24119,7 @@
             "value" : "創建預覽中..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterAlbumNameDots" : {
       "comment" : "Placeholder for entering an album name",
@@ -24467,8 +24371,7 @@
             "value" : "輸入專輯名稱..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterDescriptionDots" : {
       "comment" : "Placeholder for entering a description",
@@ -24720,8 +24623,7 @@
             "value" : "輸入描述..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.exportingVideoDots" : {
       "comment" : "Placeholder when exporting a video",
@@ -24973,8 +24875,7 @@
             "value" : "導出視頻中..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.generatingPreviewDots" : {
       "comment" : "Placeholder when generating a preview of media",
@@ -25226,8 +25127,7 @@
             "value" : "生成預覽中..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.loadingFiltersDots" : {
       "comment" : "Placeholder when loading filters for an image or video",
@@ -25479,8 +25379,7 @@
             "value" : "加載過濾器中..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.processingImageDots" : {
       "comment" : "Placeholder when processing an image",
@@ -25732,8 +25631,7 @@
             "value" : "處理圖像中..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.processingVideoDots" : {
       "comment" : "Placeholder when processing a video",
@@ -25985,8 +25883,7 @@
             "value" : "處理視頻中..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.renderingEffectsDots" : {
       "comment" : "Placeholder when rendering effects for an image or video",
@@ -26238,8 +26135,7 @@
             "value" : "渲染效果中..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.renderingPreviewDots" : {
       "comment" : "Placeholder when rendering a preview of media",
@@ -26491,8 +26387,7 @@
             "value" : "渲染預覽中..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchMediaDots" : {
       "comment" : "Placeholder for searching through media",
@@ -26744,8 +26639,7 @@
             "value" : "搜索媒體中..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.trimmingVideoDots" : {
       "comment" : "Placeholder when trimming a video",
@@ -26997,8 +26891,7 @@
             "value" : "修剪視頻中..."
           }
         }
-      },
-      "proofread" : true
+      }
     }
   },
   "version" : "1.0"

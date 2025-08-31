@@ -250,8 +250,7 @@
             "value" : "添加至播放列表"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.addToQueue" : {
       "comment" : "Use when adding content to the playback queue",
@@ -502,8 +501,7 @@
             "value" : "添加到隊列"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.cast" : {
       "comment" : "Use when casting content to a device",
@@ -754,8 +752,7 @@
             "value" : "投放"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.createPlaylist" : {
       "comment" : "Use when creating a new playlist",
@@ -1006,8 +1003,7 @@
             "value" : "建立播放列表"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.downloadForOffline" : {
       "comment" : "Use when allowing download of content for offline viewing",
@@ -1258,8 +1254,7 @@
             "value" : "下載離線內容"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.fastForward" : {
       "comment" : "Use for fast-forwarding through content",
@@ -1510,8 +1505,7 @@
             "value" : "快轉"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.follow" : {
       "comment" : "Use when following a user or content creator",
@@ -1762,8 +1756,7 @@
             "value" : "關注"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.like" : {
       "comment" : "Use when liking content",
@@ -2014,8 +2007,7 @@
             "value" : "喜歡"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.link" : {
       "comment" : "Use when linking content to other platforms or services",
@@ -2266,8 +2258,7 @@
             "value" : "連結"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.loop" : {
       "comment" : "Use for looping content playback",
@@ -2518,8 +2509,7 @@
             "value" : "Loop"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.pin" : {
       "comment" : "Use when pinning content to a specific section or location",
@@ -2770,8 +2760,7 @@
             "value" : "釘選"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.queue" : {
       "comment" : "Use when managing a content queue",
@@ -3022,8 +3011,7 @@
             "value" : "排隊"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.rate" : {
       "comment" : "Use when rating content",
@@ -3274,8 +3262,7 @@
             "value" : "評分"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.rateContent" : {
       "comment" : "Use when rating specific content",
@@ -3526,8 +3513,7 @@
             "value" : "評價內容"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.recommend" : {
       "comment" : "Use when recommending content to others",
@@ -3778,8 +3764,7 @@
             "value" : "推薦"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.record" : {
       "comment" : "Use when starting to record content",
@@ -4030,8 +4015,7 @@
             "value" : "錄製"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.recordVideo" : {
       "comment" : "Use when recording a video",
@@ -4282,8 +4266,7 @@
             "value" : "錄製視頻"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.removeFromQueue" : {
       "comment" : "Use when removing content from the queue",
@@ -4534,8 +4517,7 @@
             "value" : "從隊列中移除"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.rewind" : {
       "comment" : "Use for rewinding content playback",
@@ -4786,8 +4768,7 @@
             "value" : "回帶"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.schedule" : {
       "comment" : "Use for scheduling content for later viewing or action",
@@ -5038,8 +5019,7 @@
             "value" : "時間表"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.shareStory" : {
       "comment" : "Use when sharing a story with others",
@@ -5290,8 +5270,7 @@
             "value" : "分享故事"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.shuffle" : {
       "comment" : "Use for shuffling content playback order",
@@ -5542,8 +5521,7 @@
             "value" : "隨機播放"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.skipIntro" : {
       "comment" : "Use for skipping introductory content or scenes",
@@ -5794,8 +5772,7 @@
             "value" : "跳過介紹"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.subscribe" : {
       "comment" : "Use when subscribing to a content feed or creator",
@@ -6046,8 +6023,7 @@
             "value" : "訂閱"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.trimVideo" : {
       "comment" : "Use for trimming video content",
@@ -6298,8 +6274,7 @@
             "value" : "剪輯影片"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.unfollow" : {
       "comment" : "Use when unfollowing a user or content creator",
@@ -6550,8 +6525,7 @@
             "value" : "取消關注"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.unlike" : {
       "comment" : "Use when unliking content",
@@ -6802,8 +6776,7 @@
             "value" : "不喜歡"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.unpin" : {
       "comment" : "Use when unpinning content from a section or location",
@@ -7054,8 +7027,7 @@
             "value" : "取消釘選"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.watch" : {
       "comment" : "Use for watching content",
@@ -7306,8 +7278,7 @@
             "value" : "Watch"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.watchLater" : {
       "comment" : "Use when saving content to watch later",
@@ -7558,8 +7529,7 @@
             "value" : "稍後觀看"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.actors" : {
       "comment" : "Use for the list of actors involved in content",
@@ -7810,8 +7780,7 @@
             "value" : "演員"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.album" : {
       "comment" : "Use for referring to a music album",
@@ -8062,8 +8031,7 @@
             "value" : "專輯"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.albums" : {
       "comment" : "Use for referring to multiple music albums",
@@ -8314,8 +8282,7 @@
             "value" : "相簿"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.artist" : {
       "comment" : "Use for referring to a music artist",
@@ -8566,8 +8533,7 @@
             "value" : "藝人"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.artists" : {
       "comment" : "Use for referring to multiple music artists",
@@ -8818,8 +8784,7 @@
             "value" : "藝人"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.audio" : {
       "comment" : "Use for referring to audio content or settings",
@@ -9070,8 +9035,7 @@
             "value" : "音訊"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.backgroundSounds" : {
       "comment" : "Use for referring to background sound settings",
@@ -9322,8 +9286,7 @@
             "value" : "背景聲音"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.bookmark" : {
       "comment" : "Use for saving a specific spot or item",
@@ -9574,8 +9537,7 @@
             "value" : "書籤"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.castAndCrew" : {
       "comment" : "Use for referring to the cast and crew of content",
@@ -9827,8 +9789,7 @@
             "value" : "演員表及製作人員"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.channel" : {
       "comment" : "Use for referring to a specific media channel",
@@ -10079,8 +10040,7 @@
             "value" : "頻道"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.channels" : {
       "comment" : "Use for referring to multiple media channels",
@@ -10331,8 +10291,7 @@
             "value" : "频道"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.comments" : {
       "comment" : "Use for referring to user comments or feedback",
@@ -10583,8 +10542,7 @@
             "value" : "評論"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.continueWatching" : {
       "comment" : "Use when resuming previously watched content",
@@ -10835,8 +10793,7 @@
             "value" : "繼續觀看"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.creator" : {
       "comment" : "Use for referring to the creator of content",
@@ -11087,8 +11044,7 @@
             "value" : "創作者"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.duration" : {
       "comment" : "Use for referring to the length of content",
@@ -11339,8 +11295,7 @@
             "value" : "持續時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.episode" : {
       "comment" : "Use for referring to a single episode of a series",
@@ -11591,8 +11546,7 @@
             "value" : "集數"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.episodes" : {
       "comment" : "Use for referring to multiple episodes of a series",
@@ -11843,8 +11797,7 @@
             "value" : "單集"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.favorites" : {
       "comment" : "Use for referring to a user's favorite content",
@@ -12095,8 +12048,7 @@
             "value" : "喜好項目"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.featured" : {
       "comment" : "Use for prominently displayed or recommended content",
@@ -12347,8 +12299,7 @@
             "value" : "精選"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.genre" : {
       "comment" : "Use for referring to a specific genre of content",
@@ -12599,8 +12550,7 @@
             "value" : "類型"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.genres" : {
       "comment" : "Use for referring to multiple genres of content",
@@ -12851,8 +12801,7 @@
             "value" : "類型"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.live" : {
       "comment" : "Use for referring to live-streamed content",
@@ -13103,8 +13052,7 @@
             "value" : "原況"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.media" : {
       "comment" : "Use for referring to general multimedia content",
@@ -13355,8 +13303,7 @@
             "value" : "媒體"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.playlist" : {
       "comment" : "Use for referring to a collection of media content",
@@ -13607,8 +13554,7 @@
             "value" : "播放列表"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.playlists" : {
       "comment" : "Use for referring to multiple playlists",
@@ -13859,8 +13805,7 @@
             "value" : "播放列表"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.popular" : {
       "comment" : "Use for referring to content that is popular among users",
@@ -14111,8 +14056,7 @@
             "value" : "熱門"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.queue" : {
       "comment" : "Use for referring to a list of upcoming content to be played",
@@ -14363,8 +14307,7 @@
             "value" : "佇列"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.rating" : {
       "comment" : "Use for referring to the rating of content",
@@ -14615,8 +14558,7 @@
             "value" : "年齡分級"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.releaseDate" : {
       "comment" : "Use for referring to the release date of content",
@@ -14867,8 +14809,7 @@
             "value" : "發行日期"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.runtime" : {
       "comment" : "Use for referring to the total duration of content",
@@ -15119,8 +15060,7 @@
             "value" : "運行時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.streaming" : {
       "comment" : "Use for referring to the process of streaming content",
@@ -15371,8 +15311,7 @@
             "value" : "串流"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.aNewVersionIsAvailableForStreamingDot" : {
       "comment" : "Notification about a new streaming version",
@@ -15624,8 +15563,7 @@
             "value" : "新版本可供串流播放。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.connectionTooSlowForStreamingDot" : {
       "comment" : "Notification when the internet connection is insufficient for streaming",
@@ -15877,8 +15815,7 @@
             "value" : "連接速度太慢，無法進行串流。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.contentNotAvailableInYourRegionDot" : {
       "comment" : "Notification when content is restricted by region",
@@ -16130,8 +16067,7 @@
             "value" : "此內容在你的地區無法獲取。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.downloadCompletedSuccessfullyDot" : {
       "comment" : "Confirmation message when a download finishes",
@@ -16383,8 +16319,7 @@
             "value" : "下載成功完成。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.freeTrialPeriodHasEndedDot" : {
       "comment" : "Notification when a free trial period ends",
@@ -16636,8 +16571,7 @@
             "value" : "免費試用期已結束。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.liveStreamHasEndedDot" : {
       "comment" : "Notification when a live stream ends",
@@ -16889,8 +16823,7 @@
             "value" : "直播已結束。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.newEpisodeAvailableDot" : {
       "comment" : "Notification when a new episode is available",
@@ -17142,8 +17075,7 @@
             "value" : "新一集可用。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.noMediaAvailableDot" : {
       "comment" : "Notification when no media is available for viewing",
@@ -17395,8 +17327,7 @@
             "value" : "沒有可用的媒體。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.playbackErrorOccurredDot" : {
       "comment" : "Error message during playback issues",
@@ -17648,8 +17579,7 @@
             "value" : "發生播放錯誤。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.premiumContentRequiresSubscriptionDot" : {
       "comment" : "Message about subscription requirement for premium content",
@@ -17901,8 +17831,7 @@
             "value" : "高級內容需要訂閱。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.subscriptionExpiredDot" : {
       "comment" : "Notification when a subscription has expired",
@@ -18154,8 +18083,7 @@
             "value" : "訂閱已過期。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.subscriptionRequiredToContinueDot" : {
       "comment" : "Message indicating a subscription is required to continue",
@@ -18407,8 +18335,7 @@
             "value" : "需要訂閱才能繼續。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.thisContentContainsMatureThemesDot" : {
       "comment" : "Warning about mature content",
@@ -18660,8 +18587,7 @@
             "value" : "此內容包含成熟主題。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.thisContentIsAvailableForSubscribersOnlyDot" : {
       "comment" : "Notification for subscriber-only content",
@@ -18913,8 +18839,7 @@
             "value" : "此內容僅對訂閱者可用。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.videoQualityLimitedOnMobileDataDot" : {
       "comment" : "Notification about limited video quality on mobile data",
@@ -19166,8 +19091,7 @@
             "value" : "在移動數據上視頻質量受到限制。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addACaptionDots" : {
       "comment" : "Placeholder for adding a caption",
@@ -19418,8 +19342,7 @@
             "value" : "新增說明…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.browsingCategoriesDots" : {
       "comment" : "Placeholder while browsing categories",
@@ -19670,8 +19593,7 @@
             "value" : "正在瀏覽類別…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.checkingSubscriptionStatusDots" : {
       "comment" : "Placeholder while checking subscription status",
@@ -19922,8 +19844,7 @@
             "value" : "正在檢查訂閱狀態…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.connectingToStreamDots" : {
       "comment" : "Placeholder while connecting to a stream",
@@ -20174,8 +20095,7 @@
             "value" : "正在連接到串流…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterAlbumNameDots" : {
       "comment" : "Placeholder for entering an album name",
@@ -20426,8 +20346,7 @@
             "value" : "輸入專輯名稱…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterWatchlistNameDots" : {
       "comment" : "Placeholder for entering a watchlist name",
@@ -20678,8 +20597,7 @@
             "value" : "輸入觀賞清單名稱…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.fastForwardingDots" : {
       "comment" : "Placeholder while fast-forwarding content",
@@ -20930,8 +20848,7 @@
             "value" : "快進中…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.filterResultsDots" : {
       "comment" : "Placeholder while filtering search results",
@@ -21182,8 +21099,7 @@
             "value" : "過濾結果…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.findingSimilarContentDots" : {
       "comment" : "Placeholder while finding similar content",
@@ -21434,8 +21350,7 @@
             "value" : "尋找相似內容…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.loadingCommentsDots" : {
       "comment" : "Placeholder while loading comments",
@@ -21686,8 +21601,7 @@
             "value" : "加載評論中..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.loadingNextEpisodeDots" : {
       "comment" : "Placeholder while loading the next episode",
@@ -21938,8 +21852,7 @@
             "value" : "加載下一集⋯"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.loadingRecommendationsDots" : {
       "comment" : "Placeholder while loading recommendations",
@@ -22190,8 +22103,7 @@
             "value" : "加載推薦中..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.loadingStreamDots" : {
       "comment" : "Placeholder while loading the stream",
@@ -22442,8 +22354,7 @@
             "value" : "加載串流中..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.loadingSubtitlesDots" : {
       "comment" : "Placeholder while loading subtitles",
@@ -22694,8 +22605,7 @@
             "value" : "加載字幕中..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.lookingForDevicesDots" : {
       "comment" : "Placeholder while searching for devices",
@@ -22946,8 +22856,7 @@
             "value" : "尋找設備…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.noMediaAvailableDots" : {
       "comment" : "Placeholder when no media is available",
@@ -23198,8 +23107,7 @@
             "value" : "沒有媒體可用…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.preparingDownloadDots" : {
       "comment" : "Placeholder while preparing a download",
@@ -23450,8 +23358,7 @@
             "value" : "準備下載…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.preparingStreamDots" : {
       "comment" : "Placeholder while preparing a stream",
@@ -23702,8 +23609,7 @@
             "value" : "準備串流…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.rewindingDots" : {
       "comment" : "Placeholder while rewinding content",
@@ -23954,8 +23860,7 @@
             "value" : "倒帶中…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchMoviesAndShowsDots" : {
       "comment" : "Placeholder for searching movies and shows",
@@ -24206,8 +24111,7 @@
             "value" : "搜索電影和節目…"
           }
         }
-      },
-      "proofread" : true
+      }
     }
   },
   "version" : "1.0"

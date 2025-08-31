@@ -250,8 +250,7 @@
             "value" : "分析"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.attachFile" : {
       "comment" : "Use for attaching a file to a report or record",
@@ -502,8 +501,7 @@
             "value" : "附加檔案"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.bookAppointment" : {
       "comment" : "Use for scheduling a medical appointment",
@@ -754,8 +752,7 @@
             "value" : "预约"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.compareResults" : {
       "comment" : "Use for comparing different medical results",
@@ -1006,8 +1003,7 @@
             "value" : "比較結果"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.contactDoctor" : {
       "comment" : "Use for initiating contact with a doctor",
@@ -1258,8 +1254,7 @@
             "value" : "聯絡醫生"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.contactSupport" : {
       "comment" : "Use for reaching out to customer support",
@@ -1510,8 +1505,7 @@
             "value" : "聯絡支援"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.deleteReport" : {
       "comment" : "Use for removing a medical report from the system",
@@ -1762,8 +1756,7 @@
             "value" : "刪除報告"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.diagnose" : {
       "comment" : "Use for diagnosing a medical condition",
@@ -2014,8 +2007,7 @@
             "value" : "診斷"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.exportData" : {
       "comment" : "Use for exporting medical data",
@@ -2266,8 +2258,7 @@
             "value" : "導出數據"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.exportPDF" : {
       "comment" : "Use for exporting a medical report as a PDF",
@@ -2518,8 +2509,7 @@
             "value" : "輸出為PDF"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.exportResults" : {
       "comment" : "Use for exporting medical test or analysis results",
@@ -2770,8 +2760,7 @@
             "value" : "導出結果"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.generateReport" : {
       "comment" : "Use for generating a medical report",
@@ -3022,8 +3011,7 @@
             "value" : "生成報告"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.importData" : {
       "comment" : "Use for importing medical data into the system",
@@ -3274,8 +3262,7 @@
             "value" : "導入數據"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.logMeasurement" : {
       "comment" : "Use for recording medical measurements",
@@ -3526,8 +3513,7 @@
             "value" : "记录测量"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.logSymptom" : {
       "comment" : "Use for documenting medical symptoms",
@@ -3778,8 +3764,7 @@
             "value" : "记录症状"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.markAsComplete" : {
       "comment" : "Use for marking a task or report as complete",
@@ -4030,8 +4015,7 @@
             "value" : "標記為完成"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.measure" : {
       "comment" : "Use for taking a medical measurement",
@@ -4282,8 +4266,7 @@
             "value" : "測距儀"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.monitor" : {
       "comment" : "Use for monitoring health conditions or progress",
@@ -4534,8 +4517,7 @@
             "value" : "监测"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.printReport" : {
       "comment" : "Use for printing a medical report",
@@ -4786,8 +4768,7 @@
             "value" : "列印報告"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.record" : {
       "comment" : "Use for recording medical data or information",
@@ -5038,8 +5019,7 @@
             "value" : "記錄"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.recordResult" : {
       "comment" : "Use for recording the result of a medical test",
@@ -5290,8 +5270,7 @@
             "value" : "記錄結果"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.recordValue" : {
       "comment" : "Use for recording a value from a medical measurement",
@@ -5542,8 +5521,7 @@
             "value" : "紀錄數值"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.requestAppointment" : {
       "comment" : "Use for requesting a medical appointment",
@@ -5794,8 +5772,7 @@
             "value" : "要求約見"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.requestData" : {
       "comment" : "Use for requesting medical data or records",
@@ -6046,8 +6023,7 @@
             "value" : "要求資料"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.requestRefill" : {
       "comment" : "Use for requesting a prescription refill",
@@ -6298,8 +6274,7 @@
             "value" : "要求補充處方"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.reviewResults" : {
       "comment" : "Use for reviewing medical test or analysis results",
@@ -6550,8 +6525,7 @@
             "value" : "檢閱結果"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.schedule" : {
       "comment" : "Use for scheduling a medical event or appointment",
@@ -6802,8 +6776,7 @@
             "value" : "時間表"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.scheduleAppointment" : {
       "comment" : "Use for scheduling a medical appointment",
@@ -7054,8 +7027,7 @@
             "value" : "安排約見"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.shareReport" : {
       "comment" : "Use for sharing a medical report",
@@ -7306,8 +7278,7 @@
             "value" : "分享報告"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.shareResults" : {
       "comment" : "Use for sharing the results of a medical test or analysis",
@@ -7558,8 +7529,7 @@
             "value" : "分享結果"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.startMeasurement" : {
       "comment" : "Use for starting a measurement process",
@@ -7810,8 +7780,7 @@
             "value" : "開始測量"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.startRecording" : {
       "comment" : "Use for starting a recording session for data",
@@ -8062,8 +8031,7 @@
             "value" : "開始錄音"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.submitReport" : {
       "comment" : "Use for submitting a medical report",
@@ -8314,8 +8282,7 @@
             "value" : "提交報告"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.takeReading" : {
       "comment" : "Use for taking a reading, such as blood pressure or temperature",
@@ -8566,8 +8533,7 @@
             "value" : "進行讀取"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.track" : {
       "comment" : "Use for tracking medical conditions or health metrics",
@@ -8818,8 +8784,7 @@
             "value" : "Track"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.verifyReading" : {
       "comment" : "Use for verifying the accuracy of a medical reading",
@@ -9070,8 +9035,7 @@
             "value" : "驗證讀數"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.address" : {
       "comment" : "Use for labeling address fields",
@@ -9322,8 +9286,7 @@
             "value" : "地址"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.age" : {
       "comment" : "Use for labeling age-related information",
@@ -9574,8 +9537,7 @@
             "value" : "年齡"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.allergies" : {
       "comment" : "Use for labeling allergy information",
@@ -9826,8 +9788,7 @@
             "value" : "過敏"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.appointments" : {
       "comment" : "Use for listing medical appointments",
@@ -10078,8 +10039,7 @@
             "value" : "約會"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.bloodPressure" : {
       "comment" : "Use for tracking blood pressure readings",
@@ -10330,8 +10290,7 @@
             "value" : "血压"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.bloodSugar" : {
       "comment" : "Use for tracking blood sugar levels",
@@ -10582,8 +10541,7 @@
             "value" : "血糖"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.bodyTemperature" : {
       "comment" : "Use for recording body temperature readings",
@@ -10834,8 +10792,7 @@
             "value" : "体温"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.diagnosis" : {
       "comment" : "Use for labeling a diagnosis",
@@ -11086,8 +11043,7 @@
             "value" : "診斷"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.doctor" : {
       "comment" : "Use for referring to a healthcare professional",
@@ -11338,8 +11294,7 @@
             "value" : "醫生"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.documentation" : {
       "comment" : "Use for referring to medical documentation",
@@ -11590,8 +11545,7 @@
             "value" : "文檔"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.dosage" : {
       "comment" : "Use for referring to prescribed medication dosage",
@@ -11842,8 +11796,7 @@
             "value" : "劑量"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.emergencyContact" : {
       "comment" : "Use for labeling emergency contact information",
@@ -12094,8 +12047,7 @@
             "value" : "緊急聯絡人"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.expirationDate" : {
       "comment" : "Use for labeling medication expiration dates",
@@ -12346,8 +12298,7 @@
             "value" : "到期日"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.gender" : {
       "comment" : "Use for labeling gender information",
@@ -12598,8 +12549,7 @@
             "value" : "性別"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.heartRate" : {
       "comment" : "Use for tracking heart rate readings",
@@ -12850,8 +12800,7 @@
             "value" : "心率"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.hospital" : {
       "comment" : "Use for labeling hospital or medical facility information",
@@ -13102,8 +13051,7 @@
             "value" : "醫院"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.id" : {
       "comment" : "Use for labeling identification information",
@@ -13354,8 +13302,7 @@
             "value" : "識別碼"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.insurance" : {
       "comment" : "Use for referring to insurance details",
@@ -13606,8 +13553,7 @@
             "value" : "保險"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.labResults" : {
       "comment" : "Use for referring to laboratory test results",
@@ -13858,8 +13804,7 @@
             "value" : "檢驗結果"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.measurement" : {
       "comment" : "Use for referring to medical measurements",
@@ -14110,8 +14055,7 @@
             "value" : "測量"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.medicalHistory" : {
       "comment" : "Use for referring to a patient's medical history",
@@ -14362,8 +14306,7 @@
             "value" : "病歷"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.medication" : {
       "comment" : "Use for referring to prescribed medications",
@@ -14614,8 +14557,7 @@
             "value" : "藥物"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.name" : {
       "comment" : "Use for labeling name fields",
@@ -14866,8 +14808,7 @@
             "value" : "名稱"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.patient" : {
       "comment" : "Use for referring to a patient",
@@ -15118,8 +15059,7 @@
             "value" : "病人"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.pharmacy" : {
       "comment" : "Use for labeling pharmacy or prescription information",
@@ -15370,8 +15310,7 @@
             "value" : "藥房"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.prescription" : {
       "comment" : "Use for referring to a medical prescription",
@@ -15622,8 +15561,7 @@
             "value" : "處方"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.provider" : {
       "comment" : "Use for referring to a healthcare provider",
@@ -15874,8 +15812,7 @@
             "value" : "提供者"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.pulse" : {
       "comment" : "Use for tracking pulse rate",
@@ -16126,8 +16063,7 @@
             "value" : "脈搏"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.results" : {
       "comment" : "Use for referring to medical test or report results",
@@ -16378,8 +16314,7 @@
             "value" : "結果"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.symptoms" : {
       "comment" : "Use for referring to symptoms reported by the patient",
@@ -16630,8 +16565,7 @@
             "value" : "症狀"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.treatment" : {
       "comment" : "Use for referring to medical treatment options",
@@ -16882,8 +16816,7 @@
             "value" : "治療"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.abnormalReadingDetectedDot" : {
       "comment" : "Use to notify of an abnormal medical reading",
@@ -17135,8 +17068,7 @@
             "value" : "檢測到異常讀數。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.appointmentBookingConfirmedDot" : {
       "comment" : "Use to confirm appointment booking",
@@ -17388,8 +17320,7 @@
             "value" : "預約已確認。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.appointmentConfirmedDot" : {
       "comment" : "Confirmation that an appointment is scheduled",
@@ -17641,8 +17572,7 @@
             "value" : "你的預約已經確認。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.contactEmergencyServicesImmediatelyDot" : {
       "comment" : "Urgent message to contact emergency services",
@@ -17894,8 +17824,7 @@
             "value" : "請立即聯絡緊急服務。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.dataSuccessfullyUploadedDot" : {
       "comment" : "Confirmation of data upload to a provider",
@@ -18147,8 +18076,7 @@
             "value" : "數據已成功上傳到您的醫療提供者。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.documentSuccessfullyUploadedDot" : {
       "comment" : "Confirmation that a document has been uploaded to records",
@@ -18400,8 +18328,7 @@
             "value" : "文件已成功上傳到您的記錄。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.emergencyContactNotifiedDot" : {
       "comment" : "Notification that emergency contact has been alerted",
@@ -18653,8 +18580,7 @@
             "value" : "緊急聯絡人已獲通知。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.labResultsAvailableDot" : {
       "comment" : "Notification that lab results are ready",
@@ -18906,8 +18832,7 @@
             "value" : "化驗結果現在可用。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.measurementCompleteDot" : {
       "comment" : "Confirmation that a measurement has been completed",
@@ -19159,8 +19084,7 @@
             "value" : "測量已完成。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.medicalHistoryUpdatedDot" : {
       "comment" : "Confirmation that medical history has been updated",
@@ -19412,8 +19336,7 @@
             "value" : "病歷已更新。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.reminderTakeMedicationDot" : {
       "comment" : "Reminder to take prescribed medication",
@@ -19665,8 +19588,7 @@
             "value" : "提醒：請按時服藥。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.reportSentToDoctorDot" : {
       "comment" : "Confirmation that a report has been sent to the doctor",
@@ -19918,8 +19840,7 @@
             "value" : "報告已發送至您的醫生。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.resultsSavedDot" : {
       "comment" : "Confirmation that results have been stored",
@@ -20171,8 +20092,7 @@
             "value" : "結果已儲存。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.testCompletedSuccessfullyDot" : {
       "comment" : "Confirmation that a medical test was successful",
@@ -20424,8 +20344,7 @@
             "value" : "測試已成功完成。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.timeForNextDoseDot" : {
       "comment" : "Reminder for the next medication dose",
@@ -20677,8 +20596,7 @@
             "value" : "需要進行下一劑的時間。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addSymptomsDots" : {
       "comment" : "Placeholder for entering symptoms",
@@ -20929,8 +20847,7 @@
             "value" : "添加症狀…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.bloodPressureReadingDots" : {
       "comment" : "Placeholder for entering a blood pressure reading",
@@ -21181,8 +21098,7 @@
             "value" : "血壓讀數…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.bodyTemperatureDots" : {
       "comment" : "Placeholder for entering body temperature",
@@ -21433,8 +21349,7 @@
             "value" : "體溫…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.describeSymptomsDots" : {
       "comment" : "Placeholder for describing symptoms",
@@ -21685,8 +21600,7 @@
             "value" : "描述症狀…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.doctorsNameDots" : {
       "comment" : "Placeholder for entering the doctor's name",
@@ -21937,8 +21851,7 @@
             "value" : "醫生姓名…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterAllergiesDots" : {
       "comment" : "Placeholder for entering allergies",
@@ -22189,8 +22102,7 @@
             "value" : "輸入過敏症狀…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterBloodSugarLevelDots" : {
       "comment" : "Placeholder for entering blood sugar level",
@@ -22441,8 +22353,7 @@
             "value" : "輸入血糖水平…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterDiagnosisDots" : {
       "comment" : "Placeholder for entering a diagnosis",
@@ -22693,8 +22604,7 @@
             "value" : "輸入診斷…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterEmergencyContactDots" : {
       "comment" : "Placeholder for entering emergency contact details",
@@ -22945,8 +22855,7 @@
             "value" : "輸入緊急聯絡人…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterMedicalHistoryDots" : {
       "comment" : "Placeholder for entering medical history",
@@ -23197,8 +23106,7 @@
             "value" : "輸入病歷…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterMedicationNameDots" : {
       "comment" : "Placeholder for entering medication name",
@@ -23449,8 +23357,7 @@
             "value" : "輸入藥物名稱…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterPatientIDDots" : {
       "comment" : "Placeholder for entering patient ID",
@@ -23701,8 +23608,7 @@
             "value" : "輸入病人 ID…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterPharmacyDetailsDots" : {
       "comment" : "Placeholder for entering pharmacy details",
@@ -23953,8 +23859,7 @@
             "value" : "輸入藥房詳情…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterPrescriptionNumberDots" : {
       "comment" : "Placeholder for entering prescription number",
@@ -24205,8 +24110,7 @@
             "value" : "輸入處方號…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterProviderNameDots" : {
       "comment" : "Placeholder for entering healthcare provider's name",
@@ -24457,8 +24361,7 @@
             "value" : "輸入提供者名稱…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterSymptomsDots" : {
       "comment" : "Placeholder for entering symptoms",
@@ -24709,8 +24612,7 @@
             "value" : "輸入症狀…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterTreatmentNotesDots" : {
       "comment" : "Placeholder for entering treatment notes",
@@ -24961,8 +24863,7 @@
             "value" : "輸入治療記錄…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.heartRateDots" : {
       "comment" : "Placeholder for entering heart rate reading",
@@ -25213,8 +25114,7 @@
             "value" : "心率…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.insuranceIDDots" : {
       "comment" : "Placeholder for entering insurance ID",
@@ -25465,8 +25365,7 @@
             "value" : "保險證號..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.patientNameDots" : {
       "comment" : "Placeholder for entering patient's name",
@@ -25717,8 +25616,7 @@
             "value" : "病人姓名…"
           }
         }
-      },
-      "proofread" : true
+      }
     }
   },
   "version" : "1.0"

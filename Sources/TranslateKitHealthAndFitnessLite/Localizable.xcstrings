@@ -251,8 +251,7 @@
             "value" : "成就解鎖!"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "activeMinutesGoalReachedDot" : {
       "comment" : "Message when the user reaches their active minutes goal",
@@ -504,8 +503,7 @@
             "value" : "活跃分钟数目标已达成！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "almostThereDot" : {
       "comment" : "Motivational message indicating progress towards a goal",
@@ -757,8 +755,7 @@
             "value" : "快到了！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "breatheDeeplyAndRelaxDot" : {
       "comment" : "Message encouraging relaxation during exercise",
@@ -1010,8 +1007,7 @@
             "value" : "深呼吸放鬆。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "congratulationsOnCompletingWorkoutDot" : {
       "comment" : "Message congratulating the user on completing a workout",
@@ -1263,8 +1259,7 @@
             "value" : "恭喜你完成你的鍛煉！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "dailyGoalAchievedDot" : {
       "comment" : "Message when a user successfully reaches their daily goal",
@@ -1516,8 +1511,7 @@
             "value" : "每日目標已達成！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "dailyStepGoalAchievedDot" : {
       "comment" : "Message when the user achieves their daily step goal",
@@ -1769,8 +1763,7 @@
             "value" : "每日步數目標已達成！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "dailyStreakAchievedDot" : {
       "comment" : "Confirmation of maintaining a daily streak",
@@ -2022,8 +2015,7 @@
             "value" : "每日連續達成！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "drinkWaterToStayHydratedDot" : {
       "comment" : "Reminder to drink water",
@@ -2275,8 +2267,7 @@
             "value" : "記得喝水保持水分。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "getReadyForWorkoutDot" : {
       "comment" : "Message encouraging the user to prepare for their workout",
@@ -2528,8 +2519,7 @@
             "value" : "準備好開始你的鍛煉。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "greatJobStayingActiveDot" : {
       "comment" : "Positive reinforcement for staying active",
@@ -2781,8 +2771,7 @@
             "value" : "今天保持活躍做得好！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "itsTimeForYourWorkoutDot" : {
       "comment" : "Reminder that it’s time to start the workout",
@@ -3034,8 +3023,7 @@
             "value" : "是時候開始你的鍛煉了。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "keepUpTheGreatWorkDot" : {
       "comment" : "Motivational message to encourage continued effort",
@@ -3287,8 +3275,7 @@
             "value" : "繼續保持出色的表現！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "maintainProperFormDot" : {
       "comment" : "Message reminding the user to focus on form",
@@ -3540,8 +3527,7 @@
             "value" : "在鍛煉期間保持正確的姿勢。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "timeToDrinkSomeWaterDot" : {
       "comment" : "Reminder to hydrate",
@@ -3793,8 +3779,7 @@
             "value" : "是時候喝水了！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "timeToGetActiveDot" : {
       "comment" : "Encouragement to start exercising",
@@ -4046,8 +4031,7 @@
             "value" : "是時候開始活動了！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.addMeasurement" : {
       "comment" : "Use when adding a new measurement (e.g., weight, blood pressure)",
@@ -4298,8 +4282,7 @@
             "value" : "添加测量"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.addPhoto" : {
       "comment" : "Use when adding a photo (e.g., fitness progress picture)",
@@ -4550,8 +4533,7 @@
             "value" : "加入相片"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.addWorkout" : {
       "comment" : "Use when adding a new workout session",
@@ -4802,8 +4784,7 @@
             "value" : "添加健身"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.beginWorkout" : {
       "comment" : "Use when starting a workout session",
@@ -5054,8 +5035,7 @@
             "value" : "开始健身"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.cancelWorkout" : {
       "comment" : "Use when canceling a workout session",
@@ -5306,8 +5286,7 @@
             "value" : "取消健身"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.complete" : {
       "comment" : "Use when marking a task or workout as complete",
@@ -5558,8 +5537,7 @@
             "value" : "完成"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.createTask" : {
       "comment" : "Use when creating a new health or fitness task",
@@ -5810,8 +5788,7 @@
             "value" : "創建任務"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.endExercise" : {
       "comment" : "Use when ending a specific exercise",
@@ -6062,8 +6039,7 @@
             "value" : "結束運動"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.endWorkout" : {
       "comment" : "Use when finishing a workout session",
@@ -6314,8 +6290,7 @@
             "value" : "結束健身"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.enterWeight" : {
       "comment" : "Use when inputting weight data",
@@ -6566,8 +6541,7 @@
             "value" : "輸入體重"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.generateReport" : {
       "comment" : "Use when generating a fitness or health progress report",
@@ -6818,8 +6792,7 @@
             "value" : "生成報告"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.joinChallenge" : {
       "comment" : "Use when joining a fitness challenge",
@@ -7070,8 +7043,7 @@
             "value" : "參加挑戰"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.logMeal" : {
       "comment" : "Use when logging a meal",
@@ -7322,8 +7294,7 @@
             "value" : "記錄餐食"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.logWater" : {
       "comment" : "Use when logging water intake",
@@ -7574,8 +7545,7 @@
             "value" : "记录水分摄入"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.markComplete" : {
       "comment" : "Use when marking a workout or task as completed",
@@ -7826,8 +7796,7 @@
             "value" : "標記完成"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.measure" : {
       "comment" : "Use when measuring health data (e.g., heart rate, steps)",
@@ -8078,8 +8047,7 @@
             "value" : "測距儀"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.meditate" : {
       "comment" : "Use when starting a meditation session",
@@ -8330,8 +8298,7 @@
             "value" : "冥想"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.monitor" : {
       "comment" : "Use when monitoring health or fitness progress",
@@ -8582,8 +8549,7 @@
             "value" : "监测"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.pauseWorkout" : {
       "comment" : "Use when pausing a workout session",
@@ -8834,8 +8800,7 @@
             "value" : "暫停訓練"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.record" : {
       "comment" : "Use when recording an exercise or workout session",
@@ -9086,8 +9051,7 @@
             "value" : "記錄"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.repeatExercise" : {
       "comment" : "Use when repeating an exercise in a workout",
@@ -9338,8 +9302,7 @@
             "value" : "重複練習"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.reportIssue" : {
       "comment" : "Use when reporting an issue with health or fitness tracking",
@@ -9590,8 +9553,7 @@
             "value" : "舉報問題"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.requestAccess" : {
       "comment" : "Use when requesting access to health data or features",
@@ -9842,8 +9804,7 @@
             "value" : "請求訪問"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.resetProgress" : {
       "comment" : "Use when resetting health or fitness progress",
@@ -10094,8 +10055,7 @@
             "value" : "重置進度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.resumeWorkout" : {
       "comment" : "Use when resuming a paused workout",
@@ -10346,8 +10306,7 @@
             "value" : "恢復鍛煉"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.reviewProgress" : {
       "comment" : "Use when reviewing fitness or health progress",
@@ -10598,8 +10557,7 @@
             "value" : "檢閱進度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.saveVideo" : {
       "comment" : "Use when saving a workout or fitness video",
@@ -10850,8 +10808,7 @@
             "value" : "儲存影片"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.setGoal" : {
       "comment" : "Use when setting a health or fitness goal",
@@ -11102,8 +11059,7 @@
             "value" : "設定目標"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.setReminder" : {
       "comment" : "Use when setting a health or fitness reminder",
@@ -11354,8 +11310,7 @@
             "value" : "設定提醒"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.skipExercise" : {
       "comment" : "Use when skipping an exercise in a workout",
@@ -11606,8 +11561,7 @@
             "value" : "跳過練習"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.startExercise" : {
       "comment" : "Use when starting a specific exercise",
@@ -11858,8 +11812,7 @@
             "value" : "開始運動"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.startWorkout" : {
       "comment" : "Use when starting a workout session",
@@ -12110,8 +12063,7 @@
             "value" : "開始鍛煉"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.stopExercise" : {
       "comment" : "Use when stopping a specific exercise",
@@ -12362,8 +12314,7 @@
             "value" : "停止練習"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.trackCalories" : {
       "comment" : "Use when tracking calories burned or consumed",
@@ -12614,8 +12565,7 @@
             "value" : "追蹤卡路里"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.trackSleep" : {
       "comment" : "Use when tracking sleep patterns or duration",
@@ -12866,8 +12816,7 @@
             "value" : "追蹤睡眠"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.trackWeight" : {
       "comment" : "Use when tracking weight progress",
@@ -13118,8 +13067,7 @@
             "value" : "追踪體重"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.activeCalories" : {
       "comment" : "Use when displaying the number of calories burned through activity",
@@ -13370,8 +13318,7 @@
             "value" : "活動卡路里"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.activeMinutes" : {
       "comment" : "Use when displaying the amount of time spent in physical activity",
@@ -13622,8 +13569,7 @@
             "value" : "活躍分鐘數"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.activityLevel" : {
       "comment" : "Use when showing the intensity of physical activity",
@@ -13874,8 +13820,7 @@
             "value" : "活動水平"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.age" : {
       "comment" : "Use when displaying the user's age",
@@ -14126,8 +14071,7 @@
             "value" : "年齡"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.averagePace" : {
       "comment" : "Use when displaying the user's average speed during an exercise",
@@ -14378,8 +14322,7 @@
             "value" : "平均配速"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.bloodPressure" : {
       "comment" : "Use when displaying a user's blood pressure data",
@@ -14630,8 +14573,7 @@
             "value" : "血压"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.bodyFat" : {
       "comment" : "Use when displaying the percentage of body fat",
@@ -14882,8 +14824,7 @@
             "value" : "体脂肪"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.bodyMassIndex" : {
       "comment" : "Use when displaying the user's BMI",
@@ -15135,8 +15076,7 @@
             "value" : "身體質量指數 (BMI)"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.bodyWeight" : {
       "comment" : "Use when displaying the user's body weight",
@@ -15387,8 +15327,7 @@
             "value" : "体重"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.breathingRate" : {
       "comment" : "Use when displaying the user's breathing rate (breaths per minute)",
@@ -15639,8 +15578,7 @@
             "value" : "呼吸速率"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.caloriesBurned" : {
       "comment" : "Use when showing the total calories burned during an exercise",
@@ -15891,8 +15829,7 @@
             "value" : "已燃燒卡路里"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.cardioFitness" : {
       "comment" : "Use when displaying the user's cardiovascular fitness level",
@@ -16143,8 +16080,7 @@
             "value" : "心適能"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.currentHeartRate" : {
       "comment" : "Use when showing the user's current heart rate",
@@ -16395,8 +16331,7 @@
             "value" : "當前心率"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.dailyGoal" : {
       "comment" : "Use when displaying the user's health or fitness goal for the day",
@@ -16647,8 +16582,7 @@
             "value" : "每日目標"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.distance" : {
       "comment" : "Use when showing the total distance traveled during an exercise",
@@ -16899,8 +16833,7 @@
             "value" : "距離"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.duration" : {
       "comment" : "Use when displaying the total time spent on an activity or exercise",
@@ -17151,8 +17084,7 @@
             "value" : "持續時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.exerciseType" : {
       "comment" : "Use when displaying the type of exercise (e.g., running, swimming)",
@@ -17403,8 +17335,7 @@
             "value" : "運動類型"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.heartRate" : {
       "comment" : "Use when displaying the user's heart rate",
@@ -17655,8 +17586,7 @@
             "value" : "心率"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.height" : {
       "comment" : "Use when displaying the user's height",
@@ -17907,8 +17837,7 @@
             "value" : "身高"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.hydration" : {
       "comment" : "Use when displaying the user's hydration status or water intake",
@@ -18159,8 +18088,7 @@
             "value" : "水分補充"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.intensityLevel" : {
       "comment" : "Use when displaying the intensity level of an exercise",
@@ -18411,8 +18339,7 @@
             "value" : "強度級別"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.maximumHeartRate" : {
       "comment" : "Use when displaying the user's maximum heart rate",
@@ -18663,8 +18590,7 @@
             "value" : "最大心率"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.measurements" : {
       "comment" : "Use when referring to health measurements (e.g., weight, heart rate)",
@@ -18915,8 +18841,7 @@
             "value" : "測量值"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.meditationTime" : {
       "comment" : "Use when displaying the total time spent meditating",
@@ -19167,8 +19092,7 @@
             "value" : "冥想時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.progress" : {
       "comment" : "Use when showing the user's progress towards their health or fitness goals",
@@ -19419,8 +19343,7 @@
             "value" : "進度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.sleepDuration" : {
       "comment" : "Use when displaying the total duration of sleep",
@@ -19671,8 +19594,7 @@
             "value" : "睡眠時長"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.sleepQuality" : {
       "comment" : "Use when displaying the quality of the user's sleep",
@@ -19923,8 +19845,7 @@
             "value" : "睡眠質素"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.steps" : {
       "comment" : "Use when displaying the number of steps taken by the user",
@@ -20175,8 +20096,7 @@
             "value" : "步數"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.targetHeartRate" : {
       "comment" : "Use when displaying the user's target heart rate",
@@ -20427,8 +20347,7 @@
             "value" : "目標心率"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.workoutDuration" : {
       "comment" : "Use when displaying the total time spent on a workout",
@@ -20679,8 +20598,7 @@
             "value" : "鍛煉持續時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addWorkoutDetailsDots" : {
       "comment" : "Placeholder for entering workout details",
@@ -20931,8 +20849,7 @@
             "value" : "添加健身詳情…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.analyzingWorkoutDots" : {
       "comment" : "Placeholder for analyzing workout data",
@@ -21183,8 +21100,7 @@
             "value" : "正在分析健身數據…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.calculatingCaloriesDots" : {
       "comment" : "Placeholder for calculating calories burned",
@@ -21435,8 +21351,7 @@
             "value" : "正在計算卡路里…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterActivityTypeDots" : {
       "comment" : "Placeholder for entering the type of activity",
@@ -21687,8 +21602,7 @@
             "value" : "輸入活動類型…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterCurrentWeightDots" : {
       "comment" : "Placeholder for entering current weight",
@@ -21939,8 +21853,7 @@
             "value" : "輸入當前體重…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterDailyStepGoalDots" : {
       "comment" : "Placeholder for entering daily step goal",
@@ -22191,8 +22104,7 @@
             "value" : "輸入每日步行目標…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterExerciseDurationDots" : {
       "comment" : "Placeholder for entering exercise duration",
@@ -22443,8 +22355,7 @@
             "value" : "輸入運動持續時間…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterHeartRateDots" : {
       "comment" : "Placeholder for entering heart rate",
@@ -22695,8 +22606,7 @@
             "value" : "輸入心率…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterHeightDots" : {
       "comment" : "Placeholder for entering height",
@@ -22947,8 +22857,7 @@
             "value" : "輸入身高…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterMealDetailsDots" : {
       "comment" : "Placeholder for entering meal information",
@@ -23199,8 +23108,7 @@
             "value" : "輸入餐點詳情…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterRepsDots" : {
       "comment" : "Placeholder for entering the number of repetitions",
@@ -23451,8 +23359,7 @@
             "value" : "輸入重複次數…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterSetsDots" : {
       "comment" : "Placeholder for entering the number of sets",
@@ -23703,8 +23610,7 @@
             "value" : "輸入組數…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterTargetWeightDots" : {
       "comment" : "Placeholder for entering target weight",
@@ -23955,8 +23861,7 @@
             "value" : "輸入目標體重…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterWaterAmountDots" : {
       "comment" : "Placeholder for entering water intake amount",
@@ -24207,8 +24112,7 @@
             "value" : "輸入水量…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterWorkoutDurationDots" : {
       "comment" : "Placeholder for entering workout duration",
@@ -24459,8 +24363,7 @@
             "value" : "輸入運動持續時間…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.findAnExerciseDots" : {
       "comment" : "Placeholder for searching an exercise",
@@ -24711,8 +24614,7 @@
             "value" : "找一個練習…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.logYourMealDots" : {
       "comment" : "Placeholder for logging a meal",
@@ -24963,8 +24865,7 @@
             "value" : "記錄你的餐點…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.recordingWorkoutDots" : {
       "comment" : "Placeholder for recording a workout session",
@@ -25215,8 +25116,7 @@
             "value" : "錄製運動…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.setAFitnessGoalDots" : {
       "comment" : "Placeholder for setting a fitness goal",
@@ -25467,8 +25367,7 @@
             "value" : "設置健身目標…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.trackingStepsDots" : {
       "comment" : "Placeholder for tracking the number of steps",
@@ -25719,8 +25618,7 @@
             "value" : "追蹤步數…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "wellDoneOnMeetingGoalDot" : {
       "comment" : "Congratulations for achieving a goal",
@@ -25972,8 +25870,7 @@
             "value" : "恭喜達成你的目標！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "workoutCompleteDot" : {
       "comment" : "Confirmation when a workout is finished",
@@ -26225,8 +26122,7 @@
             "value" : "訓練完成！"
           }
         }
-      },
-      "proofread" : true
+      }
     }
   },
   "version" : "1.0"

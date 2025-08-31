@@ -250,8 +250,7 @@
             "value" : "新增帳戶"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.addBankAccount" : {
       "comment" : "Use for adding a bank account",
@@ -502,8 +501,7 @@
             "value" : "新增銀行帳戶"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.addCard" : {
       "comment" : "Use for adding a payment card",
@@ -754,8 +752,7 @@
             "value" : "新增卡片"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.applyCoupon" : {
       "comment" : "Use for applying a discount coupon",
@@ -1006,8 +1003,7 @@
             "value" : "應用優惠券"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.applyFilter" : {
       "comment" : "Use for applying a filter to content",
@@ -1258,8 +1254,7 @@
             "value" : "套用過濾器"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.backupData" : {
       "comment" : "Use for backing up data",
@@ -1510,8 +1505,7 @@
             "value" : "備份數據"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.buy" : {
       "comment" : "Use for purchasing an item or service",
@@ -1762,8 +1756,7 @@
             "value" : "購買"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.buyNow" : {
       "comment" : "Use for immediate purchase of an item",
@@ -2014,8 +2007,7 @@
             "value" : "立即購買"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.convertCurrency" : {
       "comment" : "Use for converting one currency to another",
@@ -2266,8 +2258,7 @@
             "value" : "兌換貨幣"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.deposit" : {
       "comment" : "Use for adding funds to an account",
@@ -2518,8 +2509,7 @@
             "value" : "存款"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.exportPDF" : {
       "comment" : "Use for exporting data as a PDF",
@@ -2770,8 +2760,7 @@
             "value" : "輸出為PDF"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.generateInvoice" : {
       "comment" : "Use for generating an invoice",
@@ -3022,8 +3011,7 @@
             "value" : "生成發票"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.generateReport" : {
       "comment" : "Use for generating a report",
@@ -3274,8 +3262,7 @@
             "value" : "生成報告"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.importData" : {
       "comment" : "Use for importing data into the system",
@@ -3526,8 +3513,7 @@
             "value" : "導入數據"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.invest" : {
       "comment" : "Use for investing in assets",
@@ -3778,8 +3764,7 @@
             "value" : "投資"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.linkCard" : {
       "comment" : "Use for linking a payment card",
@@ -4030,8 +4015,7 @@
             "value" : "綁定卡片"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.pay" : {
       "comment" : "Use for making a payment",
@@ -4282,8 +4266,7 @@
             "value" : "付款"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.payBill" : {
       "comment" : "Use for paying a bill",
@@ -4534,8 +4517,7 @@
             "value" : "繳交帳單"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.payNow" : {
       "comment" : "Use for making an immediate payment",
@@ -4786,8 +4768,7 @@
             "value" : "立即支付"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.printStatement" : {
       "comment" : "Use for printing a financial statement",
@@ -5038,8 +5019,7 @@
             "value" : "列印聲明"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.proceedToCheckout" : {
       "comment" : "Use for advancing to the payment step",
@@ -5290,8 +5270,7 @@
             "value" : "繼續結帳"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.requestMoney" : {
       "comment" : "Use for requesting money from someone",
@@ -5542,8 +5521,7 @@
             "value" : "請求付款"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.saveToFavorites" : {
       "comment" : "Use for saving an item to favorites",
@@ -5794,8 +5772,7 @@
             "value" : "保存到收藏夾"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.schedulePayment" : {
       "comment" : "Use for scheduling a future payment",
@@ -6046,8 +6023,7 @@
             "value" : "安排付款"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.sendMoney" : {
       "comment" : "Use for transferring money to someone",
@@ -6298,8 +6274,7 @@
             "value" : "發送金錢"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.setUpDirectDeposit" : {
       "comment" : "Use for setting up direct deposit",
@@ -6550,8 +6525,7 @@
             "value" : "設定直接存款"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.splitBill" : {
       "comment" : "Use for splitting a bill with others",
@@ -6802,8 +6776,7 @@
             "value" : "平分帳單"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.subscribe" : {
       "comment" : "Use for subscribing to a service or plan",
@@ -7054,8 +7027,7 @@
             "value" : "訂閱"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.transfer" : {
       "comment" : "Use for transferring funds between accounts",
@@ -7306,8 +7278,7 @@
             "value" : "轉帳"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.updateNow" : {
       "comment" : "Use for updating to the latest version",
@@ -7558,8 +7529,7 @@
             "value" : "立即更新"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.verifyAccount" : {
       "comment" : "Use for verifying the user's account",
@@ -7810,8 +7780,7 @@
             "value" : "驗證賬戶"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.viewStatement" : {
       "comment" : "Use for viewing financial statements",
@@ -8062,8 +8031,7 @@
             "value" : "查看對帳單"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.withdraw" : {
       "comment" : "Use for withdrawing funds from an account",
@@ -8314,8 +8282,7 @@
             "value" : "提取"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.accountNumber" : {
       "comment" : "Use for labeling the account number field",
@@ -8566,8 +8533,7 @@
             "value" : "賬號"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.accountRecovery" : {
       "comment" : "Use for labeling account recovery options",
@@ -8818,8 +8784,7 @@
             "value" : "帳户還原"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.amount" : {
       "comment" : "Use for displaying a numerical value such as price or quantity",
@@ -9070,8 +9035,7 @@
             "value" : "金額"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.assets" : {
       "comment" : "Use for displaying assets owned or managed",
@@ -9322,8 +9286,7 @@
             "value" : "资产"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.availableFunds" : {
       "comment" : "Use for showing available money in an account",
@@ -9574,8 +9537,7 @@
             "value" : "可用資金"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.balance" : {
       "comment" : "Use for displaying the balance of an account",
@@ -9826,8 +9788,7 @@
             "value" : "餘額"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.bank" : {
       "comment" : "Use for referring to a financial institution",
@@ -10078,8 +10039,7 @@
             "value" : "Bank"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.billingStatus" : {
       "comment" : "Use for displaying the status of billing or payments",
@@ -10330,8 +10290,7 @@
             "value" : "帳單狀態"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.budget" : {
       "comment" : "Use for referring to a financial budget or plan",
@@ -10582,8 +10541,7 @@
             "value" : "预算"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.cardDetails" : {
       "comment" : "Use for displaying information about a payment card",
@@ -10834,8 +10792,7 @@
             "value" : "卡的詳細資料"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.cardNumber" : {
       "comment" : "Use for labeling the card number field",
@@ -11086,8 +11043,7 @@
             "value" : "卡號"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.creditCard" : {
       "comment" : "Use for referring to a credit card",
@@ -11338,8 +11294,7 @@
             "value" : "信用卡"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.creditLimit" : {
       "comment" : "Use for displaying the credit limit of a card",
@@ -11590,8 +11545,7 @@
             "value" : "信用額度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.currency" : {
       "comment" : "Use for referring to the type of money or currency",
@@ -11842,8 +11796,7 @@
             "value" : "貨幣"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.dueDate" : {
       "comment" : "Use for displaying the due date for payments",
@@ -12094,8 +12047,7 @@
             "value" : "到期日"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.exchangeRate" : {
       "comment" : "Use for displaying the rate of exchange between currencies",
@@ -12346,8 +12298,7 @@
             "value" : "匯率"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.expenses" : {
       "comment" : "Use for labeling financial outflows or spending",
@@ -12598,8 +12549,7 @@
             "value" : "開支"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.financialStatus" : {
       "comment" : "Use for referring to the current financial situation",
@@ -12850,8 +12800,7 @@
             "value" : "財務狀況"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.income" : {
       "comment" : "Use for labeling income or earnings",
@@ -13102,8 +13051,7 @@
             "value" : "收入"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.interestRate" : {
       "comment" : "Use for displaying the interest rate on loans or savings",
@@ -13354,8 +13302,7 @@
             "value" : "利率"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.investmentPortfolio" : {
       "comment" : "Use for labeling a collection of investments",
@@ -13606,8 +13553,7 @@
             "value" : "投資組合"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.invoice" : {
       "comment" : "Use for labeling a document that requests payment for goods or services",
@@ -13858,8 +13804,7 @@
             "value" : "發票"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.netWorth" : {
       "comment" : "Use for referring to the total value of assets minus liabilities",
@@ -14110,8 +14055,7 @@
             "value" : "淨資產"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.orderHistory" : {
       "comment" : "Use for displaying past orders or transactions",
@@ -14362,8 +14306,7 @@
             "value" : "訂單歷史"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.payee" : {
       "comment" : "Use for referring to the recipient of a payment",
@@ -14614,8 +14557,7 @@
             "value" : "收款人"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.paymentMethods" : {
       "comment" : "Use for labeling different ways to make payments",
@@ -14866,8 +14808,7 @@
             "value" : "付款方法"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.paymentStatus" : {
       "comment" : "Use for indicating the current status of a payment",
@@ -15118,8 +15059,7 @@
             "value" : "付款狀態"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.portfolio" : {
       "comment" : "Use for referring to a collection of investments",
@@ -15370,8 +15310,7 @@
             "value" : "投資組合"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.recurringPayments" : {
       "comment" : "Use for labeling payments that are made on a regular basis",
@@ -15622,8 +15561,7 @@
             "value" : "循環付款"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.statement" : {
       "comment" : "Use for displaying financial statements or reports",
@@ -15874,8 +15812,7 @@
             "value" : "聲明"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.transactionHistory" : {
       "comment" : "Use for referring to a list of past financial transactions",
@@ -16126,8 +16063,7 @@
             "value" : "交易歷史"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.transactionStatus" : {
       "comment" : "Use for indicating the status of a financial transaction",
@@ -16378,8 +16314,7 @@
             "value" : "交易狀態"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.transferLimit" : {
       "comment" : "Use for displaying the maximum amount allowed for transfers",
@@ -16630,8 +16565,7 @@
             "value" : "轉賬限額"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.wallet" : {
       "comment" : "Use for referring to a digital or physical wallet for managing funds",
@@ -16882,8 +16816,7 @@
             "value" : "銀包"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.accountLockedAfterMultipleAttempts" : {
       "comment" : "Message indicating account is locked after multiple failed attempts",
@@ -17134,8 +17067,7 @@
             "value" : "帳戶在多次嘗試後被鎖定"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.budgetLimitExceeded" : {
       "comment" : "Message indicating the budget limit has been surpassed",
@@ -17386,8 +17318,7 @@
             "value" : "超出預算限制"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.cardHasBeenLinkedSuccessfullyDot" : {
       "comment" : "Message indicating a card was successfully linked",
@@ -17639,8 +17570,7 @@
             "value" : "已成功連接卡片。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.changesHaveBeenSavedDot" : {
       "comment" : "Confirmation message after saving changes",
@@ -17892,8 +17822,7 @@
             "value" : "更改已成功保存。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.depositWasSuccessfulDot" : {
       "comment" : "Message indicating a deposit was successful",
@@ -18145,8 +18074,7 @@
             "value" : "存款已成功。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.directDepositReceivedDot" : {
       "comment" : "Message indicating a direct deposit was received",
@@ -18398,8 +18326,7 @@
             "value" : "已收到直接存款。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.insufficientFundsAvailableDot" : {
       "comment" : "Message indicating there are not enough funds",
@@ -18651,8 +18578,7 @@
             "value" : "資金不足。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.interestAddedToAccountDot" : {
       "comment" : "Message indicating that interest was added to the account",
@@ -18904,8 +18830,7 @@
             "value" : "利息已添加至帳戶。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.invalidCardNumberDot" : {
       "comment" : "Error message indicating the card number is invalid",
@@ -19157,8 +19082,7 @@
             "value" : "卡號無效。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.invoicePaymentReceivedDot" : {
       "comment" : "Message indicating that payment for an invoice was received",
@@ -19410,8 +19334,7 @@
             "value" : "發票付款已收到。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.marketCurrentlyClosedDot" : {
       "comment" : "Message indicating that the market is closed",
@@ -19663,8 +19586,7 @@
             "value" : "市場目前已關閉。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.paymentDueSoonDot" : {
       "comment" : "Reminder message indicating a payment is due soon",
@@ -19916,8 +19838,7 @@
             "value" : "付款即將到期。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.paymentSuccessfullyProcessedDot" : {
       "comment" : "Message confirming that a payment was processed successfully",
@@ -20169,8 +20090,7 @@
             "value" : "付款已成功處理。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.transactionDeclinedDot" : {
       "comment" : "Message indicating that a transaction was declined",
@@ -20422,8 +20342,7 @@
             "value" : "交易被拒絕。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.verificationRequiredDot" : {
       "comment" : "Message indicating that verification is needed",
@@ -20675,8 +20594,7 @@
             "value" : "需要驗證。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addExpenseDetailsDots" : {
       "comment" : "Placeholder for adding expense details",
@@ -20927,8 +20845,7 @@
             "value" : "新增開支詳情…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addPaymentNoteDots" : {
       "comment" : "Placeholder for adding a payment note",
@@ -21179,8 +21096,7 @@
             "value" : "添加付款備註…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.choosePaymentMethodDots" : {
       "comment" : "Placeholder for selecting a payment method",
@@ -21431,8 +21347,7 @@
             "value" : "選擇付款方式…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterAccountNumberDots" : {
       "comment" : "Placeholder for entering an account number",
@@ -21683,8 +21598,7 @@
             "value" : "輸入帳號…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterAmountToTransferDots" : {
       "comment" : "Placeholder for entering an amount to transfer",
@@ -21935,8 +21849,7 @@
             "value" : "輸入轉賬金額…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterBankAccountNumberDots" : {
       "comment" : "Placeholder for entering a bank account number",
@@ -22187,8 +22100,7 @@
             "value" : "輸入銀行賬戶號碼…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterBudgetAmountDots" : {
       "comment" : "Placeholder for entering a budget amount",
@@ -22439,8 +22351,7 @@
             "value" : "輸入預算金額…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterCardNumberDots" : {
       "comment" : "Placeholder for entering a card number",
@@ -22691,8 +22602,7 @@
             "value" : "輸入信用卡號碼…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterCouponCodeDots" : {
       "comment" : "Placeholder for entering a coupon code",
@@ -22943,8 +22853,7 @@
             "value" : "輸入優惠券代碼…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterExchangeRateDots" : {
       "comment" : "Placeholder for entering an exchange rate",
@@ -23195,8 +23104,7 @@
             "value" : "輸入匯率…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterInterestRateDots" : {
       "comment" : "Placeholder for entering an interest rate",
@@ -23447,8 +23355,7 @@
             "value" : "輸入利率…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterInvoiceNumberDots" : {
       "comment" : "Placeholder for entering an invoice number",
@@ -23699,8 +23606,7 @@
             "value" : "輸入發票號碼…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterPaymentDetailsDots" : {
       "comment" : "Placeholder for entering payment details",
@@ -23951,8 +23857,7 @@
             "value" : "輸入付款詳情…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterPromoCodeDots" : {
       "comment" : "Placeholder for entering a promo code",
@@ -24203,8 +24108,7 @@
             "value" : "輸入優惠碼…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterRecipientsNameDots" : {
       "comment" : "Placeholder for entering the recipient's name",
@@ -24455,8 +24359,7 @@
             "value" : "輸入收件人姓名…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterTransactionAmountDots" : {
       "comment" : "Placeholder for entering a transaction amount",
@@ -24707,8 +24610,7 @@
             "value" : "輸入交易金額…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchExpensesDots" : {
       "comment" : "Placeholder for searching expenses",
@@ -24959,8 +24861,7 @@
             "value" : "搜尋開支…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchPayeesDots" : {
       "comment" : "Placeholder for searching payees",
@@ -25211,8 +25112,7 @@
             "value" : "搜尋收款人…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchTransactionsDots" : {
       "comment" : "Placeholder for searching transactions",
@@ -25463,8 +25363,7 @@
             "value" : "搜索交易…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.setBudgetLimitDots" : {
       "comment" : "Placeholder for setting a budget limit",
@@ -25715,8 +25614,7 @@
             "value" : "設置預算限制…"
           }
         }
-      },
-      "proofread" : true
+      }
     }
   },
   "version" : "1.0"

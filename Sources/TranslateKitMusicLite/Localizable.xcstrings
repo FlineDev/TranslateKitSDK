@@ -250,8 +250,7 @@
             "value" : "加至圖庫"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.addToPlaylist" : {
       "comment" : "Use for adding music to a playlist",
@@ -502,8 +501,7 @@
             "value" : "添加至播放列表"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.addToQueue" : {
       "comment" : "Use for adding music to a playback queue",
@@ -754,8 +752,7 @@
             "value" : "添加到隊列"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.convertFormat" : {
       "comment" : "Use for converting music file formats",
@@ -1006,8 +1003,7 @@
             "value" : "轉換格式"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.countIn" : {
       "comment" : "Use for counting in before starting to play",
@@ -1258,8 +1254,7 @@
             "value" : "數到"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.followScore" : {
       "comment" : "Use when following a musical score",
@@ -1510,8 +1505,7 @@
             "value" : "跟随乐谱"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.harmonize" : {
       "comment" : "Use when adding harmonies to a musical piece",
@@ -1762,8 +1756,7 @@
             "value" : "和声化"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.loop" : {
       "comment" : "Use when repeating a section of music or audio",
@@ -2014,8 +2007,7 @@
             "value" : "Loop"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.metronome" : {
       "comment" : "Use for starting a metronome",
@@ -2266,8 +2258,7 @@
             "value" : "节拍器"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.mix" : {
       "comment" : "Use when adjusting the audio mix",
@@ -2518,8 +2509,7 @@
             "value" : "混合"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.normalize" : {
       "comment" : "Use for adjusting the volume levels of music",
@@ -2770,8 +2760,7 @@
             "value" : "正常化"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.playNow" : {
       "comment" : "Use for playing music immediately",
@@ -3022,8 +3011,7 @@
             "value" : "立即播放"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.practice" : {
       "comment" : "Use when starting a practice session",
@@ -3274,8 +3262,7 @@
             "value" : "練習"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.quantize" : {
       "comment" : "Use when adjusting timing in music to a grid",
@@ -3526,8 +3513,7 @@
             "value" : "量化"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.record" : {
       "comment" : "Use when starting to record audio or music",
@@ -3778,8 +3764,7 @@
             "value" : "錄製"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.repeat" : {
       "comment" : "Use when repeating a song or section",
@@ -4030,8 +4015,7 @@
             "value" : "重複"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.resumePlaying" : {
       "comment" : "Use when resuming playback from a pause",
@@ -4282,8 +4266,7 @@
             "value" : "繼續播放"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.shareProgress" : {
       "comment" : "Use for sharing your progress in music practice",
@@ -4534,8 +4517,7 @@
             "value" : "分享進度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.showHint" : {
       "comment" : "Use for showing a hint during music practice or lessons",
@@ -4786,8 +4768,7 @@
             "value" : "顯示提示"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.shufflePlay" : {
       "comment" : "Use for playing music in random order",
@@ -5038,8 +5019,7 @@
             "value" : "隨機播放"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.skipIntro" : {
       "comment" : "Use for skipping the intro of a song or album",
@@ -5290,8 +5270,7 @@
             "value" : "跳過介紹"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.solo" : {
       "comment" : "Use when isolating a specific audio track",
@@ -5542,8 +5521,7 @@
             "value" : "單音軌"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.startExercise" : {
       "comment" : "Use when starting a music exercise",
@@ -5794,8 +5772,7 @@
             "value" : "開始運動"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.startLesson" : {
       "comment" : "Use when starting a music lesson",
@@ -6046,8 +6023,7 @@
             "value" : "開始課程"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.startOver" : {
       "comment" : "Use for restarting music or practice session",
@@ -6298,8 +6274,7 @@
             "value" : "重新開始"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.subscribe" : {
       "comment" : "Use for subscribing to music content or channels",
@@ -6550,8 +6525,7 @@
             "value" : "訂閱"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.takeQuiz" : {
       "comment" : "Use when taking a music-related quiz",
@@ -6802,8 +6776,7 @@
             "value" : "參加測驗"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.tempoDown" : {
       "comment" : "Use when decreasing the tempo of music",
@@ -7054,8 +7027,7 @@
             "value" : "放慢速度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.tempoUp" : {
       "comment" : "Use when increasing the tempo of music",
@@ -7306,8 +7278,7 @@
             "value" : "加快速度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.trackProgress" : {
       "comment" : "Use for monitoring progress in music practice or lessons",
@@ -7558,8 +7529,7 @@
             "value" : "追蹤進度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.transpose" : {
       "comment" : "Use when changing the key of the music",
@@ -7810,8 +7780,7 @@
             "value" : "移調"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.transposeDown" : {
       "comment" : "Use when shifting the music key down",
@@ -8062,8 +8031,7 @@
             "value" : "降調"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.transposeUp" : {
       "comment" : "Use when shifting the music key up",
@@ -8314,8 +8282,7 @@
             "value" : "升調"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.tune" : {
       "comment" : "Use when adjusting the tuning of an instrument",
@@ -8566,8 +8533,7 @@
             "value" : "調音"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.uploadFile" : {
       "comment" : "Use for uploading a music file",
@@ -8818,8 +8784,7 @@
             "value" : "上載文件"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.archives" : {
       "comment" : "Use for sections containing past issues or content",
@@ -9071,8 +9036,7 @@
             "value" : "檔案"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.article" : {
       "comment" : "Use when referring to a single piece of content or news",
@@ -9324,8 +9288,7 @@
             "value" : "文章"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.author" : {
       "comment" : "Use when indicating the creator or writer of content",
@@ -9576,8 +9539,7 @@
             "value" : "作者"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.bestSellers" : {
       "comment" : "Use for top-selling books, magazines, or products",
@@ -9828,8 +9790,7 @@
             "value" : "暢銷商品"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.bookmarks" : {
       "comment" : "Use when referring to saved or favorite items",
@@ -10080,8 +10041,7 @@
             "value" : "書籤"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.breakingNews" : {
       "comment" : "Use for urgent or important news updates",
@@ -10332,8 +10292,7 @@
             "value" : "突發新聞"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.businessAndEconomy" : {
       "comment" : "Use for content related to business and financial topics",
@@ -10585,8 +10544,7 @@
             "value" : "商業與經濟"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.categories" : {
       "comment" : "Use when organizing content into different types or themes",
@@ -10837,8 +10795,7 @@
             "value" : "類別"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.comments" : {
       "comment" : "Use for sections where users can post feedback or thoughts",
@@ -11089,8 +11046,7 @@
             "value" : "評論"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.dailyBriefing" : {
       "comment" : "Use for a summary of important news or updates",
@@ -11341,8 +11297,7 @@
             "value" : "每日簡報"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.dailyDigest" : {
       "comment" : "Use for a daily collection or summary of content",
@@ -11594,8 +11549,7 @@
             "value" : "每日摘要"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.editorsPicks" : {
       "comment" : "Use for curated content selected by editors",
@@ -11846,8 +11800,7 @@
             "value" : "編輯特選"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.favorites" : {
       "comment" : "Use for saved or preferred content",
@@ -12098,8 +12051,7 @@
             "value" : "喜好項目"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.featured" : {
       "comment" : "Use for content highlighted as important or interesting",
@@ -12351,8 +12303,7 @@
             "value" : "精選"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.headlines" : {
       "comment" : "Use for the most important or prominent news stories",
@@ -12604,8 +12555,7 @@
             "value" : "頭條新聞"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.issue" : {
       "comment" : "Use for a specific edition of a publication or magazine",
@@ -12857,8 +12807,7 @@
             "value" : "問題"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.latest" : {
       "comment" : "Use for the most recent content or updates",
@@ -13110,8 +13059,7 @@
             "value" : "最新"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.latestHeadlines" : {
       "comment" : "Use for the most recent important news stories",
@@ -13362,8 +13310,7 @@
             "value" : "最新頭條"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.magazine" : {
       "comment" : "Use when referring to a publication, typically in print or digital format",
@@ -13615,8 +13562,7 @@
             "value" : "雜誌"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.myLibrary" : {
       "comment" : "Use for a personal collection of saved or owned content",
@@ -13868,8 +13814,7 @@
             "value" : "我的圖書館"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.newsletter" : {
       "comment" : "Use for a regular email or publication sent to subscribers",
@@ -14121,8 +14066,7 @@
             "value" : "電子報"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.opinion" : {
       "comment" : "Use when referring to editorial or opinion-based content",
@@ -14373,8 +14317,7 @@
             "value" : "意見"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.page" : {
       "comment" : "Use for individual pages of a publication or content item",
@@ -14625,8 +14568,7 @@
             "value" : "頁面"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.politics" : {
       "comment" : "Use for content related to government, elections, and political affairs",
@@ -14877,8 +14819,7 @@
             "value" : "政治"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.popular" : {
       "comment" : "Use for content that is widely viewed or discussed",
@@ -15130,8 +15071,7 @@
             "value" : "熱門"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.published" : {
       "comment" : "Use when indicating when content was made available to the public",
@@ -15383,8 +15323,7 @@
             "value" : "已發佈"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.readingList" : {
       "comment" : "Use for a list of articles or books to read",
@@ -15636,8 +15575,7 @@
             "value" : "閱讀清單"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.savedArticles" : {
       "comment" : "Use for content that has been saved for future reading",
@@ -15889,8 +15827,7 @@
             "value" : "已儲存的文章"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.scienceAndTechnology" : {
       "comment" : "Use for content related to scientific advancements and tech",
@@ -16142,8 +16079,7 @@
             "value" : "科學與科技"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.section" : {
       "comment" : "Use for different categories or parts within a publication",
@@ -16395,8 +16331,7 @@
             "value" : "部分"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.subscriptions" : {
       "comment" : "Use for managing or subscribing to content or services",
@@ -16648,8 +16583,7 @@
             "value" : "訂閱"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.tableOfContents" : {
       "comment" : "Use for the list of sections or articles in a publication",
@@ -16901,8 +16835,7 @@
             "value" : "內容目錄"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.topStories" : {
       "comment" : "Use for the most important news or content",
@@ -17154,8 +17087,7 @@
             "value" : "熱門故事"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.trending" : {
       "comment" : "Use for popular or widely discussed topics",
@@ -17406,8 +17338,7 @@
             "value" : "熱門"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.worldNews" : {
       "comment" : "Use for international or global news updates",
@@ -17658,8 +17589,7 @@
             "value" : "全球新聞"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.audioLevelsAreTooHighDot" : {
       "comment" : "Warning when audio levels exceed safe thresholds",
@@ -17911,8 +17841,7 @@
             "value" : "音頻水平過高。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.contentNotAvailableInYourRegionDot" : {
       "comment" : "Message when content is restricted based on region",
@@ -18164,8 +18093,7 @@
             "value" : "此內容在你的地區無法獲取。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.maximumTrackCountReachedDot" : {
       "comment" : "Message when the maximum number of tracks is reached",
@@ -18417,8 +18345,7 @@
             "value" : "已達到最大曲目數。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.metronomeIsNowActiveDot" : {
       "comment" : "Confirmation message when the metronome is turned on",
@@ -18670,8 +18597,7 @@
             "value" : "節拍器現在已啟動。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.noAudioInputDetectedDot" : {
       "comment" : "Message when no audio input is found",
@@ -18923,8 +18849,7 @@
             "value" : "未檢測到音頻輸入。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.outOfTuneAdjustHigherDot" : {
       "comment" : "Message when the audio is out of tune and needs to be adjusted higher",
@@ -19176,8 +19101,7 @@
             "value" : "失準 - 調高音量。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.outOfTuneAdjustLowerDot" : {
       "comment" : "Message when the audio is out of tune and needs to be adjusted lower",
@@ -19429,8 +19353,7 @@
             "value" : "失準 - 調低音量。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.practiceMakesPerfectDot" : {
       "comment" : "Motivational message for practice",
@@ -19682,8 +19605,7 @@
             "value" : "熟能生巧。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.practiceSessionCompletedDot" : {
       "comment" : "Message when a practice session is finished",
@@ -19935,8 +19857,7 @@
             "value" : "練習環節已完成。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.progressSavedSuccessfullyDot" : {
       "comment" : "Confirmation message when progress is saved",
@@ -20188,8 +20109,7 @@
             "value" : "進度已成功保存。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.recordingAlreadyInProgressDot" : {
       "comment" : "Message when trying to record while another recording is already ongoing",
@@ -20441,8 +20361,7 @@
             "value" : "錄音已在進行中。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.sheetMusicImportedSuccessfullyDot" : {
       "comment" : "Confirmation message when sheet music is imported",
@@ -20694,8 +20613,7 @@
             "value" : "樂譜已成功導入。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.tuningCompletedSuccessfullyDot" : {
       "comment" : "Confirmation message when tuning is completed",
@@ -20947,8 +20865,7 @@
             "value" : "調整已成功完成。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.yourDailyStreakAchievedDot" : {
       "comment" : "Confirmation message when a daily streak is completed",
@@ -21200,8 +21117,7 @@
             "value" : "你的每日連續紀錄已達成！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.yourRecordingHasBeenSavedDot" : {
       "comment" : "Confirmation message when a recording is saved",
@@ -21453,8 +21369,7 @@
             "value" : "你的錄音已保存。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.analyzingTempoDots" : {
       "comment" : "Placeholder while analyzing the tempo of a track",
@@ -21705,8 +21620,7 @@
             "value" : "正在分析節拍…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.chooseInstrumentDots" : {
       "comment" : "Placeholder for selecting an instrument",
@@ -21957,8 +21871,7 @@
             "value" : "選擇樂器…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.detectingPitchDots" : {
       "comment" : "Placeholder while detecting the pitch of a note",
@@ -22209,8 +22122,7 @@
             "value" : "正在檢測音高…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.eG120BPM" : {
       "comment" : "Example of a beats per minute value (e.g. 120 BPM)",
@@ -22461,8 +22373,7 @@
             "value" : "例如 120 BPM"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.eGCmajor" : {
       "comment" : "Example of a chord or key (e.g. C Major)",
@@ -22714,8 +22625,7 @@
             "value" : "例如：C 大調"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterAlbumNameDots" : {
       "comment" : "Placeholder for entering the album name",
@@ -22966,8 +22876,7 @@
             "value" : "輸入專輯名稱…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterArtistNameDots" : {
       "comment" : "Placeholder for entering the artist's name",
@@ -23218,8 +23127,7 @@
             "value" : "輸入藝術家名稱…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterBPMDots" : {
       "comment" : "Placeholder for entering the beats per minute (BPM)",
@@ -23470,8 +23378,7 @@
             "value" : "輸入BPM…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterChordProgressionDots" : {
       "comment" : "Placeholder for entering a chord progression",
@@ -23722,8 +23629,7 @@
             "value" : "輸入和弦進行…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterLyricsHereDots" : {
       "comment" : "Placeholder for entering song lyrics",
@@ -23974,8 +23880,7 @@
             "value" : "輸入歌詞…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterSongTitleDots" : {
       "comment" : "Placeholder for entering the song title",
@@ -24226,8 +24131,7 @@
             "value" : "輸入歌曲標題…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterTimeSignatureDots" : {
       "comment" : "Placeholder for entering the time signature",
@@ -24478,8 +24382,7 @@
             "value" : "輸入拍子記號…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.findingHarmonyDots" : {
       "comment" : "Placeholder while finding harmony in music",
@@ -24730,8 +24633,7 @@
             "value" : "尋找和諧…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.identifyingKeyDots" : {
       "comment" : "Placeholder while identifying the key of the song",
@@ -24982,8 +24884,7 @@
             "value" : "識別歌曲的調..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.logPracticeTimeDots" : {
       "comment" : "Placeholder for logging practice time",
@@ -25234,8 +25135,7 @@
             "value" : "記錄練習時間…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.recordingAudioDots" : {
       "comment" : "Placeholder while recording audio",
@@ -25486,8 +25386,7 @@
             "value" : "錄製音頻…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchArtistsDots" : {
       "comment" : "Placeholder for searching artists",
@@ -25738,8 +25637,7 @@
             "value" : "搜索藝術家⋯"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchPlaylistsDots" : {
       "comment" : "Placeholder for searching playlists",
@@ -25990,8 +25888,7 @@
             "value" : "搜索播放列表…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.setPracticeGoalDots" : {
       "comment" : "Placeholder for setting a practice goal",
@@ -26242,8 +26139,7 @@
             "value" : "設置練習目標…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.tuningToA4Dots" : {
       "comment" : "Placeholder while tuning to A4",
@@ -26495,8 +26391,7 @@
             "value" : "調音到 A4 (440 Hz)..."
           }
         }
-      },
-      "proofread" : true
+      }
     }
   },
   "version" : "1.0"

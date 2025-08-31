@@ -250,8 +250,7 @@
             "value" : "封存"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.bookmark" : {
       "comment" : "Use when saving content for easy access later",
@@ -502,8 +501,7 @@
             "value" : "書籤"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.follow" : {
       "comment" : "Use when subscribing to content or a user for updates",
@@ -754,8 +752,7 @@
             "value" : "關注"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.listen" : {
       "comment" : "Use when playing audio content",
@@ -1006,8 +1003,7 @@
             "value" : "收听"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.listenToArticle" : {
       "comment" : "Use when listening to an article in audio format",
@@ -1258,8 +1254,7 @@
             "value" : "收聽文章"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.openInBrowser" : {
       "comment" : "Use when opening a link or page in a web browser",
@@ -1510,8 +1505,7 @@
             "value" : "在瀏覽器中打開"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.post" : {
       "comment" : "Use when sharing content to a platform or service",
@@ -1762,8 +1756,7 @@
             "value" : "發佈"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.print" : {
       "comment" : "Use when printing content to paper",
@@ -2014,8 +2007,7 @@
             "value" : "列印"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.readArticle" : {
       "comment" : "Use when opening an article to read",
@@ -2266,8 +2258,7 @@
             "value" : "閱讀文章"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.readLater" : {
       "comment" : "Use when saving an article or content for later reading",
@@ -2518,8 +2509,7 @@
             "value" : "稍後閱讀"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.readNow" : {
       "comment" : "Use when immediately opening content to read",
@@ -2770,8 +2760,7 @@
             "value" : "立即閱讀"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.reportContent" : {
       "comment" : "Use when reporting inappropriate or harmful content",
@@ -3022,8 +3011,7 @@
             "value" : "舉報內容"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.reportIssue" : {
       "comment" : "Use when submitting a bug or technical issue report",
@@ -3274,8 +3262,7 @@
             "value" : "舉報問題"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.saveArticle" : {
       "comment" : "Use when saving an article for later reference",
@@ -3526,8 +3513,7 @@
             "value" : "保存文章"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.saveForLater" : {
       "comment" : "Use when saving content for future access",
@@ -3778,8 +3764,7 @@
             "value" : "稍後保存"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.shareDocument" : {
       "comment" : "Use when sharing a document with others",
@@ -4030,8 +4015,7 @@
             "value" : "分享文件"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.shareStory" : {
       "comment" : "Use when sharing a story or news item with others",
@@ -4282,8 +4266,7 @@
             "value" : "分享故事"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.subscribe" : {
       "comment" : "Use when subscribing to a service, publication, or content",
@@ -4534,8 +4517,7 @@
             "value" : "訂閱"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.summarize" : {
       "comment" : "Use when providing a summary of content",
@@ -4786,8 +4768,7 @@
             "value" : "總結"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.translate" : {
       "comment" : "Use when translating content from one language to another",
@@ -5038,8 +5019,7 @@
             "value" : "翻譯"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.unfollow" : {
       "comment" : "Use when unsubscribing from updates or content",
@@ -5290,8 +5270,7 @@
             "value" : "取消關注"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.unsubscribe" : {
       "comment" : "Use when canceling a subscription to a service or publication",
@@ -5542,8 +5521,7 @@
             "value" : "取消訂閲"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.viewBreakingNews" : {
       "comment" : "Use when viewing the latest breaking news updates",
@@ -5794,8 +5772,7 @@
             "value" : "查看突發新聞"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.archives" : {
       "comment" : "Use for sections containing past issues or content",
@@ -6046,8 +6023,7 @@
             "value" : "档案"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.article" : {
       "comment" : "Use when referring to a single piece of content or news",
@@ -6298,8 +6274,7 @@
             "value" : "文章"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.author" : {
       "comment" : "Use when indicating the creator or writer of content",
@@ -6550,8 +6525,7 @@
             "value" : "作者"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.bestSellers" : {
       "comment" : "Use for top-selling books, magazines, or products",
@@ -6802,8 +6776,7 @@
             "value" : "暢銷商品"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.bookmarks" : {
       "comment" : "Use when referring to saved or favorite items",
@@ -7054,8 +7027,7 @@
             "value" : "書籤"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.breakingNews" : {
       "comment" : "Use for urgent or important news updates",
@@ -7306,8 +7278,7 @@
             "value" : "突發新聞"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.businessAndEconomy" : {
       "comment" : "Use for content related to business and financial topics",
@@ -7559,8 +7530,7 @@
             "value" : "商業與經濟"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.categories" : {
       "comment" : "Use when organizing content into different types or themes",
@@ -7811,8 +7781,7 @@
             "value" : "類別"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.comments" : {
       "comment" : "Use for sections where users can post feedback or thoughts",
@@ -8063,8 +8032,7 @@
             "value" : "評論"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.dailyBriefing" : {
       "comment" : "Use for a summary of important news or updates",
@@ -8315,8 +8283,7 @@
             "value" : "每日簡報"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.dailyDigest" : {
       "comment" : "Use for a daily collection or summary of content",
@@ -8567,8 +8534,7 @@
             "value" : "每日摘要"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.editorsPicks" : {
       "comment" : "Use for curated content selected by editors",
@@ -8819,8 +8785,7 @@
             "value" : "編輯特選"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.favorites" : {
       "comment" : "Use for saved or preferred content",
@@ -9071,8 +9036,7 @@
             "value" : "喜好項目"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.featured" : {
       "comment" : "Use for content highlighted as important or interesting",
@@ -9323,8 +9287,7 @@
             "value" : "精選"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.headlines" : {
       "comment" : "Use for the most important or prominent news stories",
@@ -9575,8 +9538,7 @@
             "value" : "標題"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.issue" : {
       "comment" : "Use for a specific edition of a publication or magazine",
@@ -9827,8 +9789,7 @@
             "value" : "問題"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.latest" : {
       "comment" : "Use for the most recent content or updates",
@@ -10079,8 +10040,7 @@
             "value" : "最新"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.latestHeadlines" : {
       "comment" : "Use for the most recent important news stories",
@@ -10331,8 +10291,7 @@
             "value" : "最新頭條"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.magazine" : {
       "comment" : "Use when referring to a publication, typically in print or digital format",
@@ -10583,8 +10542,7 @@
             "value" : "雜誌"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.myLibrary" : {
       "comment" : "Use for a personal collection of saved or owned content",
@@ -10835,8 +10793,7 @@
             "value" : "我的藏書"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.newsletter" : {
       "comment" : "Use for a regular email or publication sent to subscribers",
@@ -11087,8 +11044,7 @@
             "value" : "通訊"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.opinion" : {
       "comment" : "Use when referring to editorial or opinion-based content",
@@ -11339,8 +11295,7 @@
             "value" : "意見"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.page" : {
       "comment" : "Use for individual pages of a publication or content item",
@@ -11591,8 +11546,7 @@
             "value" : "頁面"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.politics" : {
       "comment" : "Use for content related to government, elections, and political affairs",
@@ -11843,8 +11797,7 @@
             "value" : "政治"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.popular" : {
       "comment" : "Use for content that is widely viewed or discussed",
@@ -12095,8 +12048,7 @@
             "value" : "熱門"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.published" : {
       "comment" : "Use when indicating when content was made available to the public",
@@ -12347,8 +12299,7 @@
             "value" : "已發布"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.readingList" : {
       "comment" : "Use for a list of articles or books to read",
@@ -12599,8 +12550,7 @@
             "value" : "閱讀清單"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.savedArticles" : {
       "comment" : "Use for content that has been saved for future reading",
@@ -12851,8 +12801,7 @@
             "value" : "已保存文章"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.scienceAndTechnology" : {
       "comment" : "Use for content related to scientific advancements and tech",
@@ -13104,8 +13053,7 @@
             "value" : "科學與科技"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.section" : {
       "comment" : "Use for different categories or parts within a publication",
@@ -13356,8 +13304,7 @@
             "value" : "部分"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.subscriptions" : {
       "comment" : "Use for managing or subscribing to content or services",
@@ -13608,8 +13555,7 @@
             "value" : "訂閲項目"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.tableOfContents" : {
       "comment" : "Use for the list of sections or articles in a publication",
@@ -13860,8 +13806,7 @@
             "value" : "內容表"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.topStories" : {
       "comment" : "Use for the most important news or content",
@@ -14112,8 +14057,7 @@
             "value" : "熱門故事"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.trending" : {
       "comment" : "Use for popular or widely discussed topics",
@@ -14364,8 +14308,7 @@
             "value" : "熱門"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.worldNews" : {
       "comment" : "Use for international or global news updates",
@@ -14616,8 +14559,7 @@
             "value" : "全球新聞"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.articleAddedToYourBookmarksDot" : {
       "comment" : "Confirmation when saving an article to bookmarks",
@@ -14869,8 +14811,7 @@
             "value" : "文章已加入你的書籤。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.articleHasBeenArchivedDot" : {
       "comment" : "Confirmation when moving an article to archive",
@@ -15122,8 +15063,7 @@
             "value" : "文章已被存檔。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.articleHasBeenBookmarkedDot" : {
       "comment" : "Confirmation when bookmarking an article",
@@ -15375,8 +15315,7 @@
             "value" : "文章已被加為書籤。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.articleSavedForOfflineReadingDot" : {
       "comment" : "Confirmation when saving an article for offline use",
@@ -15628,8 +15567,7 @@
             "value" : "文章已儲存以供離線閱讀。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.contentNotAvailableInYourRegionDot" : {
       "comment" : "Notification when content is restricted by region",
@@ -15881,8 +15819,7 @@
             "value" : "此內容在你的地區無法獲取。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.contentRemovedFromLibraryDot" : {
       "comment" : "Confirmation when content is removed from the library",
@@ -16134,8 +16071,7 @@
             "value" : "內容已從庫中移除。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.dailyBriefingIsReadyDot" : {
       "comment" : "Notification when the daily briefing is available",
@@ -16387,8 +16323,7 @@
             "value" : "每日簡報已準備就緒。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.downloadCompleteReadyForOfflineReadingDot" : {
       "comment" : "Notification when a download is finished",
@@ -16640,8 +16575,7 @@
             "value" : "下載完成 - 可離線閱讀。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.magazineIssueDownloadedSuccessfullyDot" : {
       "comment" : "Confirmation when a magazine issue is downloaded",
@@ -16893,8 +16827,7 @@
             "value" : "雜誌期刊已成功下載。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.newBreakingNewsAlertsAvailableDot" : {
       "comment" : "Notification when new breaking news is available",
@@ -17146,8 +17079,7 @@
             "value" : "有新的突發新聞警報可用。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.noAvailableArticlesAtThisTimeDot" : {
       "comment" : "Message when no articles are available",
@@ -17399,8 +17331,7 @@
             "value" : "目前沒有可用的文章。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.noSavedArticlesYetDot" : {
       "comment" : "Message when there are no saved articles",
@@ -17652,8 +17583,7 @@
             "value" : "目前沒有儲存的文章。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.subscriptionExpired" : {
       "comment" : "Notification when a subscription has ended",
@@ -17904,8 +17834,7 @@
             "value" : "訂閱已過期。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.subscriptionRequiredToContinueReadingDot" : {
       "comment" : "Message when a subscription is needed to access content",
@@ -18157,8 +18086,7 @@
             "value" : "需要訂閱才能繼續閱讀。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.youHaveReachedYourFreeArticleLimitDot" : {
       "comment" : "Notification when a user exceeds their free article limit",
@@ -18410,8 +18338,7 @@
             "value" : "您已達到免費文章的限制。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addCaptionDots" : {
       "comment" : "Placeholder for entering a caption for an image or media",
@@ -18663,8 +18590,7 @@
             "value" : "添加說明…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addChapterSummaryDots" : {
       "comment" : "Placeholder for entering a summary of a chapter or article",
@@ -18915,8 +18841,7 @@
             "value" : "新增章節摘要…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterArticleTitleDots" : {
       "comment" : "Placeholder for entering the title of an article",
@@ -19167,8 +19092,7 @@
             "value" : "輸入文章標題…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterAuthorNameDots" : {
       "comment" : "Placeholder for entering the name of an article's author",
@@ -19419,8 +19343,7 @@
             "value" : "輸入作者名稱…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.filterArticlesDots" : {
       "comment" : "Placeholder for filtering articles based on criteria",
@@ -19671,8 +19594,7 @@
             "value" : "篩選文章…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.filterByYearDots" : {
       "comment" : "Placeholder for filtering content by publication year",
@@ -19923,8 +19845,7 @@
             "value" : "按年過濾…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.findInArticleDots" : {
       "comment" : "Placeholder for searching within the content of an article",
@@ -20175,8 +20096,7 @@
             "value" : "在文章中查找…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchArchivesDots" : {
       "comment" : "Placeholder for searching through archived content",
@@ -20427,8 +20347,7 @@
             "value" : "搜尋檔案…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchArticlesDots" : {
       "comment" : "Placeholder for searching articles based on keywords",
@@ -20679,8 +20598,7 @@
             "value" : "搜尋文章…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchAuthorDots" : {
       "comment" : "Placeholder for searching by author name",
@@ -20931,8 +20849,7 @@
             "value" : "搜尋作者…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchHeadlinesDots" : {
       "comment" : "Placeholder for searching news headlines",
@@ -21183,8 +21100,7 @@
             "value" : "搜尋頭條…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchNewsDots" : {
       "comment" : "Placeholder for searching general news content",
@@ -21435,8 +21351,7 @@
             "value" : "搜索新聞…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchPublicationsDots" : {
       "comment" : "Placeholder for searching through different publications",
@@ -21687,8 +21602,7 @@
             "value" : "搜索出版物…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchTrendingTopicsDots" : {
       "comment" : "Placeholder for searching popular or trending topics",
@@ -21939,8 +21853,7 @@
             "value" : "搜索热门话题…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.typeToAddTagsDots" : {
       "comment" : "Placeholder for typing tags to categorize content",
@@ -22191,8 +22104,7 @@
             "value" : "輸入以添加標籤…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.writeAPostDots" : {
       "comment" : "Placeholder for composing a new post or article",
@@ -22443,8 +22355,7 @@
             "value" : "撰写帖子…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.writeYourOpinionDots" : {
       "comment" : "Placeholder for entering a personal opinion or comment",
@@ -22695,8 +22606,7 @@
             "value" : "撰寫意見…"
           }
         }
-      },
-      "proofread" : true
+      }
     }
   },
   "version" : "1.0"

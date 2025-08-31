@@ -250,8 +250,7 @@
             "value" : "添加动画"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.addBorder" : {
       "comment" : "Use when adding a border around a sticker",
@@ -502,8 +501,7 @@
             "value" : "添加边框"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.addCaption" : {
       "comment" : "Use when adding a caption to a sticker",
@@ -754,8 +752,7 @@
             "value" : "添加说明文字"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.addEffects" : {
       "comment" : "Use when adding effects to a sticker",
@@ -1006,8 +1003,7 @@
             "value" : "添加效果"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.addTags" : {
       "comment" : "Use when adding tags to a sticker",
@@ -1258,8 +1254,7 @@
             "value" : "加入標籤"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.addText" : {
       "comment" : "Use when adding text to a sticker",
@@ -1510,8 +1505,7 @@
             "value" : "添加文字"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.addToCollection" : {
       "comment" : "Use when adding the sticker to a collection",
@@ -1762,8 +1756,7 @@
             "value" : "添加至收藏夾"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.addToFavorites" : {
       "comment" : "Use when adding the sticker to favorites",
@@ -2014,8 +2007,7 @@
             "value" : "加至我的最愛"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.addToShortcuts" : {
       "comment" : "Use when adding a sticker to shortcuts",
@@ -2266,8 +2258,7 @@
             "value" : "新增到捷徑"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.adjustOpacity" : {
       "comment" : "Use when adjusting the opacity of a sticker",
@@ -2518,8 +2509,7 @@
             "value" : "调整不透明度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.copyToKeyboard" : {
       "comment" : "Use when copying the sticker to the keyboard",
@@ -2770,8 +2760,7 @@
             "value" : "複製到鍵盤"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.createPack" : {
       "comment" : "Use when creating a sticker pack",
@@ -3022,8 +3011,7 @@
             "value" : "建立包"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.editSticker" : {
       "comment" : "Use when editing a sticker",
@@ -3274,8 +3262,7 @@
             "value" : "編輯貼紙"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.exportPack" : {
       "comment" : "Use when exporting a sticker pack",
@@ -3526,8 +3513,7 @@
             "value" : "導出包"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.flip" : {
       "comment" : "Use when flipping a sticker horizontally or vertically",
@@ -3778,8 +3764,7 @@
             "value" : "翻转"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.importPack" : {
       "comment" : "Use when importing a sticker pack",
@@ -4030,8 +4015,7 @@
             "value" : "導入包"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.mirror" : {
       "comment" : "Use when creating a mirrored version of the sticker",
@@ -4282,8 +4266,7 @@
             "value" : "镜像"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.previewSticker" : {
       "comment" : "Use when previewing a sticker",
@@ -4534,8 +4517,7 @@
             "value" : "預覽貼紙"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.quickSend" : {
       "comment" : "Use for sending a sticker quickly",
@@ -4786,8 +4768,7 @@
             "value" : "快速發送"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.removeBackground" : {
       "comment" : "Use when removing the background from a sticker",
@@ -5038,8 +5019,7 @@
             "value" : "移除背景"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.resize" : {
       "comment" : "Use when resizing a sticker",
@@ -5290,8 +5270,7 @@
             "value" : "調整大小"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.rotate" : {
       "comment" : "Use when rotating a sticker",
@@ -5542,8 +5521,7 @@
             "value" : "旋轉"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.saveToPhotos" : {
       "comment" : "Use when saving the sticker to photos",
@@ -5794,8 +5772,7 @@
             "value" : "儲存至「相片」"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.sendSticker" : {
       "comment" : "Use when sending a sticker to others",
@@ -6046,8 +6023,7 @@
             "value" : "發送貼紙"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.animated" : {
       "comment" : "Use for referring to animated stickers",
@@ -6298,8 +6274,7 @@
             "value" : "動態的"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.animations" : {
       "comment" : "Use for referring to animated stickers",
@@ -6550,8 +6525,7 @@
             "value" : "動畫"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.background" : {
       "comment" : "Use for referring to the background of a sticker",
@@ -6802,8 +6776,7 @@
             "value" : "背景"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.borderStyle" : {
       "comment" : "Use for referring to the style of the border around a sticker",
@@ -7054,8 +7027,7 @@
             "value" : "边框样式"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.collection" : {
       "comment" : "Use for referring to a collection of stickers",
@@ -7306,8 +7278,7 @@
             "value" : "收藏"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.creator" : {
       "comment" : "Use for referring to the creator of a sticker pack",
@@ -7558,8 +7529,7 @@
             "value" : "創作者"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.customPacks" : {
       "comment" : "Use for referring to user-created sticker packs",
@@ -7810,8 +7780,7 @@
             "value" : "自定義包"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.customText" : {
       "comment" : "Use for referring to user-added text on a sticker",
@@ -8062,8 +8031,7 @@
             "value" : "自定義文本"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.effects" : {
       "comment" : "Use for referring to visual effects applied to a sticker",
@@ -8314,8 +8282,7 @@
             "value" : "效果"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.emotions" : {
       "comment" : "Use for referring to stickers that express emotions",
@@ -8566,8 +8533,7 @@
             "value" : "情感"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.favorites" : {
       "comment" : "Use for referring to the user's favorite stickers",
@@ -8818,8 +8784,7 @@
             "value" : "喜好項目"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.featuredPacks" : {
       "comment" : "Use for referring to sticker packs that are featured",
@@ -9070,8 +9035,7 @@
             "value" : "特色包"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.fileFormat" : {
       "comment" : "Use for referring to the file format of a sticker",
@@ -9322,8 +9286,7 @@
             "value" : "文件格式"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.frame" : {
       "comment" : "Use for referring to the frame around a sticker",
@@ -9574,8 +9537,7 @@
             "value" : "框架"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.keyboardAccess" : {
       "comment" : "Use for referring to stickers accessible from the keyboard",
@@ -9826,8 +9788,7 @@
             "value" : "鍵盤訪問"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.opacity" : {
       "comment" : "Use for referring to the opacity of a sticker",
@@ -10078,8 +10039,7 @@
             "value" : "不透明度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.packName" : {
       "comment" : "Use for referring to the name of a sticker pack",
@@ -10330,8 +10290,7 @@
             "value" : "包名稱"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.packSize" : {
       "comment" : "Use for referring to the size or number of stickers in a pack",
@@ -10582,8 +10541,7 @@
             "value" : "包大小"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.packTheme" : {
       "comment" : "Use for referring to the theme of a sticker pack",
@@ -10834,8 +10792,7 @@
             "value" : "包主題"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.popular" : {
       "comment" : "Use for referring to stickers that are popular among users",
@@ -11086,8 +11043,7 @@
             "value" : "熱門"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.preview" : {
       "comment" : "Use for previewing a sticker",
@@ -11338,8 +11294,7 @@
             "value" : "預覽"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.reactions" : {
       "comment" : "Use for referring to stickers used as reactions",
@@ -11590,8 +11545,7 @@
             "value" : "反應"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.recentlyUsed" : {
       "comment" : "Use for referring to stickers that have been recently used",
@@ -11842,8 +11796,7 @@
             "value" : "最近使用"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.static" : {
       "comment" : "Use for referring to static stickers",
@@ -12094,8 +12047,7 @@
             "value" : "靜態"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.staticStickers" : {
       "comment" : "Use for referring to stickers that are not animated",
@@ -12346,8 +12298,7 @@
             "value" : "靜態貼紙"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.stickerCount" : {
       "comment" : "Use for referring to the number of stickers in a pack",
@@ -12598,8 +12549,7 @@
             "value" : "貼紙數量"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.stickerPack" : {
       "comment" : "Use for referring to a set or collection of stickers",
@@ -12850,8 +12800,7 @@
             "value" : "貼紙包"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.stickerStyle" : {
       "comment" : "Use for referring to the style of a sticker",
@@ -13102,8 +13051,7 @@
             "value" : "貼紙風格"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.trending" : {
       "comment" : "Use for referring to trending stickers",
@@ -13354,8 +13302,7 @@
             "value" : "熱門"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.animationEffectsAppliedDot" : {
       "comment" : "Confirmation when animation effects are applied to a sticker",
@@ -13607,8 +13554,7 @@
             "value" : "動畫效果已應用！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.backgroundRemovedSuccessfullyDot" : {
       "comment" : "Confirmation when a sticker's background is removed",
@@ -13860,8 +13806,7 @@
             "value" : "背景成功移除！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.changesSavedToStickerDot" : {
       "comment" : "Confirmation when changes are saved to a sticker",
@@ -14113,8 +14058,7 @@
             "value" : "更改已保存到貼紙！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.customStickerCreatedDot" : {
       "comment" : "Confirmation when a custom sticker is created",
@@ -14366,8 +14310,7 @@
             "value" : "自定義貼紙已創建！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.effectAppliedSuccessfullyDot" : {
       "comment" : "Confirmation when an effect is applied to a sticker",
@@ -14619,8 +14562,7 @@
             "value" : "特效已成功應用！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.keyboardAccessRequiredForStickersDot" : {
       "comment" : "Message when keyboard access is needed for stickers",
@@ -14872,8 +14814,7 @@
             "value" : "需要鍵盤訪問以使用貼紙。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.packImportedSuccessfullyDot" : {
       "comment" : "Confirmation when a sticker pack is imported",
@@ -15125,8 +15066,7 @@
             "value" : "貼紙包已成功導入！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.packSharedWithFriendsDot" : {
       "comment" : "Confirmation when a sticker pack is shared with friends",
@@ -15378,8 +15318,7 @@
             "value" : "貼紙包已與朋友分享！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.stickerAddedToFavoritesDot" : {
       "comment" : "Confirmation when a sticker is added to favorites",
@@ -15631,8 +15570,7 @@
             "value" : "貼紙已添加到收藏夾！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.stickerAddedToKeyboardDot" : {
       "comment" : "Confirmation when a sticker is added to the keyboard",
@@ -15884,8 +15822,7 @@
             "value" : "貼紙已添加到鍵盤！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.stickerPackDownloadCompleteDot" : {
       "comment" : "Confirmation when a sticker pack download finishes",
@@ -16137,8 +16074,7 @@
             "value" : "貼圖包下載完成！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.stickerPackInstalledSuccessfullyDot" : {
       "comment" : "Confirmation when a sticker pack is installed",
@@ -16390,8 +16326,7 @@
             "value" : "貼圖包安裝成功！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.stickerSavedToYourCollectionDot" : {
       "comment" : "Confirmation when a sticker is saved to a collection",
@@ -16643,8 +16578,7 @@
             "value" : "貼圖已儲存到你的收藏！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.stickerSentSuccessfullyDot" : {
       "comment" : "Confirmation when a sticker is sent",
@@ -16896,8 +16830,7 @@
             "value" : "貼圖發送成功！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.yourStickerPackIsReadyDot" : {
       "comment" : "Confirmation when a sticker pack is ready to use",
@@ -17149,8 +17082,7 @@
             "value" : "你的貼紙包已準備好！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addingAnimationDots" : {
       "comment" : "Placeholder while adding animation to a sticker",
@@ -17401,8 +17333,7 @@
             "value" : "添加动画…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addingToFavoritesDots" : {
       "comment" : "Placeholder while adding a sticker to favorites",
@@ -17653,8 +17584,7 @@
             "value" : "將標記加入最愛中…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addingToKeyboardDots" : {
       "comment" : "Placeholder while adding a sticker to the keyboard",
@@ -17905,8 +17835,7 @@
             "value" : "將標記加入鍵盤中…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.applyingEffectsDots" : {
       "comment" : "Placeholder while applying effects to a sticker",
@@ -18157,8 +18086,7 @@
             "value" : "正在加载特效…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.applyingStyleDots" : {
       "comment" : "Placeholder while applying a style to a sticker",
@@ -18409,8 +18337,7 @@
             "value" : "應用風格中…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.creatingCollectionDots" : {
       "comment" : "Placeholder while creating a collection of stickers",
@@ -18661,8 +18588,7 @@
             "value" : "創建集合…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.creatingStickerDots" : {
       "comment" : "Placeholder while creating a new sticker",
@@ -18913,8 +18839,7 @@
             "value" : "創建貼紙…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.customizingStickerDots" : {
       "comment" : "Placeholder while customizing a sticker",
@@ -19165,8 +19090,7 @@
             "value" : "自定義貼紙…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterCategoryTagsDots" : {
       "comment" : "Placeholder for entering category tags for a sticker",
@@ -19417,8 +19341,7 @@
             "value" : "輸入類別標籤…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterPackDetailsDots" : {
       "comment" : "Placeholder for entering details of a sticker pack",
@@ -19669,8 +19592,7 @@
             "value" : "輸入貼紙包詳情…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterPackNameDots" : {
       "comment" : "Placeholder for entering the name of a sticker pack",
@@ -19921,8 +19843,7 @@
             "value" : "輸入貼紙包名稱…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterStickerTagsDots" : {
       "comment" : "Placeholder for entering tags for a sticker",
@@ -20173,8 +20094,7 @@
             "value" : "輸入貼紙標籤…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.importFromPhotosDots" : {
       "comment" : "Placeholder while importing a sticker from photos",
@@ -20425,8 +20345,7 @@
             "value" : "從相片中導入..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.installingPackDots" : {
       "comment" : "Placeholder while installing a sticker pack",
@@ -20677,8 +20596,7 @@
             "value" : "安裝貼紙包中..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.loadingStickerPackDots" : {
       "comment" : "Placeholder while loading a sticker pack",
@@ -20929,8 +20847,7 @@
             "value" : "加載貼紙包中..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.preparingPreviewDots" : {
       "comment" : "Placeholder while preparing a preview of a sticker",
@@ -21181,8 +21098,7 @@
             "value" : "準備預覽…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.removingBackgroundDots" : {
       "comment" : "Placeholder while removing the background from a sticker",
@@ -21433,8 +21349,7 @@
             "value" : "正在移除背景…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.savingToPhotosDots" : {
       "comment" : "Placeholder while saving a sticker to photos",
@@ -21685,8 +21600,7 @@
             "value" : "正在保存到相片…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchStickersDots" : {
       "comment" : "Placeholder for searching for stickers",
@@ -21937,8 +21851,7 @@
             "value" : "搜尋貼圖…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.sharingStickerDots" : {
       "comment" : "Placeholder while sharing a sticker",
@@ -22189,8 +22102,7 @@
             "value" : "分享貼紙…"
           }
         }
-      },
-      "proofread" : true
+      }
     }
   },
   "version" : "1.0"

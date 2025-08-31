@@ -250,8 +250,7 @@
             "value" : "封存"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.assignTask" : {
       "comment" : "Use for assigning a task to someone",
@@ -502,8 +501,7 @@
             "value" : "指派任務"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.attachFile" : {
       "comment" : "Use for attaching a file to a task or message",
@@ -754,8 +752,7 @@
             "value" : "附加檔案"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.continueEditing" : {
       "comment" : "Use for resuming editing a document or item",
@@ -1006,8 +1003,7 @@
             "value" : "繼續編輯"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.convert" : {
       "comment" : "Use for converting file formats or data types",
@@ -1258,8 +1254,7 @@
             "value" : "轉換"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.createGroup" : {
       "comment" : "Use for creating a new group or collection",
@@ -1510,8 +1505,7 @@
             "value" : "創建群組"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.createNew" : {
       "comment" : "Use for creating a new item, file, or task",
@@ -1762,8 +1756,7 @@
             "value" : "創建新項目"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.createProject" : {
       "comment" : "Use for starting a new project",
@@ -2014,8 +2007,7 @@
             "value" : "建立項目"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.createTask" : {
       "comment" : "Use for creating a new task",
@@ -2266,8 +2258,7 @@
             "value" : "創建任務"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.editNote" : {
       "comment" : "Use for editing a note or reminder",
@@ -2518,8 +2509,7 @@
             "value" : "編輯便條"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.exportPDF" : {
       "comment" : "Use for exporting content as a PDF file",
@@ -2770,8 +2760,7 @@
             "value" : "輸出為PDF"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.generateReport" : {
       "comment" : "Use for generating a report from data",
@@ -3022,8 +3011,7 @@
             "value" : "生成報告"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.importData" : {
       "comment" : "Use for importing data from external sources",
@@ -3274,8 +3262,7 @@
             "value" : "導入數據"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.markAsDone" : {
       "comment" : "Use for marking a task as completed",
@@ -3526,8 +3513,7 @@
             "value" : "標記為已完成"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.markAsImportant" : {
       "comment" : "Use for highlighting a task or item as important",
@@ -3778,8 +3764,7 @@
             "value" : "标记为重要"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.markAsRead" : {
       "comment" : "Use for marking a message or notification as read",
@@ -4030,8 +4015,7 @@
             "value" : "標示為已讀"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.markAsUnread" : {
       "comment" : "Use for marking a message or notification as unread",
@@ -4282,8 +4266,7 @@
             "value" : "标记为未读"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.moveToFolder" : {
       "comment" : "Use for moving an item or task to a folder",
@@ -4534,8 +4517,7 @@
             "value" : "移动至文件夹"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.pin" : {
       "comment" : "Use for pinning an item or task to the top",
@@ -4786,8 +4768,7 @@
             "value" : "釘選"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.prioritize" : {
       "comment" : "Use for setting the priority of a task or project",
@@ -5038,8 +5019,7 @@
             "value" : "優先考慮"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.recordTime" : {
       "comment" : "Use for recording the time spent on a task",
@@ -5290,8 +5270,7 @@
             "value" : "記錄時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.restoreBackup" : {
       "comment" : "Use for restoring a previous backup",
@@ -5542,8 +5521,7 @@
             "value" : "恢復備份"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.setDeadline" : {
       "comment" : "Use for setting a deadline for a task or project",
@@ -5794,8 +5772,7 @@
             "value" : "設定最後期限"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.setDueDate" : {
       "comment" : "Use for setting a due date for a task or project",
@@ -6046,8 +6023,7 @@
             "value" : "設置到期日"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.setPriority" : {
       "comment" : "Use for setting the priority level of a task or project",
@@ -6298,8 +6274,7 @@
             "value" : "設置優先級"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.setReminder" : {
       "comment" : "Use for setting a reminder for a task or event",
@@ -6550,8 +6525,7 @@
             "value" : "設定提醒"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.sortByDeadline" : {
       "comment" : "Use for sorting tasks or items by their deadline",
@@ -6802,8 +6776,7 @@
             "value" : "按截止日期排序"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.sortByDueDate" : {
       "comment" : "Use for sorting tasks or items by their due date",
@@ -7054,8 +7027,7 @@
             "value" : "按到期日排序"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.sortByPriority" : {
       "comment" : "Use for sorting tasks or items by their priority",
@@ -7306,8 +7278,7 @@
             "value" : "按優先級排序"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.startTimer" : {
       "comment" : "Use for starting a time tracking timer",
@@ -7558,8 +7529,7 @@
             "value" : "開始計時"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.stopTimer" : {
       "comment" : "Use for stopping a time tracking timer",
@@ -7810,8 +7780,7 @@
             "value" : "停止計時器"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.trackTime" : {
       "comment" : "Use for tracking the amount of time spent on a task",
@@ -8062,8 +8031,7 @@
             "value" : "追蹤時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.unarchive" : {
       "comment" : "Use for unarchiving previously archived content",
@@ -8314,8 +8282,7 @@
             "value" : "取消檔案封存"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.unpin" : {
       "comment" : "Use for removing an item from the pinned section",
@@ -8566,8 +8533,7 @@
             "value" : "取消釘選"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.assignedTo" : {
       "comment" : "Use when referring to the person responsible for a task",
@@ -8818,8 +8784,7 @@
             "value" : "分配给"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.assignee" : {
       "comment" : "Use for the person assigned to complete a task",
@@ -9070,8 +9035,7 @@
             "value" : "受派人"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.attachments" : {
       "comment" : "Use when referring to files or documents attached to a task",
@@ -9322,8 +9286,7 @@
             "value" : "附件"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.completed" : {
       "comment" : "Use to indicate that a task is finished",
@@ -9574,8 +9537,7 @@
             "value" : "已完成"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.creationDate" : {
       "comment" : "Use for the date a task or project was created",
@@ -9826,8 +9788,7 @@
             "value" : "製作日期"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.description" : {
       "comment" : "Use for a brief explanation of a task or project",
@@ -10078,8 +10039,7 @@
             "value" : "描述"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.documents" : {
       "comment" : "Use for files related to a task or project",
@@ -10330,8 +10290,7 @@
             "value" : "文件"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.draft" : {
       "comment" : "Use for a task or document that is in an unfinished state",
@@ -10582,8 +10541,7 @@
             "value" : "草稿"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.dueDate" : {
       "comment" : "Use for the deadline by which a task or project must be completed",
@@ -10834,8 +10792,7 @@
             "value" : "到期日"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.dueToday" : {
       "comment" : "Use to indicate that a task or project is due today",
@@ -11086,8 +11043,7 @@
             "value" : "今天到期"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.endTime" : {
       "comment" : "Use for the time at which a task or project is expected to end",
@@ -11338,8 +11294,7 @@
             "value" : "結束時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.files" : {
       "comment" : "Use when referring to all types of files related to a task or project",
@@ -11590,8 +11545,7 @@
             "value" : "檔案"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.folder" : {
       "comment" : "Use when referring to a container or directory for organizing tasks or files",
@@ -11842,8 +11796,7 @@
             "value" : "資料夾"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.labels" : {
       "comment" : "Use for tags or keywords assigned to a task or project",
@@ -12094,8 +12047,7 @@
             "value" : "標籤"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.lastModified" : {
       "comment" : "Use for the date or time when a task or document was last changed",
@@ -12346,8 +12298,7 @@
             "value" : "最後修改時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.modifiedBy" : {
       "comment" : "Use for the person who last made changes to a task or project",
@@ -12598,8 +12549,7 @@
             "value" : "最後修改者"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.notes" : {
       "comment" : "Use for additional information or comments related to a task or project",
@@ -12850,8 +12800,7 @@
             "value" : "備忘錄"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.overdue" : {
       "comment" : "Use to indicate that a task or project has passed its due date",
@@ -13102,8 +13051,7 @@
             "value" : "逾期"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.owner" : {
       "comment" : "Use for the person who owns or is responsible for a task or project",
@@ -13354,8 +13302,7 @@
             "value" : "擁有者"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.priority" : {
       "comment" : "Use for setting the urgency or importance of a task or project",
@@ -13606,8 +13553,7 @@
             "value" : "優先次序"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.progress" : {
       "comment" : "Use to indicate the current status or completion level of a task",
@@ -13858,8 +13804,7 @@
             "value" : "進度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.project" : {
       "comment" : "Use for a specific task or set of tasks organized for a particular goal",
@@ -14110,8 +14055,7 @@
             "value" : "項目"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.reminders" : {
       "comment" : "Use for notifications to remind users of pending tasks or deadlines",
@@ -14362,8 +14306,7 @@
             "value" : "提醒事項"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.sharedWith" : {
       "comment" : "Use for listing individuals with whom a task or project is shared",
@@ -14614,8 +14557,7 @@
             "value" : "共享對象"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.startTime" : {
       "comment" : "Use for the time at which a task or project is scheduled to begin",
@@ -14866,8 +14808,7 @@
             "value" : "開始時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.status" : {
       "comment" : "Use for the current state or condition of a task or project",
@@ -15118,8 +15059,7 @@
             "value" : "狀態"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.subtasks" : {
       "comment" : "Use for smaller tasks or steps within a larger task or project",
@@ -15370,8 +15310,7 @@
             "value" : "子任務"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.tags" : {
       "comment" : "Use for additional keywords or labels to categorize tasks or projects",
@@ -15622,8 +15561,7 @@
             "value" : "標籤"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.task" : {
       "comment" : "Use for an individual assignment or job that needs to be completed",
@@ -15874,8 +15812,7 @@
             "value" : "任務"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.timeSpent" : {
       "comment" : "Use for tracking the amount of time spent on a task or project",
@@ -16126,8 +16063,7 @@
             "value" : "所花時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.totalTime" : {
       "comment" : "Use for the total amount of time spent on a task or project",
@@ -16378,8 +16314,7 @@
             "value" : "總時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.allTasksCompletedDot" : {
       "comment" : "Message displayed when all tasks have been completed",
@@ -16631,8 +16566,7 @@
             "value" : "所有任務已完成！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.assignmentSuccessfullyCreatedDot" : {
       "comment" : "Confirmation message when a new assignment is created",
@@ -16884,8 +16818,7 @@
             "value" : "任務已成功創建。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.changesWillSyncWhenYoureBackOnlineDot" : {
       "comment" : "Message indicating changes will sync after reconnecting",
@@ -17137,8 +17070,7 @@
             "value" : "更改會在你再次聯網時同步。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.newTaskAssignedToYouDot" : {
       "comment" : "Notification when a new task is assigned to the user",
@@ -17390,8 +17322,7 @@
             "value" : "您已被分配新任務。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.noTasksDueTodayDot" : {
       "comment" : "Message displayed when there are no tasks due today",
@@ -17643,8 +17574,7 @@
             "value" : "今天沒有到期的任務。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.projectArchivedSuccessfullyDot" : {
       "comment" : "Confirmation message when a project is archived",
@@ -17896,8 +17826,7 @@
             "value" : "項目已成功歸檔。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.reminderSetForThisTaskDot" : {
       "comment" : "Confirmation message when a reminder is set for a task",
@@ -18149,8 +18078,7 @@
             "value" : "此任務的提醒已設定。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.reportGeneratedSuccessfullyDot" : {
       "comment" : "Confirmation message when a report is generated",
@@ -18402,8 +18330,7 @@
             "value" : "報告已成功生成。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.taskCompletedSuccessfullyDot" : {
       "comment" : "Confirmation message when a task is completed",
@@ -18655,8 +18582,7 @@
             "value" : "任務已成功完成。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.taskCreatedSuccessfullyDot" : {
       "comment" : "Confirmation message when a new task is created",
@@ -18908,8 +18834,7 @@
             "value" : "任務已成功創建。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.taskDueIn5MinutesDot" : {
       "comment" : "Notification when a task is due in the next 5 minutes",
@@ -19161,8 +19086,7 @@
             "value" : "任務在五分鐘內到期。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.taskListIsEmptyDot" : {
       "comment" : "Message displayed when there are no tasks in the list",
@@ -19414,8 +19338,7 @@
             "value" : "任務列表為空。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.thisFolderIsEmptyDot" : {
       "comment" : "Message displayed when a folder has no content",
@@ -19667,8 +19590,7 @@
             "value" : "此文件夾為空。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.timeTrackingStartedDot" : {
       "comment" : "Confirmation message when time tracking starts",
@@ -19920,8 +19842,7 @@
             "value" : "時間跟踪已開始。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.yourChangesAreSavedDot" : {
       "comment" : "Message indicating that the user's changes have been saved",
@@ -20173,8 +20094,7 @@
             "value" : "您的更改已儲存。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addADescriptionDots" : {
       "comment" : "Placeholder text for adding a description to a task or project",
@@ -20425,8 +20345,7 @@
             "value" : "新增描述…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addANoteDots" : {
       "comment" : "Placeholder text for adding a note",
@@ -20677,8 +20596,7 @@
             "value" : "添加备注…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addATagDots" : {
       "comment" : "Placeholder text for adding a tag to a task or project",
@@ -20929,8 +20847,7 @@
             "value" : "添加标签…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addSubtaskDots" : {
       "comment" : "Placeholder text for adding a subtask to a project",
@@ -21181,8 +21098,7 @@
             "value" : "新增子任务…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addTaskDetailsDots" : {
       "comment" : "Placeholder text for adding task-specific details",
@@ -21433,8 +21349,7 @@
             "value" : "添加任務詳情…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.createNewFolderDots" : {
       "comment" : "Placeholder text for creating a new folder",
@@ -21685,8 +21600,7 @@
             "value" : "創建新資料夾…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.createNewProjectDots" : {
       "comment" : "Placeholder text for creating a new project",
@@ -21937,8 +21851,7 @@
             "value" : "創建新項目…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.describeYourTaskDots" : {
       "comment" : "Placeholder text for describing a task",
@@ -22189,8 +22102,7 @@
             "value" : "描述你的任務…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterDeadlineDots" : {
       "comment" : "Placeholder text for entering the deadline of a task",
@@ -22441,8 +22353,7 @@
             "value" : "輸入截止日期…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterDueDateDots" : {
       "comment" : "Placeholder text for entering the due date of a task",
@@ -22693,8 +22604,7 @@
             "value" : "輸入到期日…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterProjectNameDots" : {
       "comment" : "Placeholder text for entering the project name",
@@ -22945,8 +22855,7 @@
             "value" : "輸入項目名稱…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterTaskDescriptionDots" : {
       "comment" : "Placeholder text for entering a task description",
@@ -23197,8 +23106,7 @@
             "value" : "輸入任務描述…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterTaskTitleDots" : {
       "comment" : "Placeholder text for entering a task title",
@@ -23449,8 +23357,7 @@
             "value" : "輸入任務標題…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterTimeSpentDots" : {
       "comment" : "Placeholder text for entering the time spent on a task",
@@ -23701,8 +23608,7 @@
             "value" : "輸入花費的時間…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.newFolderNameDots" : {
       "comment" : "Placeholder text for naming a new folder",
@@ -23953,8 +23859,7 @@
             "value" : "新文件夾名稱…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.newProjectNameDots" : {
       "comment" : "Placeholder text for naming a new project",
@@ -24205,8 +24110,7 @@
             "value" : "新項目名稱…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.newTaskNameDots" : {
       "comment" : "Placeholder text for naming a new task",
@@ -24457,8 +24361,7 @@
             "value" : "新任務名稱…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.noTasksFoundDots" : {
       "comment" : "Placeholder text indicating no tasks are available",
@@ -24709,8 +24612,7 @@
             "value" : "沒有找到任務…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchTasksDots" : {
       "comment" : "Placeholder text for searching tasks",
@@ -24961,8 +24863,7 @@
             "value" : "搜尋任務…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.setReminderTimeDots" : {
       "comment" : "Placeholder text for setting a reminder time",
@@ -25213,8 +25114,7 @@
             "value" : "設好設置提醒時間…"
           }
         }
-      },
-      "proofread" : true
+      }
     }
   },
   "version" : "1.0"

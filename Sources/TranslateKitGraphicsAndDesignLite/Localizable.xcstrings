@@ -250,8 +250,7 @@
             "value" : "对齐"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.arrange" : {
       "comment" : "Use for rearranging elements in a design",
@@ -502,8 +501,7 @@
             "value" : "整理"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.blend" : {
       "comment" : "Use for blending layers or colors",
@@ -754,8 +752,7 @@
             "value" : "融合"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.crop" : {
       "comment" : "Use for trimming an image or content",
@@ -1006,8 +1003,7 @@
             "value" : "裁剪"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.customize" : {
       "comment" : "Use when modifying a design or template",
@@ -1258,8 +1254,7 @@
             "value" : "自訂"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.duplicate" : {
       "comment" : "Use for creating a copy of an element",
@@ -1510,8 +1505,7 @@
             "value" : "製作副本"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.fill" : {
       "comment" : "Use for filling shapes or areas with color or patterns",
@@ -1762,8 +1756,7 @@
             "value" : "填充"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.flip" : {
       "comment" : "Use for flipping an element horizontally or vertically",
@@ -2014,8 +2007,7 @@
             "value" : "翻转"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.group" : {
       "comment" : "Use for grouping multiple elements together",
@@ -2266,8 +2258,7 @@
             "value" : "群組"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.mask" : {
       "comment" : "Use for masking parts of an image or element",
@@ -2518,8 +2509,7 @@
             "value" : "遮罩"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.mirror" : {
       "comment" : "Use for mirroring an element along an axis",
@@ -2770,8 +2760,7 @@
             "value" : "镜像"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.order" : {
       "comment" : "Use for changing the stacking order of elements",
@@ -3022,8 +3011,7 @@
             "value" : "訂單"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.paste" : {
       "comment" : "Use for pasting copied content into the workspace",
@@ -3274,8 +3262,7 @@
             "value" : "貼上"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.print" : {
       "comment" : "Use for printing the design or document",
@@ -3526,8 +3513,7 @@
             "value" : "列印"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.resize" : {
       "comment" : "Use for changing the dimensions of an element",
@@ -3778,8 +3764,7 @@
             "value" : "調整大小"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.rotate" : {
       "comment" : "Use for rotating an element by a specified angle",
@@ -4030,8 +4015,7 @@
             "value" : "旋轉"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.scale" : {
       "comment" : "Use for adjusting the size of an element while maintaining proportions",
@@ -4282,8 +4266,7 @@
             "value" : "縮放"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.setColor" : {
       "comment" : "Use for setting the color of an element",
@@ -4534,8 +4517,7 @@
             "value" : "設置顏色"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.sketch" : {
       "comment" : "Use for drawing or sketching elements",
@@ -4786,8 +4768,7 @@
             "value" : "圖畫"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.stroke" : {
       "comment" : "Use for applying a stroke to an element or shape",
@@ -5038,8 +5019,7 @@
             "value" : "筆畫"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.transform" : {
       "comment" : "Use for transforming an element's position or shape",
@@ -5290,8 +5270,7 @@
             "value" : "轉換"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.trim" : {
       "comment" : "Use for trimming or cropping elements",
@@ -5542,8 +5521,7 @@
             "value" : "裁剪"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.ungroup" : {
       "comment" : "Use for separating grouped elements",
@@ -5794,8 +5772,7 @@
             "value" : "拆分"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.alignment" : {
       "comment" : "Use when referring to the positioning of elements",
@@ -6046,8 +6023,7 @@
             "value" : "對齊"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.artboard" : {
       "comment" : "Use for the main workspace area in design tools",
@@ -6298,8 +6274,7 @@
             "value" : "画板"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.blendMode" : {
       "comment" : "Use for defining how layers interact with each other",
@@ -6550,8 +6525,7 @@
             "value" : "混合模式"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.border" : {
       "comment" : "Use when referring to the outer edge or frame of an element",
@@ -6802,8 +6776,7 @@
             "value" : "边框"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.brush" : {
       "comment" : "Use for the drawing tool used to apply color or texture",
@@ -7054,8 +7027,7 @@
             "value" : "画笔"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.canvas" : {
       "comment" : "Use for the area where designs are created or edited",
@@ -7306,8 +7278,7 @@
             "value" : "画布"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.colorFilter" : {
       "comment" : "Use for applying a filter to modify colors",
@@ -7558,8 +7529,7 @@
             "value" : "顏色過濾器"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.curve" : {
       "comment" : "Use for a curved line or shape",
@@ -7810,8 +7780,7 @@
             "value" : "曲線"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.design" : {
       "comment" : "Use when referring to the overall visual creation or layout",
@@ -8062,8 +8031,7 @@
             "value" : "設計"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.effects" : {
       "comment" : "Use for visual enhancements applied to elements",
@@ -8314,8 +8282,7 @@
             "value" : "效果"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.fillColor" : {
       "comment" : "Use when applying color to fill an element",
@@ -8566,8 +8533,7 @@
             "value" : "填充顏色"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.fontFamily" : {
       "comment" : "Use for defining the typeface of text",
@@ -8818,8 +8784,7 @@
             "value" : "字體系列"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.fontSize" : {
       "comment" : "Use for defining the size of text",
@@ -9070,8 +9035,7 @@
             "value" : "字型大小"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.format" : {
       "comment" : "Use for specifying the layout or type of a design element",
@@ -9322,8 +9286,7 @@
             "value" : "格式"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.frame" : {
       "comment" : "Use for defining the boundaries or structure of an element",
@@ -9574,8 +9537,7 @@
             "value" : "框架"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.gradient" : {
       "comment" : "Use for applying a gradual transition of colors",
@@ -9826,8 +9788,7 @@
             "value" : "漸變"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.grid" : {
       "comment" : "Use for a layout tool for alignment or positioning elements",
@@ -10078,8 +10039,7 @@
             "value" : "格狀"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.imageQuality" : {
       "comment" : "Use for adjusting the resolution or sharpness of an image",
@@ -10330,8 +10290,7 @@
             "value" : "影像質量"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.layer" : {
       "comment" : "Use for a single level of an image or design composition",
@@ -10582,8 +10541,7 @@
             "value" : "圖層"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.layout" : {
       "comment" : "Use for the arrangement of elements in a design",
@@ -10834,8 +10792,7 @@
             "value" : "佈局"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.opacity" : {
       "comment" : "Use for adjusting the transparency of an element",
@@ -11086,8 +11043,7 @@
             "value" : "不透明度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.options" : {
       "comment" : "Use for configurable settings or preferences",
@@ -11338,8 +11294,7 @@
             "value" : "選項"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.output" : {
       "comment" : "Use for the final result or export of a design",
@@ -11590,8 +11545,7 @@
             "value" : "輸出"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.pixels" : {
       "comment" : "Use when referring to the smallest units of a digital image",
@@ -11842,8 +11796,7 @@
             "value" : "像素"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.position" : {
       "comment" : "Use for determining the location of an element",
@@ -12094,8 +12047,7 @@
             "value" : "位置"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.preview" : {
       "comment" : "Use for viewing a design before finalizing",
@@ -12346,8 +12298,7 @@
             "value" : "預覽"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.resolution" : {
       "comment" : "Use for the level of detail in an image",
@@ -12598,8 +12549,7 @@
             "value" : "分辨率"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.scale" : {
       "comment" : "Use for resizing an element without changing its proportions",
@@ -12850,8 +12800,7 @@
             "value" : "比例"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.shape" : {
       "comment" : "Use for defining the form or outline of an element",
@@ -13102,8 +13051,7 @@
             "value" : "形狀"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.size" : {
       "comment" : "Use for defining the dimensions of an element",
@@ -13354,8 +13302,7 @@
             "value" : "大小"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.style" : {
       "comment" : "Use for applying a visual theme or look to an element",
@@ -13606,8 +13553,7 @@
             "value" : "樣式"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.text" : {
       "comment" : "Use when referring to written content",
@@ -13858,8 +13804,7 @@
             "value" : "文字"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.tools" : {
       "comment" : "Use for the software features used in creating designs",
@@ -14110,8 +14055,7 @@
             "value" : "工具"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.transform" : {
       "comment" : "Use for changing the position or shape of an element",
@@ -14362,8 +14306,7 @@
             "value" : "變換"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.vector" : {
       "comment" : "Use for graphics defined by paths or mathematical expressions",
@@ -14614,8 +14557,7 @@
             "value" : "向量"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.artboardIsEmptyDot" : {
       "comment" : "Displayed when there are no elements in the artboard",
@@ -14867,8 +14809,7 @@
             "value" : "畫板是空的。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.designHasBeenExportedSuccessfullyDot" : {
       "comment" : "Confirmation message after exporting a design",
@@ -15120,8 +15061,7 @@
             "value" : "設計已成功導出。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.exportCompletedSuccessfullyDot" : {
       "comment" : "Message indicating a successful export",
@@ -15373,8 +15313,7 @@
             "value" : "導出已成功完成。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.fileExceedsMaximumCanvasSizeDot" : {
       "comment" : "Error displayed when the file is too large for the canvas",
@@ -15626,8 +15565,7 @@
             "value" : "文件超出最大畫布大小。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.fontNotFoundInSystemDot" : {
       "comment" : "Error displayed when a specified font is missing",
@@ -15879,8 +15817,7 @@
             "value" : "系統中找不到字型。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.imageResolutionIsTooLowDot" : {
       "comment" : "Warning when the image resolution is insufficient",
@@ -16132,8 +16069,7 @@
             "value" : "圖片解析度太低。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.layerIsLockedDot" : {
       "comment" : "Message when attempting to modify a locked layer",
@@ -16385,8 +16321,7 @@
             "value" : "圖層已鎖定。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.noCompatibleFontsFoundDot" : {
       "comment" : "Error when no compatible fonts are available",
@@ -16638,8 +16573,7 @@
             "value" : "未找到兼容的字體。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.projectContainsMissingFontsDot" : {
       "comment" : "Warning when the project references missing fonts",
@@ -16891,8 +16825,7 @@
             "value" : "項目包含缺失的字體。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.resolutionMayAffectQualityDot" : {
       "comment" : "Warning about potential quality loss due to low resolution",
@@ -17144,8 +17077,7 @@
             "value" : "解析度可能會影響質量。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.someElementsAreOutsideCanvasDot" : {
       "comment" : "Message indicating elements are outside the artboard area",
@@ -17397,8 +17329,7 @@
             "value" : "某些元素超出畫布範圍。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.someLayersAreHiddenDot" : {
       "comment" : "Information when some layers are not visible",
@@ -17650,8 +17581,7 @@
             "value" : "某些圖層被隱藏。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.unableToImportUnsupportedFormatDot" : {
       "comment" : "Error when attempting to import an unsupported file format",
@@ -17903,8 +17833,7 @@
             "value" : "無法匯入不支援的格式。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.unsavedChangesWillBeLostDot" : {
       "comment" : "Warning when attempting to leave a page with unsaved changes",
@@ -18156,8 +18085,7 @@
             "value" : "未儲存的更改將會丟失。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.yourWorkIsBeingSavedDot" : {
       "comment" : "Message displayed while saving the user's work",
@@ -18409,8 +18337,7 @@
             "value" : "你的工作正在保存中。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.adjustOpacityDots" : {
       "comment" : "Placeholder text for adjusting opacity",
@@ -18661,8 +18588,7 @@
             "value" : "調整不透明度…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.chooseBrushSizeDots" : {
       "comment" : "Placeholder text for selecting brush size",
@@ -18913,8 +18839,7 @@
             "value" : "選擇畫筆大小…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.chooseColorDots" : {
       "comment" : "Placeholder text for selecting a color",
@@ -19165,8 +19090,7 @@
             "value" : "選擇顏色…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.chooseFontFamilyDots" : {
       "comment" : "Placeholder text for selecting a font family",
@@ -19417,8 +19341,7 @@
             "value" : "選擇字體系列…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.chooseLayerStyleDots" : {
       "comment" : "Placeholder text for selecting a layer style",
@@ -19669,8 +19592,7 @@
             "value" : "選擇圖層樣式…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.createNewLayerDots" : {
       "comment" : "Placeholder text for creating a new layer",
@@ -19921,8 +19843,7 @@
             "value" : "創建新圖層…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterArtboardDimensionsDots" : {
       "comment" : "Placeholder text for entering artboard dimensions",
@@ -20173,8 +20094,7 @@
             "value" : "輸入畫板尺寸…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterHexColorDots" : {
       "comment" : "Placeholder text for entering a hex color code",
@@ -20425,8 +20345,7 @@
             "value" : "輸入十六進制顏色…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterImageDimensionsDots" : {
       "comment" : "Placeholder text for entering image dimensions",
@@ -20677,8 +20596,7 @@
             "value" : "輸入圖片尺寸…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterLayerNameDots" : {
       "comment" : "Placeholder text for entering a layer's name",
@@ -20929,8 +20847,7 @@
             "value" : "輸入圖層名稱…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterTextDots" : {
       "comment" : "Placeholder text for entering text",
@@ -21181,8 +21098,7 @@
             "value" : "輸入文本…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.exportInProgressDots" : {
       "comment" : "Placeholder text indicating an ongoing export",
@@ -21433,8 +21349,7 @@
             "value" : "正在導出…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.insertTextHereDots" : {
       "comment" : "Placeholder text for inserting text",
@@ -21685,8 +21600,7 @@
             "value" : "在此插入文字..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.pickAColorDots" : {
       "comment" : "Placeholder text for picking a color",
@@ -21937,8 +21851,7 @@
             "value" : "選擇顏色…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.renderingPreviewDots" : {
       "comment" : "Placeholder text for a preview being rendered",
@@ -22189,8 +22102,7 @@
             "value" : "正在渲染預覽…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchFontsDots" : {
       "comment" : "Placeholder text for searching available fonts",
@@ -22441,8 +22353,7 @@
             "value" : "搜尋字型…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.setCanvasSizeDots" : {
       "comment" : "Placeholder text for setting the canvas size",
@@ -22693,8 +22604,7 @@
             "value" : "設置畫布大小…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.setLayerOpacityDots" : {
       "comment" : "Placeholder text for setting the layer opacity",
@@ -22945,8 +22855,7 @@
             "value" : "設置圖層不透明度…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.setStrokeWidthDots" : {
       "comment" : "Placeholder text for setting the stroke width",
@@ -23197,8 +23106,7 @@
             "value" : "設置筆觸寬度…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.specifyDimensionsDots" : {
       "comment" : "Placeholder text for specifying the dimensions of an element",
@@ -23449,8 +23357,7 @@
             "value" : "指定尺寸…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.typeToSearchFontsDots" : {
       "comment" : "Placeholder text for typing to search for fonts",
@@ -23701,8 +23608,7 @@
             "value" : "輸入以搜索字型…"
           }
         }
-      },
-      "proofread" : true
+      }
     }
   },
   "version" : "1.0"

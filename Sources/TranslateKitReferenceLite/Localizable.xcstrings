@@ -250,8 +250,7 @@
             "value" : "添加注释"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.addToLibrary" : {
       "comment" : "Use when adding a document to the user's library",
@@ -502,8 +501,7 @@
             "value" : "加至圖庫"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.addToReadingList" : {
       "comment" : "Use when adding a document to a reading list",
@@ -754,8 +752,7 @@
             "value" : "加至閲讀列表"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.bookmark" : {
       "comment" : "Use when saving a page or section for quick access",
@@ -1006,8 +1003,7 @@
             "value" : "書籤"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.browse" : {
       "comment" : "Use when browsing through available documents or materials",
@@ -1258,8 +1254,7 @@
             "value" : "瀏覽"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.cite" : {
       "comment" : "Use when citing a document or resource",
@@ -1510,8 +1505,7 @@
             "value" : "引用"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.compare" : {
       "comment" : "Use when comparing two or more documents or sections",
@@ -1762,8 +1756,7 @@
             "value" : "比較"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.copyLink" : {
       "comment" : "Use when copying a link to a document or resource",
@@ -2014,8 +2007,7 @@
             "value" : "複製連結"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.createNew" : {
       "comment" : "Use when creating a new document or resource",
@@ -2266,8 +2258,7 @@
             "value" : "創建新項目"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.define" : {
       "comment" : "Use when defining a term or concept",
@@ -2518,8 +2509,7 @@
             "value" : "定義"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.downloadMaterials" : {
       "comment" : "Use when downloading materials for offline use",
@@ -2770,8 +2760,7 @@
             "value" : "下載資料"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.exportPDF" : {
       "comment" : "Use when exporting the current document as a PDF",
@@ -3022,8 +3011,7 @@
             "value" : "輸出為PDF"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.generateReport" : {
       "comment" : "Use when generating a report from a document or data",
@@ -3274,8 +3262,7 @@
             "value" : "生成報告"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.goBack" : {
       "comment" : "Use when navigating back to the previous page or section",
@@ -3526,8 +3513,7 @@
             "value" : "返回"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.highlight" : {
       "comment" : "Use when highlighting text or sections in a document",
@@ -3778,8 +3764,7 @@
             "value" : "螢光標示"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.index" : {
       "comment" : "Use when indexing or searching for specific content in a document",
@@ -4030,8 +4015,7 @@
             "value" : "索引"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.lookUp" : {
       "comment" : "Use when looking up a specific term or reference",
@@ -4282,8 +4266,7 @@
             "value" : "查找"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.markAsRead" : {
       "comment" : "Use when marking a document or section as read",
@@ -4534,8 +4517,7 @@
             "value" : "標示為已讀"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.openInBrowser" : {
       "comment" : "Use when opening a document or link in a browser",
@@ -4786,8 +4768,7 @@
             "value" : "在瀏覽器中打開"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.organize" : {
       "comment" : "Use when organizing documents or resources into folders",
@@ -5038,8 +5019,7 @@
             "value" : "組織"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.print" : {
       "comment" : "Use when printing a document or resource",
@@ -5290,8 +5270,7 @@
             "value" : "列印"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.quickLook" : {
       "comment" : "Use when previewing a document or content quickly",
@@ -5542,8 +5521,7 @@
             "value" : "快速查看"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.readArticle" : {
       "comment" : "Use when reading a full article or document",
@@ -5794,8 +5772,7 @@
             "value" : "閱讀文章"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.reference" : {
       "comment" : "Use when referencing a document or source",
@@ -6046,8 +6023,7 @@
             "value" : "參考"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.removeAll" : {
       "comment" : "Use when removing all documents or items from a list",
@@ -6298,8 +6274,7 @@
             "value" : "全部移除"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.research" : {
       "comment" : "Use when conducting research or looking up sources",
@@ -6550,8 +6525,7 @@
             "value" : "研究"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.review" : {
       "comment" : "Use when reviewing a document or material",
@@ -6802,8 +6776,7 @@
             "value" : "檢視"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.saveForLater" : {
       "comment" : "Use when saving a document for future reference",
@@ -7054,8 +7027,7 @@
             "value" : "稍後保存"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.saveToFavorites" : {
       "comment" : "Use when saving a document to favorites",
@@ -7306,8 +7278,7 @@
             "value" : "保存到收藏夾"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.searchInFiles" : {
       "comment" : "Use when searching for documents or items in files",
@@ -7558,8 +7529,7 @@
             "value" : "在檔案中搜尋"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.shareDocument" : {
       "comment" : "Use when sharing a document or resource",
@@ -7810,8 +7780,7 @@
             "value" : "分享文件"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.showHint" : {
       "comment" : "Use when showing a helpful hint or suggestion",
@@ -8062,8 +8031,7 @@
             "value" : "顯示提示"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.study" : {
       "comment" : "Use when studying or reviewing content",
@@ -8314,8 +8282,7 @@
             "value" : "學習"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.subscribe" : {
       "comment" : "Use when subscribing to updates or newsletters",
@@ -8566,8 +8533,7 @@
             "value" : "訂閱"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.translate" : {
       "comment" : "Use when translating text or documents",
@@ -8818,8 +8784,7 @@
             "value" : "翻譯"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.viewDetails" : {
       "comment" : "Use when viewing additional details or information",
@@ -9070,8 +9035,7 @@
             "value" : "檢視詳細資料"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.abbreviation" : {
       "comment" : "Use when referring to an abbreviation or shortened form of a word or phrase",
@@ -9322,8 +9286,7 @@
             "value" : "縮寫"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.audioVersion" : {
       "comment" : "Use when referring to the audio format of a book or document",
@@ -9574,8 +9537,7 @@
             "value" : "音频版本"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.author" : {
       "comment" : "Use when displaying the author of a document or book",
@@ -9826,8 +9788,7 @@
             "value" : "作者"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.bibliography" : {
       "comment" : "Use when referring to the list of sources used in a document",
@@ -10078,8 +10039,7 @@
             "value" : "参考书目"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.bookmark" : {
       "comment" : "Use when referring to a saved location in a document",
@@ -10330,8 +10290,7 @@
             "value" : "書籤"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.bookmarks" : {
       "comment" : "Use when referring to multiple saved locations in a document",
@@ -10582,8 +10541,7 @@
             "value" : "書籤"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.categories" : {
       "comment" : "Use when displaying or organizing documents by category",
@@ -10834,8 +10792,7 @@
             "value" : "類別"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.chapter" : {
       "comment" : "Use when referring to a section of a book or document",
@@ -11086,8 +11043,7 @@
             "value" : "章节"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.citation" : {
       "comment" : "Use when referring to a source reference in a document",
@@ -11338,8 +11294,7 @@
             "value" : "引用"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.contents" : {
       "comment" : "Use when displaying the table of contents in a document or book",
@@ -11590,8 +11545,7 @@
             "value" : "目錄"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.definition" : {
       "comment" : "Use when displaying the meaning of a term or concept",
@@ -11842,8 +11796,7 @@
             "value" : "定義"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.downloads" : {
       "comment" : "Use when referring to available download options",
@@ -12094,8 +12047,7 @@
             "value" : "下載項目"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.encyclopedia" : {
       "comment" : "Use when referring to an encyclopedia or reference book",
@@ -12346,8 +12298,7 @@
             "value" : "百科全書"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.entry" : {
       "comment" : "Use when referring to an individual item or definition in a reference work",
@@ -12598,8 +12549,7 @@
             "value" : "條目"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.examples" : {
       "comment" : "Use when providing examples of terms or concepts",
@@ -12850,8 +12800,7 @@
             "value" : "例子"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.favorites" : {
       "comment" : "Use when referring to the user's favorite documents or resources",
@@ -13102,8 +13051,7 @@
             "value" : "喜好項目"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.glossary" : {
       "comment" : "Use when referring to a list of terms and definitions",
@@ -13354,8 +13302,7 @@
             "value" : "詞彙表"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.history" : {
       "comment" : "Use when referring to the history or past activities of the user",
@@ -13606,8 +13553,7 @@
             "value" : "瀏覽記錄"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.index" : {
       "comment" : "Use when referring to the alphabetical list of topics in a book or document",
@@ -13858,8 +13804,7 @@
             "value" : "索引"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.keywords" : {
       "comment" : "Use when referring to important terms or topics in a document",
@@ -14110,8 +14055,7 @@
             "value" : "關鍵字"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.language" : {
       "comment" : "Use when referring to the language of the document or content",
@@ -14362,8 +14306,7 @@
             "value" : "語言"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.lastUpdated" : {
       "comment" : "Use when displaying the last update date of a document",
@@ -14614,8 +14557,7 @@
             "value" : "最近更新"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.meaning" : {
       "comment" : "Use when referring to the definition or significance of a term",
@@ -14866,8 +14808,7 @@
             "value" : "意思"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.notes" : {
       "comment" : "Use when referring to additional comments or annotations",
@@ -15118,8 +15059,7 @@
             "value" : "備忘錄"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.page" : {
       "comment" : "Use when referring to a single page in a document",
@@ -15370,8 +15310,7 @@
             "value" : "頁面"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.pageNumber" : {
       "comment" : "Use when displaying the page number in a document",
@@ -15622,8 +15561,7 @@
             "value" : "頁碼"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.references" : {
       "comment" : "Use when referring to the list of sources cited in a document",
@@ -15874,8 +15812,7 @@
             "value" : "參考文獻"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.resources" : {
       "comment" : "Use when referring to materials or sources for further reading",
@@ -16126,8 +16063,7 @@
             "value" : "資源"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.searchHistory" : {
       "comment" : "Use when referring to the history of searches made by the user",
@@ -16378,8 +16314,7 @@
             "value" : "搜索歷史"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.source" : {
       "comment" : "Use when referring to the original source of a document or information",
@@ -16630,8 +16565,7 @@
             "value" : "來源"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.summary" : {
       "comment" : "Use when providing a brief overview or summary of a document",
@@ -16882,8 +16816,7 @@
             "value" : "摘要"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.addToFavoritesForQuickAccessLaterDot" : {
       "comment" : "Confirmation when adding an item to favorites",
@@ -17135,8 +17068,7 @@
             "value" : "加入最愛以便稍後快速訪問。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.articleSavedForOfflineReadingDot" : {
       "comment" : "Message when an article is saved for offline use",
@@ -17388,8 +17320,7 @@
             "value" : "文章已儲存以供離線閱讀。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.bookmarkAddedSuccessfullyDot" : {
       "comment" : "Confirmation when a bookmark is added",
@@ -17641,8 +17572,7 @@
             "value" : "書籤已成功添加。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.citationCopiedToClipboardDot" : {
       "comment" : "Confirmation when a citation is copied",
@@ -17894,8 +17824,7 @@
             "value" : "引用已複製到剪貼板。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.contentNotAvailableInYourRegionDot" : {
       "comment" : "Message when content is unavailable in a region",
@@ -18147,8 +18076,7 @@
             "value" : "此內容在你的地區無法獲取。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.definitionNotFoundOfflineDot" : {
       "comment" : "Message when the definition is unavailable offline",
@@ -18400,8 +18328,7 @@
             "value" : "離線模式下找不到定義。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.downloadCompleteDot" : {
       "comment" : "Confirmation when the download is finished",
@@ -18653,8 +18580,7 @@
             "value" : "下載完成。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.entryUpdatedWithLatestInfoDot" : {
       "comment" : "Confirmation when an entry is updated",
@@ -18906,8 +18832,7 @@
             "value" : "條目已更新至最新資訊。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.featureNotAvailableOfflineDot" : {
       "comment" : "Message when a feature is unavailable offline",
@@ -19159,8 +19084,7 @@
             "value" : "此功能在離線下無法使用。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.noMatchesFoundForTermDot" : {
       "comment" : "Message when a search term has no results",
@@ -19412,8 +19336,7 @@
             "value" : "該術語未找到匹配項。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.notesSavedSuccessfullyDot" : {
       "comment" : "Confirmation when notes are saved",
@@ -19665,8 +19588,7 @@
             "value" : "筆記已成功儲存。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.referenceMaterialsDownloadingDot" : {
       "comment" : "Message when reference materials are being downloaded",
@@ -19918,8 +19840,7 @@
             "value" : "參考資料正在下載中。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.searchHistoryClearedDot" : {
       "comment" : "Confirmation when search history is cleared",
@@ -20171,8 +20092,7 @@
             "value" : "已清除搜索記錄。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.textCopiedToClipboardDot" : {
       "comment" : "Confirmation when text is copied",
@@ -20424,8 +20344,7 @@
             "value" : "文字已複製到剪貼板。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.unableToLoadDataDot" : {
       "comment" : "Message when data cannot be loaded",
@@ -20677,8 +20596,7 @@
             "value" : "無法加載數據。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addNoteDots" : {
       "comment" : "Placeholder for adding a new note",
@@ -20930,8 +20848,7 @@
             "value" : "添加便條…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addReferenceDots" : {
       "comment" : "Placeholder for adding a reference or source",
@@ -21182,8 +21099,7 @@
             "value" : "添加參考…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addStudyNoteDots" : {
       "comment" : "Placeholder for adding a study-related note",
@@ -21434,8 +21350,7 @@
             "value" : "添加學習筆記…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.browseByCategoryDots" : {
       "comment" : "Placeholder for browsing by category",
@@ -21686,8 +21601,7 @@
             "value" : "按類別瀏覽…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.browseTopicsDots" : {
       "comment" : "Placeholder for browsing topics",
@@ -21938,8 +21852,7 @@
             "value" : "按主題瀏覽…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.chooseCategoryDots" : {
       "comment" : "Placeholder for selecting a category",
@@ -22191,8 +22104,7 @@
             "value" : "選擇一個類別…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.citeThisEntryDots" : {
       "comment" : "Placeholder for citing the current entry",
@@ -22443,8 +22355,7 @@
             "value" : "引用此條目…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.defineTermDots" : {
       "comment" : "Placeholder for defining a term",
@@ -22695,8 +22606,7 @@
             "value" : "定義術語…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterKeywordsDots" : {
       "comment" : "Placeholder for entering search keywords",
@@ -22947,8 +22857,7 @@
             "value" : "輸入關鍵詞…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterSearchTermDots" : {
       "comment" : "Placeholder for entering a search term",
@@ -23199,8 +23108,7 @@
             "value" : "輸入搜尋詞…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterTopicOrKeywordDots" : {
       "comment" : "Placeholder for entering a topic or keyword",
@@ -23451,8 +23359,7 @@
             "value" : "輸入主題或關鍵詞…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.filterResultsDots" : {
       "comment" : "Placeholder for filtering search results",
@@ -23703,8 +23610,7 @@
             "value" : "過濾結果…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.findInArticleDots" : {
       "comment" : "Placeholder for searching within an article",
@@ -23955,8 +23861,7 @@
             "value" : "在文章中查找…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.lookUpWordDots" : {
       "comment" : "Placeholder for looking up a word or term",
@@ -24207,8 +24112,7 @@
             "value" : "查詢單詞…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.noResultsFoundDots" : {
       "comment" : "Placeholder when no search results are found",
@@ -24459,8 +24363,7 @@
             "value" : "未找到結果…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.quickSearchDots" : {
       "comment" : "Placeholder for quick searching",
@@ -24711,8 +24614,7 @@
             "value" : "快速搜索…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchByKeywordDots" : {
       "comment" : "Placeholder for searching by keyword",
@@ -24963,8 +24865,7 @@
             "value" : "按關鍵字搜尋…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchEncyclopediaDots" : {
       "comment" : "Placeholder for searching an encyclopedia",
@@ -25215,8 +25116,7 @@
             "value" : "搜索百科全书…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchReferencesDots" : {
       "comment" : "Placeholder for searching references",
@@ -25467,8 +25367,7 @@
             "value" : "搜尋參考資料…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.typeToSearchDots" : {
       "comment" : "Placeholder to indicate the user can type to search",
@@ -25719,8 +25618,7 @@
             "value" : "輸入以搜尋…"
           }
         }
-      },
-      "proofread" : true
+      }
     }
   },
   "version" : "1.0"

@@ -250,8 +250,7 @@
             "value" : "加入購物車"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.addToFavorites" : {
       "comment" : "Use when adding an item to the favorite list",
@@ -502,8 +501,7 @@
             "value" : "加至我的最愛"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.applyCoupon" : {
       "comment" : "Use when applying a discount coupon to the order",
@@ -754,8 +752,7 @@
             "value" : "應用優惠券"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.applyFilter" : {
       "comment" : "Use when applying filters to search or menu results",
@@ -1006,8 +1003,7 @@
             "value" : "套用過濾器"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.bookTable" : {
       "comment" : "Use when making a reservation at a restaurant",
@@ -1258,8 +1254,7 @@
             "value" : "预订餐桌"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.browseMenu" : {
       "comment" : "Use when viewing the available menu items",
@@ -1510,8 +1505,7 @@
             "value" : "浏览菜单"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.checkAvailability" : {
       "comment" : "Use when checking the availability of a dish or table",
@@ -1762,8 +1756,7 @@
             "value" : "检查可用性"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.createOrder" : {
       "comment" : "Use when creating a new order",
@@ -2014,8 +2007,7 @@
             "value" : "建立訂單"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.filterDiet" : {
       "comment" : "Use when filtering menu items based on dietary preferences",
@@ -2266,8 +2258,7 @@
             "value" : "將篩選項目"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.likeRecipe" : {
       "comment" : "Use when marking a recipe as liked",
@@ -2518,8 +2509,7 @@
             "value" : "喜欢食谱"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.logMeal" : {
       "comment" : "Use when logging a meal or dish for tracking purposes",
@@ -2770,8 +2760,7 @@
             "value" : "記錄餐食"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.orderNow" : {
       "comment" : "Use for placing an immediate order",
@@ -3022,8 +3011,7 @@
             "value" : "立即訂購"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.placeOrder" : {
       "comment" : "Use when finalizing the order process",
@@ -3274,8 +3262,7 @@
             "value" : "下訂單"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.printRecipe" : {
       "comment" : "Use when printing a recipe for later reference",
@@ -3526,8 +3513,7 @@
             "value" : "列印食譜"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.rateContent" : {
       "comment" : "Use when rating a piece of content",
@@ -3778,8 +3764,7 @@
             "value" : "評價內容"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.rateDish" : {
       "comment" : "Use when rating a specific dish or meal",
@@ -4030,8 +4015,7 @@
             "value" : "評分菜餚"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.removeFromCart" : {
       "comment" : "Use when removing an item from the shopping cart",
@@ -4282,8 +4266,7 @@
             "value" : "從購物車移除"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.reserve" : {
       "comment" : "Use when reserving a table or a service",
@@ -4534,8 +4517,7 @@
             "value" : "預訂"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.reviewOrder" : {
       "comment" : "Use when reviewing the details of an order before confirming",
@@ -4786,8 +4768,7 @@
             "value" : "檢閱訂單"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.saveRecipe" : {
       "comment" : "Use when saving a recipe for future use",
@@ -5038,8 +5019,7 @@
             "value" : "保存食譜"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.scanBarcode" : {
       "comment" : "Use when scanning a barcode for product identification",
@@ -5290,8 +5270,7 @@
             "value" : "掃描條碼"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.scheduleDelivery" : {
       "comment" : "Use when scheduling a delivery for an order",
@@ -5542,8 +5521,7 @@
             "value" : "安排送貨"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.shareRecipe" : {
       "comment" : "Use when sharing a recipe with others",
@@ -5794,8 +5772,7 @@
             "value" : "分享食譜"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.takePhoto" : {
       "comment" : "Use when prompting the user to take a photo",
@@ -6046,8 +6023,7 @@
             "value" : "影相"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.trackOrder" : {
       "comment" : "Use when tracking the status of an order",
@@ -6298,8 +6274,7 @@
             "value" : "追蹤訂單"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.writeReview" : {
       "comment" : "Use when writing a review for a dish or service",
@@ -6550,8 +6525,7 @@
             "value" : "寫評論"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.allergens" : {
       "comment" : "Use for identifying allergens in food items",
@@ -6802,8 +6776,7 @@
             "value" : "過敏原"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.availability" : {
       "comment" : "Use when indicating the availability of an item or service",
@@ -7054,8 +7027,7 @@
             "value" : "可用性"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.averageRating" : {
       "comment" : "Use to display the average rating of a dish or restaurant",
@@ -7306,8 +7278,7 @@
             "value" : "平均评分"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.calories" : {
       "comment" : "Use for displaying the calorie count of a dish or item",
@@ -7558,8 +7529,7 @@
             "value" : "卡路里"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.cookingTime" : {
       "comment" : "Use for indicating the time required to cook a dish",
@@ -7810,8 +7780,7 @@
             "value" : "烹飪時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.cuisine" : {
       "comment" : "Use when referring to the type of cuisine (e.g., Italian, Chinese)",
@@ -8062,8 +8031,7 @@
             "value" : "美食"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.deals" : {
       "comment" : "Use when showing promotional offers or discounts",
@@ -8314,8 +8282,7 @@
             "value" : "優惠"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.deliveryStatus" : {
       "comment" : "Use for showing the current status of a delivery",
@@ -8566,8 +8533,7 @@
             "value" : "派送狀態"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.deliveryTime" : {
       "comment" : "Use for displaying the estimated or actual delivery time",
@@ -8818,8 +8784,7 @@
             "value" : "派送時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.dietaryRestrictions" : {
       "comment" : "Use for indicating any dietary restrictions like vegan, gluten-free",
@@ -9070,8 +9035,7 @@
             "value" : "飲食限制"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.difficulty" : {
       "comment" : "Use for describing the difficulty level of preparing a dish",
@@ -9322,8 +9286,7 @@
             "value" : "難度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.dishes" : {
       "comment" : "Use when referring to individual dishes in a menu or collection",
@@ -9574,8 +9537,7 @@
             "value" : "菜餚"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.favorites" : {
       "comment" : "Use for marking and displaying favorite items or dishes",
@@ -9826,8 +9788,7 @@
             "value" : "喜好項目"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.filters" : {
       "comment" : "Use for refining search or menu item displays",
@@ -10078,8 +10039,7 @@
             "value" : "濾鏡"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.ingredients" : {
       "comment" : "Use for listing ingredients in a recipe or dish",
@@ -10330,8 +10290,7 @@
             "value" : "成分"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.menu" : {
       "comment" : "Use for referring to the list of available dishes or offerings",
@@ -10582,8 +10541,7 @@
             "value" : "選單"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.nutritionFacts" : {
       "comment" : "Use for showing nutritional information about a dish",
@@ -10834,8 +10792,7 @@
             "value" : "營養成分"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.orderHistory" : {
       "comment" : "Use for showing past orders made by the user",
@@ -11086,8 +11043,7 @@
             "value" : "訂單歷史"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.orders" : {
       "comment" : "Use when referring to the list of current or past orders",
@@ -11338,8 +11294,7 @@
             "value" : "訂單"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.paymentMethod" : {
       "comment" : "Use when selecting or displaying available payment options",
@@ -11590,8 +11545,7 @@
             "value" : "付款方式"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.portions" : {
       "comment" : "Use for indicating the size or number of servings in a dish",
@@ -11842,8 +11796,7 @@
             "value" : "份量"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.priceRange" : {
       "comment" : "Use for showing the price range of menu items or orders",
@@ -12094,8 +12047,7 @@
             "value" : "價格範圍"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.rating" : {
       "comment" : "Use for showing the rating of a dish, recipe, or restaurant",
@@ -12346,8 +12298,7 @@
             "value" : "年齡分級"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.reservations" : {
       "comment" : "Use for displaying or making reservations at a restaurant",
@@ -12598,8 +12549,7 @@
             "value" : "預約"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.restaurantInfo" : {
       "comment" : "Use for showing details about a restaurant, such as location, hours",
@@ -12850,8 +12800,7 @@
             "value" : "餐廳資訊"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.reviews" : {
       "comment" : "Use for showing or writing reviews for a dish or restaurant",
@@ -13102,8 +13051,7 @@
             "value" : "評價"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.totalPrice" : {
       "comment" : "Use for showing the total price of an order or meal",
@@ -13354,8 +13302,7 @@
             "value" : "總價格"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.deliveryOrderConfirmed" : {
       "comment" : "Confirmation message when an order is confirmed for delivery",
@@ -13606,8 +13553,7 @@
             "value" : "送貨訂單已確認"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.kitchenIsClosedDot" : {
       "comment" : "Message indicating that the kitchen is currently closed",
@@ -13859,8 +13805,7 @@
             "value" : "廚房已關閉。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.lookingForNearbyRestaurants" : {
       "comment" : "Message when searching for nearby restaurants",
@@ -14111,8 +14056,7 @@
             "value" : "正在搜尋附近的餐廳"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.menuHasBeenUpdatedDot" : {
       "comment" : "Notification when the menu has been updated",
@@ -14364,8 +14308,7 @@
             "value" : "菜單已更新。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.noAvailableReservationsFoundDot" : {
       "comment" : "Message when no reservations are available",
@@ -14617,8 +14560,7 @@
             "value" : "未找到可用的預訂。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.orderIsBeingPreparedDot" : {
       "comment" : "Notification when the order is being prepared",
@@ -14870,8 +14812,7 @@
             "value" : "訂單正在準備中。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.recipeAddedToFavoritesDot" : {
       "comment" : "Confirmation when a recipe is added to favorites",
@@ -15123,8 +15064,7 @@
             "value" : "食譜已加入收藏。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.restaurantIsFullyBookedDot" : {
       "comment" : "Message indicating the restaurant is fully booked",
@@ -15376,8 +15316,7 @@
             "value" : "餐廳已全線訂滿。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.tableReservationConfirmedDot" : {
       "comment" : "Confirmation when a table reservation is successfully made",
@@ -15629,8 +15568,7 @@
             "value" : "桌子預訂已確認。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.thisDishContainsAllergensDot" : {
       "comment" : "Warning message indicating a dish contains allergens",
@@ -15882,8 +15820,7 @@
             "value" : "此菜餚含有過敏原。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.yourOrderHasBeenConfirmedDot" : {
       "comment" : "Confirmation message when an order is confirmed",
@@ -16135,8 +16072,7 @@
             "value" : "你的訂單已確認。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.yourOrderIsOnTheWayDot" : {
       "comment" : "Notification when an order is on its way to the customer",
@@ -16388,8 +16324,7 @@
             "value" : "你的訂單正在運送途中。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addDeliveryInstructionsDots" : {
       "comment" : "Placeholder for adding special instructions for delivery",
@@ -16640,8 +16575,7 @@
             "value" : "新增送货说明…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addDietaryRestrictionsDots" : {
       "comment" : "Placeholder for adding dietary restrictions",
@@ -16892,8 +16826,7 @@
             "value" : "添加饮食限制…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addRecipeDescriptionDots" : {
       "comment" : "Placeholder for adding a description to a recipe",
@@ -17144,8 +17077,7 @@
             "value" : "新增食谱描述…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterAddressForDeliveryDots" : {
       "comment" : "Placeholder for entering delivery address",
@@ -17396,8 +17328,7 @@
             "value" : "輸入送貨地址…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterDeliveryNoteDots" : {
       "comment" : "Placeholder for adding a note for the delivery",
@@ -17648,8 +17579,7 @@
             "value" : "輸入送貨註釋…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterNumberOfGuestsDots" : {
       "comment" : "Placeholder for entering the number of guests",
@@ -17900,8 +17830,7 @@
             "value" : "輸入客人數量…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterPromoCodeDots" : {
       "comment" : "Placeholder for entering a promo code",
@@ -18152,8 +18081,7 @@
             "value" : "輸入優惠碼…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.findIngredientsDots" : {
       "comment" : "Placeholder for searching ingredients",
@@ -18404,8 +18332,7 @@
             "value" : "找配料…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.findNearbyRestaurantsDots" : {
       "comment" : "Placeholder for searching nearby restaurants",
@@ -18656,8 +18583,7 @@
             "value" : "尋找附近的餐廳…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.findRecipesDots" : {
       "comment" : "Placeholder for searching recipes",
@@ -18908,8 +18834,7 @@
             "value" : "找食譜…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.rateYourExperienceDots" : {
       "comment" : "Placeholder for rating the user experience",
@@ -19160,8 +19085,7 @@
             "value" : "評估你的體驗…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchByCuisineDots" : {
       "comment" : "Placeholder for searching dishes by cuisine",
@@ -19412,8 +19336,7 @@
             "value" : "按菜式搜尋…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchDishesDots" : {
       "comment" : "Placeholder for searching specific dishes",
@@ -19664,8 +19587,7 @@
             "value" : "搜尋菜式…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchMenuDots" : {
       "comment" : "Placeholder for searching menu items",
@@ -19916,8 +19838,7 @@
             "value" : "搜尋選單…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchRecipesDots" : {
       "comment" : "Placeholder for searching recipes",
@@ -20168,8 +20089,7 @@
             "value" : "搜尋食譜…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.selectCuisineTypeDots" : {
       "comment" : "Placeholder for selecting a type of cuisine",
@@ -20420,8 +20340,7 @@
             "value" : "選擇菜系類型…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.selectDeliveryTimeDots" : {
       "comment" : "Placeholder for selecting a delivery time",
@@ -20672,8 +20591,7 @@
             "value" : "選擇送貨時間…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.writeReviewDots" : {
       "comment" : "Placeholder for writing a review",
@@ -20924,8 +20842,7 @@
             "value" : "撰寫評價…"
           }
         }
-      },
-      "proofread" : true
+      }
     }
   },
   "version" : "1.0"

@@ -250,8 +250,7 @@
             "value" : "添加至收藏夾"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.addStop" : {
       "comment" : "Use for adding a stop to the current navigation route",
@@ -502,8 +501,7 @@
             "value" : "添加停靠点"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.addWaypoint" : {
       "comment" : "Use for adding a waypoint to the navigation route",
@@ -754,8 +752,7 @@
             "value" : "添加航路點"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.avoidRoute" : {
       "comment" : "Use for avoiding a specific route or section",
@@ -1006,8 +1003,7 @@
             "value" : "避免路线"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.centerMap" : {
       "comment" : "Use for centering the map on the current location",
@@ -1258,8 +1254,7 @@
             "value" : "中心地图"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.checkForecast" : {
       "comment" : "Use for checking the weather forecast",
@@ -1510,8 +1505,7 @@
             "value" : "檢查天氣預報"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.checkTrafficStatus" : {
       "comment" : "Use for checking the current traffic status",
@@ -1762,8 +1756,7 @@
             "value" : "检查交通状态"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.enableWeatherAlerts" : {
       "comment" : "Use for enabling weather alerts during navigation",
@@ -2014,8 +2007,7 @@
             "value" : "啟用天氣通知"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.endNavigation" : {
       "comment" : "Use for ending the navigation session",
@@ -2266,8 +2258,7 @@
             "value" : "結束導航"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.findNearby" : {
       "comment" : "Use for finding nearby locations or services",
@@ -2518,8 +2509,7 @@
             "value" : "查找附近"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.findParking" : {
       "comment" : "Use for finding parking spaces nearby",
@@ -2770,8 +2760,7 @@
             "value" : "尋找停車位"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.followRoute" : {
       "comment" : "Use for following the current route",
@@ -3022,8 +3011,7 @@
             "value" : "跟随路线"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.getDirections" : {
       "comment" : "Use for getting directions to a destination",
@@ -3274,8 +3262,7 @@
             "value" : "獲取路線"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.markLocation" : {
       "comment" : "Use for marking a specific location on the map",
@@ -3526,8 +3513,7 @@
             "value" : "標記位置"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.navigate" : {
       "comment" : "Use for starting navigation to a destination",
@@ -3778,8 +3764,7 @@
             "value" : "導航"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.planATrip" : {
       "comment" : "Use for planning a trip with multiple stops",
@@ -4030,8 +4015,7 @@
             "value" : "規劃旅行"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.recalculate" : {
       "comment" : "Use for recalculating the route based on new inputs",
@@ -4282,8 +4266,7 @@
             "value" : "重新計算"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.recordRoute" : {
       "comment" : "Use for recording the current route",
@@ -4534,8 +4517,7 @@
             "value" : "記錄路線"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.reportIssue" : {
       "comment" : "Use for reporting an issue during navigation",
@@ -4786,8 +4768,7 @@
             "value" : "舉報問題"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.reportWeatherCondition" : {
       "comment" : "Use for reporting current weather conditions",
@@ -5038,8 +5019,7 @@
             "value" : "報告天氣情況"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.reroute" : {
       "comment" : "Use for rerouting the navigation path",
@@ -5290,8 +5270,7 @@
             "value" : "重新路由"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.setDestination" : {
       "comment" : "Use for setting a destination on the map",
@@ -5542,8 +5521,7 @@
             "value" : "設定目的地"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.setHome" : {
       "comment" : "Use for setting a home address",
@@ -5794,8 +5772,7 @@
             "value" : "設置主頁"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.setTemperatureUnit" : {
       "comment" : "Use for setting the temperature unit (Celsius or Fahrenheit)",
@@ -6046,8 +6023,7 @@
             "value" : "設定溫度單位"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.setWork" : {
       "comment" : "Use for setting a work address",
@@ -6298,8 +6274,7 @@
             "value" : "設置工作地點"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.showNotifications" : {
       "comment" : "Use for showing notifications related to navigation",
@@ -6550,8 +6525,7 @@
             "value" : "顯示通知"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.showTerrain" : {
       "comment" : "Use for displaying terrain information on the map",
@@ -6802,8 +6776,7 @@
             "value" : "顯示地形"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.showTraffic" : {
       "comment" : "Use for displaying traffic information",
@@ -7054,8 +7027,7 @@
             "value" : "顯示交通"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.startNavigation" : {
       "comment" : "Use for beginning the navigation process",
@@ -7306,8 +7278,7 @@
             "value" : "開始導航"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.switchView" : {
       "comment" : "Use for switching the map view type",
@@ -7558,8 +7529,7 @@
             "value" : "切換視圖"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.takeDetour" : {
       "comment" : "Use for taking an alternate route",
@@ -7810,8 +7780,7 @@
             "value" : "走另一條路"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.trackProgress" : {
       "comment" : "Use for tracking progress along the route",
@@ -8062,8 +8031,7 @@
             "value" : "追蹤進度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.viewHourlyForecast" : {
       "comment" : "Use for viewing the weather forecast by hour",
@@ -8314,8 +8282,7 @@
             "value" : "查看每小時天氣預報"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.viewWeeklyForecast" : {
       "comment" : "Use for viewing the weather forecast for the week",
@@ -8566,8 +8533,7 @@
             "value" : "查看每週天氣預報"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.alternativeRoutes" : {
       "comment" : "Use for displaying alternative navigation paths",
@@ -8818,8 +8784,7 @@
             "value" : "替代路徑"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.arrivalTime" : {
       "comment" : "Use for displaying the estimated time of arrival",
@@ -9070,8 +9035,7 @@
             "value" : "抵达时间"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.compass" : {
       "comment" : "Use for displaying the compass direction",
@@ -9322,8 +9286,7 @@
             "value" : "指南針"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.connectionStatus" : {
       "comment" : "Use for displaying the connection status (e.g., GPS, internet)",
@@ -9574,8 +9537,7 @@
             "value" : "連接狀態"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.currentSpeed" : {
       "comment" : "Use for displaying the current speed of the vehicle",
@@ -9826,8 +9788,7 @@
             "value" : "當前速度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.departureTime" : {
       "comment" : "Use for showing the time of departure",
@@ -10078,8 +10039,7 @@
             "value" : "出發時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.direction" : {
       "comment" : "Use for indicating the direction to follow",
@@ -10330,8 +10290,7 @@
             "value" : "方向"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.distance" : {
       "comment" : "Use for displaying the distance to a destination",
@@ -10582,8 +10541,7 @@
             "value" : "距離"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.driver" : {
       "comment" : "Use for referring to the driver of the vehicle",
@@ -10834,8 +10792,7 @@
             "value" : "驅動程式"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.duration" : {
       "comment" : "Use for showing the estimated travel time",
@@ -11086,8 +11043,7 @@
             "value" : "持續時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.elevation" : {
       "comment" : "Use for displaying the elevation of the current location",
@@ -11338,8 +11294,7 @@
             "value" : "海拔"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.estimatedArrivalTime" : {
       "comment" : "Use for showing the estimated arrival time",
@@ -11590,8 +11545,7 @@
             "value" : "預計到達時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.eta" : {
       "comment" : "Use for showing the estimated time of arrival",
@@ -11842,8 +11796,7 @@
             "value" : "預計到達時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.highways" : {
       "comment" : "Use for referring to highways along the route",
@@ -12094,8 +12047,7 @@
             "value" : "高速公路"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.locationServices" : {
       "comment" : "Use for enabling or displaying location services",
@@ -12346,8 +12298,7 @@
             "value" : "定位服務"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.mapType" : {
       "comment" : "Use for switching between different map types (e.g., satellite, terrain)",
@@ -12598,8 +12549,7 @@
             "value" : "地圖類型"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.navigationInstructions" : {
       "comment" : "Use for showing detailed navigation instructions",
@@ -12850,8 +12800,7 @@
             "value" : "導航指示"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.navigationMode" : {
       "comment" : "Use for setting the navigation mode (e.g., driving, walking)",
@@ -13102,8 +13051,7 @@
             "value" : "導航模式"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.pointsOfInterest" : {
       "comment" : "Use for showing nearby points of interest",
@@ -13354,8 +13302,7 @@
             "value" : "熱門景點"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.publicTransport" : {
       "comment" : "Use for displaying public transport options",
@@ -13606,8 +13553,7 @@
             "value" : "公共交通"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.route" : {
       "comment" : "Use for referring to the navigation route",
@@ -13858,8 +13804,7 @@
             "value" : "路線"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.routeGuidance" : {
       "comment" : "Use for providing route guidance instructions",
@@ -14110,8 +14055,7 @@
             "value" : "路線指導"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.signalStrength" : {
       "comment" : "Use for displaying the signal strength of GPS or internet",
@@ -14362,8 +14306,7 @@
             "value" : "信號強度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.speedLimit" : {
       "comment" : "Use for indicating the speed limit on the current road",
@@ -14614,8 +14557,7 @@
             "value" : "速度限制"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.stops" : {
       "comment" : "Use for indicating the stops along the route",
@@ -14866,8 +14808,7 @@
             "value" : "停靠點"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.tollRoads" : {
       "comment" : "Use for indicating toll roads along the route",
@@ -15118,8 +15059,7 @@
             "value" : "收費道路"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.trafficConditions" : {
       "comment" : "Use for displaying the traffic status on a route",
@@ -15370,8 +15310,7 @@
             "value" : "交通狀況"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.trafficCongestion" : {
       "comment" : "Use for displaying traffic congestion on the route",
@@ -15622,8 +15561,7 @@
             "value" : "交通擠塞"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.waypoint" : {
       "comment" : "Use for marking a waypoint in the navigation route",
@@ -15874,8 +15812,7 @@
             "value" : "航向"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.gpsSignalLostDot" : {
       "comment" : "Message indicating that the GPS signal is lost",
@@ -16127,8 +16064,7 @@
             "value" : "GPS 信號丟失。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.heavyTrafficAheadDot" : {
       "comment" : "Message warning about heavy traffic ahead",
@@ -16380,8 +16316,7 @@
             "value" : "前方交通繁忙。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.locationAccessRequiredDot" : {
       "comment" : "Message informing the user that location access is needed",
@@ -16633,8 +16568,7 @@
             "value" : "需要位置訪問。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.navigationWillContinueWhenSignalImprovesDot" : {
       "comment" : "Message informing that navigation will resume once the signal improves",
@@ -16886,8 +16820,7 @@
             "value" : "當信號改善時，導航將繼續。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.newTrafficIncidentReportedDot" : {
       "comment" : "Message indicating a new traffic incident has been reported",
@@ -17139,8 +17072,7 @@
             "value" : "已報告新的交通事故。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.noGPSSignalDot" : {
       "comment" : "Message indicating that the GPS signal is unavailable",
@@ -17392,8 +17324,7 @@
             "value" : "沒有 GPS 信號。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.noRoutesAvailableForThisDestinationDot" : {
       "comment" : "Message indicating no available routes for the destination",
@@ -17645,8 +17576,7 @@
             "value" : "該目的地沒有可用的路線。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.routeCalculationCompletedDot" : {
       "comment" : "Message indicating that route calculation is complete",
@@ -17898,8 +17828,7 @@
             "value" : "路徑計算已完成。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.routeGuidanceWillResumeShortlyDot" : {
       "comment" : "Message indicating that route guidance will continue soon",
@@ -18151,8 +18080,7 @@
             "value" : "路徑導航將在短時間內恢復。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.routeOptimizationCompleteDot" : {
       "comment" : "Message indicating that the route optimization has finished",
@@ -18404,8 +18332,7 @@
             "value" : "路徑優化已完成。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.speedLimitChangedDot" : {
       "comment" : "Message indicating that the speed limit has changed",
@@ -18657,8 +18584,7 @@
             "value" : "限速已更改。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.takingAFasterRouteDot" : {
       "comment" : "Message indicating that a faster route is being selected",
@@ -18910,8 +18836,7 @@
             "value" : "正在選擇更快的路徑。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.trafficDelayDetectedDot" : {
       "comment" : "Message warning about a traffic delay on the route",
@@ -19163,8 +19088,7 @@
             "value" : "檢測到交通延誤。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.turnByTurnNavigationPausedDot" : {
       "comment" : "Message indicating that turn-by-turn navigation has been paused",
@@ -19416,8 +19340,7 @@
             "value" : "逐向導航已暫停。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.youHaveArrivedAtYourDestinationDot" : {
       "comment" : "Message indicating that the destination has been reached",
@@ -19669,8 +19592,7 @@
             "value" : "您已到達目的地。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.calculatingAlternativesDots" : {
       "comment" : "Placeholder for calculating alternative routes",
@@ -19921,8 +19843,7 @@
             "value" : "正在計算替代方案…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.checkingTrafficConditionsDots" : {
       "comment" : "Placeholder for checking traffic conditions",
@@ -20173,8 +20094,7 @@
             "value" : "正在檢查交通情況…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.detectingLocationDots" : {
       "comment" : "Placeholder for detecting the user's location",
@@ -20425,8 +20345,7 @@
             "value" : "正在檢測位置…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterDestinationDots" : {
       "comment" : "Placeholder for entering a destination",
@@ -20677,8 +20596,7 @@
             "value" : "輸入目的地…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterStopNameDots" : {
       "comment" : "Placeholder for entering a stop name",
@@ -20929,8 +20847,7 @@
             "value" : "輸入站名…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.findingChargingStationsDots" : {
       "comment" : "Placeholder for finding charging stations",
@@ -21181,8 +21098,7 @@
             "value" : "尋找充電站…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.findingFastestRouteDots" : {
       "comment" : "Placeholder for finding the fastest route",
@@ -21433,8 +21349,7 @@
             "value" : "尋找最快路線…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.findingGasStationsDots" : {
       "comment" : "Placeholder for finding nearby gas stations",
@@ -21685,8 +21600,7 @@
             "value" : "尋找加油站…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.findingParkingSpotsDots" : {
       "comment" : "Placeholder for finding available parking spots",
@@ -21937,8 +21851,7 @@
             "value" : "尋找停車位…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.findingRestAreasDots" : {
       "comment" : "Placeholder for finding nearby rest areas",
@@ -22189,8 +22102,7 @@
             "value" : "尋找休息區…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.findingYourLocationDots" : {
       "comment" : "Placeholder for finding the user's location",
@@ -22441,8 +22353,7 @@
             "value" : "尋找您所在的位置…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.gettingTurnByTurnDirectionsDots" : {
       "comment" : "Placeholder for fetching turn-by-turn directions",
@@ -22693,8 +22604,7 @@
             "value" : "獲取逐步指示中..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.gettingWeatherConditionsDots" : {
       "comment" : "Placeholder for retrieving weather conditions",
@@ -22945,8 +22855,7 @@
             "value" : "獲取天氣狀況中..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.loadingMapDataDots" : {
       "comment" : "Placeholder for loading map data",
@@ -23197,8 +23106,7 @@
             "value" : "加載地圖數據中..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.locatingNearestExitDots" : {
       "comment" : "Placeholder for locating the nearest exit",
@@ -23449,8 +23357,7 @@
             "value" : "尋找最近出口中..."
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.optimizingRouteDots" : {
       "comment" : "Placeholder for optimizing the navigation route",
@@ -23701,8 +23608,7 @@
             "value" : "優化路徑…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchAlongRouteDots" : {
       "comment" : "Placeholder for searching along the current route",
@@ -23953,8 +23859,7 @@
             "value" : "沿路搜尋…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchingNearbyDots" : {
       "comment" : "Placeholder for searching nearby locations",
@@ -24205,8 +24110,7 @@
             "value" : "正在搜尋附近…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchLocationsDots" : {
       "comment" : "Placeholder for searching specific locations",
@@ -24457,8 +24361,7 @@
             "value" : "搜索地點…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.updatingTrafficDataDots" : {
       "comment" : "Placeholder for updating traffic data",
@@ -24709,8 +24612,7 @@
             "value" : "更新交通數據…"
           }
         }
-      },
-      "proofread" : true
+      }
     }
   },
   "version" : "1.0"

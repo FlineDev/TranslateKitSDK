@@ -250,8 +250,7 @@
             "value" : "加入購物車"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.addToFavorites" : {
       "comment" : "Use when adding an item to a favorites list",
@@ -502,8 +501,7 @@
             "value" : "加至我的最愛"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.applyCoupon" : {
       "comment" : "Use when applying a discount coupon or code",
@@ -754,8 +752,7 @@
             "value" : "應用優惠券"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.applyFilter" : {
       "comment" : "Use when applying a filter to narrow down search results",
@@ -1006,8 +1003,7 @@
             "value" : "套用過濾器"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.bookNow" : {
       "comment" : "Use when booking an item or service for immediate action",
@@ -1258,8 +1254,7 @@
             "value" : "立即預訂"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.buy" : {
       "comment" : "Use when purchasing a product or service",
@@ -1510,8 +1505,7 @@
             "value" : "購買"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.buyNow" : {
       "comment" : "Use when immediately purchasing an item or service",
@@ -1762,8 +1756,7 @@
             "value" : "立即購買"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.checkout" : {
       "comment" : "Use when proceeding to the payment page for an order",
@@ -2014,8 +2007,7 @@
             "value" : "结账"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.compare" : {
       "comment" : "Use when comparing products or prices",
@@ -2266,8 +2258,7 @@
             "value" : "比較"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.comparePrices" : {
       "comment" : "Use when comparing prices between different products",
@@ -2518,8 +2509,7 @@
             "value" : "比較價格"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.findInStore" : {
       "comment" : "Use when searching for an item available in a physical store",
@@ -2770,8 +2760,7 @@
             "value" : "在商店查找"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.orderNow" : {
       "comment" : "Use when placing an order for immediate purchase",
@@ -3022,8 +3011,7 @@
             "value" : "立即下單"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.placeOrder" : {
       "comment" : "Use when confirming and placing an order",
@@ -3274,8 +3262,7 @@
             "value" : "下訂單"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.preOrder" : {
       "comment" : "Use when ordering a product before its release date",
@@ -3526,8 +3513,7 @@
             "value" : "預訂"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.proceedToCheckout" : {
       "comment" : "Use when moving to the checkout page to complete a purchase",
@@ -3778,8 +3764,7 @@
             "value" : "繼續結帳"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.rateProduct" : {
       "comment" : "Use when rating or reviewing a product",
@@ -4030,8 +4015,7 @@
             "value" : "評分產品"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.removeFromCart" : {
       "comment" : "Use when removing an item from the shopping cart",
@@ -4282,8 +4266,7 @@
             "value" : "從購物車移除"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.removeFromWishlist" : {
       "comment" : "Use when removing an item from the wishlist",
@@ -4534,8 +4517,7 @@
             "value" : "從願望清單中移除"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.reviewPurchase" : {
       "comment" : "Use when reviewing or confirming a completed purchase",
@@ -4786,8 +4768,7 @@
             "value" : "檢閱購買"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.saveForLater" : {
       "comment" : "Use when saving an item for future purchase or review",
@@ -5038,8 +5019,7 @@
             "value" : "稍後保存"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.scan" : {
       "comment" : "Use when scanning a barcode or QR code for products",
@@ -5290,8 +5270,7 @@
             "value" : "掃描"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.scanQRCode" : {
       "comment" : "Use when scanning a QR code to obtain information",
@@ -5542,8 +5521,7 @@
             "value" : "掃描 QR 碼"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.share" : {
       "comment" : "Use when sharing product details or a shopping list",
@@ -5794,8 +5772,7 @@
             "value" : "分享"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.sortByDate" : {
       "comment" : "Use when sorting items by date of addition or release",
@@ -6046,8 +6023,7 @@
             "value" : "按日期排序"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.startShopping" : {
       "comment" : "Use when beginning a shopping session or browsing products",
@@ -6298,8 +6274,7 @@
             "value" : "開始購物"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.subscribe" : {
       "comment" : "Use when subscribing to a service or product",
@@ -6550,8 +6525,7 @@
             "value" : "訂閱"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.subscribeAndSave" : {
       "comment" : "Use when subscribing to a service or product for discounts",
@@ -6803,8 +6777,7 @@
             "value" : "訂閱並節省"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.trackOrder" : {
       "comment" : "Use when checking the status or tracking a purchase",
@@ -7055,8 +7028,7 @@
             "value" : "追蹤訂單"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.viewCart" : {
       "comment" : "Use when viewing the contents of the shopping cart",
@@ -7307,8 +7279,7 @@
             "value" : "查看購物車"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.viewDetails" : {
       "comment" : "Use when viewing more detailed information about a product",
@@ -7559,8 +7530,7 @@
             "value" : "檢視詳細資料"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.viewListings" : {
       "comment" : "Use when browsing or searching listings of products",
@@ -7811,8 +7781,7 @@
             "value" : "查看列表"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.viewReviews" : {
       "comment" : "Use when viewing customer reviews of a product",
@@ -8063,8 +8032,7 @@
             "value" : "查看評論"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.wishlist" : {
       "comment" : "Use when managing a list of favorite or desired products",
@@ -8315,8 +8283,7 @@
             "value" : "願望清單"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.announcement" : {
       "comment" : "Use for special announcements or updates",
@@ -8567,8 +8534,7 @@
             "value" : "公告"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.availability" : {
       "comment" : "Use when indicating the availability of an item",
@@ -8819,8 +8785,7 @@
             "value" : "可用性"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.bestSellers" : {
       "comment" : "Use for listing the most popular or best-selling products",
@@ -9071,8 +9036,7 @@
             "value" : "暢銷商品"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.billingStatus" : {
       "comment" : "Use when displaying the payment status of an order",
@@ -9323,8 +9287,7 @@
             "value" : "帳單狀態"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.brand" : {
       "comment" : "Use for the brand or manufacturer of a product",
@@ -9575,8 +9538,7 @@
             "value" : "品牌"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.cart" : {
       "comment" : "Use when referring to the shopping cart",
@@ -9827,8 +9789,7 @@
             "value" : "购物车"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.cartTotal" : {
       "comment" : "Use when displaying the total amount in the shopping cart",
@@ -10079,8 +10040,7 @@
             "value" : "购物车总计"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.category" : {
       "comment" : "Use for product categories or classifications",
@@ -10331,8 +10291,7 @@
             "value" : "類別"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.delivery" : {
       "comment" : "Use when referring to the delivery or shipping of items",
@@ -10583,8 +10542,7 @@
             "value" : "配送"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.deliveryStatus" : {
       "comment" : "Use when indicating the status of a delivery",
@@ -10835,8 +10793,7 @@
             "value" : "派送狀態"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.deliveryTime" : {
       "comment" : "Use when displaying estimated delivery times",
@@ -11087,8 +11044,7 @@
             "value" : "派送時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.discount" : {
       "comment" : "Use when displaying a discount applied to a product",
@@ -11339,8 +11295,7 @@
             "value" : "折扣"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.estimatedArrivalTime" : {
       "comment" : "Use for estimated arrival times for shipping",
@@ -11591,8 +11546,7 @@
             "value" : "預計到達時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.estimatedDelivery" : {
       "comment" : "Use for estimated delivery dates or timeframes",
@@ -11843,8 +11797,7 @@
             "value" : "預計派送"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.freeShipping" : {
       "comment" : "Use when indicating that shipping is free",
@@ -12095,8 +12048,7 @@
             "value" : "免費運送"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.inStock" : {
       "comment" : "Use when displaying availability of a product in stock",
@@ -12347,8 +12299,7 @@
             "value" : "有存貨"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.inventory" : {
       "comment" : "Use when displaying or managing product inventory levels",
@@ -12599,8 +12550,7 @@
             "value" : "庫存"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.item" : {
       "comment" : "Use when referring to a specific product or product unit",
@@ -12851,8 +12801,7 @@
             "value" : "項目"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.itemPrice" : {
       "comment" : "Use when displaying the price of a product or item",
@@ -13103,8 +13052,7 @@
             "value" : "物品價格"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.newArrivals" : {
       "comment" : "Use when displaying new products or recently released items",
@@ -13355,8 +13303,7 @@
             "value" : "新到貨品"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.orderHistory" : {
       "comment" : "Use for tracking past orders or purchase history",
@@ -13607,8 +13554,7 @@
             "value" : "訂單歷史"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.outOfStock" : {
       "comment" : "Use when indicating a product is unavailable",
@@ -13859,8 +13805,7 @@
             "value" : "缺貨"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.paymentMethods" : {
       "comment" : "Use for displaying available payment options",
@@ -14111,8 +14056,7 @@
             "value" : "付款方法"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.popularCategories" : {
       "comment" : "Use for displaying the most popular product categories",
@@ -14363,8 +14307,7 @@
             "value" : "熱門類別"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.price" : {
       "comment" : "Use when displaying the cost or price of a product",
@@ -14615,8 +14558,7 @@
             "value" : "價格"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.productDetails" : {
       "comment" : "Use when displaying detailed information about a product",
@@ -14867,8 +14809,7 @@
             "value" : "產品詳情"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.promotion" : {
       "comment" : "Use for product promotions, deals, or sales",
@@ -15119,8 +15060,7 @@
             "value" : "促銷"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.quantity" : {
       "comment" : "Use when displaying or selecting the amount of an item",
@@ -15371,8 +15311,7 @@
             "value" : "數量"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.reviews" : {
       "comment" : "Use when displaying customer reviews or ratings for a product",
@@ -15623,8 +15562,7 @@
             "value" : "評價"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.shoppingCart" : {
       "comment" : "Use for referring to the cart containing selected items",
@@ -15875,8 +15813,7 @@
             "value" : "購物車"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.addedToCartSuccessfullyDot" : {
       "comment" : "Confirmation when an item has been added to the cart",
@@ -16128,8 +16065,7 @@
             "value" : "成功加入購物車。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.addedToWishlist" : {
       "comment" : "Confirmation when an item has been added to the wishlist",
@@ -16380,8 +16316,7 @@
             "value" : "已添加至願望清單"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.cartIsEmptyDot" : {
       "comment" : "Message when the shopping cart is empty",
@@ -16633,8 +16568,7 @@
             "value" : "購物車是空的。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.discountCodeAppliedDot" : {
       "comment" : "Confirmation when a discount code has been successfully applied",
@@ -16886,8 +16820,7 @@
             "value" : "折扣代碼已應用。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.itemCurrentlyOutOfStockDot" : {
       "comment" : "Message when an item is out of stock",
@@ -17139,8 +17072,7 @@
             "value" : "項目目前缺貨。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.itemHasBeenShippedDot" : {
       "comment" : "Confirmation when an item has been shipped",
@@ -17392,8 +17324,7 @@
             "value" : "項目已經發貨。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.itemRemovedFromCartDot" : {
       "comment" : "Confirmation when an item is removed from the cart",
@@ -17645,8 +17576,7 @@
             "value" : "項目已從購物車中移除。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.maximumQuantityReachedDot" : {
       "comment" : "Message when the maximum quantity for an item is reached",
@@ -17898,8 +17828,7 @@
             "value" : "已達到最大數量。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.noReviewsYetDot" : {
       "comment" : "Message when no reviews are available for an item",
@@ -18151,8 +18080,7 @@
             "value" : "目前沒有評論。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.orderConfirmationSentDot" : {
       "comment" : "Confirmation when the order confirmation has been sent",
@@ -18404,8 +18332,7 @@
             "value" : "訂單確認已發送。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.orderIsOnTheWayDot" : {
       "comment" : "Message indicating that an order is on the way",
@@ -18657,8 +18584,7 @@
             "value" : "訂單正在運送中。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.orderPlacedSuccessfullyDot" : {
       "comment" : "Confirmation when an order has been successfully placed",
@@ -18910,8 +18836,7 @@
             "value" : "訂單已成功下達。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.paymentDeclinedDot" : {
       "comment" : "Message when the payment is declined",
@@ -19163,8 +19088,7 @@
             "value" : "付款被拒。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.promoCodeAppliedDot" : {
       "comment" : "Confirmation when a promo code is applied successfully",
@@ -19416,8 +19340,7 @@
             "value" : "優惠碼已套用。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.yourOrderHasBeenPlacedSuccessfullyDot" : {
       "comment" : "Confirmation when the order has been successfully placed",
@@ -19669,8 +19592,7 @@
             "value" : "你的訂單已成功下單。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addDeliveryNoteDots" : {
       "comment" : "Placeholder for entering special delivery instructions",
@@ -19922,8 +19844,7 @@
             "value" : "添加交付註明…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterAddressDots" : {
       "comment" : "Placeholder for entering an address",
@@ -20174,8 +20095,7 @@
             "value" : "輸入地址…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterAmountDots" : {
       "comment" : "Placeholder for entering a monetary amount",
@@ -20426,8 +20346,7 @@
             "value" : "輸入金額…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterCardNumberDots" : {
       "comment" : "Placeholder for entering payment card details",
@@ -20678,8 +20597,7 @@
             "value" : "輸入信用卡號碼…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterCityNameDots" : {
       "comment" : "Placeholder for entering a city name (e.g., for shipping)",
@@ -20930,8 +20848,7 @@
             "value" : "輸入城市名稱…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterCouponCodeDots" : {
       "comment" : "Placeholder for entering a coupon code",
@@ -21182,8 +21099,7 @@
             "value" : "輸入優惠券代碼…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterDiscountCodeDots" : {
       "comment" : "Placeholder for entering a discount code",
@@ -21434,8 +21350,7 @@
             "value" : "輸入折扣碼…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterPromoCodeDots" : {
       "comment" : "Placeholder for entering a promotional code",
@@ -21686,8 +21601,7 @@
             "value" : "輸入優惠碼…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterRecipientsNameDots" : {
       "comment" : "Placeholder for entering the recipient's name",
@@ -21938,8 +21852,7 @@
             "value" : "輸入收件人姓名…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterShippingAddressDots" : {
       "comment" : "Placeholder for entering a shipping address",
@@ -22190,8 +22103,7 @@
             "value" : "輸入送貨地址…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterZipCodeDots" : {
       "comment" : "Placeholder for entering a postal or ZIP code",
@@ -22443,8 +22355,7 @@
             "value" : "輸入郵政編號…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchByBrandDots" : {
       "comment" : "Placeholder for searching products by brand",
@@ -22695,8 +22606,7 @@
             "value" : "按品牌搜尋…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchByCategoryDots" : {
       "comment" : "Placeholder for searching products by category",
@@ -22947,8 +22857,7 @@
             "value" : "按類別搜尋…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchByNameDots" : {
       "comment" : "Placeholder for searching products by name",
@@ -23199,8 +23108,7 @@
             "value" : "按名稱搜索…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchByPriceDots" : {
       "comment" : "Placeholder for searching products by price range",
@@ -23451,8 +23359,7 @@
             "value" : "按價格搜尋…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchProductsDots" : {
       "comment" : "Placeholder for searching products in the store",
@@ -23703,8 +23610,7 @@
             "value" : "搜索產品…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.selectDeliveryDateDots" : {
       "comment" : "Placeholder for selecting a delivery date",
@@ -23955,8 +23861,7 @@
             "value" : "選擇送貨日期…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.selectPaymentMethodDots" : {
       "comment" : "Placeholder for selecting a payment method",
@@ -24207,8 +24112,7 @@
             "value" : "選擇付款方法…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.selectShippingMethodDots" : {
       "comment" : "Placeholder for selecting a shipping method",
@@ -24459,8 +24363,7 @@
             "value" : "選擇運送方式…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.writeAReviewDots" : {
       "comment" : "Placeholder for writing a review of a product",
@@ -24711,8 +24614,7 @@
             "value" : "撰寫評論…"
           }
         }
-      },
-      "proofread" : true
+      }
     }
   },
   "version" : "1.0"

@@ -250,8 +250,7 @@
             "value" : "封存"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.bookNow" : {
       "comment" : "Use when making a reservation or booking an activity",
@@ -502,8 +501,7 @@
             "value" : "立即預訂"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.complete" : {
       "comment" : "Use when finishing a task or process",
@@ -754,8 +752,7 @@
             "value" : "完成"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.connect" : {
       "comment" : "Use when establishing a connection or linking accounts",
@@ -1006,8 +1003,7 @@
             "value" : "連線"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.createTask" : {
       "comment" : "Use when creating a new task or to-do item",
@@ -1258,8 +1254,7 @@
             "value" : "創建任務"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.endSession" : {
       "comment" : "Use when concluding a session or activity",
@@ -1510,8 +1505,7 @@
             "value" : "結束會話"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.follow" : {
       "comment" : "Use when following a person, activity, or content",
@@ -1762,8 +1756,7 @@
             "value" : "關注"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.getStarted" : {
       "comment" : "Use when initiating a process or beginning an activity",
@@ -2014,8 +2007,7 @@
             "value" : "開始使用"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.like" : {
       "comment" : "Use when liking or approving content or a post",
@@ -2266,8 +2258,7 @@
             "value" : "喜歡"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.log" : {
       "comment" : "Use when recording an event or logging an activity",
@@ -2518,8 +2509,7 @@
             "value" : "記錄"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.markAsComplete" : {
       "comment" : "Use when marking a task as finished or done",
@@ -2770,8 +2760,7 @@
             "value" : "標記為完成"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.markAsDone" : {
       "comment" : "Use when marking a task or action as completed",
@@ -3022,8 +3011,7 @@
             "value" : "標記為已完成"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.meditate" : {
       "comment" : "Use when starting a meditation session",
@@ -3274,8 +3262,7 @@
             "value" : "冥想"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.plan" : {
       "comment" : "Use when creating a plan or scheduling an activity",
@@ -3526,8 +3513,7 @@
             "value" : "計劃"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.practice" : {
       "comment" : "Use when engaging in practice or rehearsing a skill",
@@ -3778,8 +3764,7 @@
             "value" : "練習"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.rate" : {
       "comment" : "Use when providing a rating or feedback for something",
@@ -4030,8 +4015,7 @@
             "value" : "評分"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.record" : {
       "comment" : "Use when recording an event, session, or piece of data",
@@ -4282,8 +4266,7 @@
             "value" : "記錄"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.remind" : {
       "comment" : "Use when setting up a reminder for an event or task",
@@ -4534,8 +4517,7 @@
             "value" : "提醒"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.remindMe" : {
       "comment" : "Use when requesting a reminder for a specific task or event",
@@ -4786,8 +4768,7 @@
             "value" : "提醒我"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.schedule" : {
       "comment" : "Use when scheduling an event, task, or meeting",
@@ -5038,8 +5019,7 @@
             "value" : "時間表"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.setGoal" : {
       "comment" : "Use when establishing a goal or target to achieve",
@@ -5290,8 +5270,7 @@
             "value" : "設定目標"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.setReminder" : {
       "comment" : "Use when setting up a reminder for a future task or event",
@@ -5542,8 +5521,7 @@
             "value" : "設定提醒"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.skipToday" : {
       "comment" : "Use when skipping a task or activity for the day",
@@ -5794,8 +5772,7 @@
             "value" : "跳過今天"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.startExercise" : {
       "comment" : "Use when beginning an exercise session or workout",
@@ -6046,8 +6023,7 @@
             "value" : "開始運動"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.startSession" : {
       "comment" : "Use when starting a session or activity",
@@ -6298,8 +6274,7 @@
             "value" : "開始會議"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.startTimer" : {
       "comment" : "Use when initiating a timer for a task or session",
@@ -6550,8 +6525,7 @@
             "value" : "開始計時"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.startWorkout" : {
       "comment" : "Use when starting a workout or fitness session",
@@ -6802,8 +6776,7 @@
             "value" : "開始鍛煉"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.stop" : {
       "comment" : "Use when stopping a task, activity, or process",
@@ -7054,8 +7027,7 @@
             "value" : "停止"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.track" : {
       "comment" : "Use when tracking progress, habits, or metrics",
@@ -7306,8 +7278,7 @@
             "value" : "Track"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.trackProgress" : {
       "comment" : "Use when monitoring progress over time",
@@ -7558,8 +7529,7 @@
             "value" : "追蹤進度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.unfollow" : {
       "comment" : "Use when unfollowing someone or something",
@@ -7810,8 +7780,7 @@
             "value" : "取消關注"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.unpin" : {
       "comment" : "Use when unpinning content or removing a pinned item",
@@ -8062,8 +8031,7 @@
             "value" : "取消釘選"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Action.writeAReview" : {
       "comment" : "Use when writing a review or feedback",
@@ -8314,8 +8282,7 @@
             "value" : "撰寫評論"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.achievementPoints" : {
       "comment" : "Reward metrics or points for accomplishments",
@@ -8566,8 +8533,7 @@
             "value" : "成就點數"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.activeMinutes" : {
       "comment" : "Time spent in physical activity or exercise",
@@ -8818,8 +8784,7 @@
             "value" : "活躍分鐘數"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.activity" : {
       "comment" : "Use to describe a single event or logged activity",
@@ -9070,8 +9035,7 @@
             "value" : "健身記錄"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.age" : {
       "comment" : "Use when displaying a person's or an item's age",
@@ -9322,8 +9286,7 @@
             "value" : "年齡"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.anniversary" : {
       "comment" : "Use when referring to an anniversary celebration or reminder",
@@ -9574,8 +9537,7 @@
             "value" : "周年紀念"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.appearance" : {
       "comment" : "Use for display settings or theme-related options",
@@ -9826,8 +9788,7 @@
             "value" : "外觀"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.available" : {
       "comment" : "Use when indicating availability of items or users",
@@ -10078,8 +10039,7 @@
             "value" : "可用空間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.birthday" : {
       "comment" : "Use when displaying a date of birth",
@@ -10330,8 +10290,7 @@
             "value" : "生日"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.calories" : {
       "comment" : "Use for nutritional or fitness tracking",
@@ -10582,8 +10541,7 @@
             "value" : "卡路里"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.caloriesBurned" : {
       "comment" : "Use when displaying calories burned from activities",
@@ -10834,8 +10792,7 @@
             "value" : "已燃燒卡路里"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.dailyGoal" : {
       "comment" : "Use for daily targets or objectives to achieve",
@@ -11086,8 +11043,7 @@
             "value" : "每日目標"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.darkMode" : {
       "comment" : "Use for theme selection between light and dark modes",
@@ -11338,8 +11294,7 @@
             "value" : "黑暗模式"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.duration" : {
       "comment" : "Use when displaying time spans or length of events",
@@ -11590,8 +11545,7 @@
             "value" : "持續時間"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.event" : {
       "comment" : "Use for activities or appointments that are planned or scheduled",
@@ -11842,8 +11796,7 @@
             "value" : "行程"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.exercise" : {
       "comment" : "Use for physical activity or fitness sessions",
@@ -12094,8 +12047,7 @@
             "value" : "運動"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.favorites" : {
       "comment" : "Use for marking or listing favorite items",
@@ -12346,8 +12298,7 @@
             "value" : "喜好項目"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.goal" : {
       "comment" : "Use when referring to a target or objective to achieve",
@@ -12598,8 +12549,7 @@
             "value" : "目標"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.goals" : {
       "comment" : "Use when referring to multiple objectives or targets",
@@ -12850,8 +12800,7 @@
             "value" : "目標"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.habits" : {
       "comment" : "Use for routines or behaviors that are repeated regularly",
@@ -13102,8 +13051,7 @@
             "value" : "習慣"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.heartRate" : {
       "comment" : "Use when displaying heart rate data or monitoring",
@@ -13354,8 +13302,7 @@
             "value" : "心率"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.hydration" : {
       "comment" : "Use for tracking water intake or hydration levels",
@@ -13606,8 +13553,7 @@
             "value" : "水分補充"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.milestones" : {
       "comment" : "Use when referring to significant achievements or progress points",
@@ -13858,8 +13804,7 @@
             "value" : "里程碑"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.mood" : {
       "comment" : "Use when tracking emotional state or mood levels",
@@ -14110,8 +14055,7 @@
             "value" : "心情"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.privacySettings" : {
       "comment" : "Use for managing privacy-related configurations",
@@ -14362,8 +14306,7 @@
             "value" : "隱私設置"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.progress" : {
       "comment" : "Use when referring to advancement or completion of tasks or goals",
@@ -14614,8 +14557,7 @@
             "value" : "進度"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.reminders" : {
       "comment" : "Use for managing or listing reminders",
@@ -14866,8 +14808,7 @@
             "value" : "提醒事項"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.routine" : {
       "comment" : "Use for regular activities or actions performed consistently",
@@ -15118,8 +15059,7 @@
             "value" : "常規"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.schedule" : {
       "comment" : "Use for displaying or setting up a planned series of activities or events",
@@ -15370,8 +15310,7 @@
             "value" : "時間表"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.steps" : {
       "comment" : "Use for tracking steps taken during physical activities",
@@ -15622,8 +15561,7 @@
             "value" : "步數"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Label.workout" : {
       "comment" : "Use when referring to exercise or fitness sessions",
@@ -15874,8 +15812,7 @@
             "value" : "體能訓練"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.achievementUnlockedDot" : {
       "comment" : "Message when a user achieves a milestone or accomplishment",
@@ -16127,8 +16064,7 @@
             "value" : "成就解鎖！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.almostThereDot" : {
       "comment" : "Motivational message indicating progress towards a goal",
@@ -16380,8 +16316,7 @@
             "value" : "快到了！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.dailyGoalAchievedDot" : {
       "comment" : "Message when a user successfully reaches their daily goal",
@@ -16633,8 +16568,7 @@
             "value" : "每日目標已達成！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.dailyStreakAchievedDot" : {
       "comment" : "Confirmation of maintaining a daily streak",
@@ -16886,8 +16820,7 @@
             "value" : "每日連續績效已達成！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.goalCompletedSuccessfullyDot" : {
       "comment" : "Confirmation when a goal has been completed",
@@ -17139,8 +17072,7 @@
             "value" : "目標已成功完成！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.greatJobKeepingUpYourStreakDot" : {
       "comment" : "Praise for maintaining a streak",
@@ -17392,8 +17324,7 @@
             "value" : "堅持不懈，做得好！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.keepUpTheGoodWorkDot" : {
       "comment" : "Motivational message encouraging continued effort",
@@ -17645,8 +17576,7 @@
             "value" : "保持良好表現！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.newMilestoneReachedDot" : {
       "comment" : "Message when a new achievement or milestone is reached",
@@ -17898,8 +17828,7 @@
             "value" : "新里程碑已達成！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.noTasksDueForTodayDot" : {
       "comment" : "Notification when there are no tasks scheduled for the day",
@@ -18151,8 +18080,7 @@
             "value" : "今天沒有到期的任務。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.reminderSetSuccessfullyDot" : {
       "comment" : "Confirmation when a reminder is successfully set",
@@ -18404,8 +18332,7 @@
             "value" : "提醒已成功設定。"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.sessionCompletedSuccessfullyDot" : {
       "comment" : "Confirmation when a session or activity is finished",
@@ -18657,8 +18584,7 @@
             "value" : "會話已成功完成！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.timeToCheckInDot" : {
       "comment" : "Reminder to check in for an activity or session",
@@ -18910,8 +18836,7 @@
             "value" : "時候檢查入境！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.timeToFocusDot" : {
       "comment" : "Message prompting the user to focus on a task or activity",
@@ -19163,8 +19088,7 @@
             "value" : "是時候專注了！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.welcomeBackDot" : {
       "comment" : "Greeting message when a user returns to the app or platform",
@@ -19416,8 +19340,7 @@
             "value" : "歡迎回來！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Message.wellDoneDot" : {
       "comment" : "Praise for completing a task or achieving a goal",
@@ -19669,8 +19592,7 @@
             "value" : "做得好！"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addCaptionDots" : {
       "comment" : "Placeholder for adding a caption to an image or media",
@@ -19922,8 +19844,7 @@
             "value" : "添加說明…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addDescriptionDots" : {
       "comment" : "Placeholder for adding a description or details",
@@ -20175,8 +20096,7 @@
             "value" : "添加描述…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addNoteDots" : {
       "comment" : "Placeholder for adding a note or comment",
@@ -20427,8 +20347,7 @@
             "value" : "新增備註…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addTaskDescriptionDots" : {
       "comment" : "Placeholder for describing a task",
@@ -20679,8 +20598,7 @@
             "value" : "新增任務描述…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.addTitleDots" : {
       "comment" : "Placeholder for adding a title to content or a task",
@@ -20932,8 +20850,7 @@
             "value" : "添加標題…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.describeYourTaskDots" : {
       "comment" : "Placeholder for task description or details",
@@ -21184,8 +21101,7 @@
             "value" : "描述你的任務…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterMeditationDurationDots" : {
       "comment" : "Placeholder for entering the duration of a meditation session",
@@ -21436,8 +21352,7 @@
             "value" : "輸入冥想時長…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterTaskNameDots" : {
       "comment" : "Placeholder for entering a task name",
@@ -21688,8 +21603,7 @@
             "value" : "輸入任務名稱…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterTaskTitleDots" : {
       "comment" : "Placeholder for entering the title of a task",
@@ -21940,8 +21854,7 @@
             "value" : "輸入任務標題…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterTimeSpentDots" : {
       "comment" : "Placeholder for tracking or entering time spent on an activity",
@@ -22192,8 +22105,7 @@
             "value" : "輸入花費的時間…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterWeightDots" : {
       "comment" : "Placeholder for entering weight data or fitness information",
@@ -22444,8 +22356,7 @@
             "value" : "輸入體重…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.enterWorkoutDurationDots" : {
       "comment" : "Placeholder for entering the duration of a workout",
@@ -22696,8 +22607,7 @@
             "value" : "輸入運動持續時間…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.filterResultsDots" : {
       "comment" : "Placeholder for filtering search results",
@@ -22948,8 +22858,7 @@
             "value" : "過濾結果…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.noItemsYetDots" : {
       "comment" : "Placeholder for empty lists or sections",
@@ -23200,8 +23109,7 @@
             "value" : "尚未有項目…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchForAnExerciseDots" : {
       "comment" : "Placeholder for searching exercises or activities",
@@ -23452,8 +23360,7 @@
             "value" : "搜索練習…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.searchResourcesDots" : {
       "comment" : "Placeholder for searching available resources or content",
@@ -23704,8 +23611,7 @@
             "value" : "搜索資源…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.setAFitnessGoalDots" : {
       "comment" : "Placeholder for setting a personal fitness target or goal",
@@ -23956,8 +23862,7 @@
             "value" : "選擇仿音語音…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.setDueDateDots" : {
       "comment" : "Placeholder for setting a due date for tasks or activities",
@@ -24208,8 +24113,7 @@
             "value" : "設置學習目標…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.setReminderDots" : {
       "comment" : "Placeholder for setting up a reminder for an event or task",
@@ -24460,8 +24364,7 @@
             "value" : "設好設置提醒…"
           }
         }
-      },
-      "proofread" : true
+      }
     },
     "TK.Placeholder.typeAMessageDots" : {
       "comment" : "Placeholder for entering a message or comment",
@@ -24712,8 +24615,7 @@
             "value" : "输入信息…"
           }
         }
-      },
-      "proofread" : true
+      }
     }
   },
   "version" : "1.0"
