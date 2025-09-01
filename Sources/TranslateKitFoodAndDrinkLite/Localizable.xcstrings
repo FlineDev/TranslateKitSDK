@@ -67,7 +67,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Agregar al carrito"
+            "value" : "Añadir al carrito"
           }
         },
         "es-419" : {
@@ -97,13 +97,13 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הוסף לעגלת קניות"
+            "value" : "הוסף לעגלה"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "गाड़ी में जोड़ें"
+            "value" : "कार्ट में जोड़ें"
           }
         },
         "hr" : {
@@ -115,7 +115,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hozzáadás a Kosárhoz"
+            "value" : "Hozzáadás a kosárhoz"
           }
         },
         "id" : {
@@ -163,7 +163,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Winkelwagen Toevoegen"
+            "value" : "Toevoegen aan winkelwagen"
           }
         },
         "pl" : {
@@ -187,7 +187,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adaugă în Coș"
+            "value" : "Adaugă în coș"
           }
         },
         "ru" : {
@@ -211,7 +211,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เพิ่มลงในรถเข็น"
+            "value" : "เพิ่มลงในตะกร้า"
           }
         },
         "tr" : {
@@ -270,7 +270,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Afegir a Favorits"
+            "value" : "Afegir als Favorits"
           }
         },
         "cs" : {
@@ -306,7 +306,7 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Add to Favorites"
+            "value" : "Add to Favourites"
           }
         },
         "en-GB" : {
@@ -348,7 +348,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הוספה למועדפים"
+            "value" : "הוסף למועדפים"
           }
         },
         "hi" : {
@@ -360,13 +360,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dodaj u omiljeno"
+            "value" : "Dodaj u omiljene"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hozzáadás a Kedvencekhez"
+            "value" : "Hozzáadás a kedvencekhez"
           }
         },
         "id" : {
@@ -384,7 +384,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "よく使う項目に追加"
+            "value" : "お気に入りに追加"
           }
         },
         "kk" : {
@@ -408,7 +408,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Legg til favoritter"
+            "value" : "Legg til i favoritter"
           }
         },
         "nl" : {
@@ -444,7 +444,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавить в Избранное"
+            "value" : "Добавить в избранное"
           }
         },
         "sk" : {
@@ -468,13 +468,13 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Favorilerime Ekle"
+            "value" : "Favorilere Ekle"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Додати до Улюблених"
+            "value" : "Додати до улюблених"
           }
         },
         "vi" : {
@@ -515,13 +515,13 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Приложи ваучер"
+            "value" : "Приложи купон"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aplicar Codi de Descompte"
+            "value" : "Aplicar Cupó"
           }
         },
         "cs" : {
@@ -545,7 +545,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εφαρμογή Κωδικού Εκπτωσης"
+            "value" : "Εφαρμογή Κωδικού Έκπτωσης"
           }
         },
         "en" : {
@@ -593,7 +593,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Appliquer un Coupon"
+            "value" : "Appliquer un coupon"
           }
         },
         "he" : {
@@ -653,7 +653,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Terapkan Kupon"
+            "value" : "Gunakan Kupon"
           }
         },
         "nb" : {
@@ -707,7 +707,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tillämpa rabattkod"
+            "value" : "Använd rabattkod"
           }
         },
         "th" : {
@@ -844,25 +844,25 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Appliquer un Filtre"
+            "value" : "Appliquer un filtre"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "החל פילטר"
+            "value" : "החל סינון"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "फिल्टर लागू करें"
+            "value" : "फ़िल्टर लागू करें"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Primijeni filter"
+            "value" : "Primijeni filtar"
           }
         },
         "hu" : {
@@ -892,7 +892,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Фильтрды қолдану"
+            "value" : "Фильтрді қолдану"
           }
         },
         "ko" : {
@@ -904,7 +904,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Terapkan Penapis"
+            "value" : "Gunakan Penapis"
           }
         },
         "nb" : {
@@ -940,7 +940,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aplică Filtru"
+            "value" : "Aplică filtrul"
           }
         },
         "ru" : {
@@ -958,7 +958,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tillämpa filter"
+            "value" : "Använd filter"
           }
         },
         "th" : {
@@ -988,13 +988,13 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "应用过滤器"
+            "value" : "应用筛选"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "應用濾鏡"
+            "value" : "套用篩選"
           }
         },
         "zh-HK" : {
@@ -1047,7 +1047,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Κλείστε Τραπέζι"
+            "value" : "Κλείσε Τραπέζι"
           }
         },
         "en" : {
@@ -1113,13 +1113,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rezerviši sto"
+            "value" : "Rezerviraj stol"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Asztal Foglalása"
+            "value" : "Asztal foglalása"
           }
         },
         "id" : {
@@ -1143,7 +1143,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Стол брондау"
+            "value" : "Үстелді брондау"
           }
         },
         "ko" : {
@@ -1155,7 +1155,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "预订桌子"
+            "value" : "Tempah Meja"
           }
         },
         "nb" : {
@@ -1167,7 +1167,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tafel Boeken"
+            "value" : "Tafel reserveren"
           }
         },
         "pl" : {
@@ -1191,7 +1191,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rezervă masă"
+            "value" : "Rezervă o masă"
           }
         },
         "ru" : {
@@ -1239,7 +1239,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "预定桌子"
+            "value" : "预订餐桌"
           }
         },
         "zh-Hant" : {
@@ -1251,7 +1251,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "预订餐桌"
+            "value" : "預訂餐桌"
           }
         }
       }
@@ -1358,7 +1358,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "मेन्यू ब्राउज़ करें"
+            "value" : "मेनू ब्राउज़ करें"
           }
         },
         "hr" : {
@@ -1370,7 +1370,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Menü Böngészése"
+            "value" : "Menü böngészése"
           }
         },
         "id" : {
@@ -1400,7 +1400,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "메뉴 탐색"
+            "value" : "메뉴 둘러보기"
           }
         },
         "ms" : {
@@ -1442,7 +1442,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Răsfoiește meniu"
+            "value" : "Răsfoiește meniul"
           }
         },
         "ru" : {
@@ -1460,7 +1460,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bläddra i meny"
+            "value" : "Bläddra i menyn"
           }
         },
         "th" : {
@@ -1472,7 +1472,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Menüyü Göz At"
+            "value" : "Menüye Göz At"
           }
         },
         "uk" : {
@@ -1502,7 +1502,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "浏览菜单"
+            "value" : "瀏覽菜單"
           }
         }
       }
@@ -1519,7 +1519,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Проверете наличността"
+            "value" : "Провери наличността"
           }
         },
         "ca" : {
@@ -1573,7 +1573,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Verificar disponibilidad"
+            "value" : "Comprobar disponibilidad"
           }
         },
         "es-419" : {
@@ -1621,7 +1621,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Elérhetőség Ellenőrzése"
+            "value" : "Elérhetőség ellenőrzése"
           }
         },
         "id" : {
@@ -1645,13 +1645,13 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Қол жетімділікті тексеру"
+            "value" : "Қолжетімділікті тексеру"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "가용성 확인"
+            "value" : "이용 가능 여부 확인"
           }
         },
         "ms" : {
@@ -1753,7 +1753,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "检查可用性"
+            "value" : "檢查可用性"
           }
         }
       }
@@ -1776,7 +1776,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Crear ordre"
+            "value" : "Crear comanda"
           }
         },
         "cs" : {
@@ -1824,7 +1824,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Crear Pedido"
+            "value" : "Crear pedido"
           }
         },
         "es-419" : {
@@ -1860,7 +1860,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "आदेश बनाएं"
+            "value" : "ऑर्डर बनाएं"
           }
         },
         "hr" : {
@@ -1872,7 +1872,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Megrendelés Létrehozása"
+            "value" : "Megrendelés létrehozása"
           }
         },
         "id" : {
@@ -1938,13 +1938,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Criar Encomenda"
+            "value" : "Criar Pedido"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Creează comandă"
+            "value" : "Creează o comandă"
           }
         },
         "ru" : {
@@ -1968,7 +1968,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "สร้างคำสั่ง"
+            "value" : "สร้างคำสั่งซื้อ"
           }
         },
         "tr" : {
@@ -1986,7 +1986,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tạo Đơn hàng"
+            "value" : "Tạo đơn hàng"
           }
         },
         "zh-Hans" : {
@@ -1998,7 +1998,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "創建訂單"
+            "value" : "建立訂單"
           }
         },
         "zh-HK" : {
@@ -2015,25 +2015,25 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تصفية النظام الغذائي"
+            "value" : "تصفية حسب النظام الغذائي"
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Филтрирай диета"
+            "value" : "Филтрирай по диета"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Filtrar Dieta"
+            "value" : "Filtrar per dieta"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Filtrovat dietu"
+            "value" : "Filtrovat podle diety"
           }
         },
         "da" : {
@@ -2045,7 +2045,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Diät filtern"
+            "value" : "Nach Ernährungsform filtern"
           }
         },
         "el" : {
@@ -2075,7 +2075,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Filtrar Dieta"
+            "value" : "Filtrar por dieta"
           }
         },
         "es-419" : {
@@ -2093,19 +2093,19 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Filtrer le régime"
+            "value" : "Filtrer par régime"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Filtrer le régime"
+            "value" : "Filtrer par régime alimentaire"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "סנן תפריט"
+            "value" : "סנן לפי תזונה"
           }
         },
         "hi" : {
@@ -2117,31 +2117,31 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Filtriraj dijetu"
+            "value" : "Filtriraj po prehrani"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Diéták Szűrése"
+            "value" : "Diéták szűrése"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saring Diet"
+            "value" : "Filter Diet"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Filtra dieta"
+            "value" : "Filtra per dieta"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ダイエットをフィルタする"
+            "value" : "食事制限で絞り込む"
           }
         },
         "kk" : {
@@ -2165,13 +2165,13 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Filtrer kosthold"
+            "value" : "Filtrer etter kosthold"
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dieet Filteren"
+            "value" : "Filter op dieet"
           }
         },
         "pl" : {
@@ -2183,13 +2183,13 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Filtrar Dieta"
+            "value" : "Filtrar por Dieta"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Filtrar Dieta"
+            "value" : "Filtrar por dieta"
           }
         },
         "ro" : {
@@ -2201,31 +2201,31 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Фильтровать меню"
+            "value" : "Фильтровать по диете"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vyplniť"
+            "value" : "Filtrovať podľa diéty"
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Filtrera kosthållning"
+            "value" : "Filtrera efter kost"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรองเมนูตามอาหาร"
+            "value" : "กรองตามข้อจำกัดด้านอาหาร"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Diyeti Filtrele"
+            "value" : "Diyete Göre Filtrele"
           }
         },
         "uk" : {
@@ -2237,7 +2237,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lọc Chế độ ăn"
+            "value" : "Lọc chế độ ăn"
           }
         },
         "zh-Hans" : {
@@ -2249,13 +2249,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "過濾飲食"
+            "value" : "篩選飲食"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "將篩選項目"
+            "value" : "按飲食篩選"
           }
         }
       }
@@ -2266,13 +2266,13 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "أحب الوصفة"
+            "value" : "إعجاب بالوصفة"
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Отбележи рецепта"
+            "value" : "Харесай рецепта"
           }
         },
         "ca" : {
@@ -2284,7 +2284,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Označit recept jako oblíbený"
+            "value" : "To se mi líbí"
           }
         },
         "da" : {
@@ -2296,13 +2296,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rezept mögen"
+            "value" : "Gefällt mir"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Σημείωσε τη συνταγή ως αρεστή"
+            "value" : "Μου αρέσει η συνταγή"
           }
         },
         "en" : {
@@ -2326,13 +2326,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Me gusta la Partitura"
+            "value" : "Me gusta la receta"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Marcar como favorito"
+            "value" : "Dar me gusta a la receta"
           }
         },
         "fi" : {
@@ -2356,7 +2356,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "אהבתי מתכון"
+            "value" : "אהבתי את המתכון"
           }
         },
         "hi" : {
@@ -2386,13 +2386,13 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mi piace Ricetta"
+            "value" : "Metti Mi piace alla Ricetta"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "レシピをお気に入りにする"
+            "value" : "レシピにいいね！"
           }
         },
         "kk" : {
@@ -2410,13 +2410,13 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sukai Resepi"
+            "value" : "Suka Resipi"
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Liker oppskrift"
+            "value" : "Lik oppskrift"
           }
         },
         "nl" : {
@@ -2428,7 +2428,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Polub Przepis"
+            "value" : "Polub przepis"
           }
         },
         "pt-BR" : {
@@ -2446,19 +2446,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Îmi Place Rețeta"
+            "value" : "Îmi place rețeta"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Понравился рецепт"
+            "value" : "Нравится"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Páči sa recept"
+            "value" : "Páči sa mi recept"
           }
         },
         "sv" : {
@@ -2482,7 +2482,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Подобається рецепт"
+            "value" : "Вподобати рецепт"
           }
         },
         "vi" : {
@@ -2500,13 +2500,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "喜歡食譜"
+            "value" : "喜歡此食譜"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "喜欢食谱"
+            "value" : "喜歡食譜"
           }
         }
       }
@@ -2523,7 +2523,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Записване на хранене"
+            "value" : "Запиши хранене"
           }
         },
         "ca" : {
@@ -2541,13 +2541,13 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Log Måltid"
+            "value" : "Log måltid"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mahlzeit Protokollieren"
+            "value" : "Mahlzeit protokollieren"
           }
         },
         "el" : {
@@ -2619,7 +2619,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zabilježi Obrok"
+            "value" : "Zabilježi obrok"
           }
         },
         "hu" : {
@@ -2631,7 +2631,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Catat Makan"
+            "value" : "Catat Makanan"
           }
         },
         "it" : {
@@ -2697,7 +2697,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Înregistrează Masa"
+            "value" : "Înregistrează masa"
           }
         },
         "ru" : {
@@ -2733,7 +2733,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Записати їжу"
+            "value" : "Записати прийом їжі"
           }
         },
         "vi" : {
@@ -2828,7 +2828,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ordenar ahora"
+            "value" : "Pedir ahora"
           }
         },
         "es-419" : {
@@ -2858,7 +2858,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הזמנה עכשיו"
+            "value" : "הזמן עכשיו"
           }
         },
         "hi" : {
@@ -2876,7 +2876,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Megrendelés most"
+            "value" : "Rendelj most"
           }
         },
         "id" : {
@@ -2906,13 +2906,13 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "지금 주문"
+            "value" : "지금 주문하기"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pesan Sekarang"
+            "value" : "Buat Pesanan Sekarang"
           }
         },
         "nb" : {
@@ -2924,7 +2924,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bestellen"
+            "value" : "Nu bestellen"
           }
         },
         "pl" : {
@@ -2936,7 +2936,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Comprar Agora"
+            "value" : "Pedir Agora"
           }
         },
         "pt-PT" : {
@@ -2948,7 +2948,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : " comandă acum"
+            "value" : "Comandă acum"
           }
         },
         "ru" : {
@@ -2966,7 +2966,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Beställ Nu"
+            "value" : "Beställ nu"
           }
         },
         "th" : {
@@ -3091,7 +3091,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aseta tilaus"
+            "value" : "Tee tilaus"
           }
         },
         "fr" : {
@@ -3109,13 +3109,13 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "מקום הזמנה"
+            "value" : "בצע הזמנה"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "आर्डर करें"
+            "value" : "ऑर्डर करें"
           }
         },
         "hr" : {
@@ -3133,7 +3133,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tempatkan Pesanan"
+            "value" : "Buat Pesanan"
           }
         },
         "it" : {
@@ -3151,7 +3151,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Тапсырысты беру"
+            "value" : "Тапсырыс беру"
           }
         },
         "ko" : {
@@ -3199,7 +3199,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Plasează comandă"
+            "value" : "Plasează comanda"
           }
         },
         "ru" : {
@@ -3217,7 +3217,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lägg Order"
+            "value" : "Lägg beställning"
           }
         },
         "th" : {
@@ -3372,7 +3372,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ispisuj recept"
+            "value" : "Ispiši recept"
           }
         },
         "hu" : {
@@ -3581,7 +3581,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Calificar contenido"
+            "value" : "Valorar contenido"
           }
         },
         "es-419" : {
@@ -3617,7 +3617,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "सामग्री को रेट करें"
+            "value" : "कंटेंट को रेट करें"
           }
         },
         "hr" : {
@@ -3635,7 +3635,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Beri Penilaian Konten"
+            "value" : "Beri Nilai Konten"
           }
         },
         "it" : {
@@ -3659,13 +3659,13 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "컨텐츠 평가"
+            "value" : "콘텐츠 평가하기"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Taksir Kandungan"
+            "value" : "Nilaikan Kandungan"
           }
         },
         "nb" : {
@@ -3719,7 +3719,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Betygsätt Innehåll"
+            "value" : "Betygsätt innehåll"
           }
         },
         "th" : {
@@ -3784,7 +3784,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Valora plat"
+            "value" : "Valora el plat"
           }
         },
         "cs" : {
@@ -3796,7 +3796,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vurder ret"
+            "value" : "Bedøm ret"
           }
         },
         "de" : {
@@ -3808,7 +3808,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Αξιολόγηση πιάτου"
+            "value" : "Βαθμολόγησε το πιάτο"
           }
         },
         "en" : {
@@ -3832,7 +3832,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Calificar plato"
+            "value" : "Valorar plato"
           }
         },
         "es-419" : {
@@ -3844,7 +3844,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Arvosta annosta"
+            "value" : "Arvioi annos"
           }
         },
         "fr" : {
@@ -3916,13 +3916,13 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Taksir Hidangan"
+            "value" : "Nilaikan Hidangan"
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vurder rett"
+            "value" : "Vurder retten"
           }
         },
         "nl" : {
@@ -3964,7 +3964,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hodnotiť jedlo"
+            "value" : "Ohodnotiť jedlo"
           }
         },
         "sv" : {
@@ -4047,7 +4047,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fjern fra kurv"
+            "value" : "Fjern fra indkøbskurv"
           }
         },
         "de" : {
@@ -4059,7 +4059,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Αφαίρεση από καλάθι αγορών"
+            "value" : "Αφαίρεση από το Καλάθι"
           }
         },
         "en" : {
@@ -4173,13 +4173,13 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fjern fra handlevogn"
+            "value" : "Fjern fra handlekurv"
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Verwijderen uit Winkelwagentje"
+            "value" : "Verwijderen uit winkelwagen"
           }
         },
         "pl" : {
@@ -4280,7 +4280,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Резервиране"
+            "value" : "Резервирай"
           }
         },
         "ca" : {
@@ -4394,7 +4394,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Riserva"
+            "value" : "Prenota"
           }
         },
         "ja" : {
@@ -4478,7 +4478,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "สำรอง"
+            "value" : "จอง"
           }
         },
         "tr" : {
@@ -4531,7 +4531,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Преглед на поръчката"
+            "value" : "Прегледай поръчката"
           }
         },
         "ca" : {
@@ -4621,7 +4621,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "आर्डर की समीक्षा करें"
+            "value" : "ऑर्डर की समीक्षा करें"
           }
         },
         "hr" : {
@@ -4633,7 +4633,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rendelés Áttekintése"
+            "value" : "Rendelés áttekintése"
           }
         },
         "id" : {
@@ -4675,7 +4675,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gå gjennom ordre"
+            "value" : "Gå gjennom ordren"
           }
         },
         "nl" : {
@@ -4699,7 +4699,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rever encomenda"
+            "value" : "Rever pedido"
           }
         },
         "ro" : {
@@ -4729,7 +4729,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ตรวจสอบคำสั่ง"
+            "value" : "ตรวจสอบคำสั่งซื้อ"
           }
         },
         "tr" : {
@@ -4747,7 +4747,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Xem lại Đơn hàng"
+            "value" : "Xem lại đơn hàng"
           }
         },
         "zh-Hans" : {
@@ -4782,7 +4782,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Запазване на рецептата"
+            "value" : "Запази рецептата"
           }
         },
         "ca" : {
@@ -4884,7 +4884,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Recept Mentése"
+            "value" : "Recept mentése"
           }
         },
         "id" : {
@@ -4998,7 +4998,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lưu Công thức"
+            "value" : "Lưu công thức"
           }
         },
         "zh-Hans" : {
@@ -5010,7 +5010,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "保存食譜"
+            "value" : "儲存食譜"
           }
         },
         "zh-HK" : {
@@ -5033,7 +5033,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сканиране на баркод"
+            "value" : "Сканирай баркод"
           }
         },
         "ca" : {
@@ -5063,7 +5063,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Σάρωση Κωδικού Barcode"
+            "value" : "Σάρωση barcode"
           }
         },
         "en" : {
@@ -5111,7 +5111,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scanner le code-barres"
+            "value" : "Scanner le code à barres"
           }
         },
         "he" : {
@@ -5135,7 +5135,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vonalkód Beolvasása"
+            "value" : "Vonalkód beolvasása"
           }
         },
         "id" : {
@@ -5177,7 +5177,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skann"
+            "value" : "Skann strekkode"
           }
         },
         "nl" : {
@@ -5249,7 +5249,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Quét Mã vạch"
+            "value" : "Quét mã vạch"
           }
         },
         "zh-Hans" : {
@@ -5284,7 +5284,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Планиране на доставка"
+            "value" : "Планирай доставка"
           }
         },
         "ca" : {
@@ -5380,13 +5380,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zakaži dostavu"
+            "value" : "Dogovori dostavu"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kézbesítés Ütemezése"
+            "value" : "Kézbesítés ütemezése"
           }
         },
         "id" : {
@@ -5404,7 +5404,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "配達をスケジュール"
+            "value" : "配達日時を指定"
           }
         },
         "kk" : {
@@ -5416,7 +5416,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "배송 일정 지정하기"
+            "value" : "배달 예약하기"
           }
         },
         "ms" : {
@@ -5458,7 +5458,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Programează livrare"
+            "value" : "Programează livrarea"
           }
         },
         "ru" : {
@@ -5500,7 +5500,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lên lịch Giao hàng"
+            "value" : "Lên lịch giao hàng"
           }
         },
         "zh-Hans" : {
@@ -5637,7 +5637,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Recept Megosztása"
+            "value" : "Recept megosztása"
           }
         },
         "id" : {
@@ -5751,7 +5751,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Chia sẻ Công thức"
+            "value" : "Chia sẻ công thức"
           }
         },
         "zh-Hans" : {
@@ -5780,7 +5780,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "أخذ صورة"
+            "value" : "التقط صورة"
           }
         },
         "bg" : {
@@ -5840,7 +5840,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tomar Foto"
+            "value" : "Hacer una foto"
           }
         },
         "es-419" : {
@@ -5960,7 +5960,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fotografiați"
+            "value" : "Fă o poză"
           }
         },
         "ru" : {
@@ -6055,7 +6055,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Spor Ordre"
+            "value" : "Spor ordre"
           }
         },
         "de" : {
@@ -6067,7 +6067,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Παρακολούθησε Παραγγελία"
+            "value" : "Παρακολούθησε την Παραγγελία"
           }
         },
         "en" : {
@@ -6091,7 +6091,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rastrear Pedido"
+            "value" : "Seguir pedido"
           }
         },
         "es-419" : {
@@ -6121,7 +6121,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "עקוב אחרי הזמנה"
+            "value" : "עקוב אחר ההזמנה"
           }
         },
         "hi" : {
@@ -6151,13 +6151,13 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tieni Traccia dell'Ordine"
+            "value" : "Traccia Ordine"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "注文をトラッキング"
+            "value" : "注文を追跡"
           }
         },
         "kk" : {
@@ -6181,7 +6181,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Spor ordre"
+            "value" : "Spor ordren"
           }
         },
         "nl" : {
@@ -6211,7 +6211,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Urmărește Comanda"
+            "value" : "Urmărește comanda"
           }
         },
         "ru" : {
@@ -6253,7 +6253,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Theo Dõi Đơn Hàng"
+            "value" : "Theo dõi đơn hàng"
           }
         },
         "zh-Hans" : {
@@ -6288,7 +6288,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Напишете отзив"
+            "value" : "Напиши отзив"
           }
         },
         "ca" : {
@@ -6306,7 +6306,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skriv Anmeldelse"
+            "value" : "Skriv anmeldelse"
           }
         },
         "de" : {
@@ -6318,7 +6318,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Γράψτε Κριτική"
+            "value" : "Γράψε Κριτική"
           }
         },
         "en" : {
@@ -6342,7 +6342,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Escribir Comentario"
+            "value" : "Escribir reseña"
           }
         },
         "es-419" : {
@@ -6384,7 +6384,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Napuniti recenziju"
+            "value" : "Napiši recenziju"
           }
         },
         "hu" : {
@@ -6462,7 +6462,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scrie Recenzie"
+            "value" : "Scrie o recenzie"
           }
         },
         "ru" : {
@@ -6480,7 +6480,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skriv Recension"
+            "value" : "Skriv recension"
           }
         },
         "th" : {
@@ -6599,13 +6599,13 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alergenos"
+            "value" : "Alérgenos"
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Allergiat"
+            "value" : "Allergeenit"
           }
         },
         "fr" : {
@@ -6737,7 +6737,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "สารภูมิแพ้"
+            "value" : "สารก่อภูมิแพ้"
           }
         },
         "tr" : {
@@ -6910,7 +6910,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "利用可能性"
+            "value" : "空き状況"
           }
         },
         "kk" : {
@@ -7035,7 +7035,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "التقييم المتوسط"
+            "value" : "متوسط التقييم"
           }
         },
         "bg" : {
@@ -7059,7 +7059,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gennemsnitlig rating"
+            "value" : "Gennemsnitlig vurdering"
           }
         },
         "de" : {
@@ -7095,7 +7095,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Calificación promedio"
+            "value" : "Valoración media"
           }
         },
         "es-419" : {
@@ -7149,7 +7149,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rating Rata-Rata"
+            "value" : "Penilaian Rata-Rata"
           }
         },
         "it" : {
@@ -7179,7 +7179,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Penilaian Rata-Rata"
+            "value" : "Penilaian Purata"
           }
         },
         "nb" : {
@@ -7233,7 +7233,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Genomsnittlig betyg"
+            "value" : "Genomsnittligt betyg"
           }
         },
         "th" : {
@@ -7275,7 +7275,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "平均评分"
+            "value" : "平均評分"
           }
         }
       }
@@ -7424,7 +7424,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "칼로리"
+            "value" : "요리"
           }
         },
         "ms" : {
@@ -7597,7 +7597,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tiempo de Cocción"
+            "value" : "Tiempo de cocción"
           }
         },
         "es-419" : {
@@ -7884,7 +7884,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "पाक कला"
+            "value" : "व्यंजन"
           }
         },
         "hr" : {
@@ -7920,7 +7920,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Асхана"
+            "value" : "Ас түрі"
           }
         },
         "ko" : {
@@ -7992,13 +7992,13 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "อาหาร"
+            "value" : "ประเภทอาหาร"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yemek"
+            "value" : "Mutfak"
           }
         },
         "uk" : {
@@ -8022,13 +8022,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "菜系"
+            "value" : "料理"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "美食"
+            "value" : "菜式"
           }
         }
       }
@@ -8129,7 +8129,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הצעות"
+            "value" : "מבצעים"
           }
         },
         "hi" : {
@@ -8171,13 +8171,13 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Арзан тапсырыстар"
+            "value" : "Жеңілдіктер"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "딜"
+            "value" : "할인"
           }
         },
         "ms" : {
@@ -8249,7 +8249,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Teklifler"
+            "value" : "Fırsatlar"
           }
         },
         "uk" : {
@@ -8386,19 +8386,19 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "डीलीवरी स्थिति"
+            "value" : "डिलीवरी स्थिति"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Status Dostave"
+            "value" : "Status dostave"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kézbesítési Állapot"
+            "value" : "Kézbesítési állapot"
           }
         },
         "id" : {
@@ -8416,7 +8416,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "配送状況"
+            "value" : "配達状況"
           }
         },
         "kk" : {
@@ -8428,7 +8428,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "배송 상태"
+            "value" : "배달 상태"
           }
         },
         "ms" : {
@@ -8643,13 +8643,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vrijeme Dostave"
+            "value" : "Vrijeme dostave"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kézbesítési Idő"
+            "value" : "Kézbesítési idő"
           }
         },
         "id" : {
@@ -8667,7 +8667,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "配送時間"
+            "value" : "配達時間"
           }
         },
         "kk" : {
@@ -8679,7 +8679,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "배송 시간"
+            "value" : "배달 시간"
           }
         },
         "ms" : {
@@ -8822,7 +8822,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Diätetische Einschränkungen"
+            "value" : "Ernährungseinschränkungen"
           }
         },
         "el" : {
@@ -8852,7 +8852,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Restricciones Dietéticas"
+            "value" : "Restricciones dietéticas"
           }
         },
         "es-419" : {
@@ -8864,7 +8864,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ravintorajoitukset"
+            "value" : "Ruokavaliorajoitukset"
           }
         },
         "fr" : {
@@ -8894,7 +8894,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dijetalna Ograničenja"
+            "value" : "Prehrambena ograničenja"
           }
         },
         "hu" : {
@@ -8912,7 +8912,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Restrizioni dietetiche"
+            "value" : "Restrizioni alimentari"
           }
         },
         "ja" : {
@@ -9498,13 +9498,13 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "อาหารแต่ละจาน"
+            "value" : "จานอาหาร"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tabaklar"
+            "value" : "Yemekler"
           }
         },
         "uk" : {
@@ -9528,7 +9528,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "菜品"
+            "value" : "菜餚"
           }
         },
         "zh-HK" : {
@@ -9593,7 +9593,7 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Favorites"
+            "value" : "Favourites"
           }
         },
         "en-GB" : {
@@ -9671,7 +9671,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "よく使う項目"
+            "value" : "お気に入り"
           }
         },
         "kk" : {
@@ -9779,7 +9779,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "喜好項目"
+            "value" : "我的最愛"
           }
         },
         "zh-HK" : {
@@ -10000,7 +10000,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ฟิลเตอร์"
+            "value" : "ตัวกรอง"
           }
         },
         "tr" : {
@@ -10024,19 +10024,19 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "滤镜"
+            "value" : "筛选"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "濾鏡"
+            "value" : "篩選條件"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "濾鏡"
+            "value" : "篩選"
           }
         }
       }
@@ -10269,13 +10269,13 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nguyên Liệu"
+            "value" : "Nguyên liệu"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "成分"
+            "value" : "配料"
           }
         },
         "zh-Hant" : {
@@ -10287,7 +10287,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "成分"
+            "value" : "材料"
           }
         }
       }
@@ -10532,13 +10532,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "選單"
+            "value" : "菜單"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "選單"
+            "value" : "菜單"
           }
         }
       }
@@ -10555,7 +10555,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Факти за хранителната стойност"
+            "value" : "Хранителни стойности"
           }
         },
         "ca" : {
@@ -10627,7 +10627,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Informations Nutritionnelles"
+            "value" : "Informations nutritionnelles"
           }
         },
         "fr-CA" : {
@@ -10639,7 +10639,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "עובדות תזונה"
+            "value" : "ערכים תזונתיים"
           }
         },
         "hi" : {
@@ -10681,7 +10681,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Тамақтану фактілері"
+            "value" : "Қоректік құндылықтар"
           }
         },
         "ko" : {
@@ -10705,7 +10705,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voedingswaarde"
+            "value" : "Voedingswaarden"
           }
         },
         "pl" : {
@@ -10729,7 +10729,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Informații Nutriționale"
+            "value" : "Informații nutriționale"
           }
         },
         "ru" : {
@@ -10860,7 +10860,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Historial de Pedidos"
+            "value" : "Historial de pedidos"
           }
         },
         "es-419" : {
@@ -10890,13 +10890,13 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "היסטורית הזמנות"
+            "value" : "היסטוריית הזמנות"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "आदेश इतिहास"
+            "value" : "ऑर्डर इतिहास"
           }
         },
         "hr" : {
@@ -10908,7 +10908,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rendelési Történet"
+            "value" : "Rendelési történet"
           }
         },
         "id" : {
@@ -11022,7 +11022,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lịch sử Đặt hàng"
+            "value" : "Lịch sử đặt hàng"
           }
         },
         "zh-Hans" : {
@@ -11034,13 +11034,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "訂單歷史"
+            "value" : "訂單紀錄"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "訂單歷史"
+            "value" : "訂單記錄"
           }
         }
       }
@@ -11225,7 +11225,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Encomendas"
+            "value" : "Pedidos"
           }
         },
         "ro" : {
@@ -11404,7 +11404,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Metoda plaćanja"
+            "value" : "Način plaćanja"
           }
         },
         "hu" : {
@@ -11482,7 +11482,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Metodă de Plată"
+            "value" : "Metodă de plată"
           }
         },
         "ru" : {
@@ -11494,7 +11494,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Metóda platby"
+            "value" : "Spôsob platby"
           }
         },
         "sv" : {
@@ -11679,7 +11679,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ポーション"
+            "value" : "人数分"
           }
         },
         "kk" : {
@@ -11691,19 +11691,19 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "부분"
+            "value" : "인분"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Porsi"
+            "value" : "Bahagian"
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Portioner"
+            "value" : "Porsjoner"
           }
         },
         "nl" : {
@@ -11757,7 +11757,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ขนาดส่วนประกอบ"
+            "value" : "จำนวนเสิร์ฟ"
           }
         },
         "tr" : {
@@ -11966,7 +11966,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zakres Cenowy"
+            "value" : "Zakres cenowy"
           }
         },
         "pt-BR" : {
@@ -11984,7 +11984,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Interval de Preț"
+            "value" : "Interval de preț"
           }
         },
         "ru" : {
@@ -12127,13 +12127,13 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ikäraja"
+            "value" : "Arvio"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Classement"
+            "value" : "Note"
           }
         },
         "fr-CA" : {
@@ -12163,7 +12163,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Minősítés"
+            "value" : "Értékelés"
           }
         },
         "id" : {
@@ -12193,7 +12193,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "등급"
+            "value" : "평점"
           }
         },
         "ms" : {
@@ -12223,7 +12223,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Classificação"
+            "value" : "Avaliação"
           }
         },
         "pt-PT" : {
@@ -12259,7 +12259,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การจัดอันดับ"
+            "value" : "คะแนน"
           }
         },
         "tr" : {
@@ -12289,13 +12289,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "喜好程度"
+            "value" : "評分"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "年齡分級"
+            "value" : "評分"
           }
         }
       }
@@ -12438,7 +12438,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Резервтер"
+            "value" : "Резервациялар"
           }
         },
         "ko" : {
@@ -12617,7 +12617,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Información del Restaurante"
+            "value" : "Información del restaurante"
           }
         },
         "es-419" : {
@@ -12629,7 +12629,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ravintolainformaatio"
+            "value" : "Ravintolan tiedot"
           }
         },
         "fr" : {
@@ -12647,25 +12647,25 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "מידע על מסעדה"
+            "value" : "מידע על המסעדה"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "रेस्टोरेंट जानकारी"
+            "value" : "रेस्तरां की जानकारी"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Informacije o Restoranu"
+            "value" : "Informacije o restoranu"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Étterem információ"
+            "value" : "Étterem adatai"
           }
         },
         "id" : {
@@ -12719,7 +12719,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Informacje o Restauracji"
+            "value" : "Informacje o restauracji"
           }
         },
         "pt-BR" : {
@@ -12737,7 +12737,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Informații despre Restaurant"
+            "value" : "Informații despre restaurant"
           }
         },
         "ru" : {
@@ -13083,7 +13083,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Total pris"
+            "value" : "Samlet pris"
           }
         },
         "de" : {
@@ -13131,7 +13131,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kokonaiskustannus"
+            "value" : "Kokonaishinta"
           }
         },
         "fr" : {
@@ -13167,7 +13167,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Teljes Ár"
+            "value" : "Teljes ár"
           }
         },
         "id" : {
@@ -13215,7 +13215,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Totale Prijs"
+            "value" : "Totale prijs"
           }
         },
         "pl" : {
@@ -13239,7 +13239,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Preț Total"
+            "value" : "Preț total"
           }
         },
         "ru" : {
@@ -13257,7 +13257,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Totalt Pris"
+            "value" : "Totalt pris"
           }
         },
         "th" : {
@@ -13281,19 +13281,19 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tổng giá"
+            "value" : "Tổng tiền"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "总价格"
+            "value" : "总价"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "總價格"
+            "value" : "總金額"
           }
         },
         "zh-HK" : {
@@ -13310,25 +13310,25 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تم تأكيد طلب التوصيل."
+            "value" : "تم تأكيد طلب التوصيل"
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Поръчката за доставка е потвърдена."
+            "value" : "Поръчката за доставка е потвърдена"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Confirmació de comanda de lliurament."
+            "value" : "Comanda de lliurament confirmada"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Objednávka na dodávku potvrzena."
+            "value" : "Objednávka doručení potvrzena"
           }
         },
         "da" : {
@@ -13340,7 +13340,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lieferauftrag bestätigt."
+            "value" : "Lieferauftrag bestätigt"
           }
         },
         "el" : {
@@ -13382,7 +13382,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Toimitusvahvistus on vahvistettu"
+            "value" : "Toimitustilaus vahvistettu"
           }
         },
         "fr" : {
@@ -13400,13 +13400,13 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ההזמנה אושרה לספק"
+            "value" : "ההזמנה למשלוח אושרה"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "डिलीवरी आदेश की पुष्टि हो गई"
+            "value" : "डिलीवरी ऑर्डर की पुष्टि हो गई"
           }
         },
         "hr" : {
@@ -13436,7 +13436,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "配達注文が確認されました。"
+            "value" : "配達の注文が確認されました。"
           }
         },
         "kk" : {
@@ -13448,7 +13448,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "배송 주문이 확인되었습니다."
+            "value" : "배달 주문이 확인되었습니다."
           }
         },
         "ms" : {
@@ -13490,19 +13490,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Comanda de livrare confirmată."
+            "value" : "Comanda de livrare confirmată"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Заказ на доставку подтвержден."
+            "value" : "Заказ на доставку подтвержден"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dodanie objednávky potvrdené"
+            "value" : "Objednávka na doručenie potvrdená"
           }
         },
         "sv" : {
@@ -13514,7 +13514,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ยืนยันการสั่งซื้อการจัดส่งแล้ว"
+            "value" : "ยืนยันคำสั่งซื้อแบบจัดส่งแล้ว"
           }
         },
         "tr" : {
@@ -13688,13 +13688,13 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "キッチンは閉まっています。"
+            "value" : "現在、キッチンは営業していません。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Асхана жабық."
+            "value" : "Ас үй жабық."
           }
         },
         "ko" : {
@@ -13706,7 +13706,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dapur telah tutup."
+            "value" : "Dapur ditutup."
           }
         },
         "nb" : {
@@ -13766,7 +13766,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ครัวปิดแล้ว"
+            "value" : "ครัวปิดแล้ว."
           }
         },
         "tr" : {
@@ -13819,7 +13819,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Търся близки ресторанти."
+            "value" : "Търся близки ресторанти"
           }
         },
         "ca" : {
@@ -13849,7 +13849,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Αναζητώ εστιατόρια κοντά."
+            "value" : "Αναζητώ εστιατόρια κοντά"
           }
         },
         "en" : {
@@ -13861,7 +13861,7 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Looking for nearby restaurants."
+            "value" : "Looking for nearby restaurants"
           }
         },
         "en-GB" : {
@@ -13903,7 +13903,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "מחפש מסעדות קרובות"
+            "value" : "מחפשים מסעדות קרובות"
           }
         },
         "hi" : {
@@ -13921,7 +13921,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Közeli éttermeket keres."
+            "value" : "Közeli éttermeket keres"
           }
         },
         "id" : {
@@ -13933,7 +13933,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cerco ristoranti nelle vicinanze"
+            "value" : "Ricerca di ristoranti nelle vicinanze"
           }
         },
         "ja" : {
@@ -13969,25 +13969,25 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zoeken naar nabijgelegen restaurants."
+            "value" : "Zoeken naar nabijgelegen restaurants"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Szukamy pobliskich restauracji."
+            "value" : "Szukamy pobliskich restauracji"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Procurando por restaurantes próximos"
+            "value" : "Procurando restaurantes próximos"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "À procura de restaurantes nas proximidades."
+            "value" : "À procura de restaurantes nas proximidades"
           }
         },
         "ro" : {
@@ -14023,13 +14023,13 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yakındaki restoranları arıyorum"
+            "value" : "Yakındaki restoranlar aranıyor"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Шукаю найближчі ресторани."
+            "value" : "Пошук найближчих ресторанів"
           }
         },
         "vi" : {
@@ -14233,7 +14233,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Menu foi atualizado."
+            "value" : "O menu foi atualizado."
           }
         },
         "pt-PT" : {
@@ -14269,7 +14269,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เมนูได้รับการอัปเดตแล้ว"
+            "value" : "เมนูได้รับการอัปเดตแล้ว."
           }
         },
         "tr" : {
@@ -14287,7 +14287,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cập nhật thực đơn xong."
+            "value" : "Thực đơn đã được cập nhật."
           }
         },
         "zh-Hans" : {
@@ -14395,13 +14395,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aucune réservation disponible trouvée."
+            "value" : "Aucune réservation disponible."
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aucune réservation disponible trouvée."
+            "value" : "Aucune réservation disponible."
           }
         },
         "he" : {
@@ -14437,7 +14437,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nessuna prenotazione disponibile trovata."
+            "value" : "Nessuna prenotazione disponibile."
           }
         },
         "ja" : {
@@ -14449,13 +14449,13 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Қол жетімді резервтер табылмады."
+            "value" : "Қолжетімді резервациялар табылмады."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "사용 가능한 예약이 발견되지 않았습니다."
+            "value" : "이용 가능한 예약이 없습니다."
           }
         },
         "ms" : {
@@ -14521,13 +14521,13 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ไม่พบการจองที่ว่าง"
+            "value" : "ไม่พบการจองที่ว่าง."
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mevcut rezervasyon bulunamadı."
+            "value" : "Uygun rezervasyon bulunamadı."
           }
         },
         "uk" : {
@@ -14551,7 +14551,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "未找到可用的預訂。"
+            "value" : "找不到可用的訂位。"
           }
         },
         "zh-HK" : {
@@ -14641,7 +14641,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tilauksesi on valmistumassa."
+            "value" : "Tilaus on valmistumassa."
           }
         },
         "fr" : {
@@ -14659,7 +14659,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ההזמנה בהכנה"
+            "value" : "ההזמנה בהכנה."
           }
         },
         "hi" : {
@@ -14677,7 +14677,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A megrendelés folyamatban van."
+            "value" : "A rendelés készül."
           }
         },
         "id" : {
@@ -14737,7 +14737,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pedido está sendo preparado."
+            "value" : "O pedido está sendo preparado."
           }
         },
         "pt-PT" : {
@@ -14833,7 +14833,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Recepta afegida a favorits."
+            "value" : "Recepta afegida als favorits."
           }
         },
         "cs" : {
@@ -14857,7 +14857,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η συνταγή προστέθηκε στους αγαπημένους."
+            "value" : "Η συνταγή προστέθηκε στα Αγαπημένα."
           }
         },
         "en" : {
@@ -14887,7 +14887,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Receta añadida a favoritos."
+            "value" : "Receta agregada a favoritos."
           }
         },
         "fi" : {
@@ -14917,13 +14917,13 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "पकवान को पसंदीदा में जोड़ा गया।"
+            "value" : "रेसिपी को पसंदीदा में जोड़ा गया।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Recept je dodan u favorite."
+            "value" : "Recept je dodan u omiljene."
           }
         },
         "hu" : {
@@ -14953,7 +14953,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Рецепт жақсы көрінетіндер тізіміне қосылды."
+            "value" : "Рецепт таңдаулыларға қосылды."
           }
         },
         "ko" : {
@@ -14965,7 +14965,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Resipi telah ditambahkan ke senarai kegemaran."
+            "value" : "Resipi telah ditambah ke senarai kegemaran."
           }
         },
         "nb" : {
@@ -15025,7 +15025,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "สูตรอาหารถูกเพิ่มลงในรายการโปรดแล้ว"
+            "value" : "สูตรอาหารถูกเพิ่มลงในรายการโปรดแล้ว."
           }
         },
         "tr" : {
@@ -15049,13 +15049,13 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "菜谱已添加到收藏夹。"
+            "value" : "食谱已添加到个人收藏。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "食譜已添加到最愛中。"
+            "value" : "食譜已加入我的最愛。"
           }
         },
         "zh-HK" : {
@@ -15079,7 +15079,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ресторантът е напълно запълнен."
+            "value" : "Ресторантът е напълно резервиран."
           }
         },
         "ca" : {
@@ -15103,7 +15103,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Restaurant ist ausgebucht."
+            "value" : "Das Restaurant ist ausgebucht."
           }
         },
         "el" : {
@@ -15229,7 +15229,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Restaurant is volledig volgeboekt."
+            "value" : "Restaurant is volgeboekt."
           }
         },
         "pl" : {
@@ -15277,7 +15277,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ร้านอาหารเต็มแล้ว"
+            "value" : "ร้านอาหารเต็มแล้ว."
           }
         },
         "tr" : {
@@ -15301,19 +15301,19 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "餐厅已满。"
+            "value" : "餐厅已订满。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "餐廳已全部預訂。"
+            "value" : "餐廳訂位已滿。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "餐廳已全線訂滿。"
+            "value" : "餐廳已訂滿。"
           }
         }
       }
@@ -15331,7 +15331,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Потвърждение за резервирана маса."
+            "value" : "Резервацията на маса е потвърдена."
           }
         },
         "ca" : {
@@ -15415,7 +15415,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הזמנת השולחן אומתה."
+            "value" : "הזמנת השולחן אושרה."
           }
         },
         "hi" : {
@@ -15427,7 +15427,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Potvrda rezervacije stola."
+            "value" : "Rezervacija stola potvrđena."
           }
         },
         "hu" : {
@@ -15457,7 +15457,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сіздің столыңыз расталды."
+            "value" : "Үстелді брондау расталды."
           }
         },
         "ko" : {
@@ -15481,7 +15481,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tafelreservatie bevestigd."
+            "value" : "Tafelreservering bevestigd."
           }
         },
         "pl" : {
@@ -15523,7 +15523,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bordreservationen är bekräftad."
+            "value" : "Bordsreservationen är bekräftad."
           }
         },
         "th" : {
@@ -15559,13 +15559,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "餐桌預訂已確認。"
+            "value" : "訂位已確認。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "桌子預訂已確認。"
+            "value" : "訂座已確認。"
           }
         }
       }
@@ -15583,7 +15583,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Тази храна съдържа алергени."
+            "value" : "Това ястие съдържа алергени."
           }
         },
         "ca" : {
@@ -15751,7 +15751,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Este prato contém alérgenos."
+            "value" : "Este prato contém alergénios."
           }
         },
         "ro" : {
@@ -15781,13 +15781,13 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "จานนี้มีสารก่อภูมิแพ้"
+            "value" : "จานนี้มีสารก่อภูมิแพ้."
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bu yemek alerjenler içermektedir."
+            "value" : "Bu yemek alerjen içerir."
           }
         },
         "uk" : {
@@ -15799,7 +15799,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Món ăn này chứa dị ứng."
+            "value" : "Món ăn này có chứa chất gây dị ứng."
           }
         },
         "zh-Hans" : {
@@ -15835,7 +15835,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Вашата поръчка е потвърдена."
+            "value" : "Поръчката ти е потвърдена."
           }
         },
         "ca" : {
@@ -15847,7 +15847,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tvoja objednávka byla potvrzena."
+            "value" : "Tvoje objednávka byla potvrzena."
           }
         },
         "da" : {
@@ -15919,19 +15919,19 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ההזמנה שלך אומתה."
+            "value" : "ההזמנה שלך אושרה."
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "आपका ऑर्डर कन्फर्म हो गया है।"
+            "value" : "आपके ऑर्डर की पुष्टि हो गई है।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vaša narudžba je potvrđena."
+            "value" : "Tvoja narudžba je potvrđena."
           }
         },
         "hu" : {
@@ -16003,7 +16003,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A tua encomenda foi confirmada."
+            "value" : "O teu pedido foi confirmado."
           }
         },
         "ro" : {
@@ -16033,7 +16033,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "คำสั่งของคุณได้รับการยืนยันแล้วค่ะ"
+            "value" : "คำสั่งซื้อของคุณได้รับการยืนยันแล้ว."
           }
         },
         "tr" : {
@@ -16063,7 +16063,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "您的訂單已確認。"
+            "value" : "你的訂單已確認。"
           }
         },
         "zh-HK" : {
@@ -16087,7 +16087,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Вашата поръчка е на път."
+            "value" : "Поръчката ти е на път."
           }
         },
         "ca" : {
@@ -16183,7 +16183,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vaša narudžba je na putu."
+            "value" : "Tvoja narudžba je na putu."
           }
         },
         "hu" : {
@@ -16207,7 +16207,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "注文は発送中です。"
+            "value" : "注文は配達中です。"
           }
         },
         "kk" : {
@@ -16219,7 +16219,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "주문이 배송 중입니다."
+            "value" : "주문이 배달 중입니다."
           }
         },
         "ms" : {
@@ -16255,7 +16255,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A tua encomenda está a caminho."
+            "value" : "O teu pedido está a caminho."
           }
         },
         "ro" : {
@@ -16285,7 +16285,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "คำสั่งของคุณกำลังมาถึง"
+            "value" : "คำสั่งซื้อของคุณกำลังเดินทาง."
           }
         },
         "tr" : {
@@ -16315,7 +16315,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "您的訂單在路上。"
+            "value" : "你的訂單在路上。"
           }
         },
         "zh-HK" : {
@@ -16470,7 +16470,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "배송 지침 추가…"
+            "value" : "배달 요청사항 추가…"
           }
         },
         "ms" : {
@@ -16518,13 +16518,13 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавьте инструкции по доставке…"
+            "value" : "Добавь инструкции по доставке…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pridaj pokyny k doručení…"
+            "value" : "Pridaj pokyny k doručeniu…"
           }
         },
         "sv" : {
@@ -16566,13 +16566,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加送貨指示…"
+            "value" : "新增送貨說明…"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "新增送货说明…"
+            "value" : "新增送貨說明…"
           }
         }
       }
@@ -16607,7 +16607,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tilføj diætbegrænsninger…"
+            "value" : "Tilføj kostbegrænsninger…"
           }
         },
         "de" : {
@@ -16655,7 +16655,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lisää ruokarajoitukset…"
+            "value" : "Lisää ruokavaliorajoitukset…"
           }
         },
         "fr" : {
@@ -16685,13 +16685,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dodaj prehrambene restrikcije…"
+            "value" : "Dodaj prehrambena ograničenja…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ételallergiák hozzáadása…"
+            "value" : "Étrend-korlátozások hozzáadása…"
           }
         },
         "id" : {
@@ -16727,13 +16727,13 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tambah sekatan makanan…"
+            "value" : "Tambah sekatan diet…"
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Legg til diettbegrensninger…"
+            "value" : "Legg til kostholdsrestriksjoner…"
           }
         },
         "nl" : {
@@ -16769,7 +16769,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавьте пищевые ограничения…"
+            "value" : "Добавь пищевые ограничения…"
           }
         },
         "sk" : {
@@ -16787,7 +16787,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เพิ่มข้อจำกัดทางโภชนาการ…"
+            "value" : "เพิ่มข้อจำกัดด้านอาหาร…"
           }
         },
         "tr" : {
@@ -16823,7 +16823,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加饮食限制…"
+            "value" : "新增飲食限制…"
           }
         }
       }
@@ -16870,7 +16870,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Προσθήκη περιγραφής συνταγής…"
+            "value" : "Πρόσθεσε περιγραφή συνταγής…"
           }
         },
         "en" : {
@@ -16942,7 +16942,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Recept leírás hozzáadása…"
+            "value" : "Recept leírásának hozzáadása…"
           }
         },
         "id" : {
@@ -17020,13 +17020,13 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавить описание рецепта…"
+            "value" : "Добавь описание рецепта…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pridať popis receptu…"
+            "value" : "Pridaj popis receptu…"
           }
         },
         "sv" : {
@@ -17056,7 +17056,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Thêm tiêu đề công thức…"
+            "value" : "Thêm mô tả công thức…"
           }
         },
         "zh-Hans" : {
@@ -17074,7 +17074,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "新增食谱描述…"
+            "value" : "新增食譜描述…"
           }
         }
       }
@@ -17091,7 +17091,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведете адрес за доставка…"
+            "value" : "Въведи адрес за доставка…"
           }
         },
         "ca" : {
@@ -17103,7 +17103,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadejte adresu pro doručení…"
+            "value" : "Zadej adresu pro doručení…"
           }
         },
         "da" : {
@@ -17121,7 +17121,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε διεύθυνση για παράδοση…"
+            "value" : "Βάλε διεύθυνση για παράδοση…"
           }
         },
         "en" : {
@@ -17145,13 +17145,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ingresa dirección para entrega…"
+            "value" : "Introduce la dirección de entrega…"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ingresa la dirección para entrega…"
+            "value" : "Ingresa la dirección para la entrega…"
           }
         },
         "fi" : {
@@ -17181,7 +17181,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "डिलीवरी के लिए पता डालें…"
+            "value" : "डिलीवरी के लिए पता दर्ज करें…"
           }
         },
         "hr" : {
@@ -17223,7 +17223,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "배송 주소 입력…"
+            "value" : "배달 주소 입력…"
           }
         },
         "ms" : {
@@ -17259,25 +17259,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduzir morada para entrega…"
+            "value" : "Introduz a morada para entrega…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduceți adresa pentru livrare…"
+            "value" : "Introdu adresa pentru livrare…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введите адрес для доставки…"
+            "value" : "Введи адрес для доставки…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadajte adresu pre doručenie…"
+            "value" : "Zadaj adresu pre doručenie…"
           }
         },
         "sv" : {
@@ -17295,7 +17295,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Teslim adresini gir…"
+            "value" : "Teslimat adresini gir…"
           }
         },
         "uk" : {
@@ -17336,7 +17336,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "أدخل مذكرة التسليم…"
+            "value" : "أدخل ملاحظة للتسليم…"
           }
         },
         "bg" : {
@@ -17354,7 +17354,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadejte dodací poznámku…"
+            "value" : "Zadej dodací poznámku…"
           }
         },
         "da" : {
@@ -17372,7 +17372,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε σημείωση παράδοσης…"
+            "value" : "Βάλε σημείωση παράδοσης…"
           }
         },
         "en" : {
@@ -17396,37 +17396,37 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ingresa nota de entrega…"
+            "value" : "Introduce una nota de entrega…"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ingresa nota de entrega…"
+            "value" : "Ingresa la nota de entrega…"
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Syötä toimitusmuistio…"
+            "value" : "Syötä toimitusviesti…"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le bon de livraison…"
+            "value" : "Entrez une note pour la livraison…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entre la note de livraison…"
+            "value" : "Entrer une note de livraison…"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הזן פתק למשלוח…"
+            "value" : "הזן הערה למשלוח…"
           }
         },
         "hi" : {
@@ -17438,7 +17438,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi otpremnicu…"
+            "value" : "Unesi napomenu za dostavu…"
           }
         },
         "hu" : {
@@ -17456,13 +17456,13 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inserisci nota di consegna…"
+            "value" : "Inserisci una nota per la consegna…"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "納品書を記入中…"
+            "value" : "配達メモを入力…"
           }
         },
         "kk" : {
@@ -17474,7 +17474,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "배송 메모를 입력하세요…"
+            "value" : "배달 메모를 입력하세요…"
           }
         },
         "ms" : {
@@ -17492,7 +17492,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voer de leveringsnota in…"
+            "value" : "Voer bezorgopmerking in…"
           }
         },
         "pl" : {
@@ -17510,7 +17510,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduza a nota de entrega…"
+            "value" : "Introduz a nota de entrega…"
           }
         },
         "ro" : {
@@ -17522,7 +17522,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введите примечание к доставке…"
+            "value" : "Введи примечание к доставке…"
           }
         },
         "sk" : {
@@ -17552,7 +17552,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введіть накладну…"
+            "value" : "Введіть примітку для доставки…"
           }
         },
         "vi" : {
@@ -17564,19 +17564,19 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "输入送货单…"
+            "value" : "输入送货备注…"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入送貨單備註…"
+            "value" : "輸入送貨備註…"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入送貨註釋…"
+            "value" : "輸入送貨備註…"
           }
         }
       }
@@ -17605,7 +17605,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadejte počet hostů…"
+            "value" : "Zadej počet hostů…"
           }
         },
         "da" : {
@@ -17683,7 +17683,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "अतिथियों की संख्या डालें…"
+            "value" : "अतिथियों की संख्या दर्ज करें…"
           }
         },
         "hr" : {
@@ -17725,7 +17725,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "게스트 수를 입력하세요…"
+            "value" : "인원 수를 입력하세요…"
           }
         },
         "ms" : {
@@ -17761,19 +17761,19 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduza o número de hóspedes…"
+            "value" : "Introduz o número de hóspedes…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduceți numărul de oaspeți…"
+            "value" : "Introdu numărul de oaspeți…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введите количество гостей…"
+            "value" : "Введи количество гостей…"
           }
         },
         "sk" : {
@@ -17815,13 +17815,13 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "输入客人数量…"
+            "value" : "输入就餐人数…"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "請輸入客人數量…"
+            "value" : "輸入用餐人數…"
           }
         },
         "zh-HK" : {
@@ -17856,7 +17856,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadejte promo kód…"
+            "value" : "Zadej promo kód…"
           }
         },
         "da" : {
@@ -17868,7 +17868,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gib den Gutscheincode ein…"
+            "value" : "Gutscheincode eingeben…"
           }
         },
         "el" : {
@@ -17928,7 +17928,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הזן קוד קידום מכירות…"
+            "value" : "הזן קוד קופון…"
           }
         },
         "hi" : {
@@ -18012,7 +18012,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduza o código promocional…"
+            "value" : "Introduz o código promocional…"
           }
         },
         "ro" : {
@@ -18024,7 +18024,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введите промокод…"
+            "value" : "Введи промокод…"
           }
         },
         "sk" : {
@@ -18125,7 +18125,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Βρείτε υλικά…"
+            "value" : "Βρες υλικά…"
           }
         },
         "en" : {
@@ -18149,7 +18149,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscando ingredientes…"
+            "value" : "Buscar ingredientes…"
           }
         },
         "es-419" : {
@@ -18233,7 +18233,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cari ramuan…"
+            "value" : "Cari bahan…"
           }
         },
         "nb" : {
@@ -18251,7 +18251,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Znajdź składniki..."
+            "value" : "Znajdź składniki…"
           }
         },
         "pt-BR" : {
@@ -18275,13 +18275,13 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Найти ингредиенты…"
+            "value" : "Найди ингредиенты…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nájdite ingrediencie…"
+            "value" : "Nájdi ingrediencie…"
           }
         },
         "sv" : {
@@ -18305,7 +18305,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Шукаю інгредієнти…"
+            "value" : "Знайти інгредієнти…"
           }
         },
         "vi" : {
@@ -18323,13 +18323,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "查找配料…"
+            "value" : "尋找食材…"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "找配料…"
+            "value" : "找材料…"
           }
         }
       }
@@ -18346,7 +18346,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Намери наблизо ресторанти…"
+            "value" : "Намери ресторанти наблизо…"
           }
         },
         "ca" : {
@@ -18358,7 +18358,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Najdu restaurace v okolí…"
+            "value" : "Najdi restaurace v okolí…"
           }
         },
         "da" : {
@@ -18376,7 +18376,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Βρείτε κοντινά εστιατόρια…"
+            "value" : "Βρες κοντινά εστιατόρια…"
           }
         },
         "en" : {
@@ -18400,25 +18400,25 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscando restaurantes cercanos…"
+            "value" : "Buscar restaurantes cercanos…"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Encuentra restaurantes cercanos…"
+            "value" : "Buscar restaurantes cercanos…"
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Löydä lähistön ravintolat…"
+            "value" : "Etsi lähistön ravintoloita…"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Recherche des restaurants à proximité…"
+            "value" : "Recherche de restaurants à proximité…"
           }
         },
         "fr-CA" : {
@@ -18496,7 +18496,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vind nabijgelegen restaurants..."
+            "value" : "Vind nabijgelegen restaurants…"
           }
         },
         "pl" : {
@@ -18526,13 +18526,13 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Найти рядом рестораны…"
+            "value" : "Найди рядом рестораны…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nájsť reštaurácie v okolí…"
+            "value" : "Nájdi reštaurácie v okolí…"
           }
         },
         "sv" : {
@@ -18609,7 +18609,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Najdu recepty…"
+            "value" : "Najdi recepty…"
           }
         },
         "da" : {
@@ -18627,7 +18627,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Βρείτε συνταγές…"
+            "value" : "Βρες συνταγές…"
           }
         },
         "en" : {
@@ -18651,7 +18651,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscando recetas…"
+            "value" : "Buscar recetas…"
           }
         },
         "es-419" : {
@@ -18687,7 +18687,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "व्यंजन खोजें…"
+            "value" : "रेसिपी खोजें…"
           }
         },
         "hr" : {
@@ -18777,13 +18777,13 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Найти рецепты…"
+            "value" : "Найди рецепты…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nájdite recepty…"
+            "value" : "Nájdi recepty…"
           }
         },
         "sv" : {
@@ -18801,13 +18801,13 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tarifler bul…"
+            "value" : "Tarif bul…"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Шукаю рецепти…"
+            "value" : "Знайти рецепти…"
           }
         },
         "vi" : {
@@ -18825,7 +18825,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "查找食譜…"
+            "value" : "尋找食譜…"
           }
         },
         "zh-HK" : {
@@ -18848,7 +18848,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Оценете вашия опит…"
+            "value" : "Оцени изживяването си…"
           }
         },
         "ca" : {
@@ -18860,7 +18860,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ohodnoťte svou zkušenost…"
+            "value" : "Ohodnoť svou zkušenost…"
           }
         },
         "da" : {
@@ -18956,7 +18956,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nilai pengalaman Anda…"
+            "value" : "Nilai pengalamanmu…"
           }
         },
         "it" : {
@@ -18968,7 +18968,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "体験の評価をお願いします…"
+            "value" : "体験の評価を入力…"
           }
         },
         "kk" : {
@@ -18980,13 +18980,13 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "경험 평가 중…"
+            "value" : "경험을 평가하세요…"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Taksir pengalaman anda…"
+            "value" : "Nilaikan pengalaman anda…"
           }
         },
         "nb" : {
@@ -19028,7 +19028,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Оцените ваш опыт…"
+            "value" : "Оцени свой опыт…"
           }
         },
         "sk" : {
@@ -19117,7 +19117,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Søger efter køkken…"
+            "value" : "Søg efter køkken…"
           }
         },
         "de" : {
@@ -19165,7 +19165,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Etsi ruuan mukaan…"
+            "value" : "Etsi keittiötyypin mukaan…"
           }
         },
         "fr" : {
@@ -19177,19 +19177,19 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Recherche par cuisine…"
+            "value" : "Rechercher par cuisine…"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "מחפש לפי מטבח…"
+            "value" : "חפש לפי מטבח…"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "पकवान द्वारा खोजें…"
+            "value" : "व्यंजन के अनुसार खोजें…"
           }
         },
         "hr" : {
@@ -19207,7 +19207,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mencari berdasarkan masakan…"
+            "value" : "Cari berdasarkan masakan…"
           }
         },
         "it" : {
@@ -19219,37 +19219,37 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "料理別に検索中…"
+            "value" : "料理別に検索…"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Асхана бойынша іздеу…"
+            "value" : "Ас түрі бойынша іздеу…"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "요리별 검색 중…"
+            "value" : "요리별로 검색하세요…"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mencari mengikut masakan…"
+            "value" : "Cari mengikut masakan…"
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Søk etter kjøkken…"
+            "value" : "Søk etter kjøkkentype…"
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zoeken op keuken…"
+            "value" : "Zoek op keuken…"
           }
         },
         "pl" : {
@@ -19267,25 +19267,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A procurar por cozinha..."
+            "value" : "Pesquisar por cozinha…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caut după bucătărie…"
+            "value" : "Caută după bucătărie…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ищем по кухне…"
+            "value" : "Ищи по кухне…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hľadám podľa kuchyne…"
+            "value" : "Hľadaj podľa kuchyne…"
           }
         },
         "sv" : {
@@ -19327,7 +19327,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "按料理搜尋中..."
+            "value" : "依料理搜尋…"
           }
         },
         "zh-HK" : {
@@ -19410,7 +19410,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscar platillos…"
+            "value" : "Buscar platos…"
           }
         },
         "fi" : {
@@ -19428,13 +19428,13 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Recherche de plats…"
+            "value" : "Rechercher des plats…"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "מחפש מנות…"
+            "value" : "חפש מנות…"
           }
         },
         "hi" : {
@@ -19458,7 +19458,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mencari hidangan…"
+            "value" : "Cari hidangan…"
           }
         },
         "it" : {
@@ -19470,7 +19470,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "料理を検索中…"
+            "value" : "料理を検索…"
           }
         },
         "kk" : {
@@ -19482,13 +19482,13 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "요리 검색 중…"
+            "value" : "요리를 검색하세요…"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mencari hidangan…"
+            "value" : "Cari hidangan…"
           }
         },
         "nb" : {
@@ -19500,7 +19500,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zoeken naar gerechten…"
+            "value" : "Zoek naar gerechten…"
           }
         },
         "pl" : {
@@ -19518,25 +19518,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A procurar pratos..."
+            "value" : "Pesquisar pratos…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caut mâncăruri…"
+            "value" : "Caută mâncăruri…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ищем блюда…"
+            "value" : "Ищи блюда…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hľadám jedlá…"
+            "value" : "Hľadaj jedlá…"
           }
         },
         "sv" : {
@@ -19578,7 +19578,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋菜餚中..."
+            "value" : "搜尋菜餚…"
           }
         },
         "zh-HK" : {
@@ -19601,7 +19601,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Търсене в менюто..."
+            "value" : "Търсене в менюто…"
           }
         },
         "ca" : {
@@ -19667,7 +19667,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Etsi menu…"
+            "value" : "Etsi valikosta…"
           }
         },
         "fr" : {
@@ -19697,7 +19697,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pretraži meni…"
+            "value" : "Pretraži izbornik…"
           }
         },
         "hu" : {
@@ -19721,7 +19721,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "メニューを検索中…"
+            "value" : "メニューを検索…"
           }
         },
         "kk" : {
@@ -19745,7 +19745,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Søk i meny…"
+            "value" : "Søk i menyen…"
           }
         },
         "nl" : {
@@ -19763,7 +19763,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscar menu…"
+            "value" : "Buscar no menu…"
           }
         },
         "pt-PT" : {
@@ -19781,7 +19781,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ищем по меню…"
+            "value" : "Ищи в меню…"
           }
         },
         "sk" : {
@@ -19793,7 +19793,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sök i menyer…"
+            "value" : "Sök i menyn…"
           }
         },
         "th" : {
@@ -19805,7 +19805,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Menü ara…"
+            "value" : "Menüde ara…"
           }
         },
         "uk" : {
@@ -19829,13 +19829,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋選單..."
+            "value" : "搜尋菜單…"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋選單…"
+            "value" : "搜尋菜單…"
           }
         }
       }
@@ -19978,7 +19978,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Рецепттерді іздеңіз..."
+            "value" : "Рецепттерді іздеңіз…"
           }
         },
         "ko" : {
@@ -20008,7 +20008,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Szukaj przepisów..."
+            "value" : "Szukaj przepisów…"
           }
         },
         "pt-BR" : {
@@ -20032,7 +20032,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Искать рецепты…"
+            "value" : "Ищи рецепты…"
           }
         },
         "sk" : {
@@ -20103,7 +20103,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Избор на тип кухня..."
+            "value" : "Избор на тип кухня…"
           }
         },
         "ca" : {
@@ -20115,13 +20115,13 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vyberte typ kuchyně…"
+            "value" : "Vyber typ kuchyně…"
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vælg køkken type…"
+            "value" : "Vælg køkkentype…"
           }
         },
         "de" : {
@@ -20187,7 +20187,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "בחר סוג Cuisine…"
+            "value" : "בחר סוג מטבח…"
           }
         },
         "hi" : {
@@ -20229,7 +20229,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ас үй түрін таңдаңыз…"
+            "value" : "Ас түрін таңдаңыз…"
           }
         },
         "ko" : {
@@ -20259,7 +20259,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wybierz typ kuchni..."
+            "value" : "Wybierz typ kuchni…"
           }
         },
         "pt-BR" : {
@@ -20283,13 +20283,13 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Выбрать тип кухни…"
+            "value" : "Выбери тип кухни…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vyberte typ kuchyne…"
+            "value" : "Vyber typ kuchyne…"
           }
         },
         "sv" : {
@@ -20337,7 +20337,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "選擇菜系類型…"
+            "value" : "選擇菜式類型…"
           }
         }
       }
@@ -20354,7 +20354,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Избор на час за доставка..."
+            "value" : "Избор на час за доставка…"
           }
         },
         "ca" : {
@@ -20366,7 +20366,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vyberte čas doručení…"
+            "value" : "Vyber čas doručení…"
           }
         },
         "da" : {
@@ -20444,7 +20444,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "डिलिवरी का समय चुनें…"
+            "value" : "डिलीवरी का समय चुनें…"
           }
         },
         "hr" : {
@@ -20480,13 +20480,13 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Жеткізу уақытын таңдаңыз..."
+            "value" : "Жеткізу уақытын таңдаңыз…"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "배송 시간 선택…"
+            "value" : "배달 시간 선택…"
           }
         },
         "ms" : {
@@ -20510,7 +20510,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wybierz godzinę dostawy..."
+            "value" : "Wybierz godzinę dostawy…"
           }
         },
         "pt-BR" : {
@@ -20534,13 +20534,13 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Выбрать время доставки…"
+            "value" : "Выбери время доставки…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vyberte čas doručenia…"
+            "value" : "Vyber čas doručenia…"
           }
         },
         "sv" : {
@@ -20582,7 +20582,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "選擇配送時間…"
+            "value" : "選擇送貨時間…"
           }
         },
         "zh-HK" : {
@@ -20677,7 +20677,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Écrire une critique…"
+            "value" : "Écrire un avis…"
           }
         },
         "fr-CA" : {
@@ -20695,7 +20695,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "रिव्यू लिखें..."
+            "value" : "रिव्यू लिखें…"
           }
         },
         "hr" : {
@@ -20785,7 +20785,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Напишите обзор…"
+            "value" : "Напиши отзыв…"
           }
         },
         "sk" : {
@@ -20827,7 +20827,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "写下点评…"
+            "value" : "写评价…"
           }
         },
         "zh-Hant" : {

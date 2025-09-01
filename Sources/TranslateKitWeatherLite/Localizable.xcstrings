@@ -151,13 +151,13 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "校准"
+            "value" : "Kalibrasi"
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kalibrere"
+            "value" : "Kalibrer"
           }
         },
         "nl" : {
@@ -229,7 +229,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Calibrate"
+            "value" : "Hiệu chuẩn"
           }
         },
         "zh-Hans" : {
@@ -247,7 +247,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "校准"
+            "value" : "校準"
           }
         }
       }
@@ -264,13 +264,13 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Провери прогноза"
+            "value" : "Провери прогнозата"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Comprovar Previsió"
+            "value" : "Comprovar la previsió"
           }
         },
         "cs" : {
@@ -318,7 +318,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Verificar pronóstico"
+            "value" : "Consultar pronóstico"
           }
         },
         "es-419" : {
@@ -366,13 +366,13 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Időjárás előrejelzésének ellenőrzése"
+            "value" : "Előrejelzés ellenőrzése"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Periksa Prediksi Cuaca"
+            "value" : "Periksa Prakiraan Cuaca"
           }
         },
         "it" : {
@@ -390,7 +390,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Прогнозды тексеру"
+            "value" : "Болжамды тексеру"
           }
         },
         "ko" : {
@@ -414,7 +414,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voorspelling Controleren"
+            "value" : "Voorspelling controleren"
           }
         },
         "pl" : {
@@ -438,7 +438,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Verifică Prognoza"
+            "value" : "Verifică prognoza"
           }
         },
         "ru" : {
@@ -492,7 +492,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "查看預報"
+            "value" : "檢視預報"
           }
         },
         "zh-HK" : {
@@ -521,7 +521,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Comprovar si Hi Ha Actualitzacions"
+            "value" : "Comprovar si hi ha actualitzacions"
           }
         },
         "cs" : {
@@ -593,7 +593,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vérifier les Mises à Jour"
+            "value" : "Vérifier les mises à jour"
           }
         },
         "he" : {
@@ -665,7 +665,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Controleren op Updates"
+            "value" : "Controleren op updates"
           }
         },
         "pl" : {
@@ -689,7 +689,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Verifică Actualizările"
+            "value" : "Verifică actualizările"
           }
         },
         "ru" : {
@@ -1017,7 +1017,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Активиране на известия за времето"
+            "value" : "Активирай известия за времето"
           }
         },
         "ca" : {
@@ -1035,7 +1035,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aktivér vejrudsigtsadvarsler"
+            "value" : "Aktivér vejrvarsler"
           }
         },
         "de" : {
@@ -1083,7 +1083,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ota säätiedotukset käyttöön"
+            "value" : "Ota säävaroitukset käyttöön"
           }
         },
         "fr" : {
@@ -1113,7 +1113,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Omogući Obavijesti o Vremenu"
+            "value" : "Omogući obavijesti o vremenu"
           }
         },
         "hu" : {
@@ -1167,7 +1167,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Weeralarmen Inschakelen"
+            "value" : "Weeralarmen inschakelen"
           }
         },
         "pl" : {
@@ -1179,7 +1179,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ativar Alertas de Tempo"
+            "value" : "Ativar Alertas Meteorológicos"
           }
         },
         "pt-PT" : {
@@ -1191,7 +1191,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Activează Alerta pentru Vreme"
+            "value" : "Activează alertele meteo"
           }
         },
         "ru" : {
@@ -1233,13 +1233,13 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bật Thông Báo Thời Tiết"
+            "value" : "Bật cảnh báo thời tiết"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "启用天气警报"
+            "value" : "启用天气预警"
           }
         },
         "zh-Hant" : {
@@ -1251,7 +1251,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "啟用天氣通知"
+            "value" : "啟用天氣警報"
           }
         }
       }
@@ -1286,7 +1286,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Forecast"
+            "value" : "Vejrudsigt"
           }
         },
         "de" : {
@@ -1328,7 +1328,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Previsión"
+            "value" : "Pronóstico"
           }
         },
         "fi" : {
@@ -1358,7 +1358,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "फोकस मोड"
+            "value" : "पूर्वानुमान"
           }
         },
         "hr" : {
@@ -1502,7 +1502,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "天气预报"
+            "value" : "天氣預報"
           }
         }
       }
@@ -1519,7 +1519,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Генериране на отчет"
+            "value" : "Генерирай отчет"
           }
         },
         "ca" : {
@@ -1537,13 +1537,13 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Generer Rapport"
+            "value" : "Generer rapport"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bericht Erstellen"
+            "value" : "Bericht erstellen"
           }
         },
         "el" : {
@@ -1615,7 +1615,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Generiraj Izvještaj"
+            "value" : "Generiraj izvještaj"
           }
         },
         "hu" : {
@@ -1669,7 +1669,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rapport Genereren"
+            "value" : "Rapport genereren"
           }
         },
         "pl" : {
@@ -1693,7 +1693,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Generează Raport"
+            "value" : "Generează raport"
           }
         },
         "ru" : {
@@ -1735,7 +1735,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tạo Báo Cáo"
+            "value" : "Tạo báo cáo"
           }
         },
         "zh-Hans" : {
@@ -1747,7 +1747,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "生成報告"
+            "value" : "產生報告"
           }
         },
         "zh-HK" : {
@@ -1830,7 +1830,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Obtener previsión"
+            "value" : "Obtener pronóstico"
           }
         },
         "fi" : {
@@ -1842,7 +1842,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Obtenir la météo"
+            "value" : "Obtenir les prévisions"
           }
         },
         "fr-CA" : {
@@ -1860,7 +1860,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "मार्गदर्शन प्राप्त करें"
+            "value" : "पूर्वानुमान प्राप्त करें"
           }
         },
         "hr" : {
@@ -1920,7 +1920,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Krijg Weerbericht"
+            "value" : "Weerbericht ophalen"
           }
         },
         "pl" : {
@@ -1974,7 +1974,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tahmin Al"
+            "value" : "Tahmini Al"
           }
         },
         "uk" : {
@@ -1998,13 +1998,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "獲取預報"
+            "value" : "取得預報"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "获取天气预报"
+            "value" : "獲取天氣預報"
           }
         }
       }
@@ -2039,7 +2039,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Måling"
+            "value" : "Mål"
           }
         },
         "de" : {
@@ -2105,13 +2105,13 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "מדידה"
+            "value" : "מדוד"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "माप"
+            "value" : "मापें"
           }
         },
         "hr" : {
@@ -2129,13 +2129,13 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pengukur"
+            "value" : "Ukur"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Maschera"
+            "value" : "Misura"
           }
         },
         "ja" : {
@@ -2147,7 +2147,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Өлшем"
+            "value" : "Өлшеу"
           }
         },
         "ko" : {
@@ -2159,7 +2159,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ukur"
+            "value" : "Perhatikan"
           }
         },
         "nb" : {
@@ -2195,7 +2195,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Măsurare"
+            "value" : "Măsoară"
           }
         },
         "ru" : {
@@ -2255,7 +2255,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "測距儀"
+            "value" : "測量"
           }
         }
       }
@@ -2278,7 +2278,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Segueix"
+            "value" : "Monitoritzar"
           }
         },
         "cs" : {
@@ -2326,7 +2326,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Monitorear"
+            "value" : "Monitorizar"
           }
         },
         "es-419" : {
@@ -2356,7 +2356,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ניטור"
+            "value" : "נטר"
           }
         },
         "hi" : {
@@ -2404,7 +2404,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "날씨 조건 연속 모니터링하기"
+            "value" : "모니터링"
           }
         },
         "ms" : {
@@ -2452,7 +2452,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Мониторить"
+            "value" : "Следить"
           }
         },
         "sk" : {
@@ -2488,7 +2488,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kiểm soát thời tiết"
+            "value" : "Giám sát"
           }
         },
         "zh-Hans" : {
@@ -2506,7 +2506,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "监测"
+            "value" : "監測"
           }
         }
       }
@@ -2541,7 +2541,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Observér"
+            "value" : "Observer"
           }
         },
         "de" : {
@@ -2553,7 +2553,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Παρακολούθηση"
+            "value" : "Παρατήρηση"
           }
         },
         "en" : {
@@ -2625,7 +2625,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Figyel"
+            "value" : "Megfigyelés"
           }
         },
         "id" : {
@@ -2643,7 +2643,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "特定の天候条件を観察する"
+            "value" : "観測する"
           }
         },
         "kk" : {
@@ -2721,7 +2721,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ติดตาม"
+            "value" : "สังเกต"
           }
         },
         "tr" : {
@@ -2774,19 +2774,19 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Запис"
+            "value" : "Запиши"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gravar"
+            "value" : "Registrar"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nahrát"
+            "value" : "Zaznamenat"
           }
         },
         "da" : {
@@ -2828,13 +2828,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Grabar"
+            "value" : "Registrar"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Grabar"
+            "value" : "Registrar"
           }
         },
         "fi" : {
@@ -2894,7 +2894,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "収録"
+            "value" : "記録する"
           }
         },
         "kk" : {
@@ -2918,19 +2918,19 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Oppta"
+            "value" : "Registrer"
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Neem op"
+            "value" : "Opnemen"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nagraj"
+            "value" : "Rejestruj"
           }
         },
         "pt-BR" : {
@@ -2948,7 +2948,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Înregistrați"
+            "value" : "Înregistrează"
           }
         },
         "ru" : {
@@ -2960,13 +2960,13 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nahrať"
+            "value" : "Zaznamenať"
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Spela in"
+            "value" : "Registrera"
           }
         },
         "th" : {
@@ -2978,7 +2978,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kayıt Yap"
+            "value" : "Kaydet"
           }
         },
         "uk" : {
@@ -2996,19 +2996,19 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "录制"
+            "value" : "记录"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "錄製"
+            "value" : "記錄"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "錄製"
+            "value" : "記錄"
           }
         }
       }
@@ -3127,7 +3127,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Időjárás adatok frissítése"
+            "value" : "Időjárási adatok frissítése"
           }
         },
         "id" : {
@@ -3163,7 +3163,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Segarkan Cuaca"
+            "value" : "Segarkan Data Cuaca"
           }
         },
         "nb" : {
@@ -3175,7 +3175,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vernieuw Weersinformatie"
+            "value" : "Weersinformatie vernieuwen"
           }
         },
         "pl" : {
@@ -3217,7 +3217,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Uppdatera Väderdata"
+            "value" : "Uppdatera väderdata"
           }
         },
         "th" : {
@@ -3253,7 +3253,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "刷新天氣數據"
+            "value" : "重新整理天氣資料"
           }
         },
         "zh-HK" : {
@@ -3276,7 +3276,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Докладвай метеорологични условия"
+            "value" : "Докладвай метеорологичното състояние"
           }
         },
         "ca" : {
@@ -3294,7 +3294,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rapportér vejrfænomener"
+            "value" : "Rapportér vejret"
           }
         },
         "de" : {
@@ -3330,7 +3330,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reportar condición meteorológica"
+            "value" : "Informar de la condición meteorológica"
           }
         },
         "es-419" : {
@@ -3378,7 +3378,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Időjárási viszony jelentése"
+            "value" : "Időjárási helyzet jelentése"
           }
         },
         "id" : {
@@ -3420,13 +3420,13 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rapportere værforhold"
+            "value" : "Rapporter værforhold"
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rapporteer Weersomstandigheden"
+            "value" : "Weersomstandigheden rapporteren"
           }
         },
         "pl" : {
@@ -3468,7 +3468,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rapportera Väderförhållande"
+            "value" : "Rapportera väderförhållande"
           }
         },
         "th" : {
@@ -3527,7 +3527,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Задаване на място"
+            "value" : "Задай местоположение"
           }
         },
         "ca" : {
@@ -3599,7 +3599,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Définir la localisation"
+            "value" : "Définir l’emplacement"
           }
         },
         "fr-CA" : {
@@ -3653,7 +3653,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Орнын анықтау"
+            "value" : "Орналасуды орнату"
           }
         },
         "ko" : {
@@ -3719,13 +3719,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sätt plats"
+            "value" : "Ange plats"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ตั้งที่ตั้ง"
+            "value" : "ตั้งค่าตำแหน่งที่ตั้ง"
           }
         },
         "tr" : {
@@ -3737,13 +3737,13 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Встановити місце знаходження"
+            "value" : "Встановити місцезнаходження"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đặt Địa điểm"
+            "value" : "Đặt vị trí"
           }
         },
         "zh-Hans" : {
@@ -3755,13 +3755,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "設置位置"
+            "value" : "設定位置"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "設置位置"
+            "value" : "設定位置"
           }
         }
       }
@@ -3784,7 +3784,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Establir unitat de temperatura"
+            "value" : "Establir la unitat de temperatura"
           }
         },
         "cs" : {
@@ -3802,7 +3802,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Temperaturmaßstab festlegen"
+            "value" : "Temperatureinheit festlegen"
           }
         },
         "el" : {
@@ -3832,7 +3832,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Establecer Unidad de Temperatura"
+            "value" : "Establecer unidad de temperatura"
           }
         },
         "es-419" : {
@@ -3844,7 +3844,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aseta lämpötila-yksikkö"
+            "value" : "Aseta lämpötilayksikkö"
           }
         },
         "fr" : {
@@ -3928,13 +3928,13 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Temperatuur eenheid instellen"
+            "value" : "Temperatuureenheid instellen"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ustal jednostkę temperatury"
+            "value" : "Ustaw jednostkę temperatury"
           }
         },
         "pt-BR" : {
@@ -3952,7 +3952,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stabilește Unitatea de Temperatură"
+            "value" : "Stabilește unitatea de temperatură"
           }
         },
         "ru" : {
@@ -3970,7 +3970,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sätt temperaturenhet"
+            "value" : "Ställ in temperaturenhet"
           }
         },
         "th" : {
@@ -3994,7 +3994,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đặt Đơn Vị Nhiệt Độ"
+            "value" : "Đặt đơn vị nhiệt độ"
           }
         },
         "zh-Hans" : {
@@ -4006,7 +4006,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "設置溫度單位"
+            "value" : "設定溫度單位"
           }
         },
         "zh-HK" : {
@@ -4023,7 +4023,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Track"
+            "value" : "تتبع"
           }
         },
         "bg" : {
@@ -4035,7 +4035,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Track"
+            "value" : "Fer seguiment"
           }
         },
         "cs" : {
@@ -4047,13 +4047,13 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Track"
+            "value" : "Spor"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Track"
+            "value" : "Verfolgen"
           }
         },
         "el" : {
@@ -4083,13 +4083,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Track"
+            "value" : "Rastrear"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Registrar"
+            "value" : "Rastrear"
           }
         },
         "fi" : {
@@ -4101,73 +4101,73 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Track"
+            "value" : "Suivre"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Track"
+            "value" : "Suivre"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Track"
+            "value" : "עקוב"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ट्रैक"
+            "value" : "ट्रैक करें"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Track"
+            "value" : "Prati"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Track"
+            "value" : "Nyomon követés"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Track"
+            "value" : "Lacak"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Track"
+            "value" : "Traccia"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "トラック"
+            "value" : "追跡する"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Track"
+            "value" : "Қадағалау"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "트랙"
+            "value" : "추적"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Track"
+            "value" : "Jejaki"
           }
         },
         "nb" : {
@@ -4179,7 +4179,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Track"
+            "value" : "Volgen"
           }
         },
         "pl" : {
@@ -4203,7 +4203,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Track"
+            "value" : "Urmărește"
           }
         },
         "ru" : {
@@ -4215,25 +4215,25 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Track"
+            "value" : "Sledovať"
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Track"
+            "value" : "Spåra"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Track"
+            "value" : "ติดตาม"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Track"
+            "value" : "Takip Et"
           }
         },
         "uk" : {
@@ -4245,7 +4245,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Track"
+            "value" : "Theo dõi"
           }
         },
         "zh-Hans" : {
@@ -4257,7 +4257,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Track"
+            "value" : "追蹤"
           }
         },
         "zh-HK" : {
@@ -4286,7 +4286,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rastrejar tempestat"
+            "value" : "Rastrejar la tempesta"
           }
         },
         "cs" : {
@@ -4298,7 +4298,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Spor Storm"
+            "value" : "Spor storm"
           }
         },
         "de" : {
@@ -4310,7 +4310,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Παρακολουθήστε την Καταιγίδα"
+            "value" : "Παρακολούθησε την καταιγίδα"
           }
         },
         "en" : {
@@ -4334,7 +4334,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rastrear Tormenta"
+            "value" : "Rastrear tormenta"
           }
         },
         "es-419" : {
@@ -4364,7 +4364,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "עקוב אחרי סופה"
+            "value" : "עקוב אחר סופה"
           }
         },
         "hi" : {
@@ -4406,7 +4406,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Штормды бақылау"
+            "value" : "Дауылды бақылау"
           }
         },
         "ko" : {
@@ -4430,7 +4430,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Volg storm"
+            "value" : "Storm volgen"
           }
         },
         "pl" : {
@@ -4496,7 +4496,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Theo Dõi Bão"
+            "value" : "Theo dõi bão"
           }
         },
         "zh-Hans" : {
@@ -4531,13 +4531,13 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Преглед на часовата прогноза"
+            "value" : "Виж часовата прогноза"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Veure el pronòstic horari"
+            "value" : "Veure la previsió horària"
           }
         },
         "cs" : {
@@ -4549,7 +4549,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Se timevis vejrudsigt"
+            "value" : "Se time-for-time vejrudsigt"
           }
         },
         "de" : {
@@ -4585,7 +4585,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ver Pronóstico Horario"
+            "value" : "Ver pronóstico horario"
           }
         },
         "es-419" : {
@@ -4639,7 +4639,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lihat Prakiraan Jam"
+            "value" : "Lihat Prakiraan Per Jam"
           }
         },
         "it" : {
@@ -4651,7 +4651,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "時間毎の天気予報を見る"
+            "value" : "時間ごとの天気予報を見る"
           }
         },
         "kk" : {
@@ -4669,7 +4669,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lihat Ramalan Jam"
+            "value" : "Lihat Ramalan Setiap Jam"
           }
         },
         "nb" : {
@@ -4681,7 +4681,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bekijk uurprognose"
+            "value" : "Uursverwachting bekijken"
           }
         },
         "pl" : {
@@ -4705,7 +4705,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vezi Prognoza Orară"
+            "value" : "Vezi prognoza orară"
           }
         },
         "ru" : {
@@ -4723,7 +4723,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Visa timmesprognosen"
+            "value" : "Visa timprognosen"
           }
         },
         "th" : {
@@ -4741,13 +4741,13 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Переглянути погодний прогноз на годину"
+            "value" : "Переглянути погодинний прогноз"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Xem Dự Báo Theo Giờ"
+            "value" : "Xem dự báo theo giờ"
           }
         },
         "zh-Hans" : {
@@ -4759,7 +4759,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "查看每小時天氣預報"
+            "value" : "檢視每小時天氣預報"
           }
         },
         "zh-HK" : {
@@ -4782,13 +4782,13 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Преглед на седмичната прогноза"
+            "value" : "Виж седмичната прогноза"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Veure el pronòstic setmanal"
+            "value" : "Veure la previsió setmanal"
           }
         },
         "cs" : {
@@ -4836,7 +4836,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ver Pronóstico Semanal"
+            "value" : "Ver pronóstico semanal"
           }
         },
         "es-419" : {
@@ -4920,7 +4920,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lihat Ramalan Minggu"
+            "value" : "Lihat Ramalan Mingguan"
           }
         },
         "nb" : {
@@ -4956,7 +4956,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vezi Prognoza Săptămânală"
+            "value" : "Vezi prognoza săptămânală"
           }
         },
         "ru" : {
@@ -4992,13 +4992,13 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Переглянути погодний прогноз на тиждень"
+            "value" : "Переглянути прогноз на тиждень"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Xem Dự Báo Tuần"
+            "value" : "Xem dự báo tuần"
           }
         },
         "zh-Hans" : {
@@ -5010,7 +5010,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "查看每週天氣預報"
+            "value" : "檢視每週天氣預報"
           }
         },
         "zh-HK" : {
@@ -5087,7 +5087,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Presión del Aire"
+            "value" : "Presión del aire"
           }
         },
         "es-419" : {
@@ -5165,7 +5165,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "공기 압력"
+            "value" : "기압"
           }
         },
         "ms" : {
@@ -5207,7 +5207,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Presiune Aer"
+            "value" : "Presiune atmosferică"
           }
         },
         "ru" : {
@@ -5338,7 +5338,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Calidad del Aire"
+            "value" : "Calidad del aire"
           }
         },
         "es-419" : {
@@ -5589,7 +5589,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Índice de Calidad del Aire"
+            "value" : "Índice de calidad del aire"
           }
         },
         "es-419" : {
@@ -5607,7 +5607,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : " Indice de qualité de l’air"
+            "value" : "Indice de qualité de l’air"
           }
         },
         "fr-CA" : {
@@ -5709,7 +5709,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Indice calitate aer"
+            "value" : "Indicele calității aerului"
           }
         },
         "ru" : {
@@ -5852,7 +5852,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Huomautukset"
+            "value" : "Hälytykset"
           }
         },
         "fr" : {
@@ -5894,7 +5894,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Peringatan-Peringatan"
+            "value" : "Peringatan"
           }
         },
         "it" : {
@@ -6002,7 +6002,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Thông báo"
+            "value" : "Cảnh báo"
           }
         },
         "zh-Hans" : {
@@ -6091,7 +6091,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ambiente"
+            "value" : "Atmósfera"
           }
         },
         "es-419" : {
@@ -6103,7 +6103,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ilmapiiri"
+            "value" : "Ilmakehä"
           }
         },
         "fr" : {
@@ -6115,7 +6115,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ambiance"
+            "value" : "Atmosphère"
           }
         },
         "he" : {
@@ -6157,7 +6157,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "雰囲気"
+            "value" : "大気"
           }
         },
         "kk" : {
@@ -6175,7 +6175,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Suasana"
+            "value" : "Atmosfera"
           }
         },
         "nb" : {
@@ -6187,7 +6187,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sfeer"
+            "value" : "Atmosfeer"
           }
         },
         "pl" : {
@@ -6259,19 +6259,19 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "气氛"
+            "value" : "大气"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "氣氛"
+            "value" : "大氣"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "氛围"
+            "value" : "大氣"
           }
         }
       }
@@ -6288,7 +6288,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Текущи новини"
+            "value" : "Извънредни новини"
           }
         },
         "ca" : {
@@ -6306,13 +6306,13 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Breaking News"
+            "value" : "Breaking-nyheder"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aktuelle Nachrichten"
+            "value" : "Eilmeldungen"
           }
         },
         "el" : {
@@ -6342,7 +6342,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Noticias de Última Hora"
+            "value" : "Noticias de última hora"
           }
         },
         "es-419" : {
@@ -6402,7 +6402,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Notizie dell'Ultimo Minuto"
+            "value" : "Notizie dell'ultimo minuto"
           }
         },
         "ja" : {
@@ -6444,13 +6444,13 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wydarzenia na bieżąco"
+            "value" : "Pilne wiadomości"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Últimas Notícias"
+            "value" : "Notícias de última hora"
           }
         },
         "pt-PT" : {
@@ -6462,7 +6462,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Știri de Urgență"
+            "value" : "Știri de urgență"
           }
         },
         "ru" : {
@@ -6492,7 +6492,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Son Dakika Haberi"
+            "value" : "Son Dakika Haberleri"
           }
         },
         "uk" : {
@@ -6504,7 +6504,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tin Tức Đột Phá"
+            "value" : "Tin nóng"
           }
         },
         "zh-Hans" : {
@@ -6557,13 +6557,13 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Klare himmel"
+            "value" : "Klar himmel"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Klare Himmel"
+            "value" : "Klarer Himmel"
           }
         },
         "el" : {
@@ -6593,7 +6593,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cielo Despejado"
+            "value" : "Cielos despejados"
           }
         },
         "es-419" : {
@@ -6605,7 +6605,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Selkeät taivaat"
+            "value" : "Selkeä taivas"
           }
         },
         "fr" : {
@@ -6623,7 +6623,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "שמים ברורים"
+            "value" : "שמיים בהירים"
           }
         },
         "hi" : {
@@ -6635,7 +6635,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bistro Nebo"
+            "value" : "Bistro nebo"
           }
         },
         "hu" : {
@@ -6683,13 +6683,13 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Klare himmel"
+            "value" : "Klar himmel"
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Helder Weer"
+            "value" : "Helder weer"
           }
         },
         "pl" : {
@@ -6767,13 +6767,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "晴朗的天空"
+            "value" : "晴朗"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "晴朗的天空"
+            "value" : "晴朗"
           }
         }
       }
@@ -6916,7 +6916,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Бұлтты"
+            "value" : "Бұлттар"
           }
         },
         "ko" : {
@@ -7035,7 +7035,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "الحالات"
+            "value" : "الظروف"
           }
         },
         "bg" : {
@@ -7059,7 +7059,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Betingelser"
+            "value" : "Forhold"
           }
         },
         "de" : {
@@ -7125,7 +7125,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "מצבים"
+            "value" : "תנאים"
           }
         },
         "hi" : {
@@ -7143,7 +7143,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Feltételek"
+            "value" : "Időjárási körülmények"
           }
         },
         "id" : {
@@ -7161,7 +7161,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "条件"
+            "value" : "天気状況"
           }
         },
         "kk" : {
@@ -7215,7 +7215,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stare vremii curente"
+            "value" : "Condiții"
           }
         },
         "ru" : {
@@ -7233,13 +7233,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Villkor"
+            "value" : "Förhållanden"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เงื่อนไข"
+            "value" : "สภาพอากาศ"
           }
         },
         "tr" : {
@@ -7304,13 +7304,13 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Současná poloha"
+            "value" : "Aktuální poloha"
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuværende Lokation"
+            "value" : "Nuværende placering"
           }
         },
         "de" : {
@@ -7364,7 +7364,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lieu actuel"
+            "value" : "Position actuelle"
           }
         },
         "fr-CA" : {
@@ -7418,7 +7418,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ағымдағы геолокация"
+            "value" : "Ағымдағы орын"
           }
         },
         "ko" : {
@@ -7466,13 +7466,13 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Localizarea actuală"
+            "value" : "Locația actuală"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Текущая геопозиция"
+            "value" : "Текущее местоположение"
           }
         },
         "sk" : {
@@ -7496,13 +7496,13 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Şu Anki Konum"
+            "value" : "Mevcut Konum"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Поточне місце"
+            "value" : "Поточне місцезнаходження"
           }
         },
         "vi" : {
@@ -7561,7 +7561,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aktuel Temperatur"
+            "value" : "Aktuel temperatur"
           }
         },
         "de" : {
@@ -7597,7 +7597,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Temperatura Actual"
+            "value" : "Temperatura actual"
           }
         },
         "es-419" : {
@@ -7639,13 +7639,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trenutna Temperatura"
+            "value" : "Trenutna temperatura"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aktuális Hőmérséklet"
+            "value" : "Aktuális hőmérséklet"
           }
         },
         "id" : {
@@ -7657,7 +7657,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Temperatura Corrente"
+            "value" : "Temperatura corrente"
           }
         },
         "ja" : {
@@ -7693,7 +7693,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Huidige Temperatuur"
+            "value" : "Huidige temperatuur"
           }
         },
         "pl" : {
@@ -7771,7 +7771,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "當前溫度"
+            "value" : "目前溫度"
           }
         },
         "zh-HK" : {
@@ -7884,7 +7884,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "आर्द्रता बिंदु"
+            "value" : "ओसांक"
           }
         },
         "hr" : {
@@ -7908,7 +7908,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Punto di Rugiada"
+            "value" : "Punto di rugiada"
           }
         },
         "ja" : {
@@ -7986,7 +7986,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dewpunkt"
+            "value" : "Daggpunkt"
           }
         },
         "th" : {
@@ -8039,7 +8039,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تشعر كأنها"
+            "value" : "المحسوسة"
           }
         },
         "bg" : {
@@ -8063,19 +8063,19 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Føles Som"
+            "value" : "Føles som"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gefühlt wie"
+            "value" : "Gefühlt"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Αισθάνεται σαν"
+            "value" : "Αισθητή Θερμοκρασία"
           }
         },
         "en" : {
@@ -8099,7 +8099,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sensación Térmica"
+            "value" : "Sensación térmica"
           }
         },
         "es-419" : {
@@ -8183,7 +8183,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nampak Seperti"
+            "value" : "Rasa Seperti"
           }
         },
         "nb" : {
@@ -8195,7 +8195,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voelt Als"
+            "value" : "Voelt als"
           }
         },
         "pl" : {
@@ -8231,13 +8231,13 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pocit"
+            "value" : "Pocitová teplota"
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Känns Som"
+            "value" : "Känns som"
           }
         },
         "th" : {
@@ -8279,7 +8279,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "感覺像"
+            "value" : "體感溫度"
           }
         }
       }
@@ -8512,7 +8512,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dự Báo"
+            "value" : "Dự báo"
           }
         },
         "zh-Hans" : {
@@ -8541,13 +8541,13 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "عواصف هوائية"
+            "value" : "هبات"
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Завихряния"
+            "value" : "Пориви"
           }
         },
         "ca" : {
@@ -8559,13 +8559,13 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Větry"
+            "value" : "Poryvy větru"
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stød"
+            "value" : "Vindstød"
           }
         },
         "de" : {
@@ -8577,7 +8577,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ρεύματα"
+            "value" : "Ριπές"
           }
         },
         "en" : {
@@ -8649,7 +8649,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fújások"
+            "value" : "Széllökések"
           }
         },
         "id" : {
@@ -8685,7 +8685,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gust"
+            "value" : "Hembusan Kuat"
           }
         },
         "nb" : {
@@ -8745,7 +8745,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กลุ่มลมแรง"
+            "value" : "ลมกระโชก"
           }
         },
         "tr" : {
@@ -8763,7 +8763,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gió Lốc"
+            "value" : "Gió giật"
           }
         },
         "zh-Hans" : {
@@ -8792,7 +8792,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "عالي"
+            "value" : "العظمى"
           }
         },
         "bg" : {
@@ -8804,13 +8804,13 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alta"
+            "value" : "Màxima"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vysoká"
+            "value" : "Maximální"
           }
         },
         "da" : {
@@ -8828,7 +8828,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Υψηλή"
+            "value" : "Μέγιστη"
           }
         },
         "en" : {
@@ -8864,7 +8864,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Korkea"
+            "value" : "Ylin"
           }
         },
         "fr" : {
@@ -8912,13 +8912,13 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alto"
+            "value" : "Massima"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "高い"
+            "value" : "最高"
           }
         },
         "kk" : {
@@ -8948,13 +8948,13 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hoog"
+            "value" : "Hoogste"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wysoka"
+            "value" : "Maksymalna"
           }
         },
         "pt-BR" : {
@@ -8978,13 +8978,13 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Высокий"
+            "value" : "Максимум"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vysoká"
+            "value" : "Maximálna"
           }
         },
         "sv" : {
@@ -9073,7 +9073,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Feuchtigkeit"
+            "value" : "Luftfeuchtigkeit"
           }
         },
         "el" : {
@@ -9330,7 +9330,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Κοινές Φιλίες"
+            "value" : "Γεωγραφικό Πλάτος"
           }
         },
         "en" : {
@@ -9545,7 +9545,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "صاعقة"
+            "value" : "البرق"
           }
         },
         "bg" : {
@@ -9641,7 +9641,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "आलौकिकता"
+            "value" : "बिजली"
           }
         },
         "hr" : {
@@ -9653,13 +9653,13 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Villámcsapás"
+            "value" : "Villámlás"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aktivitas Petir"
+            "value" : "Petir"
           }
         },
         "it" : {
@@ -9707,7 +9707,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Burza"
+            "value" : "Błyskawice"
           }
         },
         "pt-BR" : {
@@ -9719,7 +9719,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Atividade de relâmpagos"
+            "value" : "Relâmpagos"
           }
         },
         "ro" : {
@@ -9743,7 +9743,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Blix"
+            "value" : "Blixtar"
           }
         },
         "th" : {
@@ -9761,7 +9761,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Гроза"
+            "value" : "Блискавка"
           }
         },
         "vi" : {
@@ -9820,7 +9820,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lokalitets­tjenester"
+            "value" : "Placeringstjenester"
           }
         },
         "de" : {
@@ -9874,13 +9874,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Service de localisation"
+            "value" : "Services de localisation"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Service de localisation"
+            "value" : "Services de localisation"
           }
         },
         "he" : {
@@ -9892,7 +9892,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "स्थान सेवा"
+            "value" : "स्थान सेवाएँ"
           }
         },
         "hr" : {
@@ -9916,7 +9916,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Localizzazione"
+            "value" : "Servizi di localizzazione"
           }
         },
         "ja" : {
@@ -9928,7 +9928,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Геолокация сервистері"
+            "value" : "Орналасу қызметтері"
           }
         },
         "ko" : {
@@ -9988,7 +9988,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lokalizačné služby"
+            "value" : "Služby určovania polohy"
           }
         },
         "sv" : {
@@ -10298,7 +10298,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "منخفض"
+            "value" : "الصغرى"
           }
         },
         "bg" : {
@@ -10310,13 +10310,13 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Baixa"
+            "value" : "Mínima"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nízká"
+            "value" : "Minimální"
           }
         },
         "da" : {
@@ -10334,7 +10334,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Χαμηλή"
+            "value" : "Ελάχιστη"
           }
         },
         "en" : {
@@ -10370,7 +10370,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alhainen"
+            "value" : "Alin"
           }
         },
         "fr" : {
@@ -10418,13 +10418,13 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bassa"
+            "value" : "Minima"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "低い"
+            "value" : "最低"
           }
         },
         "kk" : {
@@ -10454,13 +10454,13 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Laagst"
+            "value" : "Laagste"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Niska"
+            "value" : "Minimalna"
           }
         },
         "pt-BR" : {
@@ -10484,13 +10484,13 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Низкая"
+            "value" : "Минимум"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nízka"
+            "value" : "Minimálna"
           }
         },
         "sv" : {
@@ -10627,7 +10627,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Phase de Lune"
+            "value" : "Phase de la Lune"
           }
         },
         "fr-CA" : {
@@ -10675,7 +10675,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "月のフェーズ"
+            "value" : "月齢"
           }
         },
         "kk" : {
@@ -10711,7 +10711,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Faza Księżyca"
+            "value" : "Faza księżyca"
           }
         },
         "pt-BR" : {
@@ -10729,7 +10729,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Faza Lunii"
+            "value" : "Faza lunii"
           }
         },
         "ru" : {
@@ -10747,7 +10747,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Månfaser"
+            "value" : "Månfas"
           }
         },
         "th" : {
@@ -10771,7 +10771,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Giai đoạn của mặt trăng"
+            "value" : "Pha mặt trăng"
           }
         },
         "zh-Hans" : {
@@ -10836,7 +10836,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Καταρροή"
+            "value" : "Υετός"
           }
         },
         "en" : {
@@ -11553,13 +11553,13 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "معدل الأمطار"
+            "value" : "هطول الأمطار"
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Дъжд"
+            "value" : "Валежи от дъжд"
           }
         },
         "ca" : {
@@ -11577,7 +11577,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nedbør"
+            "value" : "Regnmængde"
           }
         },
         "de" : {
@@ -11649,19 +11649,19 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "वृष्टि"
+            "value" : "वर्षा"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Količina Kiše"
+            "value" : "Količina kiše"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Csapadék"
+            "value" : "Esőmennyiség"
           }
         },
         "id" : {
@@ -11673,7 +11673,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Precipitazioni"
+            "value" : "Pioggia"
           }
         },
         "ja" : {
@@ -11715,13 +11715,13 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Opady Deszczu"
+            "value" : "Opady deszczu"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Precipitação"
+            "value" : "Chuva"
           }
         },
         "pt-PT" : {
@@ -11828,7 +11828,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Satellite"
+            "value" : "Satellit"
           }
         },
         "de" : {
@@ -11906,7 +11906,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Satellit"
+            "value" : "Satelit"
           }
         },
         "hu" : {
@@ -11936,7 +11936,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Спутник"
+            "value" : "Жерсерік"
           }
         },
         "ko" : {
@@ -12073,13 +12073,13 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sněžení"
+            "value" : "Sněhové srážky"
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Snefald"
+            "value" : "Snemængde"
           }
         },
         "de" : {
@@ -12091,7 +12091,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Χιόνι"
+            "value" : "Χιονόπτωση"
           }
         },
         "en" : {
@@ -12115,7 +12115,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nevada"
+            "value" : "Nevadas"
           }
         },
         "es-419" : {
@@ -12169,7 +12169,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Salju"
+            "value" : "Curah Salju"
           }
         },
         "it" : {
@@ -12450,7 +12450,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Badai"
+            "value" : "Ribut"
           }
         },
         "nb" : {
@@ -12546,7 +12546,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "暴風雨"
+            "value" : "風暴"
           }
         }
       }
@@ -12564,7 +12564,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Изгрев и залез "
+            "value" : "Изгрев и залез"
           }
         },
         "ca" : {
@@ -12594,7 +12594,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ανατολή και Δύση"
+            "value" : "Ανατολή & Δύση Ήλιου"
           }
         },
         "en" : {
@@ -12630,7 +12630,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Auringonnousu ja Auringonlasku"
+            "value" : "auringonnousu ja auringonlasku"
           }
         },
         "fr" : {
@@ -12660,7 +12660,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Izlazak Sunca i Zalazak Sunca"
+            "value" : "Izlazak sunca i zalazak sunca"
           }
         },
         "hu" : {
@@ -12672,7 +12672,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Waktu Terbit & Terbenam"
+            "value" : "Matahari Terbit & Terbenam"
           }
         },
         "it" : {
@@ -12690,7 +12690,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Күн шығар және бату"
+            "value" : "Күннің шығуы және батуы"
           }
         },
         "ko" : {
@@ -12732,7 +12732,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Poente"
+            "value" : "Nascer & Pôr do Sol"
           }
         },
         "ro" : {
@@ -12774,7 +12774,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сходження і захід сонця"
+            "value" : "Схід і захід сонця"
           }
         },
         "vi" : {
@@ -13049,7 +13049,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "温度"
+            "value" : "溫度"
           }
         }
       }
@@ -13150,7 +13150,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "אינדקס קרינה"
+            "value" : "מדד UV"
           }
         },
         "hi" : {
@@ -13192,7 +13192,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "УК көрсеткіші"
+            "value" : "Ультракүлгін индексі"
           }
         },
         "ko" : {
@@ -13341,7 +13341,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sichtbarkeit"
+            "value" : "Sichtweite"
           }
         },
         "el" : {
@@ -13437,7 +13437,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "可視性"
+            "value" : "視界"
           }
         },
         "kk" : {
@@ -13539,13 +13539,13 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "可见性"
+            "value" : "能见度"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "可視性"
+            "value" : "能見度"
           }
         },
         "zh-HK" : {
@@ -13831,7 +13831,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Varování před počasím"
+            "value" : "Upozornění na počasí"
           }
         },
         "da" : {
@@ -13879,7 +13879,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alertas Climáticas"
+            "value" : "Alertas meteorológicas"
           }
         },
         "fi" : {
@@ -13909,7 +13909,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "जलवायु चेतावनियाँ"
+            "value" : "मौसम अलर्ट"
           }
         },
         "hr" : {
@@ -13921,7 +13921,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Időjárási Riasztások"
+            "value" : "Időjárási riasztások"
           }
         },
         "id" : {
@@ -13945,13 +13945,13 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ауа-райы ескертулері"
+            "value" : "Ауа райы ескертулері"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "날씨 경고"
+            "value" : "기상 특보"
           }
         },
         "ms" : {
@@ -13993,7 +13993,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alerta Meteo"
+            "value" : "Alerte meteo"
           }
         },
         "ru" : {
@@ -14011,7 +14011,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Varningar för Väder"
+            "value" : "Vädervarningar"
           }
         },
         "th" : {
@@ -14202,7 +14202,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "바람 방향"
+            "value" : "풍향"
           }
         },
         "ms" : {
@@ -14244,7 +14244,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Direcția Vântului"
+            "value" : "Direcția vântului"
           }
         },
         "ru" : {
@@ -14405,19 +14405,19 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "רוחות פרטיות"
+            "value" : "משבי רוח"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "हवा के झोकें"
+            "value" : "हवा के झोंके"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Puhanje vjetra"
+            "value" : "Udari vjetra"
           }
         },
         "hu" : {
@@ -14435,7 +14435,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Burrasche di vento"
+            "value" : "Raffiche di vento"
           }
         },
         "ja" : {
@@ -14453,13 +14453,13 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "바람 돌풍"
+            "value" : "돌풍"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tiupan Angin"
+            "value" : "Hembusan Angin"
           }
         },
         "nb" : {
@@ -14525,7 +14525,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rüzgar Hızları"
+            "value" : "Ani Rüzgarlar"
           }
         },
         "uk" : {
@@ -14549,7 +14549,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "風陣"
+            "value" : "陣風"
           }
         },
         "zh-HK" : {
@@ -14914,7 +14914,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "आज वायु गुणवत्ता अस्वस्थ है।"
+            "value" : "आज वायु गुणवत्ता अस्वास्थ्यकर है।"
           }
         },
         "hr" : {
@@ -14944,7 +14944,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "今日の空気質は不健康です。"
+            "value" : "本日の空気質は健康に良くありません。"
           }
         },
         "kk" : {
@@ -14956,7 +14956,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "오늘 공기 질이 좋지 않습니다."
+            "value" : "오늘 대기질이 좋지 않습니다."
           }
         },
         "ms" : {
@@ -14992,7 +14992,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A qualidade do ar está insalubre hoje."
+            "value" : "A qualidade do ar hoje é prejudicial."
           }
         },
         "ro" : {
@@ -15022,7 +15022,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "คุณภาพอากาศไม่ดีในวันนี้"
+            "value" : "คุณภาพอากาศไม่ดีในวันนี้."
           }
         },
         "tr" : {
@@ -15034,13 +15034,13 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сьогодні якість повітря нездорова."
+            "value" : "Сьогодні якість повітря небезпечна для здоров'я."
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Chất lượng không khí không lành mạnh hôm nay."
+            "value" : "Chất lượng không khí hôm nay không tốt cho sức khỏe."
           }
         },
         "zh-Hans" : {
@@ -15052,13 +15052,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "今日空氣質量不健康。"
+            "value" : "今日空氣品質不良。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "今日空氣質量不健康。"
+            "value" : "今日空氣質素不健康。"
           }
         }
       }
@@ -15082,7 +15082,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Probabilitat de precipitació alta."
+            "value" : "La probabilitat de precipitació és alta."
           }
         },
         "cs" : {
@@ -15148,7 +15148,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Chance de précipitations élevée."
+            "value" : "La probabilité de précipitations est élevée."
           }
         },
         "fr-CA" : {
@@ -15238,13 +15238,13 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Chance de precipitação é alta."
+            "value" : "A chance de precipitação é alta."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Probabilidade de precipitação é alta."
+            "value" : "A probabilidade de precipitação é alta."
           }
         },
         "ro" : {
@@ -15274,7 +15274,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "โอกาสที่ฝนจะตกสูงมาก"
+            "value" : "โอกาสที่ฝนจะตกสูงมาก."
           }
         },
         "tr" : {
@@ -15298,7 +15298,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "降水机率很高。"
+            "value" : "降水概率很高。"
           }
         },
         "zh-Hant" : {
@@ -15322,13 +15322,13 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "توقع سماء صافية اليوم."
+            "value" : "من المتوقع أن تكون السماء صافية اليوم."
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Очакват се ясни небеса днес."
+            "value" : "Очаква се ясно време днес."
           }
         },
         "ca" : {
@@ -15394,7 +15394,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Säteilee tänään selkeät taivaat."
+            "value" : "Selkeää säätä odotettavissa tänään."
           }
         },
         "fr" : {
@@ -15436,7 +15436,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Langit cerah diharapkan hari ini."
+            "value" : "Langit cerah diperkirakan hari ini."
           }
         },
         "it" : {
@@ -15472,19 +15472,19 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Klare himmelforhold forventes i dag."
+            "value" : "Klar himmel forventes i dag."
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Helder weer verwacht vandaag."
+            "value" : "Helder weer wordt vandaag verwacht."
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dziś spodziewane są czyste nieba."
+            "value" : "Dziś spodziewane jest czyste niebo."
           }
         },
         "pt-BR" : {
@@ -15526,7 +15526,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "คาดว่าจะมีท้องฟ้าที่แจ่มใสในวันนี้"
+            "value" : "คาดว่าจะมีท้องฟ้าที่แจ่มใสในวันนี้."
           }
         },
         "tr" : {
@@ -15544,7 +15544,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Thời tiết hôm nay có dự báo trời trong."
+            "value" : "Hôm nay dự báo trời quang."
           }
         },
         "zh-Hans" : {
@@ -15556,7 +15556,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "今天預期晴天。"
+            "value" : "今天預計晴朗。"
           }
         },
         "zh-HK" : {
@@ -15580,7 +15580,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Предупреждение за слана за вашето местоположение."
+            "value" : "Предупреждение за слана за твоето местоположение."
           }
         },
         "ca" : {
@@ -15646,7 +15646,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pakkanenvaroitus alueellasi."
+            "value" : "Pakkasvaroitus alueellasi."
           }
         },
         "fr" : {
@@ -15700,7 +15700,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "あなたの地域に霜注意報が出ています。"
+            "value" : "お住まいの地域に霜注意報が出ています。"
           }
         },
         "kk" : {
@@ -15712,7 +15712,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "귀하의 위치에 대한 서리 경고입니다."
+            "value" : "내 위치에 서리 경보가 발효되었습니다."
           }
         },
         "ms" : {
@@ -15736,7 +15736,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ostrzeżenie przed przymrozkami w twojej lokalizacji."
+            "value" : "Ostrzeżenie przed przymrozkami w Twojej lokalizacji."
           }
         },
         "pt-BR" : {
@@ -15748,7 +15748,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aviso de geada para a sua localização."
+            "value" : "Aviso de geada para a tua localização."
           }
         },
         "ro" : {
@@ -15778,7 +15778,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "มีการเตือนเกี่ยวกับน้ำแข็งในพื้นที่ของคุณ."
+            "value" : "มีการเตือนเกี่ยวกับน้ำค้างแข็งในพื้นที่ของคุณ."
           }
         },
         "tr" : {
@@ -15802,19 +15802,19 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "您所在位置的霜冻警告。"
+            "value" : "您所在位置有霜冻预警。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "您所在地區的霜凍警告。"
+            "value" : "您所在地區發布霜凍警報。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "您所在地區的霜凍警告。"
+            "value" : "你所在地區的霜凍警告。"
           }
         }
       }
@@ -15898,7 +15898,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Raskasta sadetta odotettavissa myöhemmin tänään."
+            "value" : "Voimakasta sadetta odotettavissa myöhemmin tänään."
           }
         },
         "fr" : {
@@ -15958,13 +15958,13 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Бүгін кешке ауыр жаңбыр күтілуде."
+            "value" : "Бүгін кейінірек қатты жаңбыр күтілуде."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "오늘 늦게 큰 비가 예상됩니다."
+            "value" : "오늘 늦게 강한 비가 예상됩니다."
           }
         },
         "ms" : {
@@ -15982,13 +15982,13 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zware regen later vandaag verwacht."
+            "value" : "Zware regen wordt later vandaag verwacht."
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Oczekiwane intensywne opady deszczu później."
+            "value" : "Później dziś spodziewane są intensywne opady deszczu."
           }
         },
         "pt-BR" : {
@@ -16000,13 +16000,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Esperam-se chuvas fortes mais tarde hoje."
+            "value" : "Prevê-se chuva forte mais tarde hoje."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Plouă puternic așteptat mai târziu astăzi."
+            "value" : "Se așteaptă ploi puternice mai târziu astăzi."
           }
         },
         "ru" : {
@@ -16030,7 +16030,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "คาดว่าจะมีฝนตกหนักในภายหลังวันนี้."
+            "value" : "คาดว่าจะมีฝนตกหนักในช่วงหลังของวันนี้."
           }
         },
         "tr" : {
@@ -16138,7 +16138,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Se ha detectado tormenta eléctrica en tu área."
+            "value" : "Se han detectado rayos en tu zona."
           }
         },
         "es-419" : {
@@ -16168,7 +16168,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "זוהתה ברק באזור שלך."
+            "value" : "זוהה ברק באזור שלך."
           }
         },
         "hi" : {
@@ -16198,7 +16198,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tuoni rilevati nella tua zona."
+            "value" : "Fulmini rilevati nella tua zona."
           }
         },
         "ja" : {
@@ -16216,7 +16216,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "귀하의 지역에서 번개가 감지되었습니다."
+            "value" : "내 지역에서 번개가 감지되었습니다."
           }
         },
         "ms" : {
@@ -16240,7 +16240,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wykryto piorun w Twoim rejonie."
+            "value" : "Wykryto wyładowania w Twoim rejonie."
           }
         },
         "pt-BR" : {
@@ -16252,7 +16252,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Raio detetado na sua área."
+            "value" : "Relâmpagos detetados na tua área."
           }
         },
         "ro" : {
@@ -16264,7 +16264,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Обнаружена молния в вашем районе."
+            "value" : "Обнаружена молния в твоем районе."
           }
         },
         "sk" : {
@@ -16282,7 +16282,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ตรวจพบฟ้าผ่าในพื้นที่ของคุณ"
+            "value" : "ตรวจพบฟ้าผ่าในพื้นที่ของคุณ."
           }
         },
         "tr" : {
@@ -16294,7 +16294,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Виявлено грозу у вашому районі."
+            "value" : "Виявлено блискавку у вашому районі."
           }
         },
         "vi" : {
@@ -16312,13 +16312,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在您所在的區域檢測到閃電。"
+            "value" : "已在您所在區域偵測到閃電。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "檢測到閃電在你的位置附近。"
+            "value" : "在你所在區域偵測到閃電。"
           }
         }
       }
@@ -16402,7 +16402,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ei säädataa saatavilla tässä sijainnissa."
+            "value" : "Tälle sijainnille ei ole säätietoja saatavilla."
           }
         },
         "fr" : {
@@ -16438,7 +16438,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nincsenek elérhető időjárási adatok ezen a helyen."
+            "value" : "Ehhez a helyhez nem érhetők el időjárási adatok."
           }
         },
         "id" : {
@@ -16564,7 +16564,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "此地點沒有可用的天氣數據。"
+            "value" : "此地點沒有可用的天氣資料。"
           }
         },
         "zh-HK" : {
@@ -16714,7 +16714,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Келесі бір сағатта жаңбыр жаууы күтілуде."
+            "value" : "Алдағы бір сағатта жаңбыр жаууы күтілуде."
           }
         },
         "ko" : {
@@ -16744,7 +16744,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Oczekiwany deszcz w ciągu najbliższej godziny."
+            "value" : "Deszcz spodziewany w ciągu najbliższej godziny."
           }
         },
         "pt-BR" : {
@@ -16786,7 +16786,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "คาดว่าจะมีฝนในอีกหนึ่งชั่วโมง."
+            "value" : "คาดว่าจะมีฝนตกในอีกหนึ่งชั่วโมง."
           }
         },
         "tr" : {
@@ -16834,31 +16834,31 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تنبيه شديد الطقس في منطقتك!"
+            "value" : "تنبيه طقس شديد في منطقتك!"
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Предупреждение за тежки метеорологични условия във вашия район!"
+            "value" : "Предупреждение за тежки метеорологични условия в твоя район!"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alertes meteorològiques severes a la teva zona!"
+            "value" : "Avís meteorològic sever a la teva zona!"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "V oblasti je vydáno varování před silným počasím!"
+            "value" : "V oblasti je vydáno varování před nebezpečným počasím!"
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alvorlig vejrmelding i dit område!"
+            "value" : "Alvorlig vejradvarsel i dit område!"
           }
         },
         "de" : {
@@ -16894,13 +16894,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Alerta de severas condiciones meteorológicas en tu área!"
+            "value" : "¡Alerta meteorológica severa en tu zona!"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Alerta de clima severo en tu área!"
+            "value" : "¡Alerta meteorológica en tu área!"
           }
         },
         "fi" : {
@@ -16954,25 +16954,25 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Allerta meteo severo nella tua area!"
+            "value" : "Allerta meteo severa nella tua area!"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "あなたの地域で激しい気象警報が発令されています！"
+            "value" : "お住まいの地域で深刻な気象警報が発令されています！"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сіздің аймағыңызда қауіпті ауа-райы туралы ескерту!"
+            "value" : "Сіздің аймағыңызда қауіпті ауа райы туралы ескерту!"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "귀하의 지역에 심각한 기상 경보가 있습니다!"
+            "value" : "내 지역에 심각한 기상 경보가 있습니다!"
           }
         },
         "ms" : {
@@ -17002,13 +17002,13 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alerta de clima severo na sua área!"
+            "value" : "Alerta de tempo severo na sua área!"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alerta de mau tempo na sua área!"
+            "value" : "Alerta de mau tempo na tua área!"
           }
         },
         "ro" : {
@@ -17020,19 +17020,19 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "В вашем районе объявлено предупреждение о сильном погодном явлении!"
+            "value" : "В твоем районе объявлено предупреждение о сильном погодном явлении!"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "V oblasti je varovanie pred zlým počasím!"
+            "value" : "Vo vašej oblasti platí výstraha pred extrémnym počasím!"
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Allvarligt vädervarning i ditt område!"
+            "value" : "Allvarlig vädervarning i ditt område!"
           }
         },
         "th" : {
@@ -17050,7 +17050,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "У вашому районі оголошено попередження про сильний погодний феномен!"
+            "value" : "У вашому районі оголошено попередження про небезпечні погодні умови!"
           }
         },
         "vi" : {
@@ -17062,19 +17062,19 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "您所在地区有严重天气警报！"
+            "value" : "您所在地区有严重天气预警！"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "您所在區域發出了嚴重天氣警報！"
+            "value" : "您所在區域發布嚴重天氣警報！"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "您所在區域有嚴重天氣警報！"
+            "value" : "你所在區域有嚴重天氣警報！"
           }
         }
       }
@@ -17098,7 +17098,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Advertència de tempesta de neu emesa. El viatge pot veure's afectat."
+            "value" : "S'ha emès un avís de tempesta de neu. Els desplaçaments poden veure's afectats."
           }
         },
         "cs" : {
@@ -17110,7 +17110,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Snevejrvarsling udstedt. Rejse kan blive påvirket."
+            "value" : "Snevejrvarsel udstedt. Rejser kan blive påvirket."
           }
         },
         "de" : {
@@ -17146,7 +17146,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Se ha emitido una advertencia de tormenta de nieve. El viaje puede verse afectado."
+            "value" : "Se ha emitido un aviso de tormenta de nieve. Los desplazamientos pueden verse afectados."
           }
         },
         "es-419" : {
@@ -17164,7 +17164,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alerte de tempête de neige émise. Le voyage peut être affecté."
+            "value" : "Alerte de tempête de neige émise. Les déplacements peuvent être perturbés."
           }
         },
         "fr-CA" : {
@@ -17176,7 +17176,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הונחה אזהרת סערת שלג. הנסיעה עשויה להיות מושפעת."
+            "value" : "פורסמה אזהרת סערת שלג. הנסיעה עשויה להיות מושפעת."
           }
         },
         "hi" : {
@@ -17194,7 +17194,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hóvihar figyelmeztetés kiadva. Az utazásod érintett lehet."
+            "value" : "Hóvihar-figyelmeztetés kiadva. Az utazásod érintett lehet."
           }
         },
         "id" : {
@@ -17212,7 +17212,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "吹雪警報が発令されました。旅行に影響が出る可能性があります。"
+            "value" : "吹雪警報が発令されました。交通に影響が出る可能性があります。"
           }
         },
         "kk" : {
@@ -17272,7 +17272,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Объявлено предупреждение о снежной буре. Путешествие может быть затруднено."
+            "value" : "Объявлено предупреждение о снежной буре. Поездки могут быть затруднены."
           }
         },
         "sk" : {
@@ -17290,7 +17290,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "มีการออกคำเตือนหิมะตก การเดินทางอาจได้รับผลกระทบ"
+            "value" : "มีการออกคำเตือนพายุหิมะ การเดินทางอาจได้รับผลกระทบ."
           }
         },
         "tr" : {
@@ -17314,13 +17314,13 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "已发布暴风雪警告。旅行可能受到影响。"
+            "value" : "已发布暴风雪预警。旅行可能受到影响。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "已發布暴風雪警告，旅遊可能受到影響。"
+            "value" : "已發布暴風雪警報，交通可能受影響。"
           }
         },
         "zh-HK" : {
@@ -17398,7 +17398,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Se avecina una tormenta en tu área."
+            "value" : "Se acerca una tormenta a tu zona."
           }
         },
         "es-419" : {
@@ -17416,7 +17416,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tempête approchant de votre zone."
+            "value" : "Une tempête approche de votre région."
           }
         },
         "fr-CA" : {
@@ -17446,7 +17446,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vihar közelít a területedhez."
+            "value" : "Vihar közelít a környékedre."
           }
         },
         "id" : {
@@ -17464,7 +17464,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "あなたの地域に嵐が接近しています。"
+            "value" : "お住まいの地域に嵐が接近しています。"
           }
         },
         "kk" : {
@@ -17476,13 +17476,13 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "귀하의 지역에 폭풍우가 다가오고 있습니다."
+            "value" : "내 지역에 폭풍이 다가오고 있습니다."
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Badai sedang menghampiri kawasan anda."
+            "value" : "Ribut sedang menghampiri kawasan anda."
           }
         },
         "nb" : {
@@ -17512,19 +17512,19 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tempestade a aproximar-se da sua área."
+            "value" : "Tempestade a aproximar-se da tua área."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Furtună se apropie de zona ta."
+            "value" : "O furtună se apropie de zona ta."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Надвигается буря."
+            "value" : "В твоем районе надвигается буря."
           }
         },
         "sk" : {
@@ -17626,7 +17626,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Αναμένονται πτώσεις θερμοκρασίας κατά τη διάρκεια της νύχτας."
+            "value" : "Αναμένεται πτώση θερμοκρασίας κατά τη διάρκεια της νύχτας."
           }
         },
         "en" : {
@@ -17698,13 +17698,13 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Átmeneti hőmérsékletcsökkenés várható éjszaka."
+            "value" : "Hőmérsékletcsökkenés várható éjszaka."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Penurunan suhu diharapkan terjadi semalaman."
+            "value" : "Penurunan suhu diperkirakan terjadi semalaman."
           }
         },
         "it" : {
@@ -17746,7 +17746,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Temperatuurdaling verwacht vannacht."
+            "value" : "Temperatuurdaling wordt vannacht verwacht."
           }
         },
         "pl" : {
@@ -17794,7 +17794,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "คาดว่าจะมีการลดอุณหภูมิในช่วงคืน."
+            "value" : "คาดว่าอุณหภูมิจะลดลงในคืนนี้."
           }
         },
         "tr" : {
@@ -17812,19 +17812,19 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dự đoán sẽ giảm nhiệt độ qua đêm."
+            "value" : "Dự báo nhiệt độ sẽ giảm qua đêm."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "预计过夜温度下降。"
+            "value" : "预计夜间气温下降。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "預期將在夜間降溫。"
+            "value" : "預計夜間會降溫。"
           }
         },
         "zh-HK" : {
@@ -17950,7 +17950,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A UV index ma nagyon magas."
+            "value" : "Az UV-index ma nagyon magas."
           }
         },
         "id" : {
@@ -17974,7 +17974,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Бүгінгі ультракүлгін индекс өте жоғары."
+            "value" : "Бүгін ультракүлгін индекс өте жоғары."
           }
         },
         "ko" : {
@@ -18004,7 +18004,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wskaźnik UV jest dzisiaj bardzo wysoki."
+            "value" : "Indeks UV jest dzisiaj bardzo wysoki."
           }
         },
         "pt-BR" : {
@@ -18028,7 +18028,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Индекс UV сегодня очень высокий."
+            "value" : "УФ‑индекс сегодня очень высокий."
           }
         },
         "sk" : {
@@ -18058,7 +18058,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Індекс UV сьогодні дуже високий."
+            "value" : "Індекс УФ сьогодні дуже високий."
           }
         },
         "vi" : {
@@ -18106,7 +18106,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Connexió amb l'estació meteorològica perduda."
+            "value" : "S'ha perdut la connexió amb l'estació meteorològica."
           }
         },
         "cs" : {
@@ -18118,7 +18118,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Forbindelse til vejrstation mistet."
+            "value" : "Forbindelsen til vejrstationen er afbrudt."
           }
         },
         "de" : {
@@ -18154,7 +18154,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Conexión con la estación meteorológica perdida."
+            "value" : "Se ha perdido la conexión con la estación meteorológica."
           }
         },
         "es-419" : {
@@ -18166,7 +18166,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sään mittausasema ei ole käytettävissä."
+            "value" : "Sääaseman yhteys katkennut."
           }
         },
         "fr" : {
@@ -18190,13 +18190,13 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "जलवायु स्टेशन से कनेक्शन खो गया।"
+            "value" : "मौसम स्टेशन से कनेक्शन खो गया।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Veza s meteorološkom stanicom izgubljena."
+            "value" : "Veza s meteorološkom stanicom je izgubljena."
           }
         },
         "hu" : {
@@ -18238,37 +18238,37 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pautan cuaca hilang."
+            "value" : "Sambungan stesen cuaca terputus."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tilkoblelsen til værstasjonen er tapt."
+            "value" : "Tilkoblingen til værstasjonen er tapt."
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Verbinding met weerstation verloren."
+            "value" : "Verbinding met het weerstation verbroken."
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Połączenie z stacją meteorologiczną zostało utracone."
+            "value" : "Połączenie ze stacją meteorologiczną zostało utracone."
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Conexão da estação meteorológica perdida."
+            "value" : "Conexão com a estação meteorológica perdida."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Conexão com a estação meteorológica perdida."
+            "value" : "Ligação à estação meteorológica perdida."
           }
         },
         "ro" : {
@@ -18298,7 +18298,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การเชื่อมต่อสถานีอากาศขาดหายไป."
+            "value" : "ขาดการเชื่อมต่อกับสถานีอากาศ."
           }
         },
         "tr" : {
@@ -18316,7 +18316,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kết nối trạm thời tiết đã mất."
+            "value" : "Mất kết nối với trạm thời tiết."
           }
         },
         "zh-Hans" : {
@@ -18328,13 +18328,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "氣象站連接丟失。"
+            "value" : "與氣象站的連線中斷。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "天氣站連接已丟失。"
+            "value" : "天氣站連線已中斷。"
           }
         }
       }
@@ -18352,7 +18352,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Поривите на вятъра се очаква да достигнат опасни нива."
+            "value" : "Очаква се поривите на вятъра да достигнат опасни нива."
           }
         },
         "ca" : {
@@ -18418,7 +18418,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tuulenpuuskat saavuttavat vaarallisia tasoja."
+            "value" : "Tuulenpuuskien odotetaan nousevan vaaralliselle tasolle."
           }
         },
         "fr" : {
@@ -18436,7 +18436,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "צפויה עלייה מסוכנת ברוחות."
+            "value" : "משבי רוח צפויים להגיע לרמות מסוכנות."
           }
         },
         "hi" : {
@@ -18472,13 +18472,13 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "風の突風が危険なレベルに達する予報です。"
+            "value" : "突風が危険なレベルに達する予報です。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Желдің жылдамдығы қауіпті деңгейге жетеді деп күтілуде."
+            "value" : "Жел екпіндері қауіпті деңгейге жетеді деп күтілуде."
           }
         },
         "ko" : {
@@ -18490,7 +18490,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Badai angin dijangka mencapai tahap berbahaya."
+            "value" : "Hembusan angin dijangka mencapai tahap berbahaya."
           }
         },
         "nb" : {
@@ -18502,13 +18502,13 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Windstoten kunnen gevaarlijke niveaus bereiken."
+            "value" : "Er worden windstoten tot gevaarlijke niveaus verwacht."
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Oczekiwane porywy wiatru osiągną niebezpieczne poziomy."
+            "value" : "Porywy wiatru mogą osiągnąć niebezpieczne poziomy."
           }
         },
         "pt-BR" : {
@@ -18520,7 +18520,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rajadas de vento esperadas para atingir níveis perigosos."
+            "value" : "Prevê-se que as rajadas de vento atinjam níveis perigosos."
           }
         },
         "ro" : {
@@ -18550,13 +18550,13 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ลมกระโชกคาดว่าจะถึงระดับอันตรายค่ะ."
+            "value" : "คาดว่าลมกระโชกจะถึงระดับอันตราย."
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rüzgar dönmeye tehlikeli seviyelere ulaşması bekleniyor."
+            "value" : "Rüzgar esintilerinin tehlikeli seviyelere ulaşması bekleniyor."
           }
         },
         "uk" : {
@@ -18568,7 +18568,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gió sẽ thổi mạnh đến mức nguy hiểm."
+            "value" : "Gió giật dự kiến đạt mức nguy hiểm."
           }
         },
         "zh-Hans" : {
@@ -18580,13 +18580,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "預計風速會達到危險水平。"
+            "value" : "預計陣風將達到危險等級。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "預計風陣將達到危險水平。"
+            "value" : "預計陣風將達到危險水平。"
           }
         }
       }
@@ -18597,7 +18597,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "جاري تحليل بيانات الطقس…"
+            "value" : "جارٍ تحليل بيانات الطقس…"
           }
         },
         "bg" : {
@@ -18729,7 +18729,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ауа райы деректерін талдау…"
+            "value" : "Ауа райы деректері талдануда…"
           }
         },
         "ko" : {
@@ -18777,7 +18777,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Analizează date meteorologice…"
+            "value" : "Se analizează date meteo…"
           }
         },
         "ru" : {
@@ -18807,13 +18807,13 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hava durumu verilerini analiz etme…"
+            "value" : "Hava durumu verileri analiz ediliyor…"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Аналіз погодних даних…"
+            "value" : "Аналізую погодні дані…"
           }
         },
         "vi" : {
@@ -18831,7 +18831,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在分析氣象數據…"
+            "value" : "正在分析氣象資料…"
           }
         },
         "zh-HK" : {
@@ -18866,13 +18866,13 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vypočítávání teploty…"
+            "value" : "Vypočítávám teplotu…"
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Beregning af temperatur…"
+            "value" : "Beregner temperatur…"
           }
         },
         "de" : {
@@ -18980,7 +18980,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Температураны есептеу…"
+            "value" : "Температура есептелуде…"
           }
         },
         "ko" : {
@@ -19183,7 +19183,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entre le nom de la ville…"
+            "value" : "Entrez le nom de la ville…"
           }
         },
         "he" : {
@@ -19273,7 +19273,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduza o nome da cidade…"
+            "value" : "Introduz o nome da cidade…"
           }
         },
         "ro" : {
@@ -19410,7 +19410,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ingresa coordenadas…"
+            "value" : "Introduce las coordenadas…"
           }
         },
         "es-419" : {
@@ -19434,7 +19434,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entre les coordonnées…"
+            "value" : "Entrez les coordonnées…"
           }
         },
         "he" : {
@@ -19524,7 +19524,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduza as coordenadas…"
+            "value" : "Introduz as coordenadas…"
           }
         },
         "ro" : {
@@ -19584,7 +19584,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入坐標…"
+            "value" : "輸入座標…"
           }
         },
         "zh-HK" : {
@@ -19619,7 +19619,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadejte lokaci…"
+            "value" : "Zadejte místo…"
           }
         },
         "da" : {
@@ -19685,7 +19685,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez la localisation…"
+            "value" : "Entrez l’emplacement…"
           }
         },
         "he" : {
@@ -19751,7 +19751,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skriv inn lokasjon…"
+            "value" : "Skriv inn plassering…"
           }
         },
         "nl" : {
@@ -19775,19 +19775,19 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduza a localização…"
+            "value" : "Introduz a localização…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduceti numele locației…"
+            "value" : "Introdu locația…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введите адрес…"
+            "value" : "Введите местоположение…"
           }
         },
         "sk" : {
@@ -19835,7 +19835,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "請輸入位置…"
+            "value" : "輸入位置…"
           }
         },
         "zh-HK" : {
@@ -19912,7 +19912,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduce código postal…"
+            "value" : "Introduce el código postal…"
           }
         },
         "es-419" : {
@@ -19984,13 +19984,13 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Почта индексін енгізіңіз…"
+            "value" : "Пошта индексін енгізіңіз…"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "우편번호 입력…"
+            "value" : "우편번호를 입력하세요…"
           }
         },
         "ms" : {
@@ -20026,7 +20026,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduza o código postal…"
+            "value" : "Introduz o código postal…"
           }
         },
         "ro" : {
@@ -20062,7 +20062,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Posta kodunu girin…"
+            "value" : "Posta kodunu gir…"
           }
         },
         "uk" : {
@@ -20211,7 +20211,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Irányítószám megadása…"
+            "value" : "Írd be az irányítószámot…"
           }
         },
         "id" : {
@@ -20241,7 +20241,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "우편번호 입력…"
+            "value" : "우편번호를 입력하세요…"
           }
         },
         "ms" : {
@@ -20265,7 +20265,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wprowadź Kod Pocztowy…"
+            "value" : "Wprowadź kod ZIP…"
           }
         },
         "pt-BR" : {
@@ -20277,13 +20277,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduza o código postal…"
+            "value" : "Introduz o código postal…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu codul poștal..."
+            "value" : "Introdu codul poștal…"
           }
         },
         "ru" : {
@@ -20301,19 +20301,19 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skriv in postnummer…"
+            "value" : "Ange postnummer…"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรุณาใส่รหัสไปรษณีย์…"
+            "value" : "กรอกรหัสไปรษณีย์…"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Posta kodunu girin…"
+            "value" : "Posta kodunu gir…"
           }
         },
         "uk" : {
@@ -20426,7 +20426,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hakee säätiedotusta…"
+            "value" : "Haetaan sääennustetta…"
           }
         },
         "fr" : {
@@ -20444,7 +20444,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "שואב תחזית…"
+            "value" : "מאחזר תחזית…"
           }
         },
         "hi" : {
@@ -20486,7 +20486,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ауа-райы болжамы алынып жатыр…"
+            "value" : "Ауа райы болжамы алынып жатыр…"
           }
         },
         "ko" : {
@@ -20516,7 +20516,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pobieranie prognozy..."
+            "value" : "Pobieranie prognozy…"
           }
         },
         "pt-BR" : {
@@ -20528,7 +20528,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscar a previsão…"
+            "value" : "A obter a previsão…"
           }
         },
         "ro" : {
@@ -20570,7 +20570,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Отримання прогнозу…"
+            "value" : "Отримую прогноз…"
           }
         },
         "vi" : {
@@ -20588,7 +20588,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在獲取天氣預報…"
+            "value" : "正在取得天氣預報…"
           }
         },
         "zh-HK" : {
@@ -20635,7 +20635,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Radar­daten werden abgerufen…"
+            "value" : "Radardaten werden abgerufen…"
           }
         },
         "el" : {
@@ -20677,7 +20677,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hakee tutkadataa…"
+            "value" : "Haetaan tutkadataa…"
           }
         },
         "fr" : {
@@ -20695,7 +20695,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "שואב נתוני רדאר…"
+            "value" : "מאחזר נתוני רדאר…"
           }
         },
         "hi" : {
@@ -20713,7 +20713,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Radar adatok lekérése…"
+            "value" : "Radaradatok lekérése…"
           }
         },
         "id" : {
@@ -20767,7 +20767,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pobieranie danych radarowych..."
+            "value" : "Pobieranie danych radarowych…"
           }
         },
         "pt-BR" : {
@@ -20779,7 +20779,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscar dados do radar…"
+            "value" : "A obter dados do radar…"
           }
         },
         "ro" : {
@@ -20803,7 +20803,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hämtar radar-data…"
+            "value" : "Hämtar radardata…"
           }
         },
         "th" : {
@@ -20821,7 +20821,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Отримання радарних даних…"
+            "value" : "Отримую дані радара…"
           }
         },
         "vi" : {
@@ -20839,7 +20839,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在獲取雷達數據…"
+            "value" : "正在取得雷達資料…"
           }
         },
         "zh-HK" : {
@@ -20886,7 +20886,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Satelliten­daten werden abgerufen…"
+            "value" : "Satellitendaten werden abgerufen…"
           }
         },
         "el" : {
@@ -20928,7 +20928,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hakee satelliittidataa…"
+            "value" : "Haetaan satelliittidataa…"
           }
         },
         "fr" : {
@@ -20940,13 +20940,13 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Récupération des données satellites…"
+            "value" : "Récupération des données satellite…"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "שואב נתוני לווין…"
+            "value" : "מאחזר נתוני לוויין…"
           }
         },
         "hi" : {
@@ -20988,7 +20988,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Спутник деректері алынып жатыр…"
+            "value" : "Жерсерік деректері алынып жатыр…"
           }
         },
         "ko" : {
@@ -21018,7 +21018,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pobieranie danych satelitarnych..."
+            "value" : "Pobieranie danych satelitarnych…"
           }
         },
         "pt-BR" : {
@@ -21030,13 +21030,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscar dados de satélite…"
+            "value" : "A obter dados de satélite…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduceți codul poștal…"
+            "value" : "Se obțin date satelit…"
           }
         },
         "ru" : {
@@ -21072,7 +21072,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Отримання супутникових даних…"
+            "value" : "Отримую супутникові дані…"
           }
         },
         "vi" : {
@@ -21090,7 +21090,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在獲取衛星數據…"
+            "value" : "正在取得衛星資料…"
           }
         },
         "zh-HK" : {
@@ -21179,7 +21179,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hakee säätiedotteita…"
+            "value" : "Haetaan säävaroituksia…"
           }
         },
         "fr" : {
@@ -21197,7 +21197,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "שואב התראות מזג אוויר…"
+            "value" : "מאחזר התראות מזג אוויר…"
           }
         },
         "hi" : {
@@ -21239,13 +21239,13 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ауа-райы ескертулері алынып жатыр…"
+            "value" : "Ауа райы ескертулері алынып жатыр…"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "날씨 경고 가져오는 중…"
+            "value" : "기상 특보 가져오는 중…"
           }
         },
         "ms" : {
@@ -21269,7 +21269,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pobieranie alertów pogodowych..."
+            "value" : "Pobieranie alertów pogodowych…"
           }
         },
         "pt-BR" : {
@@ -21281,7 +21281,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscar alertas meteorológicos…"
+            "value" : "A obter alertas meteorológicos…"
           }
         },
         "ro" : {
@@ -21323,25 +21323,25 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Отримання попереджень про погоду…"
+            "value" : "Отримую попередження про погоду…"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đang lấy thông báo thời tiết…"
+            "value" : "Đang lấy cảnh báo thời tiết…"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "获取天气警报…"
+            "value" : "获取天气预警…"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在獲取天氣警報…"
+            "value" : "正在取得天氣警報…"
           }
         },
         "zh-HK" : {
@@ -21430,7 +21430,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hakee säätietoja…"
+            "value" : "Haetaan säätietoja…"
           }
         },
         "fr" : {
@@ -21448,7 +21448,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "שואב נתוני מזג אוויר…"
+            "value" : "מאחזר נתוני מזג אוויר…"
           }
         },
         "hi" : {
@@ -21490,7 +21490,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ауа-райы деректері алынып жатыр…"
+            "value" : "Ауа райы деректері алынып жатыр…"
           }
         },
         "ko" : {
@@ -21520,7 +21520,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pobieranie danych pogodowych..."
+            "value" : "Pobieranie danych pogodowych…"
           }
         },
         "pt-BR" : {
@@ -21532,7 +21532,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscar dados meteorológicos…"
+            "value" : "A obter dados meteorológicos…"
           }
         },
         "ro" : {
@@ -21574,7 +21574,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Отримання погодних даних…"
+            "value" : "Отримую погодні дані…"
           }
         },
         "vi" : {
@@ -21592,7 +21592,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在獲取天氣數據…"
+            "value" : "正在取得天氣資料…"
           }
         },
         "zh-HK" : {
@@ -21615,7 +21615,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Зареждане на прогноза..."
+            "value" : "Зареждане на прогноза…"
           }
         },
         "ca" : {
@@ -21681,7 +21681,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ladataan säätiedot…"
+            "value" : "Ladataan sääennustetta…"
           }
         },
         "fr" : {
@@ -21705,7 +21705,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "पूर्वानुमान लोड हो रहा है..."
+            "value" : "पूर्वानुमान लोड हो रहा है…"
           }
         },
         "hr" : {
@@ -21783,7 +21783,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A carregar previsão..."
+            "value" : "A carregar previsão…"
           }
         },
         "ro" : {
@@ -21795,13 +21795,13 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Загрузка прогноза..."
+            "value" : "Загрузка прогноза…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Načítavam predpoveď..."
+            "value" : "Načítavam predpoveď…"
           }
         },
         "sv" : {
@@ -21837,19 +21837,19 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "加载天气预报中..."
+            "value" : "加载天气预报中…"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在加載天氣預報…"
+            "value" : "正在載入天氣預報…"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "加載天氣預報中..."
+            "value" : "正在載入天氣預報…"
           }
         }
       }
@@ -21866,7 +21866,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Зареждане на данни от радара..."
+            "value" : "Зареждане на данни от радара…"
           }
         },
         "ca" : {
@@ -21884,13 +21884,13 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Indlæser radar data…"
+            "value" : "Indlæser radardata…"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Radar-Daten werden geladen…"
+            "value" : "Radardaten werden geladen…"
           }
         },
         "el" : {
@@ -21932,7 +21932,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ladataan tutkaa…"
+            "value" : "Ladataan tutkadataa…"
           }
         },
         "fr" : {
@@ -21956,7 +21956,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "रेडार डेटा लोड हो रहा है..."
+            "value" : "रेडार डेटा लोड हो रहा है…"
           }
         },
         "hr" : {
@@ -21992,7 +21992,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Радар деректерін жүктеу…"
+            "value" : "Радар деректері жүктелуде…"
           }
         },
         "ko" : {
@@ -22034,7 +22034,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A carregar dados de radar..."
+            "value" : "A carregar dados de radar…"
           }
         },
         "ro" : {
@@ -22046,13 +22046,13 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Загрузка данных радаров..."
+            "value" : "Загрузка данных радара…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Načítavam radarové údaje..."
+            "value" : "Načítavam radarové údaje…"
           }
         },
         "sv" : {
@@ -22088,19 +22088,19 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "加载雷达数据中..."
+            "value" : "加载雷达数据中…"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在加載雷達數據…"
+            "value" : "正在載入雷達資料…"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "加載雷達數據中..."
+            "value" : "正在載入雷達數據…"
           }
         }
       }
@@ -22117,7 +22117,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Зареждане на метеорологични данни..."
+            "value" : "Зареждане на метеорологични данни…"
           }
         },
         "ca" : {
@@ -22207,7 +22207,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "मौसम डेटा लोड हो रहा है..."
+            "value" : "मौसम डेटा लोड हो रहा है…"
           }
         },
         "hr" : {
@@ -22285,7 +22285,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A carregar dados meteorológicos..."
+            "value" : "A carregar dados meteorológicos…"
           }
         },
         "ro" : {
@@ -22297,13 +22297,13 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Загрузка данных о погоде..."
+            "value" : "Загрузка данных о погоде…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Načítavam údaje o počasí..."
+            "value" : "Načítavam údaje o počasí…"
           }
         },
         "sv" : {
@@ -22327,7 +22327,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Завантажую дані погоди…"
+            "value" : "Завантажую дані про погоду…"
           }
         },
         "vi" : {
@@ -22339,19 +22339,19 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "加载天气数据中..."
+            "value" : "加载天气数据中…"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在加載天氣數據…"
+            "value" : "正在載入天氣資料…"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "加載天氣數據中..."
+            "value" : "正在載入天氣數據…"
           }
         }
       }
@@ -22386,7 +22386,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lokalisering af nærmeste station…"
+            "value" : "Finder nærmeste station…"
           }
         },
         "de" : {
@@ -22458,7 +22458,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "निकटतम स्टेशन की स्थिति ज्ञात की जा रही है..."
+            "value" : "निकटतम स्टेशन की स्थिति ज्ञात की जा रही है…"
           }
         },
         "hr" : {
@@ -22488,19 +22488,19 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "最寄りの駅を探しています…"
+            "value" : "最寄りの観測所を特定しています…"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Жақын станцияны табу…"
+            "value" : "Ең жақын станция табылуда…"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "가장 가까운 역 찾는 중…"
+            "value" : "가장 가까운 관측소 찾는 중…"
           }
         },
         "ms" : {
@@ -22572,7 +22572,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "En yakın istasyonu buluyor…"
+            "value" : "En yakın istasyon bulunuyor…"
           }
         },
         "uk" : {
@@ -22596,13 +22596,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在定位最近的車站…"
+            "value" : "正在定位最近的氣象站…"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "定位最近的車站…"
+            "value" : "正在定位最近的天氣站…"
           }
         }
       }
@@ -22613,7 +22613,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "جاري قياس درجة الحرارة…"
+            "value" : "جارٍ قياس درجة الحرارة…"
           }
         },
         "bg" : {
@@ -22685,7 +22685,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mittaa lämpötilaa…"
+            "value" : "Mitataan lämpötilaa…"
           }
         },
         "fr" : {
@@ -22709,7 +22709,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "तापमान मापा जा रहा है..."
+            "value" : "तापमान मापा जा रहा है…"
           }
         },
         "hr" : {
@@ -22745,7 +22745,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Температураны өлшеу…"
+            "value" : "Температура өлшенуде…"
           }
         },
         "ko" : {
@@ -22829,7 +22829,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Вимірювання температури…"
+            "value" : "Вимірюю температуру…"
           }
         },
         "vi" : {
@@ -22847,7 +22847,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "測量溫度…"
+            "value" : "正在測量溫度…"
           }
         },
         "zh-HK" : {
@@ -22864,7 +22864,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "جاري قياس سرعة الرياح…"
+            "value" : "جارٍ قياس سرعة الرياح…"
           }
         },
         "bg" : {
@@ -22936,7 +22936,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mittaa tuulen nopeutta…"
+            "value" : "Mitataan tuulen nopeutta…"
           }
         },
         "fr" : {
@@ -22960,7 +22960,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "हवा की गति मापी जा रही है..."
+            "value" : "हवा की गति मापी जा रही है…"
           }
         },
         "hr" : {
@@ -22996,7 +22996,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Жел жылдамдығын өлшеу…"
+            "value" : "Жел жылдамдығы өлшенуде…"
           }
         },
         "ko" : {
@@ -23080,7 +23080,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Вимірювання швидкості вітру…"
+            "value" : "Вимірюю швидкість вітру…"
           }
         },
         "vi" : {
@@ -23098,7 +23098,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "測量風速…"
+            "value" : "正在測量風速…"
           }
         },
         "zh-HK" : {
@@ -23133,7 +23133,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hledání bouří…"
+            "value" : "Hledám bouře…"
           }
         },
         "da" : {
@@ -23145,7 +23145,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Suche nach Stürmen…"
+            "value" : "Nach Stürmen suchen…"
           }
         },
         "el" : {
@@ -23205,7 +23205,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "סריקה אחר סופות…"
+            "value" : "סורק אחר סופות…"
           }
         },
         "hi" : {
@@ -23235,7 +23235,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ricerca tempeste…"
+            "value" : "Ricerca di tempeste…"
           }
         },
         "ja" : {
@@ -23247,7 +23247,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Дауылдарды сканерлеу…"
+            "value" : "Дауылдар сканерленуде…"
           }
         },
         "ko" : {
@@ -23265,13 +23265,13 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scanner etter stormer…"
+            "value" : "Skanner etter stormer…"
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scannen naar stormen…"
+            "value" : "Scannen op stormen…"
           }
         },
         "pl" : {
@@ -23289,7 +23289,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A procurar tempestades..."
+            "value" : "A procurar tempestades…"
           }
         },
         "ro" : {
@@ -23301,7 +23301,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ищем шторма…"
+            "value" : "Поиск штормов…"
           }
         },
         "sk" : {
@@ -23331,7 +23331,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сканування на бурі…"
+            "value" : "Сканую бурі…"
           }
         },
         "vi" : {
@@ -23349,7 +23349,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "掃描風暴中…"
+            "value" : "正在掃描風暴…"
           }
         },
         "zh-HK" : {
@@ -23366,7 +23366,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "جاري تحديث التوقعات…"
+            "value" : "جارٍ تحديث التوقعات…"
           }
         },
         "bg" : {
@@ -23462,7 +23462,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "पूर्वानुमान अपडेट हो रहा है..."
+            "value" : "पूर्वानुमान अपडेट हो रहा है…"
           }
         },
         "hr" : {
@@ -23498,7 +23498,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Прогнозды жаңарту…"
+            "value" : "Болжам жаңартылуда…"
           }
         },
         "ko" : {
@@ -23546,7 +23546,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Actualizând prognoza…"
+            "value" : "Se actualizează prognoza…"
           }
         },
         "ru" : {
@@ -23582,7 +23582,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Оновлення прогнозу…"
+            "value" : "Оновлюю прогноз…"
           }
         },
         "vi" : {

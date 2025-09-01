@@ -7,13 +7,13 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "هجوم"
+            "value" : "هاجم"
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Атакувайте"
+            "value" : "Атакувай"
           }
         },
         "ca" : {
@@ -31,7 +31,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Angreb"
+            "value" : "Angrib"
           }
         },
         "de" : {
@@ -97,7 +97,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "התקפה"
+            "value" : "תקוף"
           }
         },
         "hi" : {
@@ -151,7 +151,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Guna semula"
+            "value" : "Serang"
           }
         },
         "nb" : {
@@ -217,7 +217,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saldır!"
+            "value" : "Saldır"
           }
         },
         "uk" : {
@@ -247,7 +247,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "攻击"
+            "value" : "攻擊"
           }
         }
       }
@@ -282,7 +282,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kamp"
+            "value" : "Start kamp"
           }
         },
         "de" : {
@@ -330,7 +330,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Taistella"
+            "value" : "Taistelu"
           }
         },
         "fr" : {
@@ -390,7 +390,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Жауласу"
+            "value" : "Шайқас"
           }
         },
         "ko" : {
@@ -498,7 +498,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "战斗"
+            "value" : "戰鬥"
           }
         }
       }
@@ -515,13 +515,13 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Блокирайте играча"
+            "value" : "Блокирай играча"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bloquejar Jugador"
+            "value" : "Bloquejar jugador"
           }
         },
         "cs" : {
@@ -617,7 +617,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Játékos Blokkolása"
+            "value" : "Játékos blokkolása"
           }
         },
         "id" : {
@@ -653,7 +653,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "阻止玩家"
+            "value" : "Sekat Pemain"
           }
         },
         "nb" : {
@@ -737,7 +737,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "阻止玩家"
+            "value" : "屏蔽玩家"
           }
         },
         "zh-Hant" : {
@@ -749,7 +749,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "封锁玩家"
+            "value" : "封鎖玩家"
           }
         }
       }
@@ -778,19 +778,19 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Výzva"
+            "value" : "Vyzvat"
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Udfordring"
+            "value" : "Udfordr"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Challenge"
+            "value" : "Herausfordern"
           }
         },
         "el" : {
@@ -844,7 +844,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Défi"
+            "value" : "Défier"
           }
         },
         "he" : {
@@ -856,7 +856,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "चुनौती"
+            "value" : "चुनौती दें"
           }
         },
         "hr" : {
@@ -874,7 +874,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tantangan"
+            "value" : "Tantang"
           }
         },
         "it" : {
@@ -946,7 +946,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Вызов"
+            "value" : "Бросить вызов"
           }
         },
         "sk" : {
@@ -958,19 +958,19 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Utmaning"
+            "value" : "Utmana"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "คำท้า"
+            "value" : "ท้า"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Meydan Okuma"
+            "value" : "Meydan Oku"
           }
         },
         "uk" : {
@@ -982,7 +982,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lời thách đấu"
+            "value" : "Thách đấu"
           }
         },
         "zh-Hans" : {
@@ -1011,13 +1011,13 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "مطالبة"
+            "value" : "استلم"
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Заявете"
+            "value" : "Заяви"
           }
         },
         "ca" : {
@@ -1029,13 +1029,13 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nárokovat"
+            "value" : "Uplatnit"
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gør krav på"
+            "value" : "Indløs"
           }
         },
         "de" : {
@@ -1083,7 +1083,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vaadi"
+            "value" : "Lunasta"
           }
         },
         "fr" : {
@@ -1095,13 +1095,13 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Revendiquer"
+            "value" : "Réclamer"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "דרוש"
+            "value" : "קבל"
           }
         },
         "hi" : {
@@ -1143,13 +1143,13 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Талап ету"
+            "value" : "Алу"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "주장하기"
+            "value" : "수령하기"
           }
         },
         "ms" : {
@@ -1161,7 +1161,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Krev"
+            "value" : "Hent"
           }
         },
         "nl" : {
@@ -1173,7 +1173,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zgłoś się"
+            "value" : "Odbierz"
           }
         },
         "pt-BR" : {
@@ -1185,19 +1185,19 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reivindicar"
+            "value" : "Reclamar"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cere"
+            "value" : "Revendică"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Запросить"
+            "value" : "Забрать"
           }
         },
         "sk" : {
@@ -1209,13 +1209,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kräv"
+            "value" : "Hämta"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เรียกร้อง"
+            "value" : "รับ"
           }
         },
         "tr" : {
@@ -1227,31 +1227,31 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Вимагати"
+            "value" : "Отримати"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yêu cầu"
+            "value" : "Nhận"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "声明"
+            "value" : "领取"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "索賠"
+            "value" : "領取"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "领养"
+            "value" : "領取"
           }
         }
       }
@@ -1436,7 +1436,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Coletar"
+            "value" : "Recolher"
           }
         },
         "ro" : {
@@ -1531,7 +1531,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Obránit se"
+            "value" : "Bránit se"
           }
         },
         "da" : {
@@ -1549,7 +1549,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Αμύνεσαι"
+            "value" : "Άμυνα"
           }
         },
         "en" : {
@@ -1705,7 +1705,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Obhájiť"
+            "value" : "Brániť"
           }
         },
         "sv" : {
@@ -1770,19 +1770,19 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Оборудване на предмет"
+            "value" : "Екипирай предмет"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Equipar article"
+            "value" : "Equipar objecte"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Připnout položku"
+            "value" : "Nasadit předmět"
           }
         },
         "da" : {
@@ -1794,7 +1794,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stärkenpaket ausrüsten"
+            "value" : "Gegenstand ausrüsten"
           }
         },
         "el" : {
@@ -1824,7 +1824,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Equipar artículo"
+            "value" : "Equipar objeto"
           }
         },
         "es-419" : {
@@ -1836,7 +1836,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Varusta esine"
+            "value" : "Ota esine käyttöön"
           }
         },
         "fr" : {
@@ -1848,31 +1848,31 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Équiper l'article"
+            "value" : "Équiper l'objet"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הכנס פריט"
+            "value" : "צייד פריט"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "आइटम संलग्न करें"
+            "value" : "आइटम लगाएँ"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Opremaj Stavku"
+            "value" : "Opremi predmet"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tárgy Felszerelése"
+            "value" : "Tárgy felszerelése"
           }
         },
         "id" : {
@@ -1884,7 +1884,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Equipaggia Oggetto"
+            "value" : "Equipaggia oggetto"
           }
         },
         "ja" : {
@@ -1896,7 +1896,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Заттарды жабдықтау"
+            "value" : "Затты жабдықтау"
           }
         },
         "ko" : {
@@ -1908,7 +1908,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lengkapkan Item"
+            "value" : "Lengkapi Item"
           }
         },
         "nb" : {
@@ -1920,13 +1920,13 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Item Uitrusten"
+            "value" : "Item uitrusten"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wyposaż przedmiot"
+            "value" : "Wyposaż"
           }
         },
         "pt-BR" : {
@@ -1944,7 +1944,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Echipă Obiectul"
+            "value" : "Echipează obiectul"
           }
         },
         "ru" : {
@@ -1956,7 +1956,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vybaviť predmet"
+            "value" : "Nasadiť predmet"
           }
         },
         "sv" : {
@@ -1968,25 +1968,25 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ใช้อุปกรณ์"
+            "value" : "สวมใส่อุปกรณ์"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Eşyayı Ekle"
+            "value" : "Eşyayı Kuşan"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Надягнути предмет"
+            "value" : "Екіпірувати предмет"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trang Bị Vật Phẩm"
+            "value" : "Trang bị vật phẩm"
           }
         },
         "zh-Hans" : {
@@ -2027,7 +2027,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "LLuitar"
+            "value" : "Lluitar"
           }
         },
         "cs" : {
@@ -2087,7 +2087,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Taisteluun"
+            "value" : "Taistele"
           }
         },
         "fr" : {
@@ -2105,7 +2105,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "נלחם"
+            "value" : "הילחם"
           }
         },
         "hi" : {
@@ -2195,7 +2195,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bătaie"
+            "value" : "Luptă"
           }
         },
         "ru" : {
@@ -2290,13 +2290,13 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Find Modstander"
+            "value" : "Find modstander"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gegner Finden"
+            "value" : "Gegner finden"
           }
         },
         "el" : {
@@ -2362,13 +2362,13 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "प्रतिद्वंधी खोजें"
+            "value" : "प्रतिद्वंद्वी खोजें"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pronađi Protivnika"
+            "value" : "Pronađi protivnika"
           }
         },
         "hu" : {
@@ -2488,7 +2488,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tìm Đối Thủ"
+            "value" : "Tìm đối thủ"
           }
         },
         "zh-Hans" : {
@@ -2506,7 +2506,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "篩選"
+            "value" : "尋找對手"
           }
         }
       }
@@ -2529,7 +2529,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rendició"
+            "value" : "Abandonar"
           }
         },
         "cs" : {
@@ -2583,7 +2583,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rendir"
+            "value" : "Rendirse"
           }
         },
         "fi" : {
@@ -2661,7 +2661,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tinggalkan"
+            "value" : "Menyerah Kalah"
           }
         },
         "nb" : {
@@ -2709,7 +2709,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vzdanie sa"
+            "value" : "Vzdať sa"
           }
         },
         "sv" : {
@@ -2757,7 +2757,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "放弃"
+            "value" : "棄權"
           }
         }
       }
@@ -2780,7 +2780,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Convida"
+            "value" : "Convidar"
           }
         },
         "cs" : {
@@ -2804,7 +2804,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Πρόσκληση"
+            "value" : "Συμμετοχή"
           }
         },
         "en" : {
@@ -2864,7 +2864,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "निमंत्रण दें"
+            "value" : "आमंत्रित करें"
           }
         },
         "hr" : {
@@ -3019,7 +3019,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "انضمام"
+            "value" : "انضم"
           }
         },
         "bg" : {
@@ -3037,7 +3037,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Připojit"
+            "value" : "Připojit se"
           }
         },
         "da" : {
@@ -3049,7 +3049,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Verbinden"
+            "value" : "Beitreten"
           }
         },
         "el" : {
@@ -3103,13 +3103,13 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Joindre"
+            "value" : "Rejoindre"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הצטרפות"
+            "value" : "הצטרף"
           }
         },
         "hi" : {
@@ -3121,7 +3121,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pristupi"
+            "value" : "Pridruži se"
           }
         },
         "hu" : {
@@ -3193,7 +3193,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aceder"
+            "value" : "Entrar"
           }
         },
         "ro" : {
@@ -3294,7 +3294,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Deltag i Udfordring"
+            "value" : "Deltag i udfordring"
           }
         },
         "de" : {
@@ -3330,13 +3330,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unirse a desafío"
+            "value" : "Unirse al desafío"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unirse al Reto"
+            "value" : "Unirse al Desafío"
           }
         },
         "fi" : {
@@ -3354,7 +3354,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Joindre le défi"
+            "value" : "Rejoindre le défi"
           }
         },
         "he" : {
@@ -3372,7 +3372,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pridruži se Izazovu"
+            "value" : "Pridruži se izazovu"
           }
         },
         "hu" : {
@@ -3402,7 +3402,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Челленджге қосылу"
+            "value" : "Сынаққа қосылу"
           }
         },
         "ko" : {
@@ -3426,7 +3426,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Doe mee aan Uitdaging"
+            "value" : "Doe mee aan de uitdaging"
           }
         },
         "pl" : {
@@ -3456,7 +3456,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Присоединиться к челленджу"
+            "value" : "Присоединиться к вызову"
           }
         },
         "sk" : {
@@ -3492,7 +3492,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tham Gia Thử Thách"
+            "value" : "Tham gia thử thách"
           }
         },
         "zh-Hans" : {
@@ -3581,7 +3581,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unirse a partida"
+            "value" : "Unirse a la partida"
           }
         },
         "es-419" : {
@@ -3605,7 +3605,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Joindre le match"
+            "value" : "Rejoindre le match"
           }
         },
         "he" : {
@@ -3623,7 +3623,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pridruži se Utakmici"
+            "value" : "Pridruži se utakmici"
           }
         },
         "hu" : {
@@ -3677,7 +3677,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Doe mee aan Wedstrijd"
+            "value" : "Doe mee aan de wedstrijd"
           }
         },
         "pl" : {
@@ -3796,19 +3796,19 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Niveau op"
+            "value" : "Level op"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Level aufsteigen"
+            "value" : "Aufsteigen"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ανάβαθμιση"
+            "value" : "Αναβάθμιση"
           }
         },
         "en" : {
@@ -3862,7 +3862,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "שדרג"
+            "value" : "עלה רמה"
           }
         },
         "hi" : {
@@ -3874,7 +3874,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Napravi napredak"
+            "value" : "Podigni razinu"
           }
         },
         "hu" : {
@@ -3892,7 +3892,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Livello Successivo"
+            "value" : "Sali di livello"
           }
         },
         "ja" : {
@@ -3916,19 +3916,19 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Naik Tingkat"
+            "value" : "Naik Tahap"
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nivå opp!"
+            "value" : "Nivå opp"
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Niveau Opschalen"
+            "value" : "Niveau omhoog"
           }
         },
         "pl" : {
@@ -3970,7 +3970,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nivå upp"
+            "value" : "Levla upp"
           }
         },
         "th" : {
@@ -4012,7 +4012,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "升级"
+            "value" : "升級"
           }
         }
       }
@@ -4029,7 +4029,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Мулти-избор"
+            "value" : "Множествен избор"
           }
         },
         "ca" : {
@@ -4059,7 +4059,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Επιλογή Πολλαπλών"
+            "value" : "Πολλαπλή Επιλογή"
           }
         },
         "en" : {
@@ -4083,7 +4083,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Seleccionar múltiples"
+            "value" : "Selección múltiple"
           }
         },
         "es-419" : {
@@ -4125,7 +4125,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Više odabira"
+            "value" : "Višestruki odabir"
           }
         },
         "hu" : {
@@ -4137,7 +4137,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pilihan Berganda"
+            "value" : "Pilih Beberapa"
           }
         },
         "it" : {
@@ -4155,7 +4155,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Көп таңдауды қосу"
+            "value" : "Көп таңдау"
           }
         },
         "ko" : {
@@ -4191,7 +4191,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Selecionar Múltiplos"
+            "value" : "Selecionar vários"
           }
         },
         "pt-PT" : {
@@ -4215,13 +4215,13 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Výber viacerých"
+            "value" : "Viacnásobný výber"
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Flera Val"
+            "value" : "Markera flera"
           }
         },
         "th" : {
@@ -4280,19 +4280,19 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Играйте сега"
+            "value" : "Играй сега"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reproduir ara"
+            "value" : "Jugar ara"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Přehrát nyní"
+            "value" : "Hrát nyní"
           }
         },
         "da" : {
@@ -4304,13 +4304,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Jetzt wiedergeben"
+            "value" : "Jetzt spielen"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Παίξτε τώρα"
+            "value" : "Παίξε τώρα"
           }
         },
         "en" : {
@@ -4340,19 +4340,19 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reproducir ahora"
+            "value" : "Jugar ahora"
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Toista nyt"
+            "value" : "Pelaa nyt"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Jouer"
+            "value" : "Jouer maintenant"
           }
         },
         "fr-CA" : {
@@ -4364,7 +4364,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "נגן כעת"
+            "value" : "שחק עכשיו"
           }
         },
         "hi" : {
@@ -4376,7 +4376,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reproduciraj odmah"
+            "value" : "Igraj odmah"
           }
         },
         "hu" : {
@@ -4388,13 +4388,13 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Putar Sekarang"
+            "value" : "Main Sekarang"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Riproduci Ora"
+            "value" : "Gioca ora"
           }
         },
         "ja" : {
@@ -4412,13 +4412,13 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "지금 재생하기"
+            "value" : "지금 플레이"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mainkan Sekarang"
+            "value" : "Main Sekarang"
           }
         },
         "nb" : {
@@ -4430,19 +4430,19 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Speel nu af"
+            "value" : "Nu spelen"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Odtwarzaj teraz"
+            "value" : "Graj teraz"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reproduzir Agora"
+            "value" : "Jogar Agora"
           }
         },
         "pt-PT" : {
@@ -4454,19 +4454,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Jucați acum"
+            "value" : "Joacă acum"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Воспроизвести сейчас"
+            "value" : "Играть сейчас"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Prehrať teraz"
+            "value" : "Hrať teraz"
           }
         },
         "sv" : {
@@ -4490,7 +4490,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Відтворити"
+            "value" : "Грати зараз"
           }
         },
         "vi" : {
@@ -4508,13 +4508,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "立即播放"
+            "value" : "立即遊玩"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "立即播放"
+            "value" : "立即遊玩"
           }
         }
       }
@@ -4555,7 +4555,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "üben"
+            "value" : "Üben"
           }
         },
         "el" : {
@@ -4603,7 +4603,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pratiquer"
+            "value" : "S'entraîner"
           }
         },
         "fr-CA" : {
@@ -4645,19 +4645,19 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pratica"
+            "value" : "Esercitati"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "スキルやテクニックを練習する"
+            "value" : "練習"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Тәжірибе"
+            "value" : "Жаттығу"
           }
         },
         "ko" : {
@@ -4669,7 +4669,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Amal"
+            "value" : "Berlatih"
           }
         },
         "nb" : {
@@ -4711,7 +4711,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Практиковать"
+            "value" : "Тренироваться"
           }
         },
         "sk" : {
@@ -4741,7 +4741,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Практикувати"
+            "value" : "Тренуватися"
           }
         },
         "vi" : {
@@ -4800,7 +4800,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rematch"
+            "value" : "Omkamp"
           }
         },
         "de" : {
@@ -4860,13 +4860,13 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Re-match"
+            "value" : "Revanche"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "תיקו חוזר"
+            "value" : "משחק חוזר"
           }
         },
         "hi" : {
@@ -4878,7 +4878,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Revanširaj"
+            "value" : "Revanš"
           }
         },
         "hu" : {
@@ -4896,7 +4896,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Partita di ritorno"
+            "value" : "Rivincita"
           }
         },
         "ja" : {
@@ -4908,7 +4908,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Қайта матч"
+            "value" : "Реванш"
           }
         },
         "ko" : {
@@ -4920,13 +4920,13 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ulang Pertandingan"
+            "value" : "Ulang Perlawanan"
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rematch"
+            "value" : "Omkamp"
           }
         },
         "nl" : {
@@ -4950,7 +4950,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Revanche"
+            "value" : "Desforra"
           }
         },
         "ro" : {
@@ -4962,19 +4962,19 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Встретиться снова"
+            "value" : "Реванш"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rematch"
+            "value" : "Odveta"
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rematch"
+            "value" : "Revansch"
           }
         },
         "th" : {
@@ -5004,7 +5004,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "复赛"
+            "value" : "重赛"
           }
         },
         "zh-Hant" : {
@@ -5016,7 +5016,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "再賽"
+            "value" : "重賽"
           }
         }
       }
@@ -5039,7 +5039,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Informar del jugador"
+            "value" : "Denunciar jugador"
           }
         },
         "cs" : {
@@ -5087,7 +5087,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reportar jugador"
+            "value" : "Denunciar jugador"
           }
         },
         "es-419" : {
@@ -5135,7 +5135,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Játékos Jelentése"
+            "value" : "Játékos jelentése"
           }
         },
         "id" : {
@@ -5147,7 +5147,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Segnala Giocatore"
+            "value" : "Segnala giocatore"
           }
         },
         "ja" : {
@@ -5195,13 +5195,13 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reportar Jogador"
+            "value" : "Denunciar Jogador"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reportar jogador"
+            "value" : "Denunciar jogador"
           }
         },
         "ro" : {
@@ -5213,7 +5213,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сообщить о игроке"
+            "value" : "Пожаловаться на игрока"
           }
         },
         "sk" : {
@@ -5249,7 +5249,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Báo cáo Người chơi"
+            "value" : "Báo cáo người chơi"
           }
         },
         "zh-Hans" : {
@@ -5261,7 +5261,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "舉報玩家"
+            "value" : "檢舉玩家"
           }
         },
         "zh-HK" : {
@@ -5284,7 +5284,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Възстанови се"
+            "value" : "Възроди се"
           }
         },
         "ca" : {
@@ -5296,7 +5296,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Obnovit"
+            "value" : "Znovu se objevit"
           }
         },
         "da" : {
@@ -5314,7 +5314,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Επαναδημιουργία"
+            "value" : "Αναγέννηση"
           }
         },
         "en" : {
@@ -5350,7 +5350,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Palauta eloon"
+            "value" : "Herää henkiin"
           }
         },
         "fr" : {
@@ -5368,7 +5368,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "חדוש"
+            "value" : "הופע מחדש"
           }
         },
         "hi" : {
@@ -5386,7 +5386,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Újraélesztés"
+            "value" : "Újraéledés"
           }
         },
         "id" : {
@@ -5398,7 +5398,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ricrea"
+            "value" : "Rinasci"
           }
         },
         "ja" : {
@@ -5410,13 +5410,13 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Тірілту"
+            "value" : "Қайта тірілу"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "재입장"
+            "value" : "부활"
           }
         },
         "ms" : {
@@ -5440,7 +5440,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wskrześ"
+            "value" : "Odrodź się"
           }
         },
         "pt-BR" : {
@@ -5458,19 +5458,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reîncarcă"
+            "value" : "Reînvie"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Возродить"
+            "value" : "Возродиться"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Znovuzrodiť"
+            "value" : "Znovuzrodiť sa"
           }
         },
         "sv" : {
@@ -5488,13 +5488,13 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tekrar Doğ"
+            "value" : "Yeniden Doğ"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Відродити"
+            "value" : "Відродитися"
           }
         },
         "vi" : {
@@ -5506,7 +5506,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "重新生成"
+            "value" : "重生"
           }
         },
         "zh-Hant" : {
@@ -5559,7 +5559,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Neustarten"
+            "value" : "Neu starten"
           }
         },
         "el" : {
@@ -5631,7 +5631,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ponovno uključi"
+            "value" : "Ponovno pokreni"
           }
         },
         "hu" : {
@@ -5655,7 +5655,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "再起動"
+            "value" : "リスタート"
           }
         },
         "kk" : {
@@ -5667,7 +5667,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "재시동"
+            "value" : "재시작"
           }
         },
         "ms" : {
@@ -5685,7 +5685,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Herstart"
+            "value" : "Opnieuw starten"
           }
         },
         "pl" : {
@@ -5709,13 +5709,13 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reporniți"
+            "value" : "Repornește"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Перезагрузить"
+            "value" : "Перезапустить"
           }
         },
         "sk" : {
@@ -5733,7 +5733,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เริ่มการทำงานเครื่องใหม่"
+            "value" : "เริ่มใหม่"
           }
         },
         "tr" : {
@@ -5757,7 +5757,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "重新启动"
+            "value" : "重新开始"
           }
         },
         "zh-Hant" : {
@@ -5960,7 +5960,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Continua"
+            "value" : "Continuă"
           }
         },
         "ru" : {
@@ -6020,7 +6020,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "恢復"
+            "value" : "繼續"
           }
         }
       }
@@ -6103,7 +6103,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ohita alku"
+            "value" : "Ohita opetusohjelma"
           }
         },
         "fr" : {
@@ -6217,7 +6217,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Пропустить вводное видео"
+            "value" : "Пропустить вступление"
           }
         },
         "sk" : {
@@ -6253,7 +6253,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bỏ Qua Giới Thiệu"
+            "value" : "Bỏ qua giới thiệu"
           }
         },
         "zh-Hans" : {
@@ -6282,7 +6282,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تخطي الدرس"
+            "value" : "تخطي البرنامج التعليمي"
           }
         },
         "bg" : {
@@ -6318,7 +6318,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Παράκαμψη Μάθημα"
+            "value" : "Παράλειψη Εκμάθησης"
           }
         },
         "en" : {
@@ -6390,7 +6390,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Oktatóanyag Kihagyása"
+            "value" : "Útmutató kihagyása"
           }
         },
         "id" : {
@@ -6438,7 +6438,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sla Tutorial Over"
+            "value" : "Tutorial overslaan"
           }
         },
         "pl" : {
@@ -6462,7 +6462,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saltă tutorialul"
+            "value" : "Sari peste tutorial"
           }
         },
         "ru" : {
@@ -6486,7 +6486,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ข้ามบทเรียน"
+            "value" : "ข้ามบทแนะนำ"
           }
         },
         "tr" : {
@@ -6504,7 +6504,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bỏ Qua Hướng Dẫn"
+            "value" : "Bỏ qua hướng dẫn"
           }
         },
         "zh-Hans" : {
@@ -6522,7 +6522,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "跳過教程"
+            "value" : "跳過教學"
           }
         }
       }
@@ -6593,7 +6593,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Espectar"
+            "value" : "Observar"
           }
         },
         "es-419" : {
@@ -6605,13 +6605,13 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Katsella"
+            "value" : "Katso"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Spectateur"
+            "value" : "Observer"
           }
         },
         "fr-CA" : {
@@ -6641,7 +6641,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nézőként részt venni"
+            "value" : "Néző mód"
           }
         },
         "id" : {
@@ -6653,7 +6653,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Spetta"
+            "value" : "Assisti"
           }
         },
         "ja" : {
@@ -6808,7 +6808,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Overgiv"
+            "value" : "Overgiv dig"
           }
         },
         "de" : {
@@ -6844,7 +6844,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rendir"
+            "value" : "Rendirse"
           }
         },
         "es-419" : {
@@ -6916,7 +6916,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Тапсыру"
+            "value" : "Берілу"
           }
         },
         "ko" : {
@@ -6934,7 +6934,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Overgi"
+            "value" : "Overgi deg"
           }
         },
         "nl" : {
@@ -6946,7 +6946,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zrzuć broń"
+            "value" : "Poddaj się"
           }
         },
         "pt-BR" : {
@@ -7006,7 +7006,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đầu Hàng"
+            "value" : "Đầu hàng"
           }
         },
         "zh-Hans" : {
@@ -7047,7 +7047,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rastrejar progressos"
+            "value" : "Fer seguiment del progrés"
           }
         },
         "cs" : {
@@ -7059,7 +7059,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Spor Fremskridt"
+            "value" : "Spor fremskridt"
           }
         },
         "de" : {
@@ -7071,7 +7071,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Παρακολουθήστε την Πρόοδο"
+            "value" : "Παρακολούθησε την Πρόοδο"
           }
         },
         "en" : {
@@ -7095,7 +7095,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rastrear Progreso"
+            "value" : "Seguir el progreso"
           }
         },
         "es-419" : {
@@ -7155,7 +7155,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tieni Traccia del Progresso"
+            "value" : "Tieni traccia dei progressi"
           }
         },
         "ja" : {
@@ -7257,7 +7257,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Theo Dõi Tiến Độ"
+            "value" : "Theo dõi tiến độ"
           }
         },
         "zh-Hans" : {
@@ -7370,13 +7370,13 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entraîner"
+            "value" : "S'entraîner"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "אמן"
+            "value" : "התאמן"
           }
         },
         "hi" : {
@@ -7537,13 +7537,13 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "دليل الاستخدام"
+            "value" : "البرنامج التعليمي"
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ръководство"
+            "value" : "Урок"
           }
         },
         "ca" : {
@@ -7555,7 +7555,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Návod"
+            "value" : "Tutoriál"
           }
         },
         "da" : {
@@ -7669,7 +7669,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Оқулық"
+            "value" : "Нұсқаулық"
           }
         },
         "ko" : {
@@ -7723,7 +7723,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Учебник"
+            "value" : "Обучение"
           }
         },
         "sk" : {
@@ -7735,13 +7735,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Handledningsprogram"
+            "value" : "Handledning"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "แนะนำ"
+            "value" : "บทแนะนำ"
           }
         },
         "tr" : {
@@ -7753,7 +7753,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Посібник"
+            "value" : "Навчання"
           }
         },
         "vi" : {
@@ -7777,7 +7777,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "教程"
+            "value" : "教學"
           }
         }
       }
@@ -7806,7 +7806,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Upgradovat"
+            "value" : "Vylepšit"
           }
         },
         "da" : {
@@ -7818,7 +7818,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abo kündigen"
+            "value" : "Verbessern"
           }
         },
         "el" : {
@@ -7866,7 +7866,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mettre à niveau"
+            "value" : "Améliorer"
           }
         },
         "fr-CA" : {
@@ -7878,7 +7878,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "‏שדרג"
+            "value" : "שדרג"
           }
         },
         "hi" : {
@@ -7896,7 +7896,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Frissítés"
+            "value" : "Fejlesztés"
           }
         },
         "id" : {
@@ -7908,7 +7908,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aggiorna"
+            "value" : "Migliora"
           }
         },
         "ja" : {
@@ -7944,19 +7944,19 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Werk bij"
+            "value" : "Upgraden"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zmień pakiet"
+            "value" : "Ulepsz"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Atualizar"
+            "value" : "Melhorar"
           }
         },
         "pt-PT" : {
@@ -7968,13 +7968,13 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Actualizați"
+            "value" : "Îmbunătățește"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Обновить"
+            "value" : "Улучшить"
           }
         },
         "sk" : {
@@ -8039,7 +8039,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "استخدم القوة"
+            "value" : "استخدم التعزيز"
           }
         },
         "bg" : {
@@ -8075,7 +8075,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Χρησιμοποιήστε Power-Up"
+            "value" : "Χρησιμοποίησε Power-Up"
           }
         },
         "en" : {
@@ -8099,7 +8099,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Usar Power-Up"
+            "value" : "Usar potenciador"
           }
         },
         "es-419" : {
@@ -8111,25 +8111,25 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Käytä voimanostoa"
+            "value" : "Käytä tehostetta"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Utiliser le boost"
+            "value" : "Utiliser le bonus"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Utiliser le boost"
+            "value" : "Utiliser le bonus"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "השתמש באופרציה"
+            "value" : "השתמש בפאוור-אפ"
           }
         },
         "hi" : {
@@ -8141,7 +8141,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Upotrijebi bonus"
+            "value" : "Upotrijebi pojačanje"
           }
         },
         "hu" : {
@@ -8183,7 +8183,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gunakan Kuasa-Up"
+            "value" : "Gunakan Power-Up"
           }
         },
         "nb" : {
@@ -8201,7 +8201,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Użyj bonusu"
+            "value" : "Użyj wzmocnienia"
           }
         },
         "pt-BR" : {
@@ -8243,7 +8243,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ใช้พาวเวอร์อัพ"
+            "value" : "ใช้พาวเวอร์อัป"
           }
         },
         "tr" : {
@@ -8261,7 +8261,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sử Dụng Sức Mạnh Tạm Thời"
+            "value" : "Sử dụng sức mạnh tạm thời"
           }
         },
         "zh-Hans" : {
@@ -8302,7 +8302,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Watch"
+            "value" : "Veure"
           }
         },
         "cs" : {
@@ -8326,7 +8326,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Watch"
+            "value" : "Παρακολούθηση"
           }
         },
         "en" : {
@@ -8404,7 +8404,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Watch"
+            "value" : "Tonton"
           }
         },
         "it" : {
@@ -8530,7 +8530,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Watch"
+            "value" : "觀看"
           }
         }
       }
@@ -8565,7 +8565,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bedrifter"
+            "value" : "Præstationer"
           }
         },
         "de" : {
@@ -8619,13 +8619,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Réalisations"
+            "value" : "Succès"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Réalisations"
+            "value" : "Succès"
           }
         },
         "he" : {
@@ -8661,13 +8661,13 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Risultati"
+            "value" : "Obiettivi"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "達成項目"
+            "value" : "実績"
           }
         },
         "kk" : {
@@ -8745,7 +8745,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ผลสำเร็จ"
+            "value" : "ความสำเร็จ"
           }
         },
         "tr" : {
@@ -8894,7 +8894,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bojni Pass"
+            "value" : "Bojna propusnica"
           }
         },
         "hu" : {
@@ -8912,7 +8912,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pass Battaglia"
+            "value" : "Pass battaglia"
           }
         },
         "ja" : {
@@ -8924,7 +8924,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Батл пропускасы"
+            "value" : "Жауынгерлік абонемент"
           }
         },
         "ko" : {
@@ -8936,7 +8936,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pass Pertempuran"
+            "value" : "Pas Pertempuran"
           }
         },
         "nb" : {
@@ -8954,7 +8954,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Przesunięcie bitwy"
+            "value" : "Przepustka bojowa"
           }
         },
         "pt-BR" : {
@@ -8972,7 +8972,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bilet de Bătălie"
+            "value" : "Battle Pass"
           }
         },
         "ru" : {
@@ -9008,13 +9008,13 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Пропуск на битву"
+            "value" : "Бойовий пропуск"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Thẻ Chiến Đấu"
+            "value" : "Thẻ chiến đấu"
           }
         },
         "zh-Hans" : {
@@ -9032,7 +9032,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "挑戰通行證"
+            "value" : "戰鬥通行證"
           }
         }
       }
@@ -9169,13 +9169,13 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "バトル統計"
+            "value" : "対戦成績"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Соғыс статистикасы"
+            "value" : "Шайқас статистикасы"
           }
         },
         "ko" : {
@@ -9283,7 +9283,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "战斗统计"
+            "value" : "戰鬥統計"
           }
         }
       }
@@ -9504,7 +9504,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zorluklar"
+            "value" : "Meydan Okumalar"
           }
         },
         "uk" : {
@@ -9534,7 +9534,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "挑战"
+            "value" : "挑戰"
           }
         }
       }
@@ -9545,37 +9545,37 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "أحرف"
+            "value" : "شخصيات"
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Символи"
+            "value" : "Персонажи"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caràcters"
+            "value" : "Personatges"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Znaky"
+            "value" : "Postavy"
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tegn"
+            "value" : "Figurer"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zeichen"
+            "value" : "Charaktere"
           }
         },
         "el" : {
@@ -9605,49 +9605,49 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caracteres"
+            "value" : "Personajes"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caracteres"
+            "value" : "Personajes"
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Merkit"
+            "value" : "Hahmot"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caractères"
+            "value" : "Personnages"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caractères"
+            "value" : "Personnages"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "תווים"
+            "value" : "דמויות"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "वर्ण"
+            "value" : "पात्र"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Znakovi"
+            "value" : "Likovi"
           }
         },
         "hu" : {
@@ -9665,91 +9665,91 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caratteri"
+            "value" : "Personaggi"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "文字"
+            "value" : "キャラクター"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Таңбалар"
+            "value" : "Кейіпкерлер"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "문자"
+            "value" : "캐릭터"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aksara"
+            "value" : "Watak"
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tegn"
+            "value" : "Figurer"
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tekens"
+            "value" : "Personages"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Znaki"
+            "value" : "Postacie"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caracteres"
+            "value" : "Personagens"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caracteres"
+            "value" : "Personagens"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caractere"
+            "value" : "Personaje"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Символы"
+            "value" : "Персонажи"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Znaky"
+            "value" : "Postavy"
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tecken"
+            "value" : "Karaktärer"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "อักขระ"
+            "value" : "ตัวละคร"
           }
         },
         "tr" : {
@@ -9761,31 +9761,31 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Символи"
+            "value" : "Персонажі"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Các ký tự"
+            "value" : "Nhân vật"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "字符"
+            "value" : "角色"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "字元"
+            "value" : "角色"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "字元"
+            "value" : "角色"
           }
         }
       }
@@ -9886,7 +9886,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "סטטיסטיקות דמויות"
+            "value" : "סטטיסטיקות דמות"
           }
         },
         "hi" : {
@@ -9922,13 +9922,13 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "キャラクター統計"
+            "value" : "キャラクターステータス"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Таңба статистикасы"
+            "value" : "Кейіпкер статистикасы"
           }
         },
         "ko" : {
@@ -9952,7 +9952,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Karakterstatistieken"
+            "value" : "Personagestatistieken"
           }
         },
         "pl" : {
@@ -10036,7 +10036,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "角色统计"
+            "value" : "角色統計"
           }
         }
       }
@@ -10083,7 +10083,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Νόμισμα"
+            "value" : "Νομίσματα"
           }
         },
         "en" : {
@@ -10382,7 +10382,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Devise"
+            "value" : "Monnaie"
           }
         },
         "he" : {
@@ -10651,7 +10651,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dnevne Nagrade"
+            "value" : "Dnevne nagrade"
           }
         },
         "hu" : {
@@ -10663,7 +10663,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reward Harian"
+            "value" : "Hadiah Harian"
           }
         },
         "it" : {
@@ -10675,13 +10675,13 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "日次報酬"
+            "value" : "デイリー報酬"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Күнделікті сыйақы"
+            "value" : "Күнделікті сыйақылар"
           }
         },
         "ko" : {
@@ -10747,7 +10747,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dagsbelöningar"
+            "value" : "Dagliga belöningar"
           }
         },
         "th" : {
@@ -11243,7 +11243,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Energía"
+            "value" : "Energia"
           }
         },
         "sv" : {
@@ -11338,7 +11338,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Κατάσταση Παιχνιδιού"
+            "value" : "Λειτουργία Παιχνιδιού"
           }
         },
         "en" : {
@@ -11410,7 +11410,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Játék Üzemmód"
+            "value" : "Játék üzemmód"
           }
         },
         "id" : {
@@ -11422,7 +11422,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Modalità Gioco"
+            "value" : "Modalità di gioco"
           }
         },
         "ja" : {
@@ -11500,7 +11500,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Spellägen"
+            "value" : "Spelläge"
           }
         },
         "th" : {
@@ -11524,7 +11524,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Chế độ Chơi"
+            "value" : "Chế độ chơi"
           }
         },
         "zh-Hans" : {
@@ -11565,7 +11565,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gems"
+            "value" : "Gemmes"
           }
         },
         "cs" : {
@@ -11625,7 +11625,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Portti"
+            "value" : "Jalokivet"
           }
         },
         "fr" : {
@@ -11643,7 +11643,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "אבנים יקרות"
+            "value" : "אבני חן"
           }
         },
         "hi" : {
@@ -11673,7 +11673,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gemmi"
+            "value" : "Gemme"
           }
         },
         "ja" : {
@@ -11733,7 +11733,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bijuterii"
+            "value" : "Nestemate"
           }
         },
         "ru" : {
@@ -11804,7 +11804,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "صحتي"
+            "value" : "الصحة"
           }
         },
         "bg" : {
@@ -11834,7 +11834,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Health"
+            "value" : "Gesundheit"
           }
         },
         "el" : {
@@ -11930,7 +11930,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ヘルスケア"
+            "value" : "体力"
           }
         },
         "kk" : {
@@ -11942,7 +11942,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "건강"
+            "value" : "체력"
           }
         },
         "ms" : {
@@ -12032,7 +12032,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "健康"
+            "value" : "生命值"
           }
         },
         "zh-Hant" : {
@@ -12044,7 +12044,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "健康"
+            "value" : "生命值"
           }
         }
       }
@@ -12067,7 +12067,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Màxima Puntuació"
+            "value" : "Puntuació màxima"
           }
         },
         "cs" : {
@@ -12079,13 +12079,13 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Højeste Score"
+            "value" : "Højeste score"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hochpunktzahl"
+            "value" : "Highscore"
           }
         },
         "el" : {
@@ -12157,13 +12157,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Najveći rezultat"
+            "value" : "Najbolji rezultat"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Legjobb Eredmény"
+            "value" : "Legjobb eredmény"
           }
         },
         "id" : {
@@ -12217,7 +12217,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wysoki wynik"
+            "value" : "Rekord"
           }
         },
         "pt-BR" : {
@@ -12253,7 +12253,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Högsta Poäng"
+            "value" : "Högsta poäng"
           }
         },
         "th" : {
@@ -12271,13 +12271,13 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Високий бал"
+            "value" : "Рекорд"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Điểm Cao Nhất"
+            "value" : "Điểm cao nhất"
           }
         },
         "zh-Hans" : {
@@ -12330,7 +12330,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lager"
+            "value" : "Inventar"
           }
         },
         "de" : {
@@ -12402,7 +12402,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "सूचीपत्र"
+            "value" : "इन्वेंटरी"
           }
         },
         "hr" : {
@@ -12468,7 +12468,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inwentarz"
+            "value" : "Ekwipunek"
           }
         },
         "pt-BR" : {
@@ -12504,13 +12504,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inventarie"
+            "value" : "Förråd"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "สินค้าคงคลัง"
+            "value" : "คลังไอเท็ม"
           }
         },
         "tr" : {
@@ -12528,25 +12528,25 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hàng tồn kho"
+            "value" : "Kho đồ"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "库存"
+            "value" : "背包"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "庫存"
+            "value" : "背包"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "庫存"
+            "value" : "背包"
           }
         }
       }
@@ -12665,7 +12665,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vezetői Tábla"
+            "value" : "Ranglista"
           }
         },
         "id" : {
@@ -12719,7 +12719,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tablica liderów"
+            "value" : "Ranking"
           }
         },
         "pt-BR" : {
@@ -12934,7 +12934,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "水準"
+            "value" : "レベル"
           }
         },
         "kk" : {
@@ -12946,13 +12946,13 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "수준"
+            "value" : "레벨"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Paras"
+            "value" : "Tahap"
           }
         },
         "nb" : {
@@ -12964,7 +12964,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Waterpas"
+            "value" : "Level"
           }
         },
         "pl" : {
@@ -13030,7 +13030,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mức"
+            "value" : "Cấp độ"
           }
         },
         "zh-Hans" : {
@@ -13042,13 +13042,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "水平儀"
+            "value" : "等級"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "水平儀"
+            "value" : "等級"
           }
         }
       }
@@ -13155,7 +13155,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "जीवित"
+            "value" : "जिंदगियाँ"
           }
         },
         "hr" : {
@@ -13269,7 +13269,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Haklar"
+            "value" : "Canlar"
           }
         },
         "uk" : {
@@ -13281,7 +13281,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lượt chơi"
+            "value" : "Mạng"
           }
         },
         "zh-Hans" : {
@@ -13334,7 +13334,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kampens historie"
+            "value" : "Kamphistorik"
           }
         },
         "de" : {
@@ -13370,13 +13370,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Historial de partidos"
+            "value" : "Historial de partidas"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Historial de partidos"
+            "value" : "Historial de partidas"
           }
         },
         "fi" : {
@@ -13388,7 +13388,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Historique des Matchs"
+            "value" : "Historique des matchs"
           }
         },
         "fr-CA" : {
@@ -13400,7 +13400,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "היסטוריית Matches"
+            "value" : "היסטוריית משחקים"
           }
         },
         "hi" : {
@@ -13418,7 +13418,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mérkőzés történelem"
+            "value" : "Meccstörténet"
           }
         },
         "id" : {
@@ -13544,7 +13544,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "比賽歷史"
+            "value" : "對戰紀錄"
           }
         },
         "zh-HK" : {
@@ -13585,7 +13585,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Opdrag"
+            "value" : "Missioner"
           }
         },
         "de" : {
@@ -13836,7 +13836,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Spillere Online"
+            "value" : "Spillere online"
           }
         },
         "de" : {
@@ -13914,7 +13914,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Igrači Online"
+            "value" : "Igrači online"
           }
         },
         "hu" : {
@@ -13962,7 +13962,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Spillere Online"
+            "value" : "Spillere online"
           }
         },
         "nl" : {
@@ -13974,7 +13974,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gracze Online"
+            "value" : "Gracze online"
           }
         },
         "pt-BR" : {
@@ -14010,7 +14010,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Spelare Online"
+            "value" : "Spelare online"
           }
         },
         "th" : {
@@ -14034,7 +14034,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cầu thủ trực tuyến"
+            "value" : "Người chơi trực tuyến"
           }
         },
         "zh-Hans" : {
@@ -14046,13 +14046,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在線玩家"
+            "value" : "線上玩家"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在線球員"
+            "value" : "線上玩家"
           }
         }
       }
@@ -14069,7 +14069,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Мощност"
+            "value" : "Сила"
           }
         },
         "ca" : {
@@ -14081,13 +14081,13 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Napájení"
+            "value" : "Síla"
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Strøm"
+            "value" : "Styrke"
           }
         },
         "de" : {
@@ -14123,7 +14123,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alimentación"
+            "value" : "Poder"
           }
         },
         "es-419" : {
@@ -14135,25 +14135,25 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Virta"
+            "value" : "Voima"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alimentation"
+            "value" : "Puissance"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alimentation"
+            "value" : "Puissance"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "מצב הפעלה"
+            "value" : "עוצמה"
           }
         },
         "hi" : {
@@ -14165,7 +14165,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Napajanje"
+            "value" : "Snaga"
           }
         },
         "hu" : {
@@ -14177,7 +14177,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Daya"
+            "value" : "Kekuatan"
           }
         },
         "it" : {
@@ -14189,7 +14189,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "電源"
+            "value" : "パワー"
           }
         },
         "kk" : {
@@ -14201,7 +14201,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "전원"
+            "value" : "파워"
           }
         },
         "ms" : {
@@ -14219,25 +14219,25 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stroom"
+            "value" : "Kracht"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zasilanie"
+            "value" : "Moc"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Energia"
+            "value" : "Poder"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Energia"
+            "value" : "Poder"
           }
         },
         "ro" : {
@@ -14249,25 +14249,25 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Электропитание"
+            "value" : "Сила"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Výkon"
+            "value" : "Sila"
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ström"
+            "value" : "Styrka"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "พลังงาน"
+            "value" : "พลัง"
           }
         },
         "tr" : {
@@ -14279,31 +14279,31 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Живлення"
+            "value" : "Сила"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nguồn"
+            "value" : "Sức mạnh"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "电源"
+            "value" : "力量"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "電源"
+            "value" : "力量"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "電源"
+            "value" : "力量"
           }
         }
       }
@@ -14320,7 +14320,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Квестове"
+            "value" : "Куестове"
           }
         },
         "ca" : {
@@ -14338,7 +14338,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Quests"
+            "value" : "Opgaver"
           }
         },
         "de" : {
@@ -14416,7 +14416,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Misije"
+            "value" : "Zadaci"
           }
         },
         "hu" : {
@@ -14428,7 +14428,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Misi"
+            "value" : "Quest"
           }
         },
         "it" : {
@@ -14458,7 +14458,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Misi"
+            "value" : "Pencarian"
           }
         },
         "nb" : {
@@ -14494,7 +14494,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Misiuni"
+            "value" : "Questuri"
           }
         },
         "ru" : {
@@ -14685,7 +14685,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Classifica"
+            "value" : "Rango"
           }
         },
         "ja" : {
@@ -14763,7 +14763,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rankning"
+            "value" : "Rang"
           }
         },
         "th" : {
@@ -14775,7 +14775,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sıralama"
+            "value" : "Rütbe"
           }
         },
         "uk" : {
@@ -14852,7 +14852,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Σκόρε"
+            "value" : "Σκορ"
           }
         },
         "en" : {
@@ -14906,7 +14906,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "תוצאה"
+            "value" : "ניקוד"
           }
         },
         "hi" : {
@@ -14918,7 +14918,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rezultati"
+            "value" : "Rezultat"
           }
         },
         "hu" : {
@@ -14948,7 +14948,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Нүкте"
+            "value" : "Ұпай"
           }
         },
         "ko" : {
@@ -15103,7 +15103,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ετήσιο Πακέτο"
+            "value" : "Season Pass"
           }
         },
         "en" : {
@@ -15151,7 +15151,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pass de saison"
+            "value" : "Passe de saison"
           }
         },
         "he" : {
@@ -15181,13 +15181,13 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tiket Musim"
+            "value" : "Season Pass"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pass stagione"
+            "value" : "Pass stagionale"
           }
         },
         "ja" : {
@@ -15223,7 +15223,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Seizoenskaart"
+            "value" : "Seizoenspas"
           }
         },
         "pl" : {
@@ -15247,19 +15247,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pachet de Sezon"
+            "value" : "Abonament de sezon"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сезонный абонемент"
+            "value" : "Сезонный пропуск"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sezónny preukaz"
+            "value" : "Sezónny pas"
           }
         },
         "sv" : {
@@ -15271,19 +15271,19 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "บัตรฤดูกาล"
+            "value" : "บัตรผ่านฤดูกาล"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sezon Pass"
+            "value" : "Sezon Bileti"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сезонний абонемент"
+            "value" : "Сезонний пропуск"
           }
         },
         "vi" : {
@@ -15295,7 +15295,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "季卡"
+            "value" : "赛季通行证"
           }
         },
         "zh-Hant" : {
@@ -15480,7 +15480,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zespół"
+            "value" : "Drużyna"
           }
         },
         "pt-BR" : {
@@ -15498,7 +15498,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Echipa"
+            "value" : "Echipă"
           }
         },
         "ru" : {
@@ -15593,7 +15593,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vindrate"
+            "value" : "Sejrsrate"
           }
         },
         "de" : {
@@ -15677,7 +15677,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Győzelmi Arány"
+            "value" : "Győzelmi arány"
           }
         },
         "id" : {
@@ -15701,7 +15701,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Жеңіс деңгейі"
+            "value" : "Жеңіс пайызы"
           }
         },
         "ko" : {
@@ -15749,7 +15749,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rata de Câștig"
+            "value" : "Rată de câștig"
           }
         },
         "ru" : {
@@ -15785,7 +15785,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Коефіцієнт виграшу"
+            "value" : "Відсоток перемог"
           }
         },
         "vi" : {
@@ -16083,7 +16083,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Èxit desbloquejat"
+            "value" : "Assoliment desbloquejat"
           }
         },
         "cs" : {
@@ -16161,7 +16161,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ההישג הושג"
+            "value" : "הישג נפתח"
           }
         },
         "hi" : {
@@ -16185,7 +16185,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pencapaian tercapai"
+            "value" : "Pencapaian dibuka"
           }
         },
         "it" : {
@@ -16197,7 +16197,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "達成目標が解除されました"
+            "value" : "実績を解除しました"
           }
         },
         "kk" : {
@@ -16209,7 +16209,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "업적이 잠금 해제되었습니다."
+            "value" : "업적 달성"
           }
         },
         "ms" : {
@@ -16221,7 +16221,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Prestasjon låst opp"
+            "value" : "Oppnåelse låst opp"
           }
         },
         "nl" : {
@@ -16251,7 +16251,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Deblocată"
+            "value" : "Realizare deblocată"
           }
         },
         "ru" : {
@@ -16269,19 +16269,19 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Prestationen upplåst"
+            "value" : "Prestation upplåst"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ได้รับการปลดล็อกแล้ว"
+            "value" : "ปลดล็อกความสำเร็จแล้ว"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Başarı kazanıldı"
+            "value" : "Başarı açıldı"
           }
         },
         "uk" : {
@@ -16322,7 +16322,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "لا يمكن إكمال التحدي!"
+            "value" : "اكتمل التحدي"
           }
         },
         "bg" : {
@@ -16334,7 +16334,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Repte completat."
+            "value" : "Repte completat"
           }
         },
         "cs" : {
@@ -16358,7 +16358,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η πρόκληση ολοκληρώθηκε."
+            "value" : "Η πρόκληση ολοκληρώθηκε"
           }
         },
         "en" : {
@@ -16400,7 +16400,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Enregistrement terminé."
+            "value" : "Défi terminé"
           }
         },
         "fr-CA" : {
@@ -16424,7 +16424,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Izazov je dovršen."
+            "value" : "Izazov dovršen"
           }
         },
         "hu" : {
@@ -16436,13 +16436,13 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tantangan selesai."
+            "value" : "Tantangan selesai"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sfida completata."
+            "value" : "Sfida completata"
           }
         },
         "ja" : {
@@ -16454,7 +16454,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сынақ аяқталды."
+            "value" : "Сынақ аяқталды"
           }
         },
         "ko" : {
@@ -16508,7 +16508,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Проблема выполнена."
+            "value" : "Вызов завершен"
           }
         },
         "sk" : {
@@ -16520,13 +16520,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Utmaning slutförd."
+            "value" : "Utmaning slutförd"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เสร็จสิ้นความท้าทาย."
+            "value" : "เสร็จสิ้นความท้าทาย"
           }
         },
         "tr" : {
@@ -16538,13 +16538,13 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Виклик завершено."
+            "value" : "Виклик завершено"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Thử thách đã hoàn thành."
+            "value" : "Thử thách đã hoàn thành"
           }
         },
         "zh-Hans" : {
@@ -16562,7 +16562,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "挑戰完成。"
+            "value" : "挑戰完成"
           }
         }
       }
@@ -16628,7 +16628,7 @@
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Connection Lost During Match"
+            "value" : "Connection Lost During Match."
           }
         },
         "es" : {
@@ -16676,7 +16676,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Veza izgubljena tijekom igre."
+            "value" : "Veza izgubljena tijekom utakmice."
           }
         },
         "hu" : {
@@ -16724,7 +16724,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tilkoblingen mistet under kampen."
+            "value" : "Tilkoblingen ble brutt under kampen."
           }
         },
         "nl" : {
@@ -16748,7 +16748,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ligação perdida durante o jogo."
+            "value" : "Ligação perdida durante a partida."
           }
         },
         "ro" : {
@@ -16778,7 +16778,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การเชื่อมต่อ่าหายไปในระหว่างการแข่งขัน"
+            "value" : "การเชื่อมต่อสูญหายระหว่างการแข่งขัน."
           }
         },
         "tr" : {
@@ -16808,13 +16808,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "比賽期間連接中斷。"
+            "value" : "比賽期間連線中斷。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "連接期間中斷。"
+            "value" : "對戰期間連線中斷。"
           }
         }
       }
@@ -16951,7 +16951,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "デイリーリワードが利用可能です"
+            "value" : "デイリー報酬が利用可能です"
           }
         },
         "kk" : {
@@ -16963,7 +16963,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "일일 보상이 제공됩니다."
+            "value" : "일일 보상을 받을 수 있습니다."
           }
         },
         "ms" : {
@@ -17005,7 +17005,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Recompensa zilnică disponibilă"
+            "value" : "Recompensă zilnică disponibilă"
           }
         },
         "ru" : {
@@ -17023,7 +17023,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dagsbelöningen är tillgänglig"
+            "value" : "Daglig belöning tillgänglig"
           }
         },
         "th" : {
@@ -17059,7 +17059,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "每日獎勵可用"
+            "value" : "每日獎勵可領取"
           }
         },
         "zh-HK" : {
@@ -17112,7 +17112,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η ενέργεια ανανεώθηκε."
+            "value" : "Η ενέργεια ανανεώθηκε"
           }
         },
         "en" : {
@@ -17148,7 +17148,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Energia täytetty."
+            "value" : "Energia täydennetty."
           }
         },
         "fr" : {
@@ -17160,7 +17160,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Énergie rechargée."
+            "value" : "Énergie rechargée"
           }
         },
         "he" : {
@@ -17220,7 +17220,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tenaga berjaya dipulihkan."
+            "value" : "Tenaga Dipulihkan"
           }
         },
         "nb" : {
@@ -17268,7 +17268,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Energie doplnená"
+            "value" : "Energia doplnená"
           }
         },
         "sv" : {
@@ -17292,7 +17292,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Енергія відновлена."
+            "value" : "Енергія відновлена"
           }
         },
         "vi" : {
@@ -17316,7 +17316,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "能量已補充。"
+            "value" : "能量已補充"
           }
         }
       }
@@ -17363,7 +17363,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Τέλος παιχνιδιού."
+            "value" : "Τέλος παιχνιδιού"
           }
         },
         "en" : {
@@ -17411,7 +17411,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fin de la partie."
+            "value" : "Fin de la partie"
           }
         },
         "he" : {
@@ -17471,7 +17471,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Permainan Tamat."
+            "value" : "Permainan Tamat"
           }
         },
         "nb" : {
@@ -17543,7 +17543,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Гра завершена."
+            "value" : "Гра завершена"
           }
         },
         "vi" : {
@@ -17567,7 +17567,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "比賽結束"
+            "value" : "遊戲結束"
           }
         }
       }
@@ -17590,7 +17590,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nivell complet"
+            "value" : "Nivell completat"
           }
         },
         "cs" : {
@@ -17614,7 +17614,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Επίπεδο ολοκληρωμένο."
+            "value" : "Το επίπεδο ολοκληρώθηκε"
           }
         },
         "en" : {
@@ -17626,7 +17626,7 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Level complete."
+            "value" : "Level Complete"
           }
         },
         "en-GB" : {
@@ -17710,7 +17710,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Деңгей аяқталды."
+            "value" : "Деңгей аяқталды"
           }
         },
         "ko" : {
@@ -17722,7 +17722,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tahap Selesai."
+            "value" : "Tahap Selesai"
           }
         },
         "nb" : {
@@ -17776,7 +17776,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nivå Slutförd"
+            "value" : "Nivå slutförd"
           }
         },
         "th" : {
@@ -17794,13 +17794,13 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Рівень завершено."
+            "value" : "Рівень завершено"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cấp độ hoàn thành"
+            "value" : "Cấp độ đã hoàn thành"
           }
         },
         "zh-Hans" : {
@@ -17835,13 +17835,13 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Намерена е среща."
+            "value" : "Намерен мач."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Partit Trobat"
+            "value" : "Partit trobat"
           }
         },
         "cs" : {
@@ -17865,7 +17865,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Αγώνας βρέθηκε."
+            "value" : "Βρέθηκε αγώνας"
           }
         },
         "en" : {
@@ -17877,25 +17877,25 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Match found."
+            "value" : "Match Found"
           }
         },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Match Found."
+            "value" : "Match Found"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Partido encontrado"
+            "value" : "Partida encontrada"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Partido encontrado"
+            "value" : "Partida encontrada"
           }
         },
         "fi" : {
@@ -17919,13 +17919,13 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "המשחק נמצא"
+            "value" : "נמצא משחק"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "मैच मिला।"
+            "value" : "मैच मिल गया।"
           }
         },
         "hr" : {
@@ -17949,7 +17949,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Partita trovata."
+            "value" : "Partita trovata"
           }
         },
         "ja" : {
@@ -17961,19 +17961,19 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Матч табылды."
+            "value" : "Матч табылды"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "경기가 발견되었습니다."
+            "value" : "매치를 찾았습니다."
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pertandingan Ditemui"
+            "value" : "Perlawanan Ditemui"
           }
         },
         "nb" : {
@@ -17991,7 +17991,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Znaleziono mecz."
+            "value" : "Znaleziono mecz"
           }
         },
         "pt-BR" : {
@@ -18045,13 +18045,13 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Матч знайдено."
+            "value" : "Матч знайдено"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đã tìm thấy trận đấu."
+            "value" : "Đã tìm thấy trận đấu"
           }
         },
         "zh-Hans" : {
@@ -18063,7 +18063,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "比賽找到對手。"
+            "value" : "已找到對手。"
           }
         },
         "zh-HK" : {
@@ -18086,7 +18086,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Срещата скоро започва."
+            "value" : "Мачът скоро започва."
           }
         },
         "ca" : {
@@ -18098,7 +18098,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zápas se brzy začne"
+            "value" : "Zápas brzy začne"
           }
         },
         "da" : {
@@ -18116,7 +18116,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ο αγώνας ξεκινά σύντομα."
+            "value" : "Ο αγώνας ξεκινά σύντομα"
           }
         },
         "en" : {
@@ -18128,25 +18128,25 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Match starting soon."
+            "value" : "Match Starting Soon"
           }
         },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Match Starting Soon."
+            "value" : "Match Starting Soon"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "El partido está comenzando pronto"
+            "value" : "La partida comienza pronto"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Partido comenzando pronto"
+            "value" : "La partida comenzará pronto"
           }
         },
         "fi" : {
@@ -18158,7 +18158,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Match bientôt en cours."
+            "value" : "Le match commence bientôt"
           }
         },
         "fr-CA" : {
@@ -18194,13 +18194,13 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pertandingan segera dimulai."
+            "value" : "Pertandingan segera dimulai"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Partita inizio imminente"
+            "value" : "La partita sta per iniziare"
           }
         },
         "ja" : {
@@ -18212,7 +18212,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Матч жақында басталады."
+            "value" : "Матч жақында басталады"
           }
         },
         "ko" : {
@@ -18224,7 +18224,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pertandingan Bermula Tidak Lama Lagi"
+            "value" : "Perlawanan Bermula Tidak Lama Lagi"
           }
         },
         "nb" : {
@@ -18242,7 +18242,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mecz wkrótce się zacznie."
+            "value" : "Mecz wkrótce się zacznie"
           }
         },
         "pt-BR" : {
@@ -18296,7 +18296,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Матч незабаром почнеться."
+            "value" : "Матч незабаром почнеться"
           }
         },
         "vi" : {
@@ -18331,13 +18331,13 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "درجة عالية جديدة"
+            "value" : "أعلى نتيجة جديدة"
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ново високо постижение!"
+            "value" : "Нов най-добър резултат!"
           }
         },
         "ca" : {
@@ -18379,13 +18379,13 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "New high score."
+            "value" : "New High Score"
           }
         },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "New High Score."
+            "value" : "New High Score"
           }
         },
         "es" : {
@@ -18445,7 +18445,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rekor tinggi baru"
+            "value" : "Skor tertinggi baru"
           }
         },
         "it" : {
@@ -18463,7 +18463,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Жаңа рекорд орнатылды."
+            "value" : "Жаңа рекорд орнатылды"
           }
         },
         "ko" : {
@@ -18493,13 +18493,13 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nowy rekord."
+            "value" : "Nowy rekord"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nova Pontuação Alta"
+            "value" : "Novo recorde"
           }
         },
         "pt-PT" : {
@@ -18511,7 +18511,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nou record personal."
+            "value" : "Record personal nou."
           }
         },
         "ru" : {
@@ -18529,13 +18529,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ny hög poäng."
+            "value" : "Nytt rekord"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "คะแนนสูงสุดใหม่."
+            "value" : "คะแนนสูงสุดใหม่"
           }
         },
         "tr" : {
@@ -18547,19 +18547,19 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Новий рекорд!"
+            "value" : "Новий рекорд"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Điểm cao mới."
+            "value" : "Điểm cao mới"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "新高分。"
+            "value" : "新高分"
           }
         },
         "zh-Hant" : {
@@ -18630,13 +18630,13 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "New level unlocked."
+            "value" : "New level unlocked"
           }
         },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "New level unlocked."
+            "value" : "New level unlocked"
           }
         },
         "es" : {
@@ -18696,7 +18696,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tingkat baru terbuka."
+            "value" : "Level baru dibuka"
           }
         },
         "it" : {
@@ -18720,7 +18720,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "새 단계가 잠금 해제되었습니다."
+            "value" : "새 레벨이 열렸습니다."
           }
         },
         "ms" : {
@@ -18780,13 +18780,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nivå upplåst"
+            "value" : "Ny nivå upplåst"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ปลดล็อคระดับใหม่แล้ว."
+            "value" : "ปลดล็อกระดับใหม่แล้ว"
           }
         },
         "tr" : {
@@ -18810,7 +18810,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "新关卡已解锁。"
+            "value" : "新关卡已解锁"
           }
         },
         "zh-Hant" : {
@@ -18839,13 +18839,13 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Недостатъчно валута"
+            "value" : "Нямаш достатъчно валута"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "No hi ha suficient moneda."
+            "value" : "No hi ha suficient moneda"
           }
         },
         "cs" : {
@@ -18869,7 +18869,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Όχι αρκετά νομίσματα"
+            "value" : "Δεν υπάρχει αρκετό νόμισμα"
           }
         },
         "en" : {
@@ -18881,7 +18881,7 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Not enough currency."
+            "value" : "Not Enough Currency"
           }
         },
         "en-GB" : {
@@ -18893,7 +18893,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "No hay moneda suficiente."
+            "value" : "Fondos insuficientes"
           }
         },
         "es-419" : {
@@ -18917,13 +18917,13 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pas assez de fonds."
+            "value" : "Monnaie insuffisante"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "אין מספיק מטבע."
+            "value" : "אין מספיק מטבעות"
           }
         },
         "hi" : {
@@ -18935,25 +18935,25 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nedovoljno sredstava."
+            "value" : "Nedovoljno sredstava"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nincs elég valuta."
+            "value" : "Nincs elég pénz."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Jumlah mata uang tidak mencukupi."
+            "value" : "Jumlah mata uang tidak mencukupi"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Non c'è sufficiente valuta."
+            "value" : "Non hai abbastanza valuta"
           }
         },
         "ja" : {
@@ -18965,7 +18965,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ақша жеткіліксіз."
+            "value" : "Ақша жеткіліксіз"
           }
         },
         "ko" : {
@@ -18995,13 +18995,13 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Niewystarczająca ilość waluty."
+            "value" : "Niewystarczająca ilość waluty"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Moeda insuficiente."
+            "value" : "Moedas insuficientes"
           }
         },
         "pt-PT" : {
@@ -19031,13 +19031,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inte tillräckligt med valuta."
+            "value" : "Inte tillräckligt med valuta"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เงินไม่เพียงพอ."
+            "value" : "เงินไม่เพียงพอ"
           }
         },
         "tr" : {
@@ -19049,13 +19049,13 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Недостатньо валюти."
+            "value" : "Недостатньо валюти"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Không đủ tiền."
+            "value" : "Không đủ tiền"
           }
         },
         "zh-Hans" : {
@@ -19073,7 +19073,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "貨幣不足。"
+            "value" : "貨幣不足"
           }
         }
       }
@@ -19084,19 +19084,19 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تم فصل المنافس."
+            "value" : "انقطع اتصال الخصم."
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Опонентът се е разкачил"
+            "value" : "Противникът се разкачи"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Oponent desconnectat."
+            "value" : "Oponent desconnectat"
           }
         },
         "cs" : {
@@ -19108,19 +19108,19 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Modstander afbrudt."
+            "value" : "Modstanderen afbrudt."
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gegner:in getrennt."
+            "value" : "Gegner:in hat die Verbindung getrennt."
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ο αντίπαλος αποσυνδέθηκε."
+            "value" : "Ο αντίπαλος αποσυνδέθηκε"
           }
         },
         "en" : {
@@ -19138,7 +19138,7 @@
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Opponent disconnected."
+            "value" : "Opponent disconnected"
           }
         },
         "es" : {
@@ -19168,7 +19168,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adversaire déconnecté."
+            "value" : "Adversaire déconnecté"
           }
         },
         "he" : {
@@ -19186,7 +19186,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Protivnik je prekinuo vezu."
+            "value" : "Protivnik je prekinuo vezu"
           }
         },
         "hu" : {
@@ -19198,43 +19198,43 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lawan terputus."
+            "value" : "Lawan terputus"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Avversario disconnesso."
+            "value" : "Avversario disconnesso"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "対戦相手が切断しました。"
+            "value" : "対戦相手が切断されました。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Серіктес байланысы үзілді."
+            "value" : "Қарсылас байланысы үзілді"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "상대방이 연결이 끊겼습니다."
+            "value" : "상대방의 연결이 끊겼습니다."
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pihak lawan terputus."
+            "value" : "Pihak lawan terputus"
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Motstander frakoblet."
+            "value" : "Motstanderen koblet fra."
           }
         },
         "nl" : {
@@ -19246,7 +19246,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Przeciwnik rozłączony."
+            "value" : "Przeciwnik rozłączony"
           }
         },
         "pt-BR" : {
@@ -19264,13 +19264,13 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Oponent deconectat."
+            "value" : "Oponentul s-a deconectat."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Противник отключен"
+            "value" : "Противник отключился"
           }
         },
         "sk" : {
@@ -19282,49 +19282,49 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Motståndare frånkopplad."
+            "value" : "Motståndaren frånkopplad"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ฝ่ายตรงข้ามได้ตัดการเชื่อมต่อ."
+            "value" : "ฝ่ายตรงข้ามได้ตัดการเชื่อมต่อ"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rakip bağlantısı kesildi."
+            "value" : "Rakibin bağlantısı kesildi."
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Суперник відключився."
+            "value" : "Суперник відключився"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đối thủ đã ngắt kết nối."
+            "value" : "Đối thủ đã ngắt kết nối"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "这操作失败。"
+            "value" : "对手已断开连接"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "對手已斷開連接。"
+            "value" : "對手已斷線。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "對手已斷線。"
+            "value" : "對手已斷線"
           }
         }
       }
@@ -19347,7 +19347,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tutorial complet"
+            "value" : "Tutorial completat"
           }
         },
         "cs" : {
@@ -19371,7 +19371,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Οδηγός ολοκληρωμένος"
+            "value" : "Η εκμάθηση ολοκληρώθηκε"
           }
         },
         "en" : {
@@ -19383,13 +19383,13 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tutorial Complete."
+            "value" : "Tutorial Complete"
           }
         },
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tutorial complete."
+            "value" : "Tutorial complete"
           }
         },
         "es" : {
@@ -19407,7 +19407,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Oppitunti suoritettu."
+            "value" : "Opetusohjelma suoritettu."
           }
         },
         "fr" : {
@@ -19419,7 +19419,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tutoriel terminé."
+            "value" : "Tutoriel terminé"
           }
         },
         "he" : {
@@ -19443,7 +19443,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Oktatóanyag befejezve"
+            "value" : "Útmutató befejezve"
           }
         },
         "id" : {
@@ -19485,7 +19485,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Opplæring fullført"
+            "value" : "Veiledning fullført"
           }
         },
         "nl" : {
@@ -19497,7 +19497,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tutorial ukończony."
+            "value" : "Samouczek ukończony"
           }
         },
         "pt-BR" : {
@@ -19521,7 +19521,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Учебное пособие завершено"
+            "value" : "Обучение завершено"
           }
         },
         "sk" : {
@@ -19533,13 +19533,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tutorial slutförd"
+            "value" : "Handledning slutförd"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ทำการสอนเสร็จสิ้นแล้ว"
+            "value" : "บทแนะนำเสร็จสิ้นแล้ว"
           }
         },
         "tr" : {
@@ -19551,13 +19551,13 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Навчання завершене."
+            "value" : "Навчання завершене"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hướng dẫn đã hoàn thành."
+            "value" : "Hướng dẫn đã hoàn thành"
           }
         },
         "zh-Hans" : {
@@ -19575,7 +19575,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "教程完成"
+            "value" : "教學完成"
           }
         }
       }
@@ -19593,7 +19593,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Победа! Вие спечелихте мача!"
+            "value" : "Победа! Ти спечели мача!"
           }
         },
         "ca" : {
@@ -19605,7 +19605,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vítězství! Vyhráli jste zápas!"
+            "value" : "Vítězství! Vyhrál/a jsi zápas!"
           }
         },
         "da" : {
@@ -19623,7 +19623,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Νίκη! Κερδίσατε τον αγώνα!"
+            "value" : "Νίκη! Κέρδισες τον αγώνα!"
           }
         },
         "en" : {
@@ -19647,13 +19647,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Victoria! ¡Has ganado el partido!"
+            "value" : "¡Victoria! ¡Has ganado la partida!"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Victoria! ¡Ganaste el partido!"
+            "value" : "¡Victoria! ¡Ganaste la partida!"
           }
         },
         "fi" : {
@@ -19677,7 +19677,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ניצחון! אתה ניצחת במשחק!"
+            "value" : "ניצחון! ניצחת במשחק!"
           }
         },
         "hi" : {
@@ -19689,7 +19689,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pobjeda! Pobijedili ste u meču!"
+            "value" : "Pobjeda! Pobijedio/pobijedila si u utakmici!"
           }
         },
         "hu" : {
@@ -19701,7 +19701,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kemenangan! Anda memenangkan pertandingan!"
+            "value" : "Kemenangan! Kamu memenangkan pertandingan!"
           }
         },
         "it" : {
@@ -19725,7 +19725,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "경기를 이겼습니다!"
+            "value" : "승리! 경기를 이겼습니다!"
           }
         },
         "ms" : {
@@ -19761,7 +19761,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vitória! Ganhaste o jogo!"
+            "value" : "Vitória! Ganhaste a partida!"
           }
         },
         "ro" : {
@@ -19773,7 +19773,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Победа! Ты выиграл матч!"
+            "value" : "Победа! Матч выигран!"
           }
         },
         "sk" : {
@@ -19797,7 +19797,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zafer! Maçı kazandınız!"
+            "value" : "Zafer! Maçı kazandın!"
           }
         },
         "uk" : {
@@ -19815,19 +19815,19 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "胜利！您赢得了比赛！"
+            "value" : "胜利！你赢得了比赛！"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "勝利！您贏得了比賽！"
+            "value" : "勝利！你贏得了比賽！"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "勝利！您贏得了比賽！"
+            "value" : "勝利！你贏得了比賽！"
           }
         }
       }
@@ -19862,7 +19862,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Beregner scoringsresultat…"
+            "value" : "Beregner score…"
           }
         },
         "de" : {
@@ -19910,7 +19910,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lasketaan pistettä…"
+            "value" : "Lasketaan pisteitä…"
           }
         },
         "fr" : {
@@ -20030,7 +20030,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vypočítavanie skóre…"
+            "value" : "Vypočítavam skóre…"
           }
         },
         "sv" : {
@@ -20221,7 +20221,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Жеңілдіктерді тексеру…"
+            "value" : "Сыйақыларды тексеру…"
           }
         },
         "ko" : {
@@ -20233,7 +20233,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Semak Ganjaran…"
+            "value" : "Menyemak Ganjaran…"
           }
         },
         "nb" : {
@@ -20269,7 +20269,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Verifică recompense…"
+            "value" : "Se verifică recompensele…"
           }
         },
         "ru" : {
@@ -20281,7 +20281,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kontrola odmien…"
+            "value" : "Kontrolujem odmeny…"
           }
         },
         "sv" : {
@@ -20305,7 +20305,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Перевірка винагород…"
+            "value" : "Перевіряю винагороди…"
           }
         },
         "vi" : {
@@ -20346,7 +20346,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Придобиване на награди…"
+            "value" : "Получаване на награди…"
           }
         },
         "ca" : {
@@ -20364,7 +20364,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bruger belønninger..."
+            "value" : "Indløser belønninger…"
           }
         },
         "de" : {
@@ -20412,25 +20412,25 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Noudetaan palkintoja…"
+            "value" : "Lunastetaan palkintoja…"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Réclamation des récompenses…"
+            "value" : "Récupération des récompenses…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Réclamer des récompenses…"
+            "value" : "Récupération des récompenses…"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "טוען תגמולים…"
+            "value" : "מקבל תגמולים…"
           }
         },
         "hi" : {
@@ -20442,7 +20442,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zahtev za nagradama…"
+            "value" : "Preuzimanje nagrada…"
           }
         },
         "hu" : {
@@ -20466,19 +20466,19 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "報酬を請求中…"
+            "value" : "報酬を受け取り中…"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Жеңілдіктерді алу…"
+            "value" : "Сыйақыларды алу…"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "보상 청구 중…"
+            "value" : "보상 수령 중…"
           }
         },
         "ms" : {
@@ -20532,7 +20532,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Uplatnenie odmien…"
+            "value" : "Uplatňujem odmeny…"
           }
         },
         "sv" : {
@@ -20556,7 +20556,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Отримання винагород…"
+            "value" : "Отримую винагороди…"
           }
         },
         "vi" : {
@@ -20615,13 +20615,13 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Forbinder til server..."
+            "value" : "Forbinder til server…"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Deine Verbindung zum Server wird hergestellt…"
+            "value" : "Verbindung zum Server wird hergestellt…"
           }
         },
         "el" : {
@@ -20771,7 +20771,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Conectându-se la server…"
+            "value" : "Se conectează la server…"
           }
         },
         "ru" : {
@@ -20783,7 +20783,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pripojenie na server…"
+            "value" : "Pripájam sa na server…"
           }
         },
         "sv" : {
@@ -20807,7 +20807,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Підключення до сервера…"
+            "value" : "Підключаюся до сервера…"
           }
         },
         "vi" : {
@@ -20825,7 +20825,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在連接伺服器…"
+            "value" : "正在連線至伺服器…"
           }
         },
         "zh-HK" : {
@@ -20956,13 +20956,13 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sedang membuat Ruangan…"
+            "value" : "Membuat Ruangan…"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Creando stanza…"
+            "value" : "Creazione stanza…"
           }
         },
         "ja" : {
@@ -21022,7 +21022,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Crearea Camerei…"
+            "value" : "Se creează camera…"
           }
         },
         "ru" : {
@@ -21058,7 +21058,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Створення кімнати…"
+            "value" : "Створюю кімнату…"
           }
         },
         "vi" : {
@@ -21076,13 +21076,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "創建房間…"
+            "value" : "建立房間…"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "創建遊戲房間…"
+            "value" : "正在建立遊戲房間…"
           }
         }
       }
@@ -21111,7 +21111,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadejte název klanu…"
+            "value" : "Zadej název klanu…"
           }
         },
         "da" : {
@@ -21123,13 +21123,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Clan-Namen eingeben…"
+            "value" : "Clannamen eingeben…"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε το όνομα της φατρίας…"
+            "value" : "Γράψε το όνομα της φατρίας…"
           }
         },
         "en" : {
@@ -21141,7 +21141,7 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Enter clan name…"
+            "value" : "Enter Clan Name…"
           }
         },
         "en-GB" : {
@@ -21153,7 +21153,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ingresa el nombre del clan…"
+            "value" : "Introduce el nombre del clan…"
           }
         },
         "es-419" : {
@@ -21177,7 +21177,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entre le nom du clan…"
+            "value" : "Entrez le nom du clan…"
           }
         },
         "he" : {
@@ -21207,7 +21207,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Masukkan Nama Clan…"
+            "value" : "Masukkan Nama Klan…"
           }
         },
         "it" : {
@@ -21279,7 +21279,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введите название клана… "
+            "value" : "Введите название клана…"
           }
         },
         "sk" : {
@@ -21297,7 +21297,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรอกชื่อ Clan…"
+            "value" : "กรอกชื่อแคลน…"
           }
         },
         "tr" : {
@@ -21315,7 +21315,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nhập Tên Clan…"
+            "value" : "Nhập tên Clan…"
           }
         },
         "zh-Hans" : {
@@ -21344,7 +21344,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "أدخل اسم لعبة الفيديو…"
+            "value" : "أدخل اسم اللاعب…"
           }
         },
         "bg" : {
@@ -21356,13 +21356,13 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdueix el nom del jugador…"
+            "value" : "Introdueix l'àlies de jugador…"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadejte herní tag…"
+            "value" : "Zadej herní tag…"
           }
         },
         "da" : {
@@ -21380,7 +21380,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε Gamer Tag…"
+            "value" : "Γράψε Gamer Tag…"
           }
         },
         "en" : {
@@ -21404,7 +21404,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ingresa el Gamer Tag…"
+            "value" : "Introduce el Gamer Tag…"
           }
         },
         "es-419" : {
@@ -21428,7 +21428,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entre le nom de joueur…"
+            "value" : "Entrez le gamertag…"
           }
         },
         "he" : {
@@ -21452,7 +21452,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a játékos nevet…"
+            "value" : "Írd be a gamertaget…"
           }
         },
         "id" : {
@@ -21542,7 +21542,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ange Gamer Tag…"
+            "value" : "Ange gamertag…"
           }
         },
         "th" : {
@@ -21566,25 +21566,25 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nhập thẻ game…"
+            "value" : "Nhập gamertag…"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "输入游戏玩家名…"
+            "value" : "输入玩家代号…"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入遊戲玩家標籤…"
+            "value" : "輸入玩家代號…"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入遊戲玩家標籤…"
+            "value" : "輸入玩家代號…"
           }
         }
       }
@@ -21613,7 +21613,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadejte jméno hráče…"
+            "value" : "Zadej jméno hráče…"
           }
         },
         "da" : {
@@ -21643,7 +21643,7 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Enter player name…"
+            "value" : "Enter Player Name…"
           }
         },
         "en-GB" : {
@@ -21733,7 +21733,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "플레이어 이름 입력…"
+            "value" : "플레이어 이름을 입력하세요…"
           }
         },
         "ms" : {
@@ -21751,7 +21751,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voer spelersnaam in…"
+            "value" : "Voer de spelersnaam in…"
           }
         },
         "pl" : {
@@ -21775,7 +21775,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduceți numele jucătorului…"
+            "value" : "Introdu numele jucătorului…"
           }
         },
         "ru" : {
@@ -21805,7 +21805,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Oyuncu adını girin…"
+            "value" : "Oyuncu adını gir…"
           }
         },
         "uk" : {
@@ -21852,7 +21852,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Намери опонент…"
+            "value" : "Търсене на противник…"
           }
         },
         "ca" : {
@@ -21906,7 +21906,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscando Oponente…"
+            "value" : "Buscando oponente…"
           }
         },
         "es-419" : {
@@ -21942,7 +21942,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "प्रतिद्वंदी की खोज में…"
+            "value" : "प्रतिद्वंद्वी खोज रहे हैं…"
           }
         },
         "hr" : {
@@ -21978,7 +21978,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сыртқы қарсыласты табу…"
+            "value" : "Қарсылас табу…"
           }
         },
         "ko" : {
@@ -22008,7 +22008,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wyszukiwanie przeciwnika..."
+            "value" : "Wyszukiwanie przeciwnika…"
           }
         },
         "pt-BR" : {
@@ -22056,13 +22056,13 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rakip buluyor…"
+            "value" : "Rakip aranıyor…"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Пошук супротивника…"
+            "value" : "Шукаю суперника…"
           }
         },
         "vi" : {
@@ -22086,7 +22086,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "尋找對手…"
+            "value" : "正在尋找對手…"
           }
         }
       }
@@ -22103,7 +22103,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Намери отбор…"
+            "value" : "Търсене на отбор…"
           }
         },
         "ca" : {
@@ -22115,7 +22115,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Najdu tým…"
+            "value" : "Hledám tým…"
           }
         },
         "da" : {
@@ -22127,7 +22127,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Team finden…"
+            "value" : "Team wird gesucht…"
           }
         },
         "el" : {
@@ -22193,7 +22193,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "टीम खोजते हुए…"
+            "value" : "टीम खोज रहे हैं…"
           }
         },
         "hr" : {
@@ -22223,7 +22223,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "チームを見つける…"
+            "value" : "チームを検索中…"
           }
         },
         "kk" : {
@@ -22259,13 +22259,13 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wyszukiwanie drużyny..."
+            "value" : "Wyszukiwanie drużyny…"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Encontrando equipe…"
+            "value" : "Encontrando time…"
           }
         },
         "pt-PT" : {
@@ -22295,7 +22295,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hittar Team…"
+            "value" : "Hittar lag…"
           }
         },
         "th" : {
@@ -22307,7 +22307,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Takım buluyor…"
+            "value" : "Takım aranıyor…"
           }
         },
         "uk" : {
@@ -22337,7 +22337,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "尋找隊伍…"
+            "value" : "正在尋找隊伍…"
           }
         }
       }
@@ -22348,13 +22348,13 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "يتم إنشاء العالم…"
+            "value" : "جارٍ إنشاء العالم…"
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Създаване на свят..."
+            "value" : "Създаване на свят…"
           }
         },
         "ca" : {
@@ -22444,13 +22444,13 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "विश्व उत्पन्न हो रहा है..."
+            "value" : "विश्व उत्पन्न हो रहा है…"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Generiram svijet…"
+            "value" : "Generiranje svijeta…"
           }
         },
         "hu" : {
@@ -22468,7 +22468,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Generando Mondo…"
+            "value" : "Generazione mondo…"
           }
         },
         "ja" : {
@@ -22516,31 +22516,31 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gerando Mundo…"
+            "value" : "Gerando mundo…"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A gerar Mundo..."
+            "value" : "A gerar Mundo…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "generare lume…"
+            "value" : "Se generează lumea…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Создание мира..."
+            "value" : "Создание мира…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Generujem svet..."
+            "value" : "Generujem svet…"
           }
         },
         "sv" : {
@@ -22570,7 +22570,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đang tạo thế giới..."
+            "value" : "Đang tạo thế giới…"
           }
         },
         "zh-Hans" : {
@@ -22588,7 +22588,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "生成世界中..."
+            "value" : "正在生成世界…"
           }
         }
       }
@@ -22605,19 +22605,19 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Присъединяване към мач..."
+            "value" : "Присъединяване към мач…"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unint a la partida…"
+            "value" : "Unint-se a la partida…"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Připojuji se k hře…"
+            "value" : "Připojuji se k zápasu…"
           }
         },
         "da" : {
@@ -22629,13 +22629,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Match wird beigetreten…"
+            "value" : "Dem Match wird beigetreten…"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Συμμετοχή στο Match…"
+            "value" : "Συμμετοχή στον αγώνα…"
           }
         },
         "en" : {
@@ -22659,7 +22659,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Uniéndote a la partida…"
+            "value" : "Uniéndose a la partida…"
           }
         },
         "es-419" : {
@@ -22671,19 +22671,19 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Liitytään peliin…"
+            "value" : "Liitytään otteluun…"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rejoint la partie…"
+            "value" : "Connexion au match…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rejoindre le match…"
+            "value" : "Connexion au match…"
           }
         },
         "he" : {
@@ -22695,19 +22695,19 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "मैच में शामिल हो रहे हैं..."
+            "value" : "मैच में शामिल हो रहे हैं…"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pridružujem se igri…"
+            "value" : "Pridruživanje utakmici…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Csatlakozás a játszmához…"
+            "value" : "Csatlakozás a meccshez…"
           }
         },
         "id" : {
@@ -22719,7 +22719,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unione alla partita…"
+            "value" : "Accesso alla partita…"
           }
         },
         "ja" : {
@@ -22743,13 +22743,13 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Menyertai Pertandingan…"
+            "value" : "Menyertai Perlawanan…"
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bli med i kamp…"
+            "value" : "Blir med i kamp…"
           }
         },
         "nl" : {
@@ -22773,25 +22773,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A entrar na partida..."
+            "value" : "A entrar na partida…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alăturare meci…"
+            "value" : "Se alătură meciului…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Присоединение к игре..."
+            "value" : "Присоединение к матчу…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pridávam sa k zápasu..."
+            "value" : "Pridávam sa k zápasu…"
           }
         },
         "sv" : {
@@ -22821,13 +22821,13 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đang tham gia Trận đấu..."
+            "value" : "Đang tham gia trận đấu…"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在加入比赛..."
+            "value" : "正在加入比赛…"
           }
         },
         "zh-Hant" : {
@@ -22839,7 +22839,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "加入對戰中..."
+            "value" : "正在加入對戰…"
           }
         }
       }
@@ -22856,7 +22856,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Зареждане на ниво..."
+            "value" : "Зареждане на ниво…"
           }
         },
         "ca" : {
@@ -22946,13 +22946,13 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "स्तर लोड हो रहा है..."
+            "value" : "स्तर लोड हो रहा है…"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Učitavam razinu…"
+            "value" : "Učitavanje razine…"
           }
         },
         "hu" : {
@@ -22970,7 +22970,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caricamento Livello…"
+            "value" : "Caricamento livello…"
           }
         },
         "ja" : {
@@ -22982,7 +22982,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Жаңа деңгей жүктелуде…"
+            "value" : "Деңгей жүктелуде…"
           }
         },
         "ko" : {
@@ -23024,7 +23024,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A carregar nível..."
+            "value" : "A carregar nível…"
           }
         },
         "ro" : {
@@ -23036,13 +23036,13 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Загрузка уровня..."
+            "value" : "Загрузка уровня…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Načítavam úroveň..."
+            "value" : "Načítavam úroveň…"
           }
         },
         "sv" : {
@@ -23072,7 +23072,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đang tải Cấp độ…"
+            "value" : "Đang tải cấp độ…"
           }
         },
         "zh-Hans" : {
@@ -23084,13 +23084,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在加載關卡…"
+            "value" : "正在載入關卡…"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "加載關卡中..."
+            "value" : "正在載入關卡…"
           }
         }
       }
@@ -23107,7 +23107,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Зареждане на ресурси..."
+            "value" : "Зареждане на ресурси…"
           }
         },
         "ca" : {
@@ -23197,13 +23197,13 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "संसाधन लोड हो रहे हैं..."
+            "value" : "संसाधन लोड हो रहे हैं…"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Učitavam resurse…"
+            "value" : "Učitavanje resursa…"
           }
         },
         "hu" : {
@@ -23221,7 +23221,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caricamento Risorse…"
+            "value" : "Caricamento risorse…"
           }
         },
         "ja" : {
@@ -23257,7 +23257,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hulpmiddelen laden…"
+            "value" : "Bronnen laden…"
           }
         },
         "pl" : {
@@ -23275,7 +23275,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A carregar recursos..."
+            "value" : "A carregar recursos…"
           }
         },
         "ro" : {
@@ -23287,13 +23287,13 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Загрузка ресурсов..."
+            "value" : "Загрузка ресурсов…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Načítavam zdroje..."
+            "value" : "Načítavam zdroje…"
           }
         },
         "sv" : {
@@ -23323,25 +23323,25 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đang tải Tài nguyên…"
+            "value" : "Đang tải tài nguyên…"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "加载资源中..."
+            "value" : "加载资源中…"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在加載資源…"
+            "value" : "正在載入資源…"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "加載資源中..."
+            "value" : "正在載入資源…"
           }
         }
       }
@@ -23352,13 +23352,13 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "جارٍ تحميل الدرس…"
+            "value" : "جارٍ تحميل البرنامج التعليمي…"
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Зареждане на туториал..."
+            "value" : "Зареждане на урок…"
           }
         },
         "ca" : {
@@ -23388,7 +23388,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Φόρτωμα Εκπαιδευτικού…"
+            "value" : "Φόρτωμα Εκμάθησης…"
           }
         },
         "en" : {
@@ -23424,7 +23424,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ladataan opasta…"
+            "value" : "Ladataan opetusohjelmaa…"
           }
         },
         "fr" : {
@@ -23448,13 +23448,13 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ट्यूटोरियल लोड हो रहा है..."
+            "value" : "ट्यूटोरियल लोड हो रहा है…"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Učitavam vodič…"
+            "value" : "Učitavanje vodiča…"
           }
         },
         "hu" : {
@@ -23472,7 +23472,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caricamento Tutorial…"
+            "value" : "Caricamento tutorial…"
           }
         },
         "ja" : {
@@ -23484,7 +23484,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Нұсқаулық жүктеу…"
+            "value" : "Нұсқаулық жүктелуде…"
           }
         },
         "ko" : {
@@ -23526,7 +23526,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A carregar tutorial..."
+            "value" : "A carregar tutorial…"
           }
         },
         "ro" : {
@@ -23538,13 +23538,13 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Загрузка учебника..."
+            "value" : "Загрузка обучения…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Načítavam tutoriál..."
+            "value" : "Načítavam tutoriál…"
           }
         },
         "sv" : {
@@ -23568,31 +23568,31 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Завантажую навчальний посібник…"
+            "value" : "Завантажую навчання…"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đang tải Hướng dẫn…"
+            "value" : "Đang tải hướng dẫn…"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "加载教程中..."
+            "value" : "加载教程中…"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在加載教程…"
+            "value" : "正在載入教學…"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "加載教程中..."
+            "value" : "正在載入教學…"
           }
         }
       }
@@ -23603,13 +23603,13 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "جاري matchmaking…"
+            "value" : "جارٍ مطابقة اللاعبين…"
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Съчетание…"
+            "value" : "Съчетаване…"
           }
         },
         "ca" : {
@@ -23639,7 +23639,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Δημιουργία αγώνα…"
+            "value" : "Αντιστοίχιση παικτών…"
           }
         },
         "en" : {
@@ -23675,7 +23675,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pelaajien etsiminen…"
+            "value" : "Etsitään pelaajia…"
           }
         },
         "fr" : {
@@ -23699,7 +23699,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "खिलाड़ियों या प्रतिकूलों की खोज कर रहे हैं…"
+            "value" : "खिलाड़ियों या प्रतिद्वंद्वियों की खोज कर रहे हैं…"
           }
         },
         "hr" : {
@@ -23789,13 +23789,13 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Создание матча…"
+            "value" : "Подбор игроков…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zápasové vyhľadávanie…"
+            "value" : "Vyhľadávam hráčov…"
           }
         },
         "sv" : {
@@ -23807,7 +23807,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การจับคู่…"
+            "value" : "กำลังจับคู่…"
           }
         },
         "tr" : {
@@ -23819,7 +23819,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Підбір суперників…"
+            "value" : "Підбираю суперників…"
           }
         },
         "vi" : {
@@ -23843,7 +23843,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "匹配中…"
+            "value" : "正在配對…"
           }
         }
       }
@@ -23854,7 +23854,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "جاري إعادة ظهور اللاعب…"
+            "value" : "جارٍ إعادة الظهور…"
           }
         },
         "bg" : {
@@ -23866,19 +23866,19 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Revivant…"
+            "value" : "Reapareixent…"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Obnovuji se…"
+            "value" : "Znovu se objevuji…"
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Respawne…"
+            "value" : "Genopstår…"
           }
         },
         "de" : {
@@ -23926,7 +23926,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Uudelleensynnytys…"
+            "value" : "Herätään henkiin…"
           }
         },
         "fr" : {
@@ -23944,19 +23944,19 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "מאפס את השחקן…"
+            "value" : "מופיע מחדש…"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "रिस्पॉनिंग…"
+            "value" : "पुनः प्रकट हो रहे हैं…"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ponovno se pojavljujem…"
+            "value" : "Ponovno pojavljivanje…"
           }
         },
         "hu" : {
@@ -23974,7 +23974,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Respawn…"
+            "value" : "Rigenerazione…"
           }
         },
         "ja" : {
@@ -23986,19 +23986,19 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Қайта туылу…"
+            "value" : "Қайта тірілу…"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "재생성 중…"
+            "value" : "부활 중…"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Menghidupkan kembali…"
+            "value" : "Muncul Semula…"
           }
         },
         "nb" : {
@@ -24034,7 +24034,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Susținerea respawnării…"
+            "value" : "Se reînvie…"
           }
         },
         "ru" : {
@@ -24046,7 +24046,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Obnovenie…"
+            "value" : "Obnovujem…"
           }
         },
         "sv" : {
@@ -24070,7 +24070,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Відродження…"
+            "value" : "Відроджуюся…"
           }
         },
         "vi" : {
@@ -24094,7 +24094,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "重生中…"
+            "value" : "正在重生…"
           }
         }
       }
@@ -24111,7 +24111,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Търсене на играчи..."
+            "value" : "Търсене на играчи…"
           }
         },
         "ca" : {
@@ -24153,7 +24153,7 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Search players…"
+            "value" : "Search Players…"
           }
         },
         "en-GB" : {
@@ -24171,7 +24171,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscar Jugadores…"
+            "value" : "Buscar jugadores…"
           }
         },
         "fi" : {
@@ -24237,7 +24237,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ойыншыларды іздеңіз..."
+            "value" : "Ойыншыларды іздеңіз…"
           }
         },
         "ko" : {
@@ -24291,7 +24291,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Искать игроков…"
+            "value" : "Поиск игроков…"
           }
         },
         "sk" : {
@@ -24356,7 +24356,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "جاري مزامنة حالة اللعبة…"
+            "value" : "جارٍ مزامنة حالة اللعبة…"
           }
         },
         "bg" : {
@@ -24386,13 +24386,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Spielstatus synchronisieren…"
+            "value" : "Spielstatus wird synchronisiert…"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Συγχρονίζω κατάσταση παιχνιδιού…"
+            "value" : "Συγχρονισμός κατάστασης παιχνιδιού…"
           }
         },
         "en" : {
@@ -24452,7 +24452,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "गेम स्थिति को समन्वयित कर रहा है..."
+            "value" : "गेम स्थिति समन्वयित कर रहे हैं…"
           }
         },
         "hr" : {
@@ -24506,7 +24506,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Synkroniserer spillstatus..."
+            "value" : "Synkroniserer spillstatus…"
           }
         },
         "nl" : {
@@ -24536,7 +24536,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sincronizând starea jocului…"
+            "value" : "Se sincronizează starea jocului…"
           }
         },
         "ru" : {
@@ -24554,7 +24554,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Synchroniserar speldata…"
+            "value" : "Synkroniserar spelstatus…"
           }
         },
         "th" : {
@@ -24566,13 +24566,13 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Oyun Durumu Senkronize Ediliyor…"
+            "value" : "Oyun durumu senkronize ediliyor…"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Синхронізація ігрового стану…"
+            "value" : "Синхронізую ігровий стан…"
           }
         },
         "vi" : {
@@ -24596,7 +24596,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "同步中…"
+            "value" : "正在同步遊戲狀態…"
           }
         }
       }
@@ -24607,7 +24607,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "جاري تحديث لوحة المتصدرين…"
+            "value" : "جارٍ تحديث لوحة المتصدرين…"
           }
         },
         "bg" : {
@@ -24637,13 +24637,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rangliste aktualisieren…"
+            "value" : "Rangliste wird aktualisiert…"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ενημέρωση πίνακα κορυφαίων…"
+            "value" : "Ενημέρωση πίνακα κατάταξης…"
           }
         },
         "en" : {
@@ -24673,7 +24673,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Actualizando el tablero de clasificación…"
+            "value" : "Actualizando la clasificación…"
           }
         },
         "fi" : {
@@ -24697,19 +24697,19 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "מעדכן לוח תוצאות…"
+            "value" : "מעדכן טבלת דירוגים…"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "लीडरबोर्ड अपडेट हो रहा है..."
+            "value" : "लीडरबोर्ड अपडेट हो रहा है…"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ažuriram ljestvicu…"
+            "value" : "Ažuriranje tablice rezultata…"
           }
         },
         "hu" : {
@@ -24721,7 +24721,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Memperbarui Tabel Peringkat…"
+            "value" : "Memperbarui Papan Peringkat…"
           }
         },
         "it" : {
@@ -24739,7 +24739,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Тізімкестені жаңартуда..."
+            "value" : "Рейтингті жаңартуда…"
           }
         },
         "ko" : {
@@ -24757,7 +24757,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Oppdaterer rangering…"
+            "value" : "Oppdaterer poengtavlen…"
           }
         },
         "nl" : {
@@ -24775,7 +24775,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Atualizando leaderboard…"
+            "value" : "Atualizando classificação…"
           }
         },
         "pt-PT" : {
@@ -24787,7 +24787,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Actualizând clasamentul…"
+            "value" : "Se actualizează clasamentul…"
           }
         },
         "ru" : {
@@ -24811,7 +24811,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กำลังอัปเดตกระดานคะแนน…"
+            "value" : "กำลังอัปเดตกระดานจัดอันดับ…"
           }
         },
         "tr" : {
@@ -24823,7 +24823,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Оновлення таблиці лідерів…"
+            "value" : "Оновлюю рейтинг…"
           }
         },
         "vi" : {
@@ -24847,7 +24847,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "更新排行榜…"
+            "value" : "正在更新排行榜…"
           }
         }
       }

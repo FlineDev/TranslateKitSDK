@@ -19,7 +19,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Afegir Animació"
+            "value" : "Afegeix animació"
           }
         },
         "cs" : {
@@ -67,7 +67,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Agregar animación"
+            "value" : "Añadir animación"
           }
         },
         "es-419" : {
@@ -115,7 +115,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Animáció Hozzáadása"
+            "value" : "Animáció hozzáadása"
           }
         },
         "id" : {
@@ -133,7 +133,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "アニメーションを追加する"
+            "value" : "アニメーションを追加"
           }
         },
         "kk" : {
@@ -163,7 +163,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Animatie Toevoegen"
+            "value" : "Animatie toevoegen"
           }
         },
         "pl" : {
@@ -211,7 +211,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เพิ่มอนิเมชั่น"
+            "value" : "เพิ่มแอนิเมชัน"
           }
         },
         "tr" : {
@@ -247,7 +247,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加动画"
+            "value" : "加入動畫"
           }
         }
       }
@@ -468,7 +468,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Çerçeve Ekle"
+            "value" : "Kenarlık Ekle"
           }
         },
         "uk" : {
@@ -509,7 +509,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "إضافة شرح"
+            "value" : "إضافة تعليق"
           }
         },
         "bg" : {
@@ -569,13 +569,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Agregar título"
+            "value" : "Agregar leyenda"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Agregar título"
+            "value" : "Agregar leyenda"
           }
         },
         "fi" : {
@@ -719,7 +719,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Altyazı Ekle"
+            "value" : "Açıklama Ekle"
           }
         },
         "uk" : {
@@ -772,7 +772,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Afegir Efectes"
+            "value" : "Afegeix efectes"
           }
         },
         "cs" : {
@@ -820,7 +820,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Agregar efectos"
+            "value" : "Añadir efectos"
           }
         },
         "es-419" : {
@@ -868,7 +868,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hatások Hozzáadása"
+            "value" : "Effektusok hozzáadása"
           }
         },
         "id" : {
@@ -886,7 +886,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "エフェクトを追加する"
+            "value" : "エフェクトを追加"
           }
         },
         "kk" : {
@@ -916,7 +916,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Effecten Toevoegen"
+            "value" : "Effecten toevoegen"
           }
         },
         "pl" : {
@@ -964,7 +964,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เพิ่มเอฟเฟกต์"
+            "value" : "เพิ่มเอฟเฟ็กต์"
           }
         },
         "tr" : {
@@ -1000,7 +1000,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加效果"
+            "value" : "加入效果"
           }
         }
       }
@@ -1131,7 +1131,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aggiungi Tag"
+            "value" : "Aggiungi tag"
           }
         },
         "ja" : {
@@ -1274,7 +1274,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Afegir Text"
+            "value" : "Afegeix text"
           }
         },
         "cs" : {
@@ -1322,7 +1322,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Agregar texto"
+            "value" : "Añadir texto"
           }
         },
         "es-419" : {
@@ -1334,7 +1334,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lisää teksti"
+            "value" : "Lisää tekstiä"
           }
         },
         "fr" : {
@@ -1370,7 +1370,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Szöveg Hozzáadása"
+            "value" : "Szöveg hozzáadása"
           }
         },
         "id" : {
@@ -1388,7 +1388,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "テキストを追加する"
+            "value" : "テキストを追加"
           }
         },
         "kk" : {
@@ -1418,7 +1418,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tekst Toevoegen"
+            "value" : "Tekst toevoegen"
           }
         },
         "pl" : {
@@ -1502,7 +1502,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加文字"
+            "value" : "加入文字"
           }
         }
       }
@@ -1573,7 +1573,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Agregar a colección"
+            "value" : "Agregar a la colección"
           }
         },
         "es-419" : {
@@ -1741,7 +1741,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加到收藏夹"
+            "value" : "添加到收藏"
           }
         },
         "zh-Hant" : {
@@ -1812,7 +1812,7 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Add to Favorites"
+            "value" : "Add to Favourites"
           }
         },
         "en-GB" : {
@@ -1890,7 +1890,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "よく使う項目に追加"
+            "value" : "お気に入りに追加"
           }
         },
         "kk" : {
@@ -1950,7 +1950,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавить в Избранное"
+            "value" : "Добавить в избранное"
           }
         },
         "sk" : {
@@ -1974,7 +1974,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Favorilerime Ekle"
+            "value" : "Favorilere Ekle"
           }
         },
         "uk" : {
@@ -2075,13 +2075,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Agregar a accesos directos"
+            "value" : "Agregar a Atajos"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Agregar a los atajos"
+            "value" : "Agregar a Atajos"
           }
         },
         "fi" : {
@@ -2153,7 +2153,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "단축키에 추가"
+            "value" : "단축어에 추가"
           }
         },
         "ms" : {
@@ -2225,7 +2225,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kısayol Ekle"
+            "value" : "Kısayollara Ekle"
           }
         },
         "uk" : {
@@ -2243,7 +2243,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加到快捷方式"
+            "value" : "添加到“快捷指令”"
           }
         },
         "zh-Hant" : {
@@ -2278,13 +2278,13 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ajustar Opacitat"
+            "value" : "Ajusta l'opacitat"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Upravit opacitu"
+            "value" : "Upravit neprůhlednost"
           }
         },
         "da" : {
@@ -2302,7 +2302,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ρύθμιση Διαφάνειας"
+            "value" : "Ρύθμιση Αδιαφάνειας"
           }
         },
         "en" : {
@@ -2338,7 +2338,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Säädä läpinäkyvyyttä"
+            "value" : "Säädä peittävyyttä"
           }
         },
         "fr" : {
@@ -2356,7 +2356,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "התאם שקיפות"
+            "value" : "התאם אטימות"
           }
         },
         "hi" : {
@@ -2374,7 +2374,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Átlátszóság Beállítása"
+            "value" : "Átlátszóság beállítása"
           }
         },
         "id" : {
@@ -2392,19 +2392,19 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "不透明度を調整する"
+            "value" : "不透明度を調整"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Түс реңкін реттеу"
+            "value" : "Мөлдірлікті реттеу"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "투명도 조절"
+            "value" : "불투명도 조절"
           }
         },
         "ms" : {
@@ -2422,13 +2422,13 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Opaciteit Aanpassen"
+            "value" : "Opaciteit aanpassen"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dostosuj przezroczystość"
+            "value" : "Dostosuj krycie"
           }
         },
         "pt-BR" : {
@@ -2458,7 +2458,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Upraviť priesvitnosť"
+            "value" : "Upraviť nepriehľadnosť"
           }
         },
         "sv" : {
@@ -2476,7 +2476,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Opasiteyi Ayarla"
+            "value" : "Opaklığı Ayarla"
           }
         },
         "uk" : {
@@ -2506,7 +2506,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "调整不透明度"
+            "value" : "調整不透明度"
           }
         }
       }
@@ -2517,7 +2517,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "نسخ إلى الحافظة"
+            "value" : "نسخ إلى لوحة المفاتيح"
           }
         },
         "bg" : {
@@ -2571,13 +2571,13 @@
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Copy to Clipboard"
+            "value" : "Copy to Keyboard"
           }
         },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Copiar al Teclado"
+            "value" : "Copiar al teclado"
           }
         },
         "es-419" : {
@@ -2727,7 +2727,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Klavye için Kopyala"
+            "value" : "Klavyeye Kopyala"
           }
         },
         "uk" : {
@@ -2768,7 +2768,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "إنشاء مجموعة ملصقات"
+            "value" : "إنشاء حزمة"
           }
         },
         "bg" : {
@@ -2828,7 +2828,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Crear Pack"
+            "value" : "Crear paquete"
           }
         },
         "es-419" : {
@@ -2864,7 +2864,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "पैकेज बनाएं"
+            "value" : "पैक बनाएं"
           }
         },
         "hr" : {
@@ -3079,7 +3079,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Editar Sticker"
+            "value" : "Editar pegatina"
           }
         },
         "es-419" : {
@@ -3115,7 +3115,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "स्टीकर संपादित करें"
+            "value" : "स्टिकर संपादित करें"
           }
         },
         "hr" : {
@@ -3270,7 +3270,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تصدير المجموعة"
+            "value" : "تصدير الحزمة"
           }
         },
         "bg" : {
@@ -3330,7 +3330,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Exportar Pack"
+            "value" : "Exportar paquete"
           }
         },
         "es-419" : {
@@ -3348,7 +3348,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Exporter le Pack"
+            "value" : "Exporter le pack"
           }
         },
         "fr-CA" : {
@@ -3366,7 +3366,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "पैकेज निर्यात करें"
+            "value" : "पैक निर्यात करें"
           }
         },
         "hr" : {
@@ -3677,7 +3677,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Draaien"
+            "value" : "Keren"
           }
         },
         "pl" : {
@@ -3731,7 +3731,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Döndür"
+            "value" : "Çevir"
           }
         },
         "uk" : {
@@ -3868,7 +3868,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "पैक इम्पोर्ट करें"
+            "value" : "पैक आयात करें"
           }
         },
         "hr" : {
@@ -3892,7 +3892,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Importa Pacchetto"
+            "value" : "Importa pacchetto"
           }
         },
         "ja" : {
@@ -3982,7 +3982,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Paket İçe Aktar"
+            "value" : "Paketi İçe Aktar"
           }
         },
         "uk" : {
@@ -4023,7 +4023,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "مرآة"
+            "value" : "عكس"
           }
         },
         "bg" : {
@@ -4083,13 +4083,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Espejar"
+            "value" : "Reflejar"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Espejar"
+            "value" : "Reflejar"
           }
         },
         "fi" : {
@@ -4101,7 +4101,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Miroiter"
+            "value" : "Miroir"
           }
         },
         "fr-CA" : {
@@ -4161,7 +4161,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "미러링하기"
+            "value" : "거울 효과"
           }
         },
         "ms" : {
@@ -4304,7 +4304,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sticker Vorschau"
+            "value" : "Sticker-Vorschau"
           }
         },
         "el" : {
@@ -4340,7 +4340,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vista previa de calcomanía"
+            "value" : "Vista previa de sticker"
           }
         },
         "fi" : {
@@ -4352,7 +4352,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aperçu de l'autocollant"
+            "value" : "Prévisualiser l'autocollant"
           }
         },
         "fr-CA" : {
@@ -4394,7 +4394,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Anteprima Adesivo"
+            "value" : "Anteprima adesivo"
           }
         },
         "ja" : {
@@ -4645,7 +4645,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Invio Veloce"
+            "value" : "Invio veloce"
           }
         },
         "ja" : {
@@ -4896,7 +4896,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rimuovi Sfondo"
+            "value" : "Rimuovi sfondo"
           }
         },
         "ja" : {
@@ -5039,7 +5039,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Redimensionar"
+            "value" : "Redimensiona"
           }
         },
         "cs" : {
@@ -5063,7 +5063,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Αλλαγή μεγέθους"
+            "value" : "Αλλαγή Μεγέθους"
           }
         },
         "en" : {
@@ -5207,7 +5207,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Redimensionare"
+            "value" : "Redimensionează"
           }
         },
         "ru" : {
@@ -5290,7 +5290,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Girar"
+            "value" : "Gira"
           }
         },
         "cs" : {
@@ -5434,7 +5434,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Roteer"
+            "value" : "Draaien"
           }
         },
         "pl" : {
@@ -5559,7 +5559,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "„Fotos“"
+            "value" : "In „Fotos“ speichern"
           }
         },
         "el" : {
@@ -5625,7 +5625,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "तस्वीर में सहेजें"
+            "value" : "फोटो में सहेजें"
           }
         },
         "hr" : {
@@ -5697,7 +5697,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Salvar no App Fotos"
+            "value" : "Salvar em Fotos"
           }
         },
         "pt-PT" : {
@@ -5715,7 +5715,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сохранение в «Фото»"
+            "value" : "Сохранить в «Фото»"
           }
         },
         "sk" : {
@@ -5840,7 +5840,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Enviar sticker"
+            "value" : "Enviar pegatina"
           }
         },
         "es-419" : {
@@ -5900,13 +5900,13 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Invia Adesivo"
+            "value" : "Invia adesivo"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "スタンプを送信"
+            "value" : "ステッカーを送信"
           }
         },
         "kk" : {
@@ -6008,7 +6008,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "发送贴图"
+            "value" : "发送贴纸"
           }
         },
         "zh-Hant" : {
@@ -6217,7 +6217,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Анимация"
+            "value" : "Анимированные"
           }
         },
         "sk" : {
@@ -6259,7 +6259,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "动画的"
+            "value" : "动态"
           }
         },
         "zh-Hant" : {
@@ -6462,7 +6462,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Animație"
+            "value" : "Animații"
           }
         },
         "ru" : {
@@ -6486,7 +6486,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การเคลื่อนไหว"
+            "value" : "แอนิเมชัน"
           }
         },
         "tr" : {
@@ -6504,7 +6504,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hoạt hình"
+            "value" : "Hoạt ảnh"
           }
         },
         "zh-Hans" : {
@@ -6569,7 +6569,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Παρασκήνιο"
+            "value" : "Φόντο"
           }
         },
         "en" : {
@@ -6844,7 +6844,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Estilo de Borde"
+            "value" : "Estilo del borde"
           }
         },
         "es-419" : {
@@ -6880,7 +6880,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "सीमा शैली"
+            "value" : "बॉर्डर शैली"
           }
         },
         "hr" : {
@@ -6904,7 +6904,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stile del Bordo"
+            "value" : "Stile del bordo"
           }
         },
         "ja" : {
@@ -6922,7 +6922,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "경계 스타일"
+            "value" : "테두리 스타일"
           }
         },
         "ms" : {
@@ -6970,7 +6970,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Стиль границы"
+            "value" : "Стиль рамки"
           }
         },
         "sk" : {
@@ -6994,7 +6994,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kenar Stili"
+            "value" : "Kenarlık Stili"
           }
         },
         "uk" : {
@@ -7263,13 +7263,13 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "收藏"
+            "value" : "合集"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "收藏"
+            "value" : "合輯"
           }
         },
         "zh-HK" : {
@@ -7496,7 +7496,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yaratıcı"
+            "value" : "Oluşturan"
           }
         },
         "uk" : {
@@ -7597,13 +7597,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Packs Personalizados"
+            "value" : "Paquetes personalizados"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Packs Personalizados"
+            "value" : "Paquetes Personalizados"
           }
         },
         "fi" : {
@@ -7848,7 +7848,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Texto Personalizado"
+            "value" : "Texto personalizado"
           }
         },
         "es-419" : {
@@ -8135,7 +8135,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "प्रभाव"
+            "value" : "इफेक्ट्स"
           }
         },
         "hr" : {
@@ -8512,7 +8512,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cảm Xúc"
+            "value" : "Cảm xúc"
           }
         },
         "zh-Hans" : {
@@ -8589,7 +8589,7 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Favorites"
+            "value" : "Favourites"
           }
         },
         "en-GB" : {
@@ -8667,7 +8667,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "よく使う項目"
+            "value" : "お気に入り"
           }
         },
         "kk" : {
@@ -8852,7 +8852,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Paquetes Destacados"
+            "value" : "Paquetes destacados"
           }
         },
         "es-419" : {
@@ -8912,7 +8912,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pacchetti in Evidenza"
+            "value" : "Pacchetti in evidenza"
           }
         },
         "ja" : {
@@ -8960,7 +8960,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Coleções em destaque"
+            "value" : "Pacotes em destaque"
           }
         },
         "pt-PT" : {
@@ -9103,7 +9103,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Formato de Archivo"
+            "value" : "Formato de archivo"
           }
         },
         "es-419" : {
@@ -9163,7 +9163,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Formato File"
+            "value" : "Formato file"
           }
         },
         "ja" : {
@@ -9504,7 +9504,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kenar Çerçevesi"
+            "value" : "Çerçeve"
           }
         },
         "uk" : {
@@ -9522,7 +9522,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "框架"
+            "value" : "边框"
           }
         },
         "zh-Hant" : {
@@ -9545,7 +9545,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "الوصول عبر لوحة المفاتيح"
+            "value" : "الوصول إلى لوحة المفاتيح"
           }
         },
         "bg" : {
@@ -9623,7 +9623,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Accès Clavier"
+            "value" : "Accès au clavier"
           }
         },
         "fr-CA" : {
@@ -9731,7 +9731,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Доступ к клавишным комбинациям"
+            "value" : "Доступ к клавиатуре"
           }
         },
         "sk" : {
@@ -9796,13 +9796,13 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "معدل التعتيم"
+            "value" : "الشفافية"
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Отразяемост"
+            "value" : "Непрозрачност"
           }
         },
         "ca" : {
@@ -9928,7 +9928,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Түссіз"
+            "value" : "Мөлдірлік"
           }
         },
         "ko" : {
@@ -9940,7 +9940,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Litupan"
+            "value" : "Kelegapan"
           }
         },
         "nb" : {
@@ -10125,7 +10125,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nom du Pack"
+            "value" : "Nom du pack"
           }
         },
         "fr-CA" : {
@@ -10143,7 +10143,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "पैकेज नाम"
+            "value" : "पैक नाम"
           }
         },
         "hr" : {
@@ -10376,7 +10376,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Taille du Pack"
+            "value" : "Taille du pack"
           }
         },
         "fr-CA" : {
@@ -10394,7 +10394,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "पैकेज आकार"
+            "value" : "पैक आकार"
           }
         },
         "hr" : {
@@ -10549,7 +10549,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ثيم الحزمة"
+            "value" : "سمة الحزمة"
           }
         },
         "bg" : {
@@ -10627,7 +10627,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Thème du Pack"
+            "value" : "Thème du pack"
           }
         },
         "fr-CA" : {
@@ -10645,7 +10645,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "पैकेज विषय"
+            "value" : "पैक विषय"
           }
         },
         "hr" : {
@@ -10824,7 +10824,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Populær"
+            "value" : "Populært"
           }
         },
         "de" : {
@@ -10836,7 +10836,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Δημοφιλές"
+            "value" : "Δημοφιλή"
           }
         },
         "en" : {
@@ -10872,19 +10872,19 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Suosittu"
+            "value" : "Suositut"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Populaire"
+            "value" : "Populaires"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Populaire"
+            "value" : "Populaires"
           }
         },
         "he" : {
@@ -10920,7 +10920,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Popolare"
+            "value" : "Popolari"
           }
         },
         "ja" : {
@@ -10950,7 +10950,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Populær"
+            "value" : "Populært"
           }
         },
         "nl" : {
@@ -10998,7 +10998,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Populär"
+            "value" : "Populärt"
           }
         },
         "th" : {
@@ -11016,7 +11016,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Популярний"
+            "value" : "Популярні"
           }
         },
         "vi" : {
@@ -11111,7 +11111,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Previsualización"
+            "value" : "Vista previa"
           }
         },
         "es-419" : {
@@ -11219,7 +11219,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Prévias"
+            "value" : "Prévia"
           }
         },
         "pt-PT" : {
@@ -11476,7 +11476,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reacções"
+            "value" : "Reações"
           }
         },
         "ro" : {
@@ -11506,7 +11506,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การตอบสนอง"
+            "value" : "ปฏิกิริยา"
           }
         },
         "tr" : {
@@ -11553,7 +11553,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "مستخدم مؤخرًا"
+            "value" : "المستخدمة مؤخرًا"
           }
         },
         "bg" : {
@@ -11613,7 +11613,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Usados Recientemente"
+            "value" : "Usadas recientemente"
           }
         },
         "es-419" : {
@@ -11631,7 +11631,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Récemment utilisé"
+            "value" : "Récemment utilisés"
           }
         },
         "fr-CA" : {
@@ -11679,7 +11679,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "最近使用した"
+            "value" : "最近使った"
           }
         },
         "kk" : {
@@ -11721,7 +11721,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Recentemente Usado"
+            "value" : "Usados Recentemente"
           }
         },
         "pt-PT" : {
@@ -11739,7 +11739,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Недавние использования"
+            "value" : "Недавно использованные"
           }
         },
         "sk" : {
@@ -11930,7 +11930,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "スタティック"
+            "value" : "静止"
           }
         },
         "kk" : {
@@ -11990,7 +11990,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Статический"
+            "value" : "Статические"
           }
         },
         "sk" : {
@@ -12115,7 +12115,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stickers estáticos"
+            "value" : "Pegatinas estáticas"
           }
         },
         "es-419" : {
@@ -12181,7 +12181,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "スタティックステッカー"
+            "value" : "静止ステッカー"
           }
         },
         "kk" : {
@@ -12366,7 +12366,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cantidad de stickers"
+            "value" : "Número de pegatinas"
           }
         },
         "es-419" : {
@@ -12462,7 +12462,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stickers Aantal"
+            "value" : "Aantal stickers"
           }
         },
         "pl" : {
@@ -12557,7 +12557,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "مجموعة الملصقات"
+            "value" : "حزمة الملصقات"
           }
         },
         "bg" : {
@@ -12617,7 +12617,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Paquete de stickers"
+            "value" : "Paquete de pegatinas"
           }
         },
         "es-419" : {
@@ -12677,7 +12677,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pacchetto adesivi"
+            "value" : "Pacchetto di adesivi"
           }
         },
         "ja" : {
@@ -12713,7 +12713,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sticker Pack"
+            "value" : "Stickerpakket"
           }
         },
         "pl" : {
@@ -12868,7 +12868,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Estilo de sticker"
+            "value" : "Estilo de pegatina"
           }
         },
         "es-419" : {
@@ -12964,7 +12964,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sticker Stijl"
+            "value" : "Stickerstijl"
           }
         },
         "pl" : {
@@ -13089,7 +13089,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trend"
+            "value" : "Angesagt"
           }
         },
         "el" : {
@@ -13269,7 +13269,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trend Oluyor"
+            "value" : "Trend Olanlar"
           }
         },
         "uk" : {
@@ -13479,7 +13479,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Efeitos de animação aplicados."
+            "value" : "Efeitos de animação aplicados!"
           }
         },
         "pt-PT" : {
@@ -13731,7 +13731,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fundo removido com sucesso."
+            "value" : "Fundo removido com sucesso!"
           }
         },
         "pt-PT" : {
@@ -13845,7 +13845,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Änderungen beim Sticker gespeichert!"
+            "value" : "Änderungen am Sticker gespeichert!"
           }
         },
         "el" : {
@@ -13875,7 +13875,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Cambios guardados en la etiqueta!"
+            "value" : "¡Cambios guardados en la pegatina!"
           }
         },
         "es-419" : {
@@ -13935,7 +13935,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Modifiche salvate nello sticker!"
+            "value" : "Modifiche salvate nell'adesivo!"
           }
         },
         "ja" : {
@@ -14001,7 +14001,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Изменения сохранены на стикере!"
+            "value" : "Изменения сохранены для стикера!"
           }
         },
         "sk" : {
@@ -14097,7 +14097,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Benutzerdefinierter Aufkleber erstellt!"
+            "value" : "Benutzerdefinierter Sticker erstellt!"
           }
         },
         "el" : {
@@ -14187,13 +14187,13 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sticker personalizzato creato!"
+            "value" : "Adesivo personalizzato creato!"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "カスタムスタンプが作成されました！"
+            "value" : "カスタムステッカーが作成されました！"
           }
         },
         "kk" : {
@@ -14205,7 +14205,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "사용자가 만든 스티커가 생성되었습니다!"
+            "value" : "사용자 지정 스티커가 생성되었습니다!"
           }
         },
         "ms" : {
@@ -14235,7 +14235,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sticker personalizado criado!"
+            "value" : "Adesivo personalizado criado!"
           }
         },
         "pt-PT" : {
@@ -14505,7 +14505,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Эффект успешно применен!"
+            "value" : "Эффект успешно применён!"
           }
         },
         "sk" : {
@@ -14631,7 +14631,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Se requiere acceso al teclado para los stickers."
+            "value" : "Se requiere acceso al teclado para las pegatinas."
           }
         },
         "es-419" : {
@@ -14709,7 +14709,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "스티커에 대해 키보드 접근이 필요합니다."
+            "value" : "스티커에 키보드 접근 권한이 필요합니다."
           }
         },
         "ms" : {
@@ -14757,7 +14757,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Для использования стикеров доступ к клавиатуре необходим."
+            "value" : "Для использования стикеров необходим доступ к клавиатуре."
           }
         },
         "sk" : {
@@ -14883,7 +14883,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Pack importado con éxito!"
+            "value" : "¡Paquete importado con éxito!"
           }
         },
         "es-419" : {
@@ -14919,7 +14919,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "पैकेज सफलतापूर्वक आयात किया गया!"
+            "value" : "पैक सफलतापूर्वक आयात किया गया!"
           }
         },
         "hr" : {
@@ -14961,7 +14961,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "팩이 성공적으로 가져와졌습니다!"
+            "value" : "팩을 성공적으로 가져왔습니다!"
           }
         },
         "ms" : {
@@ -15135,7 +15135,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Pack compartido con amigos!"
+            "value" : "¡Paquete compartido con amigos!"
           }
         },
         "es-419" : {
@@ -15171,7 +15171,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "पैकेज दोस्तों के साथ साझा किया गया!"
+            "value" : "पैक दोस्तों के साथ साझा किया गया!"
           }
         },
         "hr" : {
@@ -15261,7 +15261,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Пакет разделён с друзьями!"
+            "value" : "Пакетом поделились с друзьями!"
           }
         },
         "sk" : {
@@ -15387,13 +15387,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Sticker añadido a favoritos!"
+            "value" : "¡Pegatina añadida a favoritos!"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Sticker añadido a favoritos!"
+            "value" : "¡Sticker agregado a favoritos!"
           }
         },
         "fi" : {
@@ -15423,7 +15423,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "स्टिकर प्रियतमाओं में जोड़ा गया!"
+            "value" : "स्टिकर पसंदीदा में जोड़ा गया!"
           }
         },
         "hr" : {
@@ -15555,7 +15555,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "贴纸已添加到收藏夹！"
+            "value" : "贴纸已添加到个人收藏！"
           }
         },
         "zh-Hant" : {
@@ -15639,13 +15639,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Sticker añadido al teclado!"
+            "value" : "¡Pegatina añadida al teclado!"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Sticker añadido al teclado!"
+            "value" : "¡Sticker agregado al teclado!"
           }
         },
         "fi" : {
@@ -15891,7 +15891,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Descarga del paquete de stickers completa!"
+            "value" : "¡Descarga del paquete de pegatinas completa!"
           }
         },
         "es-419" : {
@@ -15951,7 +15951,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Download del pacchetto adesivi completato!"
+            "value" : "Download del pacchetto di adesivi completato!"
           }
         },
         "ja" : {
@@ -16041,7 +16041,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Çıkartma paketi indirme tamamlandı!"
+            "value" : "Çıkartma paketi indirildi!"
           }
         },
         "uk" : {
@@ -16143,7 +16143,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Paquete de stickers instalado correctamente!"
+            "value" : "¡Paquete de pegatinas instalado correctamente!"
           }
         },
         "es-419" : {
@@ -16203,7 +16203,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pacchetto adesivi installato con successo!"
+            "value" : "Pacchetto di adesivi installato con successo!"
           }
         },
         "ja" : {
@@ -16395,7 +16395,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Sticker guardado en tu colección!"
+            "value" : "¡Pegatina guardada en tu colección!"
           }
         },
         "es-419" : {
@@ -16431,7 +16431,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "स्टिकर आपकी संग्रह में सहेज लिया गया!"
+            "value" : "स्टिकर आपके संग्रह में सहेजा गया!"
           }
         },
         "hr" : {
@@ -16647,7 +16647,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Sticker enviado correctamente!"
+            "value" : "¡Pegatina enviada correctamente!"
           }
         },
         "es-419" : {
@@ -16899,7 +16899,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¡Tu paquete de stickers está listo!"
+            "value" : "¡Tu paquete de pegatinas está listo!"
           }
         },
         "es-419" : {
@@ -17120,7 +17120,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Animation hinzufügen…"
+            "value" : "Animation wird hinzugefügt…"
           }
         },
         "el" : {
@@ -17186,7 +17186,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "एनिमेशन जोड़ना…"
+            "value" : "एनिमेशन जोड़ रहे हैं…"
           }
         },
         "hr" : {
@@ -17210,7 +17210,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aggiungendo animazione…"
+            "value" : "Aggiunta animazione…"
           }
         },
         "ja" : {
@@ -17371,7 +17371,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zu Favoriten hinzufügen…"
+            "value" : "Sticker wird zu Favoriten hinzugefügt…"
           }
         },
         "el" : {
@@ -17437,7 +17437,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "फ़ेवरेट में जोड़ रहे हैं…"
+            "value" : "पसंदीदा में जोड़ रहे हैं…"
           }
         },
         "hr" : {
@@ -17461,7 +17461,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aggiungendo ai preferiti…"
+            "value" : "Aggiunta ai preferiti…"
           }
         },
         "ja" : {
@@ -17551,7 +17551,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Favorilere ekleniyor..."
+            "value" : "Favorilere ekleniyor…"
           }
         },
         "uk" : {
@@ -17622,7 +17622,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zur Tastatur hinzufügen…"
+            "value" : "Sticker wird zur Tastatur hinzugefügt…"
           }
         },
         "el" : {
@@ -17712,7 +17712,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aggiungendo alla tastiera…"
+            "value" : "Aggiunta alla tastiera…"
           }
         },
         "ja" : {
@@ -17778,7 +17778,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавление к клавиатуре…"
+            "value" : "Добавление на клавиатуру…"
           }
         },
         "sk" : {
@@ -17802,7 +17802,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Klavye ekleniyor..."
+            "value" : "Klavyeye ekleniyor…"
           }
         },
         "uk" : {
@@ -17843,7 +17843,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "جاري تطبيق التأثيرات…"
+            "value" : "جارٍ تطبيق التأثيرات…"
           }
         },
         "bg" : {
@@ -17873,7 +17873,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Effekte anwenden…"
+            "value" : "Effekte werden angewendet…"
           }
         },
         "el" : {
@@ -17963,7 +17963,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Applicando effetti…"
+            "value" : "Applicazione effetti…"
           }
         },
         "ja" : {
@@ -18053,7 +18053,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Efektleri uygulama…"
+            "value" : "Efektler uygulanıyor…"
           }
         },
         "uk" : {
@@ -18094,7 +18094,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "جاري تطبيق النمط…"
+            "value" : "جارٍ تطبيق النمط…"
           }
         },
         "bg" : {
@@ -18124,7 +18124,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stil anwenden…"
+            "value" : "Stil wird angewendet…"
           }
         },
         "el" : {
@@ -18214,7 +18214,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Applicando stile…"
+            "value" : "Applicazione stile…"
           }
         },
         "ja" : {
@@ -18304,7 +18304,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stili uygulama…"
+            "value" : "Stil uygulanıyor…"
           }
         },
         "uk" : {
@@ -18573,7 +18573,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "创建集合…"
+            "value" : "正在创建收藏…"
           }
         },
         "zh-Hant" : {
@@ -18656,7 +18656,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Creando sticker…"
+            "value" : "Creando pegatina…"
           }
         },
         "es-419" : {
@@ -18824,7 +18824,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "创建贴纸…"
+            "value" : "正在创建贴纸…"
           }
         },
         "zh-Hant" : {
@@ -18907,7 +18907,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Personalizando sticker…"
+            "value" : "Personalizando pegatina…"
           }
         },
         "es-419" : {
@@ -19057,7 +19057,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Çıkartmayı özelleştiriyor…"
+            "value" : "Çıkartma özelleştiriliyor…"
           }
         },
         "uk" : {
@@ -19075,7 +19075,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "自定义贴纸…"
+            "value" : "正在自定义贴纸…"
           }
         },
         "zh-Hant" : {
@@ -19158,7 +19158,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ingresa etiquetas de categoría…"
+            "value" : "Introduce etiquetas de categoría…"
           }
         },
         "es-419" : {
@@ -19218,7 +19218,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inserisci le etichette di categoria…"
+            "value" : "Inserisci i tag di categoria…"
           }
         },
         "ja" : {
@@ -19284,7 +19284,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введите теги категории…"
+            "value" : "Введи теги категории…"
           }
         },
         "sk" : {
@@ -19349,7 +19349,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "أدخل تفاصيل المجموعة…"
+            "value" : "أدخل تفاصيل الحزمة…"
           }
         },
         "bg" : {
@@ -19409,7 +19409,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduce los detalles del pack…"
+            "value" : "Introduce los detalles del paquete…"
           }
         },
         "es-419" : {
@@ -19445,7 +19445,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "पैक विवरण डालें…"
+            "value" : "पैक विवरण दर्ज करें…"
           }
         },
         "hr" : {
@@ -19505,7 +19505,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voer packgegevens in…"
+            "value" : "Voer pakketgegevens in…"
           }
         },
         "pl" : {
@@ -19535,7 +19535,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введите детали пакета…"
+            "value" : "Введи детали пакета…"
           }
         },
         "sk" : {
@@ -19559,7 +19559,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Çıkartma paketi detaylarını girin…"
+            "value" : "Çıkartma paketi detaylarını gir…"
           }
         },
         "uk" : {
@@ -19600,7 +19600,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "أدخل اسم المجموعة…"
+            "value" : "أدخل اسم الحزمة…"
           }
         },
         "bg" : {
@@ -19660,7 +19660,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduce el nombre del pack…"
+            "value" : "Introduce el nombre del paquete…"
           }
         },
         "es-419" : {
@@ -19696,7 +19696,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "पैक का नाम डालें…"
+            "value" : "पैक का नाम दर्ज करें…"
           }
         },
         "hr" : {
@@ -19786,7 +19786,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введите название пакета…"
+            "value" : "Введи название пакета…"
           }
         },
         "sk" : {
@@ -19810,7 +19810,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Çıkartma paketi adını girin…"
+            "value" : "Çıkartma paketi adını gir…"
           }
         },
         "uk" : {
@@ -19851,7 +19851,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "أدخل التسميات الخاصة بالملصق…"
+            "value" : "أدخل علامات الملصق…"
           }
         },
         "bg" : {
@@ -19881,7 +19881,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gib die Sticker-Tags ein…"
+            "value" : "Sticker-Tags eingeben…"
           }
         },
         "el" : {
@@ -19911,7 +19911,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduce las etiquetas del sticker…"
+            "value" : "Introduce las etiquetas de la pegatina…"
           }
         },
         "es-419" : {
@@ -19971,7 +19971,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inserisci le etichette degli adesivi…"
+            "value" : "Inserisci i tag degli adesivi…"
           }
         },
         "ja" : {
@@ -19989,7 +19989,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "스티커 태그 입력…"
+            "value" : "스티커 태그를 입력하세요…"
           }
         },
         "ms" : {
@@ -20037,7 +20037,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введите теги для наклейки…"
+            "value" : "Введи теги для стикера…"
           }
         },
         "sk" : {
@@ -20061,7 +20061,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Çıkartma etiketlerini girin…"
+            "value" : "Çıkartma etiketlerini gir…"
           }
         },
         "uk" : {
@@ -20079,7 +20079,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "请输入贴纸标签…"
+            "value" : "输入贴纸标签…"
           }
         },
         "zh-Hant" : {
@@ -20132,7 +20132,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aus Fotos importieren…"
+            "value" : "Aus „Fotos“ wird importiert…"
           }
         },
         "el" : {
@@ -20162,7 +20162,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Importando desde fotos…"
+            "value" : "Importando desde Fotos…"
           }
         },
         "es-419" : {
@@ -20198,7 +20198,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "फोटो से आयात कर रहे हैं..."
+            "value" : "फोटो से आयात कर रहे हैं…"
           }
         },
         "hr" : {
@@ -20222,7 +20222,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Importa da foto…"
+            "value" : "Importa da Foto…"
           }
         },
         "ja" : {
@@ -20270,7 +20270,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Importar da galeria de fotos…"
+            "value" : "Importar de Fotos…"
           }
         },
         "pt-PT" : {
@@ -20288,7 +20288,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Импорт из фотографий..."
+            "value" : "Импорт из фотографий…"
           }
         },
         "sk" : {
@@ -20330,7 +20330,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在从照片导入..."
+            "value" : "正在从照片导入…"
           }
         },
         "zh-Hant" : {
@@ -20449,7 +20449,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "पैक स्थापित किया जा रहा है..."
+            "value" : "पैक स्थापित किया जा रहा है…"
           }
         },
         "hr" : {
@@ -20539,7 +20539,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Установка пакета..."
+            "value" : "Установка пакета…"
           }
         },
         "sk" : {
@@ -20581,7 +20581,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在安装包..."
+            "value" : "正在安装包…"
           }
         },
         "zh-Hant" : {
@@ -20664,7 +20664,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cargando paquete de stickers…"
+            "value" : "Cargando paquete de pegatinas…"
           }
         },
         "es-419" : {
@@ -20700,7 +20700,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "स्टिकर पैक लोड हो रहा है..."
+            "value" : "स्टिकर पैक लोड हो रहा है…"
           }
         },
         "hr" : {
@@ -20742,7 +20742,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "스티커 팩 로딩 중…"
+            "value" : "스티커 팩 불러오는 중…"
           }
         },
         "ms" : {
@@ -20790,7 +20790,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Загрузка пакета стикеров..."
+            "value" : "Загрузка пакета стикеров…"
           }
         },
         "sk" : {
@@ -20832,7 +20832,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "加载贴纸包中..."
+            "value" : "正在加载贴纸包…"
           }
         },
         "zh-Hant" : {
@@ -20855,7 +20855,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "جاري إعداد المعاينة…"
+            "value" : "جارٍ إعداد المعاينة…"
           }
         },
         "bg" : {
@@ -20885,7 +20885,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vorschau vorbereiten…"
+            "value" : "Vorschau wird vorbereitet…"
           }
         },
         "el" : {
@@ -20981,7 +20981,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "プレビューの準備をしています…"
+            "value" : "プレビューの準備中…"
           }
         },
         "kk" : {
@@ -21083,7 +21083,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "准备预览…"
+            "value" : "正在准备预览…"
           }
         },
         "zh-Hant" : {
@@ -21106,7 +21106,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "جاري إزالة الخلفية…"
+            "value" : "جارٍ إزالة الخلفية…"
           }
         },
         "bg" : {
@@ -21136,7 +21136,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hintergrund entfernen…"
+            "value" : "Hintergrund wird entfernt…"
           }
         },
         "el" : {
@@ -21232,7 +21232,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "背景を削除しています…"
+            "value" : "背景を削除中…"
           }
         },
         "kk" : {
@@ -21357,7 +21357,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "جارٍ حفظ إلى الصور…"
+            "value" : "جارٍ حفظ في الصور…"
           }
         },
         "bg" : {
@@ -21387,7 +21387,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "In Fotos speichern…"
+            "value" : "Sticker wird in „Fotos“ gespeichert…"
           }
         },
         "el" : {
@@ -21417,7 +21417,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Guardando en fotos…"
+            "value" : "Guardando en Fotos…"
           }
         },
         "es-419" : {
@@ -21435,7 +21435,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Enregistrement dans les photos…"
+            "value" : "Enregistrement dans Photos…"
           }
         },
         "fr-CA" : {
@@ -21477,7 +21477,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Salvataggio in foto…"
+            "value" : "Salvataggio in Foto…"
           }
         },
         "ja" : {
@@ -21513,7 +21513,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Opnemen in foto’s…"
+            "value" : "Bewaren in foto’s…"
           }
         },
         "pl" : {
@@ -21525,7 +21525,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Salvando nas fotos…"
+            "value" : "Salvando em Fotos…"
           }
         },
         "pt-PT" : {
@@ -21543,7 +21543,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сохраняем в фото…"
+            "value" : "Сохранение в «Фото»…"
           }
         },
         "sk" : {
@@ -21668,13 +21668,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscar stickers…"
+            "value" : "Buscar pegatinas…"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscar calcomanías…"
+            "value" : "Buscar stickers…"
           }
         },
         "fi" : {
@@ -21794,7 +21794,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Искать стикеры…"
+            "value" : "Поиск стикеров…"
           }
         },
         "sk" : {
@@ -21859,7 +21859,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "مشاركة ملصق…"
+            "value" : "جارٍ مشاركة الملصق…"
           }
         },
         "bg" : {
@@ -21889,7 +21889,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sticker teilen…"
+            "value" : "Sticker wird geteilt…"
           }
         },
         "el" : {
@@ -21919,13 +21919,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Compartiendo sticker…"
+            "value" : "Compartiendo pegatina…"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sticker compartido…"
+            "value" : "Compartiendo sticker…"
           }
         },
         "fi" : {
@@ -21937,7 +21937,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Partage un autocollant…"
+            "value" : "Partage de l'autocollant…"
           }
         },
         "fr-CA" : {
@@ -21985,7 +21985,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ステッカーを共有…"
+            "value" : "ステッカーを共有中…"
           }
         },
         "kk" : {
@@ -22045,7 +22045,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Обмен стикером…"
+            "value" : "Отправка стикера…"
           }
         },
         "sk" : {
@@ -22069,7 +22069,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Çıkartma paylaşımı…"
+            "value" : "Çıkartma paylaşılıyor…"
           }
         },
         "uk" : {
@@ -22087,7 +22087,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "分享贴纸…"
+            "value" : "正在分享贴纸…"
           }
         },
         "zh-Hant" : {

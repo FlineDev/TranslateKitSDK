@@ -121,7 +121,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Arsip"
+            "value" : "Arsipkan"
           }
         },
         "it" : {
@@ -145,13 +145,13 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "아카이브"
+            "value" : "보관"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Arkib"
+            "value" : "Arkibkan"
           }
         },
         "nb" : {
@@ -181,7 +181,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Arquivo"
+            "value" : "Arquivar"
           }
         },
         "ro" : {
@@ -217,7 +217,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Arşiv"
+            "value" : "Arşivle"
           }
         },
         "uk" : {
@@ -264,7 +264,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Назначи задача"
+            "value" : "Възложи задача"
           }
         },
         "ca" : {
@@ -330,7 +330,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Määritä tehtävä"
+            "value" : "Osoita tehtävä"
           }
         },
         "fr" : {
@@ -342,7 +342,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Assigner une Tâche"
+            "value" : "Assigner une tâche"
           }
         },
         "he" : {
@@ -390,7 +390,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Тапсырманы бекіту"
+            "value" : "Тапсырманы тағайындау"
           }
         },
         "ko" : {
@@ -414,7 +414,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Taak Toewijzen"
+            "value" : "Taak toewijzen"
           }
         },
         "pl" : {
@@ -438,7 +438,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Atribuie Sarcină"
+            "value" : "Atribuie sarcină"
           }
         },
         "ru" : {
@@ -593,19 +593,19 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Joindre un Fichier"
+            "value" : "Joindre un fichier"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "צורף קובץ"
+            "value" : "צרף קובץ"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "फाइल संलग्न करें"
+            "value" : "फ़ाइल संलग्न करें"
           }
         },
         "hr" : {
@@ -623,7 +623,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lampirkan Berkas"
+            "value" : "Lampirkan File"
           }
         },
         "it" : {
@@ -641,7 +641,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Файлды тіркеу"
+            "value" : "Тіркеме қосу"
           }
         },
         "ko" : {
@@ -665,7 +665,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bestand Bijvoegen"
+            "value" : "Bestand bijvoegen"
           }
         },
         "pl" : {
@@ -689,7 +689,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Atașează Fișier"
+            "value" : "Atașează fișier"
           }
         },
         "ru" : {
@@ -737,7 +737,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "附加文件"
+            "value" : "添加附件"
           }
         },
         "zh-Hant" : {
@@ -766,7 +766,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Продължи редакцията"
+            "value" : "Продължи редактирането"
           }
         },
         "ca" : {
@@ -820,7 +820,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Continuar Editando"
+            "value" : "Continuar editando"
           }
         },
         "es-419" : {
@@ -868,7 +868,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Szerkesztés Folytatása"
+            "value" : "Szerkesztés folytatása"
           }
         },
         "id" : {
@@ -892,13 +892,13 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Редактирлеуді жалғастыру"
+            "value" : "Өңдеуді жалғастыру"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "편집 계속하기"
+            "value" : "편집 계속"
           }
         },
         "ms" : {
@@ -916,7 +916,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bewerken Voortzetten"
+            "value" : "Bewerken voortzetten"
           }
         },
         "pl" : {
@@ -1203,7 +1203,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Prekonvertovať"
+            "value" : "Previesť"
           }
         },
         "sv" : {
@@ -1346,7 +1346,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Créer un Groupe"
+            "value" : "Créer un groupe"
           }
         },
         "he" : {
@@ -1418,7 +1418,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Groep Aanmaken"
+            "value" : "Groep aanmaken"
           }
         },
         "pl" : {
@@ -1442,7 +1442,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Grup de creare"
+            "value" : "Creează grup"
           }
         },
         "ru" : {
@@ -1591,13 +1591,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Créer nouveau"
+            "value" : "Créer un nouvel élément"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Créer un nouveau"
+            "value" : "Créer un nouvel élément"
           }
         },
         "he" : {
@@ -1645,7 +1645,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Жаңа құру"
+            "value" : "Жаңасын құру"
           }
         },
         "ko" : {
@@ -1669,7 +1669,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nieuw Aanmaken"
+            "value" : "Nieuw aanmaken"
           }
         },
         "pl" : {
@@ -1693,7 +1693,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Creează Nou"
+            "value" : "Creează nou"
           }
         },
         "ru" : {
@@ -1705,7 +1705,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vytvoriť nový"
+            "value" : "Vytvoriť nové"
           }
         },
         "sv" : {
@@ -1824,7 +1824,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Crear Proyecto"
+            "value" : "Crear proyecto"
           }
         },
         "es-419" : {
@@ -1860,19 +1860,19 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "परियोजना बनाएँ"
+            "value" : "परियोजना बनाएं"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kreiraj projekt"
+            "value" : "Stvori projekt"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Projekt Létrehozása"
+            "value" : "Projekt létrehozása"
           }
         },
         "id" : {
@@ -1920,7 +1920,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Project Aanmaken"
+            "value" : "Project aanmaken"
           }
         },
         "pl" : {
@@ -1980,7 +1980,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Створити проект"
+            "value" : "Створити проєкт"
           }
         },
         "vi" : {
@@ -1998,7 +1998,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "創建項目"
+            "value" : "建立專案"
           }
         },
         "zh-HK" : {
@@ -2099,7 +2099,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Créer une Tâche"
+            "value" : "Créer une tâche"
           }
         },
         "he" : {
@@ -2171,7 +2171,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Taak Aanmaken"
+            "value" : "Taak aanmaken"
           }
         },
         "pl" : {
@@ -2195,7 +2195,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Creează Sarcină"
+            "value" : "Creează sarcină"
           }
         },
         "ru" : {
@@ -2326,7 +2326,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Editar Nota"
+            "value" : "Editar nota"
           }
         },
         "es-419" : {
@@ -2374,7 +2374,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Megjegyzés Szerkesztése"
+            "value" : "Megjegyzés szerkesztése"
           }
         },
         "id" : {
@@ -2398,7 +2398,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ескертулерді өңдеу"
+            "value" : "Жазбаны өңдеу"
           }
         },
         "ko" : {
@@ -2422,7 +2422,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Notitie Bewerken"
+            "value" : "Notitie bewerken"
           }
         },
         "pl" : {
@@ -2697,7 +2697,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Exportați PDF"
+            "value" : "Exportă PDF"
           }
         },
         "ru" : {
@@ -2727,7 +2727,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "PDF’i Dışa Aktar"
+            "value" : "PDF’yi Dışa Aktar"
           }
         },
         "uk" : {
@@ -2792,13 +2792,13 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Generer Rapport"
+            "value" : "Generer rapport"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bericht Erstellen"
+            "value" : "Bericht erstellen"
           }
         },
         "el" : {
@@ -2834,7 +2834,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Generar Informe"
+            "value" : "Generar informe"
           }
         },
         "fi" : {
@@ -2858,7 +2858,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ייצר דוח"
+            "value" : "ייצר דו״ח"
           }
         },
         "hi" : {
@@ -2870,7 +2870,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Generiraj Izvještaj"
+            "value" : "Generiraj izvještaj"
           }
         },
         "hu" : {
@@ -2924,7 +2924,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rapport Genereren"
+            "value" : "Rapport genereren"
           }
         },
         "pl" : {
@@ -2948,7 +2948,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Generează Raport"
+            "value" : "Generează raport"
           }
         },
         "ru" : {
@@ -3002,7 +3002,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "生成報告"
+            "value" : "產生報告"
           }
         },
         "zh-HK" : {
@@ -3151,7 +3151,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сыртқы көздерден деректер импорттау"
+            "value" : "Деректерді импорттау"
           }
         },
         "ko" : {
@@ -3175,13 +3175,13 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gegevens Importeren"
+            "value" : "Gegevens importeren"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Importuj Dane"
+            "value" : "Importuj dane"
           }
         },
         "pt-BR" : {
@@ -3199,7 +3199,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Importă Date"
+            "value" : "Importă date"
           }
         },
         "ru" : {
@@ -3253,7 +3253,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "從外部來源導入數據"
+            "value" : "從外部來源匯入資料"
           }
         },
         "zh-HK" : {
@@ -3270,13 +3270,13 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ضع علامة كمنجز"
+            "value" : "ضع علامة كمكتمل"
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Маркиране като направено"
+            "value" : "Маркирай като изпълнено"
           }
         },
         "ca" : {
@@ -3294,19 +3294,19 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Marker som Færdig"
+            "value" : "Markér som færdig"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Als Erledigt Markieren"
+            "value" : "Als erledigt markieren"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Σημείωση ως Έγινε"
+            "value" : "Σήμανση ως ολοκληρωμένο"
           }
         },
         "en" : {
@@ -3336,7 +3336,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Marcar como Hecho"
+            "value" : "Marcar como hecho"
           }
         },
         "fi" : {
@@ -3366,19 +3366,19 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "पूरा किया गया चिह्नित करें"
+            "value" : "पूर्ण के रूप में चिह्नित करें"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Označi kao Napravljeno"
+            "value" : "Označi kao napravljeno"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Késznek jelölés"
+            "value" : "Késznek megjelölése"
           }
         },
         "id" : {
@@ -3396,7 +3396,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "完了済みとマーク"
+            "value" : "完了にする"
           }
         },
         "kk" : {
@@ -3426,7 +3426,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Markeren als Gedaan"
+            "value" : "Markeren als gedaan"
           }
         },
         "pl" : {
@@ -3450,7 +3450,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Marchează ca Realizat"
+            "value" : "Marchează ca realizat"
           }
         },
         "ru" : {
@@ -3557,7 +3557,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Σημαντικό"
+            "value" : "Σήμανση ως σημαντικό"
           }
         },
         "en" : {
@@ -3587,7 +3587,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Marcar como Importante"
+            "value" : "Marcar como importante"
           }
         },
         "fi" : {
@@ -3611,7 +3611,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "סמן כמה חשוב"
+            "value" : "סמן כחשוב"
           }
         },
         "hi" : {
@@ -3647,7 +3647,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "重要マーク"
+            "value" : "重要にする"
           }
         },
         "kk" : {
@@ -3677,13 +3677,13 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Markeren als Belangrijk"
+            "value" : "Markeren als belangrijk"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Oznacz jako Ważne"
+            "value" : "Oznacz jako ważne"
           }
         },
         "pt-BR" : {
@@ -3701,7 +3701,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Marchează ca Important"
+            "value" : "Marchează ca important"
           }
         },
         "ru" : {
@@ -3761,7 +3761,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "标记为重要"
+            "value" : "標記為重要"
           }
         }
       }
@@ -3778,7 +3778,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Маркиране като Прочетено"
+            "value" : "Маркиране като прочетено"
           }
         },
         "ca" : {
@@ -3796,7 +3796,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Marker som læst"
+            "value" : "Markér som læst"
           }
         },
         "de" : {
@@ -3808,7 +3808,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Το είδα"
+            "value" : "Σήμανση ως αναγνωσμένο"
           }
         },
         "en" : {
@@ -3886,7 +3886,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tandai Dibaca"
+            "value" : "Tandai sebagai Sudah Dibaca"
           }
         },
         "it" : {
@@ -3898,7 +3898,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "開封済みにする"
+            "value" : "既読にする"
           }
         },
         "kk" : {
@@ -3916,7 +3916,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tanda Dibaca"
+            "value" : "Tandakan sebagai Dibaca"
           }
         },
         "nb" : {
@@ -3928,7 +3928,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gelezen Markeren"
+            "value" : "Markeren als gelezen"
           }
         },
         "pl" : {
@@ -3952,7 +3952,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Marcați drept citit"
+            "value" : "Marchează ca citit"
           }
         },
         "ru" : {
@@ -3982,7 +3982,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Okundu İşaretle"
+            "value" : "Okundu Olarak İşaretle"
           }
         },
         "uk" : {
@@ -4006,7 +4006,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "標示為已讀"
+            "value" : "標記為已讀"
           }
         },
         "zh-HK" : {
@@ -4047,7 +4047,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Markér som ulest"
+            "value" : "Markér som ulæst"
           }
         },
         "de" : {
@@ -4059,7 +4059,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Μη Αναγνωσμένο"
+            "value" : "Σήμανση ως μη αναγνωσμένο"
           }
         },
         "en" : {
@@ -4131,13 +4131,13 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Olvasatlanra megjelölés"
+            "value" : "Jelölés olvasatlanként"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tandai sebagai Belum Baca"
+            "value" : "Tandai sebagai Belum Dibaca"
           }
         },
         "it" : {
@@ -4179,13 +4179,13 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Markeren als Ongelezen"
+            "value" : "Markeren als ongelezen"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Oznacz jako Nieprzeczytane"
+            "value" : "Oznacz jako nieprzeczytane"
           }
         },
         "pt-BR" : {
@@ -4203,7 +4203,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Marchează ca Necitit"
+            "value" : "Marchează ca necitit"
           }
         },
         "ru" : {
@@ -4263,7 +4263,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "标记为未读"
+            "value" : "標記為未讀"
           }
         }
       }
@@ -4334,7 +4334,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mover a carpeta"
+            "value" : "Mover a la carpeta"
           }
         },
         "es-419" : {
@@ -4358,19 +4358,19 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Déplacer dans le dossier"
+            "value" : "Déplacer dans un dossier"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "מעבר לתיקייה"
+            "value" : "העבר לתיקייה"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "फोल्डर में ले जाएं"
+            "value" : "फ़ोल्डर में ले जाएं"
           }
         },
         "hr" : {
@@ -4400,13 +4400,13 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "フォルダーに移動する"
+            "value" : "フォルダに移動する"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Папкаға жылжыту"
+            "value" : "Қалтаға жылжыту"
           }
         },
         "ko" : {
@@ -4430,13 +4430,13 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Verplaatsen naar Map"
+            "value" : "Verplaatsen naar map"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Przenieś do Folderu"
+            "value" : "Przenieś do folderu"
           }
         },
         "pt-BR" : {
@@ -4454,7 +4454,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mută în Dosar"
+            "value" : "Mută în dosar"
           }
         },
         "ru" : {
@@ -4490,7 +4490,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Перемістити до теки"
+            "value" : "Перемістити до папки"
           }
         },
         "vi" : {
@@ -4514,7 +4514,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "移动至文件夹"
+            "value" : "移動至資料夾"
           }
         }
       }
@@ -4555,7 +4555,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Anpinnen"
+            "value" : "Anheften"
           }
         },
         "el" : {
@@ -4615,7 +4615,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הצמדה"
+            "value" : "הצמד"
           }
         },
         "hi" : {
@@ -4645,13 +4645,13 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mettiti in evidenza"
+            "value" : "Metti in evidenza"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ピンで固定"
+            "value" : "ピン留め"
           }
         },
         "kk" : {
@@ -4669,7 +4669,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pin"
+            "value" : "Semat"
           }
         },
         "nb" : {
@@ -4681,7 +4681,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Maak vast"
+            "value" : "Vastzetten"
           }
         },
         "pl" : {
@@ -4705,7 +4705,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fixați"
+            "value" : "Fixează"
           }
         },
         "ru" : {
@@ -4812,7 +4812,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Δώσε Πρώτη Σημασία"
+            "value" : "Προτεραιοποίηση"
           }
         },
         "en" : {
@@ -4968,7 +4968,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Prioritizovať"
+            "value" : "Uprednostniť"
           }
         },
         "sv" : {
@@ -5051,7 +5051,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Optag tid"
+            "value" : "Registrer tid"
           }
         },
         "de" : {
@@ -5063,7 +5063,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Καταγραφή χρόνου"
+            "value" : "Καταγραφή Χρόνου"
           }
         },
         "en" : {
@@ -5099,7 +5099,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tallenna aika"
+            "value" : "Kirjaa aika"
           }
         },
         "fr" : {
@@ -5117,7 +5117,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הקלט זמן"
+            "value" : "תעד זמן"
           }
         },
         "hi" : {
@@ -5183,7 +5183,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tijd Registreren"
+            "value" : "Tijd registreren"
           }
         },
         "pl" : {
@@ -5195,13 +5195,13 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gravar Tempo"
+            "value" : "Registrar Tempo"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gravar Tempo"
+            "value" : "Registar Tempo"
           }
         },
         "ro" : {
@@ -5225,7 +5225,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Spela in tid"
+            "value" : "Registrera tid"
           }
         },
         "th" : {
@@ -5314,7 +5314,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Επαναφορά Αντίγραφου Ασφαλείας"
+            "value" : "Επαναφορά Αντιγράφου Ασφαλείας"
           }
         },
         "en" : {
@@ -5380,7 +5380,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vrati sigurnosnu kopiju"
+            "value" : "Vrati iz sigurnosne kopije"
           }
         },
         "hu" : {
@@ -5434,7 +5434,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Back-up Herstellen"
+            "value" : "Back-up herstellen"
           }
         },
         "pl" : {
@@ -5452,13 +5452,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Restaurar Backup"
+            "value" : "Restaurar Cópia de Segurança"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Restaurare backup"
+            "value" : "Restaurează backupul"
           }
         },
         "ru" : {
@@ -5476,7 +5476,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Återställ Backup"
+            "value" : "Återställ säkerhetskopia"
           }
         },
         "th" : {
@@ -5512,7 +5512,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "恢復備份"
+            "value" : "還原備份"
           }
         },
         "zh-HK" : {
@@ -5589,7 +5589,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Establecer Fecha Límite"
+            "value" : "Establecer fecha límite"
           }
         },
         "es-419" : {
@@ -5709,7 +5709,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stabilește Termenul Limită"
+            "value" : "Stabilește termenul limită"
           }
         },
         "ru" : {
@@ -5763,7 +5763,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "設置截止日期"
+            "value" : "設定截止日期"
           }
         },
         "zh-HK" : {
@@ -5816,7 +5816,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ορισμός Προθεσμίας Πληρωμής"
+            "value" : "Όρισε Ημερομηνία Λήξης"
           }
         },
         "en" : {
@@ -5846,7 +5846,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Establecer Fecha de Vencimiento"
+            "value" : "Establecer fecha de vencimiento"
           }
         },
         "fi" : {
@@ -5870,7 +5870,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הגדר מועד הגשה"
+            "value" : "קבע תאריך יעד"
           }
         },
         "hi" : {
@@ -5888,7 +5888,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Határidő Beállítása"
+            "value" : "Határidő beállítása"
           }
         },
         "id" : {
@@ -5900,7 +5900,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Imposta Data Scadenza"
+            "value" : "Imposta data di scadenza"
           }
         },
         "ja" : {
@@ -5912,7 +5912,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Беру мерзімін орнату"
+            "value" : "Орындалу мерзімін орнату"
           }
         },
         "ko" : {
@@ -5924,7 +5924,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tetapkan Tarikh Jatuh Tempo"
+            "value" : "Tetapkan Tarikh Tamat"
           }
         },
         "nb" : {
@@ -5942,7 +5942,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ustaw datę wymagalności"
+            "value" : "Ustaw termin"
           }
         },
         "pt-BR" : {
@@ -6002,7 +6002,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đặt Ngày hết hạn"
+            "value" : "Đặt Ngày Đến Hạn"
           }
         },
         "zh-Hans" : {
@@ -6097,7 +6097,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Establecer Prioridad"
+            "value" : "Establecer prioridad"
           }
         },
         "fi" : {
@@ -6163,13 +6163,13 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Приоритетті орнату"
+            "value" : "Басымдықты орнату"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "우선 순위 설정하기"
+            "value" : "우선순위 설정하기"
           }
         },
         "ms" : {
@@ -6253,7 +6253,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đặt Quyền ưu tiên"
+            "value" : "Đặt Mức Ưu Tiên"
           }
         },
         "zh-Hans" : {
@@ -6265,7 +6265,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "設置優先順序"
+            "value" : "設定優先順序"
           }
         },
         "zh-HK" : {
@@ -6342,7 +6342,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Establecer Recordatorio"
+            "value" : "Establecer recordatorio"
           }
         },
         "es-419" : {
@@ -6378,7 +6378,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "याद दिलाएं"
+            "value" : "रिमाइंडर सेट करें"
           }
         },
         "hr" : {
@@ -6420,7 +6420,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "리마인더 설정"
+            "value" : "미리 알림 설정"
           }
         },
         "ms" : {
@@ -6462,7 +6462,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stabilește Memento"
+            "value" : "Stabilește memento"
           }
         },
         "ru" : {
@@ -6516,7 +6516,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "設置提醒"
+            "value" : "設定提醒"
           }
         },
         "zh-HK" : {
@@ -6545,7 +6545,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Classificar per terminis"
+            "value" : "Classificar per data límit"
           }
         },
         "cs" : {
@@ -6593,19 +6593,19 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ordenar por Fecha Límite"
+            "value" : "Ordenar por fecha límite"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ordenar por Fecha Límite"
+            "value" : "Ordenar por fecha límite"
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lajittele eräpäivän mukaan"
+            "value" : "Lajittele takarajan mukaan"
           }
         },
         "fr" : {
@@ -6647,7 +6647,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Urutkan Berdasarkan Batas Waktu"
+            "value" : "Urutkan Berdasarkan Tenggat Waktu"
           }
         },
         "it" : {
@@ -6790,7 +6790,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сортирай по падеж"
+            "value" : "Сортирай по краен срок"
           }
         },
         "ca" : {
@@ -6802,7 +6802,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Seřadit podle splatnosti"
+            "value" : "Seřadit podle termínu"
           }
         },
         "da" : {
@@ -6844,13 +6844,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ordenar por Fecha de Vencimiento"
+            "value" : "Ordenar por fecha de vencimiento"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ordenar por Fecha de Vencimiento"
+            "value" : "Ordenar por fecha de vencimiento"
           }
         },
         "fi" : {
@@ -6880,7 +6880,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "देय तिथि के अनुसार क्रमबद्ध करें"
+            "value" : "नियत तिथि के अनुसार क्रमबद्ध करें"
           }
         },
         "hr" : {
@@ -6916,19 +6916,19 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Соңғы мерзімі бойынша сұрыптау"
+            "value" : "Орындалу мерзімі бойынша сұрыптау"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "기한 기준 정렬"
+            "value" : "마감일 기준 정렬"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Susun Mengikut Tarikh Jatuh Tempo"
+            "value" : "Susun Mengikut Tarikh Tamat"
           }
         },
         "nb" : {
@@ -6946,7 +6946,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sortuj według daty wymagalności"
+            "value" : "Sortuj według terminu"
           }
         },
         "pt-BR" : {
@@ -6976,7 +6976,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zoradiť podľa splatnosti"
+            "value" : "Zoradiť podľa termínu"
           }
         },
         "sv" : {
@@ -6994,7 +6994,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vade Tarihine Göre Sırala"
+            "value" : "Son Tarihe Göre Sırala"
           }
         },
         "uk" : {
@@ -7095,13 +7095,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ordenar por Prioridad"
+            "value" : "Ordenar por prioridad"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ordenar por Prioridad"
+            "value" : "Ordenar por prioridad"
           }
         },
         "fi" : {
@@ -7167,7 +7167,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Приоритеті бойынша сұрыптау"
+            "value" : "Басымдық бойынша сұрыптау"
           }
         },
         "ko" : {
@@ -7257,7 +7257,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sắp Xếp Theo Độ Quan Trọng"
+            "value" : "Sắp Xếp Theo Mức Ưu Tiên"
           }
         },
         "zh-Hans" : {
@@ -7269,7 +7269,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "按優先級排序"
+            "value" : "按優先順序排序"
           }
         },
         "zh-HK" : {
@@ -7310,7 +7310,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Start Timer"
+            "value" : "Start timer"
           }
         },
         "de" : {
@@ -7322,7 +7322,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ξεκίνησε Χρονομετρητή"
+            "value" : "Έναρξη Χρονομέτρου"
           }
         },
         "en" : {
@@ -7346,13 +7346,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Iniciar Temporizador"
+            "value" : "Iniciar temporizador"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Iniciar Temporizador"
+            "value" : "Iniciar temporizador"
           }
         },
         "fi" : {
@@ -7436,7 +7436,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Start timer"
+            "value" : "Start tidtaker"
           }
         },
         "nl" : {
@@ -7466,7 +7466,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Începe Cronometrul"
+            "value" : "Începe cronometrul"
           }
         },
         "ru" : {
@@ -7490,13 +7490,13 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เริ่มต้นนับเวลา"
+            "value" : "เริ่มจับเวลา"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zamanlayıcı Başlat"
+            "value" : "Zamanlayıcıyı Başlat"
           }
         },
         "uk" : {
@@ -7508,7 +7508,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bắt đầu đồng hồ đếm ngược"
+            "value" : "Bắt đầu bộ đếm thời gian"
           }
         },
         "zh-Hans" : {
@@ -7573,7 +7573,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Σταμάτημα Χρονομέτρου"
+            "value" : "Διακοπή Χρονομέτρου"
           }
         },
         "en" : {
@@ -7597,13 +7597,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Detener Temporizador"
+            "value" : "Detener temporizador"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Detener Temporizador"
+            "value" : "Detener temporizador"
           }
         },
         "fi" : {
@@ -7615,13 +7615,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Arrêter le chrono"
+            "value" : "Arrêter le minuteur"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Arrêter le minuteur"
+            "value" : "Arrêter le chronomètre"
           }
         },
         "he" : {
@@ -7645,7 +7645,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Időzítő Megállítása"
+            "value" : "Időzítő megállítása"
           }
         },
         "id" : {
@@ -7687,19 +7687,19 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stopp timer"
+            "value" : "Stopp tidtaker"
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stop Timer"
+            "value" : "Stop timer"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zatrzymaj timer"
+            "value" : "Zatrzymaj stoper"
           }
         },
         "pt-BR" : {
@@ -7717,7 +7717,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Oprește Cronometrul"
+            "value" : "Oprește cronometrul"
           }
         },
         "ru" : {
@@ -7800,7 +7800,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rastrejar temps"
+            "value" : "Fes seguiment del temps"
           }
         },
         "cs" : {
@@ -7818,7 +7818,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zeit verfolgen"
+            "value" : "Zeit erfassen"
           }
         },
         "el" : {
@@ -7848,13 +7848,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rastrear Tiempo"
+            "value" : "Registrar tiempo"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Registrar Tiempo"
+            "value" : "Registrar tiempo"
           }
         },
         "fi" : {
@@ -7878,7 +7878,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "עקוב אחרי זמן"
+            "value" : "עקוב אחר הזמן"
           }
         },
         "hi" : {
@@ -7896,7 +7896,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Idő Nyomon Követése"
+            "value" : "Idő nyomon követése"
           }
         },
         "id" : {
@@ -7944,7 +7944,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tijd Volgen"
+            "value" : "Tijd volgen"
           }
         },
         "pl" : {
@@ -7956,13 +7956,13 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rastrear Tempo"
+            "value" : "Controlar Tempo"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rastrear Tempo"
+            "value" : "Registar Tempo"
           }
         },
         "ro" : {
@@ -7974,7 +7974,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Отследить время"
+            "value" : "Отслеживать время"
           }
         },
         "sk" : {
@@ -8039,7 +8039,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "استعادة الأرشيف"
+            "value" : "إلغاء الأرشفة"
           }
         },
         "bg" : {
@@ -8063,13 +8063,13 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fjern Arkivering"
+            "value" : "Fjern arkivering"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wiederherstellen"
+            "value" : "Archivierung aufheben"
           }
         },
         "el" : {
@@ -8129,7 +8129,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ביטול ארכיון"
+            "value" : "הוצא מהארכיון"
           }
         },
         "hi" : {
@@ -8153,7 +8153,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kembalikan Arsip"
+            "value" : "Keluarkan dari Arsip"
           }
         },
         "it" : {
@@ -8171,7 +8171,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Архивтен шығару"
+            "value" : "Мұрағаттан шығару"
           }
         },
         "ko" : {
@@ -8183,7 +8183,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pulihkan Arkib"
+            "value" : "Nyaharkib"
           }
         },
         "nb" : {
@@ -8195,7 +8195,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Herstel archief"
+            "value" : "Uit archief halen"
           }
         },
         "pl" : {
@@ -8219,7 +8219,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dezarchează"
+            "value" : "Dezarhivează"
           }
         },
         "ru" : {
@@ -8231,7 +8231,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Obnoviť archív"
+            "value" : "Zrušiť archiváciu"
           }
         },
         "sv" : {
@@ -8261,7 +8261,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Khôi Phục Lưu Trữ"
+            "value" : "Bỏ lưu trữ"
           }
         },
         "zh-Hans" : {
@@ -8273,13 +8273,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "取消檔案存檔"
+            "value" : "取消封存"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "取消檔案封存"
+            "value" : "取消封存"
           }
         }
       }
@@ -8320,13 +8320,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Loslösen"
+            "value" : "Lösen"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ξεκαρφώστε"
+            "value" : "Ξεκαρφίτσωμα"
           }
         },
         "en" : {
@@ -8362,13 +8362,13 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Irrota"
+            "value" : "Poista kiinnitys"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Détacher"
+            "value" : "Désépingler"
           }
         },
         "fr-CA" : {
@@ -8404,25 +8404,25 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lepas Pin dari \"Pernah Dipin\""
+            "value" : "Lepas Pin"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rimuovi Pin"
+            "value" : "Rimuovi dall'evidenza"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ピン固定を解除"
+            "value" : "ピン留めを解除"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Босату"
+            "value" : "Бекітуді алып тастау"
           }
         },
         "ko" : {
@@ -8434,19 +8434,19 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nyahpin"
+            "value" : "Nyahsemat"
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fjern festing"
+            "value" : "Løsne"
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Maak los"
+            "value" : "Losmaken"
           }
         },
         "pl" : {
@@ -8541,13 +8541,13 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "موكل إلى"
+            "value" : "مسند إلى"
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Назначен на"
+            "value" : "Възложено на"
           }
         },
         "ca" : {
@@ -8559,7 +8559,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Přiřazeno k"
+            "value" : "Přiřazeno"
           }
         },
         "da" : {
@@ -8577,7 +8577,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ανατεθεί στον"
+            "value" : "Ανατέθηκε σε"
           }
         },
         "en" : {
@@ -8601,19 +8601,19 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Asignado A"
+            "value" : "Asignado a"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Asignado A"
+            "value" : "Asignado a"
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vastuussa oleva henkilö"
+            "value" : "Vastuuhenkilö"
           }
         },
         "fr" : {
@@ -8637,7 +8637,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "असाइन किया गया"
+            "value" : "किसे सौंपा गया"
           }
         },
         "hr" : {
@@ -8715,7 +8715,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Atribuído A"
+            "value" : "Atribuído a"
           }
         },
         "ro" : {
@@ -8727,19 +8727,19 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Назначено для"
+            "value" : "Кому назначено"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Priradené k"
+            "value" : "Priradené komu"
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tillsatt till"
+            "value" : "Tilldelad till"
           }
         },
         "th" : {
@@ -8781,7 +8781,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "分配给"
+            "value" : "分配給"
           }
         }
       }
@@ -8792,13 +8792,13 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "الموكل"
+            "value" : "المسند إليه"
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Получател на задача"
+            "value" : "Изпълнител"
           }
         },
         "ca" : {
@@ -8816,7 +8816,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tager"
+            "value" : "Ansvarlig"
           }
         },
         "de" : {
@@ -8852,7 +8852,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Asignatario"
+            "value" : "Responsable"
           }
         },
         "es-419" : {
@@ -8864,13 +8864,13 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vastaava henkilö"
+            "value" : "Vastuuhenkilö"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Destinataire"
+            "value" : "Assigné·e"
           }
         },
         "fr-CA" : {
@@ -8882,13 +8882,13 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "מוסמך"
+            "value" : "אחראי/ת"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "असाइन"
+            "value" : "उत्तरदायी"
           }
         },
         "hr" : {
@@ -8900,7 +8900,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Assigned To"
+            "value" : "Felelős"
           }
         },
         "id" : {
@@ -8918,19 +8918,19 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "アサイン先"
+            "value" : "担当者"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ұстаушы"
+            "value" : "Орындаушы"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "과제"
+            "value" : "담당자"
           }
         },
         "ms" : {
@@ -8942,7 +8942,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tildelt person"
+            "value" : "Ansvarlig"
           }
         },
         "nl" : {
@@ -8966,7 +8966,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Atribuído"
+            "value" : "Responsável"
           }
         },
         "ro" : {
@@ -8984,7 +8984,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Priradenec"
+            "value" : "Priradená osoba"
           }
         },
         "sv" : {
@@ -9020,7 +9020,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "被分配人"
+            "value" : "负责人"
           }
         },
         "zh-Hant" : {
@@ -9294,7 +9294,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "اكتمل"
+            "value" : "مكتمل"
           }
         },
         "bg" : {
@@ -9474,7 +9474,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Finalizate"
+            "value" : "Finalizat"
           }
         },
         "ru" : {
@@ -9755,7 +9755,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yaratılış Tarihi"
+            "value" : "Oluşturulma Tarihi"
           }
         },
         "uk" : {
@@ -9779,13 +9779,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "製作日期"
+            "value" : "建立日期"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "製作日期"
+            "value" : "建立日期"
           }
         }
       }
@@ -10400,7 +10400,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skica"
+            "value" : "Nacrt"
           }
         },
         "hu" : {
@@ -10460,7 +10460,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Robocza"
+            "value" : "Szkic"
           }
         },
         "pt-BR" : {
@@ -10567,7 +10567,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Splatnost"
+            "value" : "Termín"
           }
         },
         "da" : {
@@ -10579,7 +10579,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abgabetermin"
+            "value" : "Fälligkeitsdatum"
           }
         },
         "el" : {
@@ -10615,13 +10615,13 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fecha de entrega"
+            "value" : "Fecha de vencimiento"
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Määräpäivä"
+            "value" : "Eräpäivä"
           }
         },
         "fr" : {
@@ -10693,7 +10693,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tarikh Jangka"
+            "value" : "Tarikh Tamat"
           }
         },
         "nb" : {
@@ -10717,7 +10717,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Data Limite"
+            "value" : "Data de Vencimento"
           }
         },
         "pt-PT" : {
@@ -10777,7 +10777,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "截止日期"
+            "value" : "到期日期"
           }
         },
         "zh-Hant" : {
@@ -10800,7 +10800,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "استحقاق اليوم"
+            "value" : "مستحق اليوم"
           }
         },
         "bg" : {
@@ -10812,13 +10812,13 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Per a avui"
+            "value" : "Per avui"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dnes splatné"
+            "value" : "Termín dnes"
           }
         },
         "da" : {
@@ -10830,7 +10830,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "fällig Heute"
+            "value" : "Heute fällig"
           }
         },
         "el" : {
@@ -10860,7 +10860,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vencimiento Hoy"
+            "value" : "Vence hoy"
           }
         },
         "es-419" : {
@@ -10896,13 +10896,13 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "आज की सीमा"
+            "value" : "आज देय"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Danas dospjelo"
+            "value" : "Dospijeva danas"
           }
         },
         "hu" : {
@@ -10926,7 +10926,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "今日の締切"
+            "value" : "今日が期限"
           }
         },
         "kk" : {
@@ -10938,43 +10938,43 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "오늘 기한"
+            "value" : "오늘 마감"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Due Hari Ini"
+            "value" : "Tamat Hari Ini"
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Forfall i dag"
+            "value" : "Forfaller i dag"
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vandaag Verschuldigd"
+            "value" : "Vervalt vandaag"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Termin Dzisiaj"
+            "value" : "Termin na dziś"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vencendo hoje"
+            "value" : "Vence hoje"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Devido Hoje"
+            "value" : "Para hoje"
           }
         },
         "ro" : {
@@ -10992,13 +10992,13 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dnes splatné"
+            "value" : "S termínom dnes"
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Förfall idag"
+            "value" : "Förfaller idag"
           }
         },
         "th" : {
@@ -11010,13 +11010,13 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bugün Vadesi Olan"
+            "value" : "Bugün Son Tarihli"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сьогодні строк"
+            "value" : "На сьогодні"
           }
         },
         "vi" : {
@@ -11057,7 +11057,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Време на край"
+            "value" : "Краен час"
           }
         },
         "ca" : {
@@ -11069,7 +11069,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Konečný čas"
+            "value" : "Čas ukončení"
           }
         },
         "da" : {
@@ -11087,7 +11087,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ωρα Λήξης"
+            "value" : "Ώρα λήξης"
           }
         },
         "en" : {
@@ -11111,7 +11111,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hora de Fin"
+            "value" : "Hora de fin"
           }
         },
         "es-419" : {
@@ -11159,7 +11159,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Befejezési Idő"
+            "value" : "Befejezési idő"
           }
         },
         "id" : {
@@ -11213,7 +11213,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Czas Zakończenia"
+            "value" : "Czas zakończenia"
           }
         },
         "pt-BR" : {
@@ -11231,7 +11231,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Timp de Finalizare"
+            "value" : "Ora de încheiere"
           }
         },
         "ru" : {
@@ -11314,7 +11314,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Arxius"
+            "value" : "Fitxers"
           }
         },
         "cs" : {
@@ -11446,7 +11446,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fail-Fail"
+            "value" : "Fail"
           }
         },
         "nb" : {
@@ -11787,7 +11787,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "檔案夾"
+            "value" : "資料夾"
           }
         },
         "zh-HK" : {
@@ -11804,7 +11804,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ملصقات"
+            "value" : "التسميات"
           }
         },
         "bg" : {
@@ -11936,7 +11936,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Тэгтер"
+            "value" : "Тегтер"
           }
         },
         "ko" : {
@@ -12115,13 +12115,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Última Modificación"
+            "value" : "Última modificación"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Última Modificación"
+            "value" : "Última modificación"
           }
         },
         "fi" : {
@@ -12151,7 +12151,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "अंतिम संशोधित"
+            "value" : "अंतिम बार संशोधित"
           }
         },
         "hr" : {
@@ -12199,7 +12199,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dikemaskini Terakhir"
+            "value" : "Dikemas kini kali terakhir"
           }
         },
         "nb" : {
@@ -12265,7 +12265,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Son Güncellenme"
+            "value" : "Son Düzenlenme"
           }
         },
         "uk" : {
@@ -12277,7 +12277,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lần cuối thay đổi"
+            "value" : "Sửa đổi lần cuối"
           }
         },
         "zh-Hans" : {
@@ -12324,7 +12324,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Upraveno podle"
+            "value" : "Upravil(a)"
           }
         },
         "da" : {
@@ -12336,7 +12336,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Modifiziert von"
+            "value" : "Geändert von"
           }
         },
         "el" : {
@@ -12402,13 +12402,13 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "द्वारा संशोधित"
+            "value" : "किसने संशोधित किया"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Izmijenjeno od"
+            "value" : "Autor izmjene"
           }
         },
         "hu" : {
@@ -12438,7 +12438,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Өзгертілді"
+            "value" : "Өзгерткен"
           }
         },
         "ko" : {
@@ -12480,7 +12480,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Modificado Por"
+            "value" : "Modificado por"
           }
         },
         "ro" : {
@@ -12492,7 +12492,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Изменено кем"
+            "value" : "Кем изменено"
           }
         },
         "sk" : {
@@ -12528,7 +12528,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Được sửa đổi bởi"
+            "value" : "Sửa đổi bởi"
           }
         },
         "zh-Hans" : {
@@ -12540,7 +12540,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "被修改者"
+            "value" : "最後修改者"
           }
         },
         "zh-HK" : {
@@ -12689,7 +12689,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ескертпелер"
+            "value" : "Жазбалар"
           }
         },
         "ko" : {
@@ -12785,7 +12785,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "备忘录"
+            "value" : "笔记"
           }
         },
         "zh-Hant" : {
@@ -12814,13 +12814,13 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Срокът изтече"
+            "value" : "Просрочено"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caducat"
+            "value" : "Vençut"
           }
         },
         "cs" : {
@@ -12832,7 +12832,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Forfaldent"
+            "value" : "Forfalden"
           }
         },
         "de" : {
@@ -12886,7 +12886,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "En Retard"
+            "value" : "En retard"
           }
         },
         "fr-CA" : {
@@ -12898,13 +12898,13 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "מאוחר"
+            "value" : "באיחור"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "समय पर नहीं"
+            "value" : "समय सीमा पार"
           }
         },
         "hr" : {
@@ -12934,7 +12934,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "期限超過"
+            "value" : "期限切れ"
           }
         },
         "kk" : {
@@ -12946,7 +12946,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "지연됨"
+            "value" : "마감일 지남"
           }
         },
         "ms" : {
@@ -12958,7 +12958,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Forsinket"
+            "value" : "Forfalt"
           }
         },
         "nl" : {
@@ -12982,7 +12982,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Atrasado"
+            "value" : "Em atraso"
           }
         },
         "ro" : {
@@ -13018,13 +13018,13 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gecikmeli"
+            "value" : "Süresi Geçmiş"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Просрочено"
+            "value" : "Прострочено"
           }
         },
         "vi" : {
@@ -13245,7 +13245,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Владелец:ца"
+            "value" : "Владелец"
           }
         },
         "sk" : {
@@ -13448,7 +13448,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "우선 순위"
+            "value" : "우선순위"
           }
         },
         "ms" : {
@@ -13585,7 +13585,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Status"
+            "value" : "Fremdrift"
           }
         },
         "de" : {
@@ -13669,7 +13669,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Folyamat"
+            "value" : "Előrehaladás"
           }
         },
         "id" : {
@@ -14016,7 +14016,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "โครงการ"
+            "value" : "โปรเจกต์"
           }
         },
         "tr" : {
@@ -14028,7 +14028,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Проект"
+            "value" : "Проєкт"
           }
         },
         "vi" : {
@@ -14273,7 +14273,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Anımsatıcılar"
+            "value" : "Hatırlatıcılar"
           }
         },
         "uk" : {
@@ -14314,7 +14314,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "مشاركة مع"
+            "value" : "تمت مشاركته مع"
           }
         },
         "bg" : {
@@ -14350,7 +14350,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Κοινό Με"
+            "value" : "Κοινή χρήση με"
           }
         },
         "en" : {
@@ -14380,13 +14380,13 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Compartido Con"
+            "value" : "Compartido con"
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Jaettu kanssasi"
+            "value" : "Jaettu muiden kanssa"
           }
         },
         "fr" : {
@@ -14422,7 +14422,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Megosztva Ezzel"
+            "value" : "Megosztva velük"
           }
         },
         "id" : {
@@ -14446,7 +14446,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Бөліністі"
+            "value" : "Кіммен бөлісілген"
           }
         },
         "ko" : {
@@ -14470,13 +14470,13 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gedeeld Met"
+            "value" : "Gedeeld met"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Udostępnione z"
+            "value" : "Udostępnione dla"
           }
         },
         "pt-BR" : {
@@ -14488,19 +14488,19 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Partilhado Com"
+            "value" : "Partilhado com"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Partajată Cu"
+            "value" : "Partajat cu"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Поделился с"
+            "value" : "Открыто для"
           }
         },
         "sk" : {
@@ -14524,7 +14524,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Paylaşılanlar"
+            "value" : "Paylaşılan Kişiler"
           }
         },
         "uk" : {
@@ -14631,7 +14631,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hora de Inicio"
+            "value" : "Hora de inicio"
           }
         },
         "fi" : {
@@ -14745,7 +14745,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ora de Începere"
+            "value" : "Ora de începere"
           }
         },
         "ru" : {
@@ -15139,7 +15139,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ala-tehtävät"
+            "value" : "Alatehtävät"
           }
         },
         "fr" : {
@@ -15175,7 +15175,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alafeladatok"
+            "value" : "Alfeladatok"
           }
         },
         "id" : {
@@ -15289,7 +15289,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Công việc con"
+            "value" : "Nhiệm vụ con"
           }
         },
         "zh-Hans" : {
@@ -15432,7 +15432,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Label"
+            "value" : "Tag"
           }
         },
         "it" : {
@@ -15468,7 +15468,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tags"
+            "value" : "Tagger"
           }
         },
         "nl" : {
@@ -15605,7 +15605,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Καθήκον"
+            "value" : "Εργασία"
           }
         },
         "en" : {
@@ -15755,7 +15755,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Задание"
+            "value" : "Задача"
           }
         },
         "sk" : {
@@ -15856,7 +15856,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Χρόνος που Περάσατε"
+            "value" : "Χρόνος που δαπανήθηκε"
           }
         },
         "en" : {
@@ -15880,13 +15880,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tiempo transcurrido"
+            "value" : "Tiempo dedicado"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tiempo Gastado"
+            "value" : "Tiempo transcurrido"
           }
         },
         "fi" : {
@@ -15928,7 +15928,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Eltöltött Idő"
+            "value" : "Eltöltött idő"
           }
         },
         "id" : {
@@ -15952,7 +15952,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Уақыт жұмсалды"
+            "value" : "Жұмсалған уақыт"
           }
         },
         "ko" : {
@@ -15970,13 +15970,13 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tid Brukt"
+            "value" : "Tid brukt"
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tijd Besteed"
+            "value" : "Bestede tijd"
           }
         },
         "pl" : {
@@ -16000,13 +16000,13 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Timp Trecut"
+            "value" : "Timp petrecut"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Проведенное время"
+            "value" : "Затраченное время"
           }
         },
         "sk" : {
@@ -16018,7 +16018,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tid Spenderad"
+            "value" : "Nedlagd tid"
           }
         },
         "th" : {
@@ -16036,19 +16036,19 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Час, витрачений"
+            "value" : "Витрачений час"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Thời gian đã tiêu"
+            "value" : "Thời gian đã sử dụng"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "耗费时间"
+            "value" : "耗时"
           }
         },
         "zh-Hant" : {
@@ -16137,7 +16137,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tiempo Total"
+            "value" : "Tiempo total"
           }
         },
         "fi" : {
@@ -16179,7 +16179,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Összes Idő"
+            "value" : "Összes idő"
           }
         },
         "id" : {
@@ -16227,7 +16227,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Totale Tijd"
+            "value" : "Totale tijd"
           }
         },
         "pl" : {
@@ -16251,7 +16251,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Timp Total"
+            "value" : "Timp total"
           }
         },
         "ru" : {
@@ -16269,7 +16269,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Total Tid"
+            "value" : "Total tid"
           }
         },
         "th" : {
@@ -16335,7 +16335,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Totes les tasques completes!"
+            "value" : "Totes les tasques completades!"
           }
         },
         "cs" : {
@@ -16395,13 +16395,13 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kaikki tehtävät suoritettu!"
+            "value" : "Kaikki tehtävät on suoritettu!"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Toutes les tâches sont complètes !"
+            "value" : "Toutes les tâches sont terminées !"
           }
         },
         "fr-CA" : {
@@ -16575,7 +16575,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تم إنشاء الواجب بنجاح."
+            "value" : "تم إنشاء التكليف بنجاح."
           }
         },
         "bg" : {
@@ -16635,13 +16635,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tarea creada con éxito."
+            "value" : "Asignación creada con éxito."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tarea creada con éxito."
+            "value" : "Asignación creada con éxito."
           }
         },
         "fi" : {
@@ -16653,7 +16653,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Devoir créé avec succès."
+            "value" : "Attribution créée avec succès."
           }
         },
         "fr-CA" : {
@@ -16665,7 +16665,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "המשימה נוצרה בהצלחה."
+            "value" : "ההקצאה נוצרה בהצלחה."
           }
         },
         "hi" : {
@@ -16677,7 +16677,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadatak je uspješno stvaran."
+            "value" : "Zadatak je uspješno kreiran."
           }
         },
         "hu" : {
@@ -16701,7 +16701,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "宿題が正常に作成されました。"
+            "value" : "割り当てが正常に作成されました。"
           }
         },
         "kk" : {
@@ -16713,7 +16713,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "과제가 성공적으로 생성되었습니다."
+            "value" : "작업이 성공적으로 할당되었습니다."
           }
         },
         "ms" : {
@@ -16725,7 +16725,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Oppgave opprettet."
+            "value" : "Oppgave opprettet med suksess."
           }
         },
         "nl" : {
@@ -16749,13 +16749,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tarefa criada com sucesso."
+            "value" : "Atribuição criada com sucesso."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tema a fost creată cu succes."
+            "value" : "Atribuirea a fost creată cu succes."
           }
         },
         "ru" : {
@@ -16803,13 +16803,13 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "作业已成功创建。"
+            "value" : "指派已成功创建。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "作業已成功建立。"
+            "value" : "指派已成功建立。"
           }
         },
         "zh-HK" : {
@@ -16839,7 +16839,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Els canvis se sincronitzaran quan tornis a estar en línia."
+            "value" : "Els canvis es sincronitzaran quan tornis a estar en línia."
           }
         },
         "cs" : {
@@ -16917,7 +16917,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "שינויים יסנכרנו כשתחזור לאינטרנט."
+            "value" : "השינויים יסנכרנו כשתהיה/י שוב מחובר/ת."
           }
         },
         "hi" : {
@@ -16995,7 +16995,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "As alterações serão sincronizadas quando você estiver de volta online."
+            "value" : "As alterações serão sincronizadas quando você estiver online novamente."
           }
         },
         "pt-PT" : {
@@ -17031,7 +17031,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การเปลี่ยนแปลงจะซิงค์เมื่อคุณกลับมาออนไลน์อีกครั้ง"
+            "value" : "การเปลี่ยนแปลงจะซิงค์เมื่อคุณกลับมาออนไลน์อีกครั้ง."
           }
         },
         "tr" : {
@@ -17055,13 +17055,13 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "更改会在您重新联机时同步。"
+            "value" : "更改会在你重新联机时同步。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "變更將在重新上線後同步。"
+            "value" : "變更將在重新連線後同步。"
           }
         },
         "zh-HK" : {
@@ -17085,7 +17085,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Нова задача е зададена на вас."
+            "value" : "Нова задача ти е възложена."
           }
         },
         "ca" : {
@@ -17097,7 +17097,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nový úkol byl přidělen."
+            "value" : "Nový úkol ti byl přidělen."
           }
         },
         "da" : {
@@ -17115,7 +17115,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Διαθέσιμη νέα εργασία για εσάς."
+            "value" : "Σου ανατέθηκε νέα εργασία."
           }
         },
         "en" : {
@@ -17157,13 +17157,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nouvelle tâche assignée à vous."
+            "value" : "Une nouvelle tâche vous a été assignée."
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nouvelle tâche vous ayant été assignée."
+            "value" : "Nouvelle tâche qui vous a été assignée."
           }
         },
         "he" : {
@@ -17181,7 +17181,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nova zadaća je dodijeljena vama."
+            "value" : "Novi zadatak ti je dodijeljen."
           }
         },
         "hu" : {
@@ -17199,7 +17199,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuova attività assegnata a te."
+            "value" : "Nuovo compito assegnato a te."
           }
         },
         "ja" : {
@@ -17217,7 +17217,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "당신에게 새로운 작업이 할당되었습니다."
+            "value" : "새 작업이 할당되었습니다."
           }
         },
         "ms" : {
@@ -17241,7 +17241,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nowe zadanie przydzielone do Ciebie."
+            "value" : "Nowe zadanie przydzielone do ciebie."
           }
         },
         "pt-BR" : {
@@ -17277,13 +17277,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ny uppgift tilldelad dig."
+            "value" : "Ny uppgift har tilldelats dig."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "มีมอบหมายงานใหม่ให้คุณแล้ว"
+            "value" : "มอบหมายงานใหม่ให้คุณแล้ว."
           }
         },
         "tr" : {
@@ -17313,13 +17313,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "有新任務分配給你。"
+            "value" : "有新任務指派給你。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "您已被分配新任務。"
+            "value" : "你已被分配新任務。"
           }
         }
       }
@@ -17367,7 +17367,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Δεν υπάρχουν καθήκοντα προγραμματισμένα σήμερα."
+            "value" : "Δεν υπάρχουν εργασίες που λήγουν σήμερα."
           }
         },
         "en" : {
@@ -17409,13 +17409,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aucune tâche à faire aujourd'hui."
+            "value" : "Aucune tâche à échéance aujourd'hui."
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aucune tâche due aujourd'hui."
+            "value" : "Aucune tâche à échéance aujourd'hui."
           }
         },
         "he" : {
@@ -17433,7 +17433,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nema zadataka koji su due danas."
+            "value" : "Nema zadataka koji dospijevaju danas."
           }
         },
         "hu" : {
@@ -17457,7 +17457,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "今日は期限があるタスクはありません。"
+            "value" : "本日が期限のタスクはありません。"
           }
         },
         "kk" : {
@@ -17487,7 +17487,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Geen taken vervallen vandaag."
+            "value" : "Vandaag vervallen er geen taken."
           }
         },
         "pl" : {
@@ -17499,7 +17499,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nenhuma tarefa devida hoje."
+            "value" : "Nenhuma tarefa vence hoje."
           }
         },
         "pt-PT" : {
@@ -17511,7 +17511,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nu aveți sarcini datorate astăzi."
+            "value" : "Nu ai sarcini scadente astăzi."
           }
         },
         "ru" : {
@@ -17523,7 +17523,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Žiadne úlohy dnes nesplnené."
+            "value" : "Dnes nie sú žiadne úlohy s termínom."
           }
         },
         "sv" : {
@@ -17547,7 +17547,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сьогодні немає термінових завдань."
+            "value" : "Сьогодні немає завдань із терміном виконання на сьогодні."
           }
         },
         "vi" : {
@@ -17655,7 +17655,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hanke on arkistoitu onnistuneesti."
+            "value" : "Projekti on arkistoitu onnistuneesti."
           }
         },
         "fr" : {
@@ -17691,7 +17691,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A projekt sikeresen archíválva."
+            "value" : "A projekt sikeresen archiválva."
           }
         },
         "id" : {
@@ -17715,13 +17715,13 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Жоба сәтті архивтелді."
+            "value" : "Жоба сәтті мұрағатталды."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "프로젝트가 성공적으로 아카이브되었습니다."
+            "value" : "프로젝트가 성공적으로 보관되었습니다."
           }
         },
         "ms" : {
@@ -17745,7 +17745,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Projekt archiwizowany pomyślnie."
+            "value" : "Projekt zarchiwizowano pomyślnie."
           }
         },
         "pt-BR" : {
@@ -17787,7 +17787,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "โครงการถูกเก็บถาวรเรียบร้อยแล้ว."
+            "value" : "โปรเจกต์ถูกเก็บถาวรเรียบร้อยแล้ว."
           }
         },
         "tr" : {
@@ -17799,7 +17799,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Проект успішно архівовано."
+            "value" : "Проєкт успішно архівовано."
           }
         },
         "vi" : {
@@ -17817,13 +17817,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "項目已成功歸檔。"
+            "value" : "專案已成功封存。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "項目已成功歸檔。"
+            "value" : "項目已成功封存。"
           }
         }
       }
@@ -17835,7 +17835,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "تم تعيين تذكير للقيام بمهمة معينة."
+            "value" : "تم تعيين تذكير لهذه المهمة."
           }
         },
         "bg" : {
@@ -17913,7 +17913,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rappel créé pour cette tâche."
+            "value" : "Rappel défini pour cette tâche."
           }
         },
         "fr-CA" : {
@@ -17931,13 +17931,13 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "इस कार्य के लिए अनुस्मारक सेट किया गया।"
+            "value" : "इस कार्य के लिए रिमाइंडर सेट किया गया।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Podsjetnik je postavljen za ovu zadaću."
+            "value" : "Podsjetnik je postavljen za ovaj zadatak."
           }
         },
         "hu" : {
@@ -17967,19 +17967,19 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Осы тапсырма үшін ескерту орнатылды."
+            "value" : "Осы тапсырма үшін еске салғыш орнатылды."
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "이 작업에 대한 알림이 설정되었습니다."
+            "value" : "이 작업에 대한 미리 알림이 설정되었습니다."
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pengingat telah ditetapkan untuk tugas ini."
+            "value" : "Peringatan telah ditetapkan untuk tugas ini."
           }
         },
         "nb" : {
@@ -18039,7 +18039,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ตั้งเตือนสำหรับงานนี้แล้ว"
+            "value" : "ตั้งเตือนสำหรับงานนี้แล้ว."
           }
         },
         "tr" : {
@@ -18069,7 +18069,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "此任務的提醒已設置。"
+            "value" : "此任務的提醒已設定。"
           }
         },
         "zh-HK" : {
@@ -18219,7 +18219,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Есеп сәтті түрде жасалды."
+            "value" : "Есеп сәтті жасалды."
           }
         },
         "ko" : {
@@ -18237,7 +18237,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rapporten ble generert."
+            "value" : "Rapporten ble generert vellykket."
           }
         },
         "nl" : {
@@ -18291,7 +18291,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "สร้างรายงานเรียบร้อยแล้ว"
+            "value" : "สร้างรายงานเรียบร้อยแล้ว."
           }
         },
         "tr" : {
@@ -18801,7 +18801,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Görev başarıyla tamamlandı."
+            "value" : "Görev başarıyla oluşturuldu."
           }
         },
         "uk" : {
@@ -18825,7 +18825,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "任務已成功創建。"
+            "value" : "任務已成功建立。"
           }
         },
         "zh-HK" : {
@@ -18867,7 +18867,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Opgave forfald om 5 minutter."
+            "value" : "Opgaven forfalder om 5 minutter."
           }
         },
         "de" : {
@@ -18909,7 +18909,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tarea vencida en 5 minutos."
+            "value" : "La tarea vence en 5 minutos."
           }
         },
         "fi" : {
@@ -18921,19 +18921,19 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tâche due dans 5 minutes."
+            "value" : "Tâche à échéance dans 5 minutes."
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tâche due dans 5 minutes."
+            "value" : "Tâche à échéance dans 5 minutes."
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "המשימה אמורה להסתיים תוך 5 דקות."
+            "value" : "המשימה אמורה להסתיים בעוד 5 דקות."
           }
         },
         "hi" : {
@@ -18945,7 +18945,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadatak je dužan za 5 minuta."
+            "value" : "Zadatak dospijeva za 5 minuta."
           }
         },
         "hu" : {
@@ -18969,7 +18969,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "タスクは5分後に期限切れです。"
+            "value" : "タスクの期限は5分後です。"
           }
         },
         "kk" : {
@@ -18999,7 +18999,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Taak binnen 5 minuten vervallen."
+            "value" : "Taak vervalt over 5 minuten."
           }
         },
         "pl" : {
@@ -19017,13 +19017,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tarefa com data de entrega em 5 minutos."
+            "value" : "Tarefa com prazo para daqui a 5 minutos."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sarcina este dator în 5 minute."
+            "value" : "Sarcina este scadentă în 5 minute."
           }
         },
         "ru" : {
@@ -19035,7 +19035,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Úloha je splatná za 5 minút."
+            "value" : "Úloha má termín o 5 minút."
           }
         },
         "sv" : {
@@ -19167,7 +19167,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tehtävälista on tyhjentynyt."
+            "value" : "Tehtävälista on tyhjä."
           }
         },
         "fr" : {
@@ -19215,7 +19215,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "La lista delle attività è vuota."
+            "value" : "La lista dei compiti è vuota."
           }
         },
         "ja" : {
@@ -19329,7 +19329,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "任務列表為空。"
+            "value" : "任務清單為空。"
           }
         },
         "zh-HK" : {
@@ -19479,7 +19479,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Бұл папка бос."
+            "value" : "Бұл қалта бос."
           }
         },
         "ko" : {
@@ -19539,7 +19539,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Táto zložka je prázdna."
+            "value" : "Tento priečinok je prázdny."
           }
         },
         "sv" : {
@@ -19551,7 +19551,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "โฟลเดอร์นี้ว่างเปล่า"
+            "value" : "โฟลเดอร์นี้ว่างเปล่า."
           }
         },
         "tr" : {
@@ -19587,7 +19587,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "此文件夾為空。"
+            "value" : "此資料夾為空。"
           }
         }
       }
@@ -19599,7 +19599,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "بدأت تتبع الوقت."
+            "value" : "بدأ تتبع الوقت."
           }
         },
         "bg" : {
@@ -19671,13 +19671,13 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ajaseuranta aloitettu."
+            "value" : "Ajanseuranta aloitettu."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Suivi du temps commencé."
+            "value" : "Le suivi du temps a démarré."
           }
         },
         "fr-CA" : {
@@ -19731,7 +19731,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Уақыт бақылау басталды."
+            "value" : "Уақытты бақылау басталды."
           }
         },
         "ko" : {
@@ -19767,13 +19767,13 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rastreamento de tempo iniciado."
+            "value" : "Controle de tempo iniciado."
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "O rastreamento de tempo começou."
+            "value" : "O registo de tempo foi iniciado."
           }
         },
         "ro" : {
@@ -19803,7 +19803,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เริ่มการติดตามเวลาแล้ว"
+            "value" : "เริ่มการติดตามเวลาแล้ว."
           }
         },
         "tr" : {
@@ -19839,7 +19839,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "時間跟踪已開始。"
+            "value" : "時間追蹤已開始。"
           }
         }
       }
@@ -19863,13 +19863,13 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Els teus canvis han estat enregistrats."
+            "value" : "Els teus canvis s'han desat."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vaše změny byly uloženy."
+            "value" : "Tvoje změny byly uloženy."
           }
         },
         "da" : {
@@ -19887,7 +19887,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Οι αλλαγές σας έχουν αποθηκευτεί."
+            "value" : "Οι αλλαγές σου έχουν αποθηκευτεί."
           }
         },
         "en" : {
@@ -19929,7 +19929,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vos changements sont enregistrés."
+            "value" : "Vos modifications sont enregistrées."
           }
         },
         "fr-CA" : {
@@ -19953,7 +19953,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vaše promjene su spremljene."
+            "value" : "Tvoje promjene su spremljene."
           }
         },
         "hu" : {
@@ -19989,7 +19989,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "변경사항이 저장되었습니다."
+            "value" : "변경 사항이 저장되었습니다."
           }
         },
         "ms" : {
@@ -20079,19 +20079,19 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "您的更改已保存。"
+            "value" : "你的更改已保存。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "您的更改已保存。"
+            "value" : "你的變更已儲存。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "您的更改已儲存。"
+            "value" : "你的更改已儲存。"
           }
         }
       }
@@ -20120,7 +20120,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Přidat popis…"
+            "value" : "Přidej popis…"
           }
         },
         "da" : {
@@ -20485,7 +20485,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ескерту қосу…"
+            "value" : "Жазба қосу…"
           }
         },
         "ko" : {
@@ -20581,19 +20581,19 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加备注…"
+            "value" : "添加笔记…"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加備註…"
+            "value" : "新增備註…"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加备注…"
+            "value" : "添加備註…"
           }
         }
       }
@@ -20604,7 +20604,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "أضف علامة…"
+            "value" : "أضف وسمًا…"
           }
         },
         "bg" : {
@@ -20622,7 +20622,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Přidej tag…"
+            "value" : "Přidej štítek…"
           }
         },
         "da" : {
@@ -20688,13 +20688,13 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ajouter un tag…"
+            "value" : "Ajouter une étiquette…"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הוסף תו…"
+            "value" : "הוסף תג…"
           }
         },
         "hi" : {
@@ -20724,7 +20724,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aggiungi un’etichetta…"
+            "value" : "Aggiungi un tag…"
           }
         },
         "ja" : {
@@ -20736,7 +20736,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Этикет қосу…"
+            "value" : "Тег қосу…"
           }
         },
         "ko" : {
@@ -20754,7 +20754,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Legg til et tagg…"
+            "value" : "Legg til en tagg…"
           }
         },
         "nl" : {
@@ -20784,13 +20784,13 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adaugă un tag…"
+            "value" : "Adaugă o etichetă…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавьте тег…"
+            "value" : "Добавить тег…"
           }
         },
         "sk" : {
@@ -20838,13 +20838,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加標籤…"
+            "value" : "新增標籤…"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加标签…"
+            "value" : "添加標籤…"
           }
         }
       }
@@ -20867,13 +20867,13 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Afegiu una subtasca…"
+            "value" : "Afegeix una subtasca…"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Přidat podúkol…"
+            "value" : "Přidej podúkol…"
           }
         },
         "da" : {
@@ -20927,7 +20927,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lisää alitehtävä…"
+            "value" : "Lisää alatehtävä…"
           }
         },
         "fr" : {
@@ -21035,7 +21035,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adaugă subtask…"
+            "value" : "Adaugă un subtask…"
           }
         },
         "ru" : {
@@ -21077,7 +21077,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Thêm tác vụ con…"
+            "value" : "Thêm nhiệm vụ con…"
           }
         },
         "zh-Hans" : {
@@ -21095,7 +21095,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "新增子任务…"
+            "value" : "新增子任務…"
           }
         }
       }
@@ -21124,7 +21124,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Přidat detaily úkolu…"
+            "value" : "Přidej detaily úkolu…"
           }
         },
         "da" : {
@@ -21166,7 +21166,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Añadir detalles de tarea…"
+            "value" : "Añadir detalles de la tarea…"
           }
         },
         "es-419" : {
@@ -21202,7 +21202,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "काम का विवरण जोड़ें…"
+            "value" : "कार्य का विवरण जोड़ें…"
           }
         },
         "hr" : {
@@ -21214,7 +21214,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Feladat részletek hozzáadása…"
+            "value" : "Feladat részleteinek hozzáadása…"
           }
         },
         "id" : {
@@ -21226,7 +21226,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aggiungi dettagli dell'attività…"
+            "value" : "Aggiungi dettagli del compito…"
           }
         },
         "ja" : {
@@ -21328,7 +21328,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Thêm chi tiết tác vụ…"
+            "value" : "Thêm chi tiết nhiệm vụ…"
           }
         },
         "zh-Hans" : {
@@ -21340,7 +21340,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加任務詳情…"
+            "value" : "新增任務詳細資訊…"
           }
         },
         "zh-HK" : {
@@ -21375,7 +21375,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vytvořit novou složku…"
+            "value" : "Vytvoř novou složku…"
           }
         },
         "da" : {
@@ -21489,7 +21489,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Жаңа бума жасау…"
+            "value" : "Жаңа қалта жасау…"
           }
         },
         "ko" : {
@@ -21549,7 +21549,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vytvoriť novú zložku…"
+            "value" : "Vytvoriť nový priečinok…"
           }
         },
         "sv" : {
@@ -21567,7 +21567,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yeni klasör oluşturuluyor…"
+            "value" : "Yeni klasör oluştur…"
           }
         },
         "uk" : {
@@ -21579,7 +21579,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đang tạo thư mục mới…"
+            "value" : "Tạo thư mục mới…"
           }
         },
         "zh-Hans" : {
@@ -21626,7 +21626,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vytvořit nový projekt…"
+            "value" : "Vytvoř nový projekt…"
           }
         },
         "da" : {
@@ -21704,7 +21704,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "नया प्रोजेक्ट बनाएं…"
+            "value" : "नई परियोजना बनाएं…"
           }
         },
         "hr" : {
@@ -21818,19 +21818,19 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yeni proje oluşturuluyor…"
+            "value" : "Yeni proje oluştur…"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Створити новий проект…"
+            "value" : "Створити новий проєкт…"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đang tạo dự án mới…"
+            "value" : "Tạo dự án mới…"
           }
         },
         "zh-Hans" : {
@@ -21979,13 +21979,13 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Descrivi il tuo incarico…"
+            "value" : "Descrivi il tuo compito…"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "タスクを説明中…"
+            "value" : "タスクの説明を入力…"
           }
         },
         "kk" : {
@@ -22045,7 +22045,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Опишите вашу задачу…"
+            "value" : "Опиши задачу…"
           }
         },
         "sk" : {
@@ -22081,7 +22081,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mô tả công việc của bạn…"
+            "value" : "Mô tả nhiệm vụ của bạn…"
           }
         },
         "zh-Hans" : {
@@ -22128,7 +22128,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadejte termín…"
+            "value" : "Zadej termín…"
           }
         },
         "da" : {
@@ -22146,7 +22146,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε προθεσμία…"
+            "value" : "Πληκτρολόγησε προθεσμία…"
           }
         },
         "en" : {
@@ -22170,7 +22170,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ingresa la fecha límite…"
+            "value" : "Introduce la fecha límite…"
           }
         },
         "es-419" : {
@@ -22194,7 +22194,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entre la date limite…"
+            "value" : "Entrez la date limite…"
           }
         },
         "he" : {
@@ -22206,7 +22206,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "अंतिम तिथि दर्ज करें…"
+            "value" : "समय सीमा दर्ज करें…"
           }
         },
         "hr" : {
@@ -22284,7 +22284,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduza o prazo…"
+            "value" : "Introduz o prazo…"
           }
         },
         "ro" : {
@@ -22296,7 +22296,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введите крайний срок…"
+            "value" : "Введи крайний срок…"
           }
         },
         "sk" : {
@@ -22373,13 +22373,13 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdueix la data d'entrega…"
+            "value" : "Introdueix la data de venciment…"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadejte termín splatnosti…"
+            "value" : "Zadej termín dokončení…"
           }
         },
         "da" : {
@@ -22397,7 +22397,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε προθεσμία…"
+            "value" : "Πληκτρολόγησε ημερομηνία λήξης…"
           }
         },
         "en" : {
@@ -22421,7 +22421,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ingresa la fecha de vencimiento…"
+            "value" : "Introduce la fecha de vencimiento…"
           }
         },
         "es-419" : {
@@ -22445,19 +22445,19 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entre la date d'échéance…"
+            "value" : "Entrez la date d'échéance…"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הזן תאריך due…"
+            "value" : "הזן תאריך יעד…"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "अव_due तिथि दर्ज करें…"
+            "value" : "नियत तिथि दर्ज करें…"
           }
         },
         "hr" : {
@@ -22487,7 +22487,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "期限日を入力…"
+            "value" : "期限を入力…"
           }
         },
         "kk" : {
@@ -22499,13 +22499,13 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "납기일을 입력하세요…"
+            "value" : "마감일을 입력하세요…"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Masukkan tarikh jatuh tempo…"
+            "value" : "Masukkan tarikh tamat…"
           }
         },
         "nb" : {
@@ -22523,7 +22523,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wprowadź datę wygaśnięcia…"
+            "value" : "Wprowadź termin…"
           }
         },
         "pt-BR" : {
@@ -22535,7 +22535,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduza a data de entrega…"
+            "value" : "Introduz a data de entrega…"
           }
         },
         "ro" : {
@@ -22547,13 +22547,13 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введите срок выполнения…"
+            "value" : "Введи срок выполнения…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj termín splatnosti…"
+            "value" : "Zadaj termín…"
           }
         },
         "sv" : {
@@ -22577,7 +22577,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введіть термін кінцевої дати…"
+            "value" : "Введіть термін виконання…"
           }
         },
         "vi" : {
@@ -22630,7 +22630,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadejte název projektu…"
+            "value" : "Zadej název projektu…"
           }
         },
         "da" : {
@@ -22648,7 +22648,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Βάλε το όνομα έργου…"
+            "value" : "Βάλε το όνομα του έργου…"
           }
         },
         "en" : {
@@ -22672,7 +22672,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduce nombre del proyecto…"
+            "value" : "Introduce el nombre del proyecto…"
           }
         },
         "es-419" : {
@@ -22708,7 +22708,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "प्रोजेक्ट का नाम दर्ज करें…"
+            "value" : "परियोजना का नाम दर्ज करें…"
           }
         },
         "hr" : {
@@ -22750,7 +22750,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "프로젝트 이름 입력…"
+            "value" : "프로젝트 이름을 입력하세요…"
           }
         },
         "ms" : {
@@ -22786,19 +22786,19 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduza o nome do projeto…"
+            "value" : "Introduz o nome do projeto…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduceti numele proiectului…"
+            "value" : "Introdu numele proiectului…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введите название проекта…"
+            "value" : "Введи название проекта…"
           }
         },
         "sk" : {
@@ -22816,7 +22816,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กรอกชื่อโครงการ…"
+            "value" : "กรอกชื่อโปรเจกต์…"
           }
         },
         "tr" : {
@@ -22828,7 +22828,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введіть назву проекту…"
+            "value" : "Введіть назву проєкту…"
           }
         },
         "vi" : {
@@ -22881,7 +22881,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadejte popis úkolu…"
+            "value" : "Zadej popis úkolu…"
           }
         },
         "da" : {
@@ -22899,7 +22899,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε περιγραφή εργασίας…"
+            "value" : "Πληκτρολόγησε περιγραφή εργασίας…"
           }
         },
         "en" : {
@@ -23001,13 +23001,13 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "작업 설명 입력…"
+            "value" : "작업 설명을 입력하세요…"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Masukkan deskripsi tugasan…"
+            "value" : "Masukkan perihalan tugasan…"
           }
         },
         "nb" : {
@@ -23037,7 +23037,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduza a descrição da tarefa…"
+            "value" : "Introduz a descrição da tarefa…"
           }
         },
         "ro" : {
@@ -23049,7 +23049,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введите описание задачи…"
+            "value" : "Введи описание задачи…"
           }
         },
         "sk" : {
@@ -23132,7 +23132,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadejte název úkolu…"
+            "value" : "Zadej název úkolu…"
           }
         },
         "da" : {
@@ -23150,7 +23150,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε τίτλο εργασίας…"
+            "value" : "Πληκτρολόγησε τίτλο εργασίας…"
           }
         },
         "en" : {
@@ -23246,13 +23246,13 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Тапсырыстың тақырыбын енгізіңіз…"
+            "value" : "Тапсырманың тақырыбын енгізіңіз…"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "작업 제목 입력…"
+            "value" : "작업 제목을 입력하세요…"
           }
         },
         "ms" : {
@@ -23288,19 +23288,19 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduza o título da tarefa…"
+            "value" : "Introduz o título da tarefa…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu titlul taskului…"
+            "value" : "Introdu titlul sarcinii…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введите название задачи…"
+            "value" : "Введи название задачи…"
           }
         },
         "sk" : {
@@ -23377,13 +23377,13 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdueix temps dedicat…"
+            "value" : "Introdueix el temps dedicat…"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadejte čas strávený…"
+            "value" : "Zadej čas strávený…"
           }
         },
         "da" : {
@@ -23401,7 +23401,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε χρόνο που δαπανήθηκε…"
+            "value" : "Καταχώρισε τον χρόνο που δαπανήθηκε…"
           }
         },
         "en" : {
@@ -23455,7 +23455,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הזן זמן שהייה…"
+            "value" : "הזן זמן מושקע…"
           }
         },
         "hi" : {
@@ -23503,7 +23503,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "소요 시간 입력…"
+            "value" : "소요 시간을 입력하세요…"
           }
         },
         "ms" : {
@@ -23539,7 +23539,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduza o tempo gasto…"
+            "value" : "Introduz o tempo gasto…"
           }
         },
         "ro" : {
@@ -23551,7 +23551,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введите затраченное время…"
+            "value" : "Введи затраченное время…"
           }
         },
         "sk" : {
@@ -23593,7 +23593,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "请输入时间…"
+            "value" : "请输入耗时…"
           }
         },
         "zh-Hant" : {
@@ -23688,7 +23688,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Uuden kansiosi nimi…"
+            "value" : "Uuden kansion nimi…"
           }
         },
         "fr" : {
@@ -23712,7 +23712,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "नई फ़ोल्डर का नाम…"
+            "value" : "नए फ़ोल्डर का नाम…"
           }
         },
         "hr" : {
@@ -23742,13 +23742,13 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "新規フォルダー名…"
+            "value" : "新規フォルダ名…"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Жаңа папка атауы…"
+            "value" : "Жаңа қалта атауы…"
           }
         },
         "ko" : {
@@ -23808,7 +23808,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Názov novej zložky…"
+            "value" : "Názov nového priečinka…"
           }
         },
         "sv" : {
@@ -23856,7 +23856,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "新文件夾名稱…"
+            "value" : "新資料夾名稱…"
           }
         }
       }
@@ -23939,7 +23939,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Uuden projektisi nimi…"
+            "value" : "Uuden projektin nimi…"
           }
         },
         "fr" : {
@@ -23963,7 +23963,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "नए प्रोजेक्ट का नाम…"
+            "value" : "नई परियोजना का नाम…"
           }
         },
         "hr" : {
@@ -24071,7 +24071,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ชื่อโครงการใหม่…"
+            "value" : "ชื่อโปรเจกต์ใหม่…"
           }
         },
         "tr" : {
@@ -24083,7 +24083,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Назва нового проекту…"
+            "value" : "Назва нового проєкту…"
           }
         },
         "vi" : {
@@ -24190,7 +24190,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Uuden tehtäväsi nimi…"
+            "value" : "Uuden tehtävän nimi…"
           }
         },
         "fr" : {
@@ -24220,7 +24220,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Naziv nove zadaće…"
+            "value" : "Naziv novog zadatka…"
           }
         },
         "hu" : {
@@ -24238,7 +24238,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nome della nuova attività…"
+            "value" : "Nome del nuovo compito…"
           }
         },
         "ja" : {
@@ -24322,7 +24322,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ชื่อกิจกรรมใหม่…"
+            "value" : "ชื่องานใหม่…"
           }
         },
         "tr" : {
@@ -24441,7 +24441,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ei löytynyt tehtäviä…"
+            "value" : "Tehtäviä ei löytynyt…"
           }
         },
         "fr" : {
@@ -24471,7 +24471,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nema pronađenih zadaća…"
+            "value" : "Nema pronađenih zadataka…"
           }
         },
         "hu" : {
@@ -24573,7 +24573,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ไม่มีงานใด ๆ…"
+            "value" : "ไม่มีงานใดๆ…"
           }
         },
         "tr" : {
@@ -24603,7 +24603,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "未找到任務..."
+            "value" : "未找到任務…"
           }
         },
         "zh-HK" : {
@@ -24752,7 +24752,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Тапсырмаларды іздеңіз..."
+            "value" : "Тапсырмаларды іздеңіз…"
           }
         },
         "ko" : {
@@ -24782,7 +24782,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Szukaj zadań..."
+            "value" : "Szukaj zadań…"
           }
         },
         "pt-BR" : {
@@ -24877,19 +24877,19 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Настрой време за напомняне..."
+            "value" : "Настрой време за напомняне…"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Estableix hora del recordatori…"
+            "value" : "Estableix l'hora del recordatori…"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stanovit čas připomínky…"
+            "value" : "Nastav čas připomínky…"
           }
         },
         "da" : {
@@ -24907,7 +24907,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ορίζω χρόνο υπενθύμισης…"
+            "value" : "Όρισε χρόνο υπενθύμισης…"
           }
         },
         "en" : {
@@ -24931,7 +24931,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Establecer hora de recordatorio…"
+            "value" : "Establecer la hora del recordatorio…"
           }
         },
         "es-419" : {
@@ -24967,7 +24967,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "अनुस्मारक समय सेट करें…"
+            "value" : "रिमाइंडर समय सेट करें…"
           }
         },
         "hr" : {
@@ -24979,7 +24979,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Emlékeztető idő beállítása…"
+            "value" : "Emlékeztető időpontjának beállítása…"
           }
         },
         "id" : {
@@ -25003,13 +25003,13 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ескерту уақытын орнатыңыз…"
+            "value" : "Еске салу уақытын орнатыңыз…"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "알림 시간 설정…"
+            "value" : "미리 알림 시간을 설정하세요…"
           }
         },
         "ms" : {
@@ -25075,7 +25075,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ตั้งเวลาการเตือนความจำ…"
+            "value" : "ตั้งเวลาเตือนความจำ…"
           }
         },
         "tr" : {
@@ -25111,7 +25111,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "設好設置提醒時間…"
+            "value" : "設定提醒時間…"
           }
         }
       }

@@ -103,7 +103,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "संगठित करें"
+            "value" : "संरेखित करें"
           }
         },
         "hr" : {
@@ -139,7 +139,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сәйкестендіру"
+            "value" : "Туралау"
           }
         },
         "ko" : {
@@ -151,7 +151,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Jarak"
+            "value" : "Jajar"
           }
         },
         "nb" : {
@@ -247,7 +247,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "对齐"
+            "value" : "對齊"
           }
         }
       }
@@ -384,19 +384,19 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "整理する"
+            "value" : "配置する"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Жоспарлау"
+            "value" : "Реттеу"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "정리"
+            "value" : "배치"
           }
         },
         "ms" : {
@@ -515,7 +515,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Смесете"
+            "value" : "Смеси"
           }
         },
         "ca" : {
@@ -545,7 +545,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Αναμείξτε"
+            "value" : "Ανάμειξη"
           }
         },
         "en" : {
@@ -611,7 +611,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Poveži"
+            "value" : "Stopi"
           }
         },
         "hu" : {
@@ -623,7 +623,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Campur"
+            "value" : "Padukan"
           }
         },
         "it" : {
@@ -653,7 +653,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "混合"
+            "value" : "Adun"
           }
         },
         "nb" : {
@@ -665,7 +665,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mixen"
+            "value" : "Mengen"
           }
         },
         "pl" : {
@@ -737,7 +737,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "融合"
+            "value" : "混合"
           }
         },
         "zh-Hant" : {
@@ -772,7 +772,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Escapçar"
+            "value" : "Retallar"
           }
         },
         "cs" : {
@@ -796,7 +796,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Αποκοπή"
+            "value" : "Περικοπή"
           }
         },
         "en" : {
@@ -874,7 +874,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Potong"
+            "value" : "Pangkas"
           }
         },
         "it" : {
@@ -916,7 +916,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Snij Bij"
+            "value" : "Bijsnijden"
           }
         },
         "pl" : {
@@ -940,7 +940,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Decupare"
+            "value" : "Decupează"
           }
         },
         "ru" : {
@@ -1017,7 +1017,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Запази"
+            "value" : "Персонализирай"
           }
         },
         "ca" : {
@@ -1059,7 +1059,7 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Customize"
+            "value" : "Customise"
           }
         },
         "en-GB" : {
@@ -1167,7 +1167,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pas Aan…"
+            "value" : "Aanpassen"
           }
         },
         "pl" : {
@@ -1215,7 +1215,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กำหนดเอง"
+            "value" : "ปรับแต่ง"
           }
         },
         "tr" : {
@@ -1286,7 +1286,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dubler"
+            "value" : "Dupliker"
           }
         },
         "de" : {
@@ -1298,7 +1298,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Διπλότυπο"
+            "value" : "Διπλασιασμός"
           }
         },
         "en" : {
@@ -1442,7 +1442,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Duplicați"
+            "value" : "Duplică"
           }
         },
         "ru" : {
@@ -1513,13 +1513,13 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "املأ"
+            "value" : "تعبئة"
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Попълни"
+            "value" : "Запълни"
           }
         },
         "ca" : {
@@ -1573,7 +1573,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Llenar"
+            "value" : "Rellenar"
           }
         },
         "es-419" : {
@@ -1711,7 +1711,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fyll i"
+            "value" : "Fyll"
           }
         },
         "th" : {
@@ -1735,7 +1735,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Điền"
+            "value" : "Tô"
           }
         },
         "zh-Hans" : {
@@ -1776,7 +1776,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gira"
+            "value" : "Girar"
           }
         },
         "cs" : {
@@ -1800,7 +1800,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Αναποδογύρισε"
+            "value" : "Αναστροφή"
           }
         },
         "en" : {
@@ -1872,7 +1872,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Flip"
+            "value" : "Tükrözés"
           }
         },
         "id" : {
@@ -1896,7 +1896,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Айналдыру"
+            "value" : "Аудару"
           }
         },
         "ko" : {
@@ -1920,13 +1920,13 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Draaien"
+            "value" : "Omdraaien"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Obróć"
+            "value" : "Odbij"
           }
         },
         "pt-BR" : {
@@ -1974,7 +1974,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Döndür"
+            "value" : "Ters Çevir"
           }
         },
         "uk" : {
@@ -2004,7 +2004,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "翻转"
+            "value" : "翻轉"
           }
         }
       }
@@ -2015,43 +2015,43 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "مجموعة"
+            "value" : "تجميع"
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Група"
+            "value" : "Групирай"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Grup"
+            "value" : "Agrupar"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skupina"
+            "value" : "Seskupit"
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gruppe"
+            "value" : "Gruppér"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gruppe"
+            "value" : "Gruppieren"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ομάδα"
+            "value" : "Ομαδοποίηση"
           }
         },
         "en" : {
@@ -2075,7 +2075,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Grupo"
+            "value" : "Agrupar"
           }
         },
         "es-419" : {
@@ -2087,13 +2087,13 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ryhmä"
+            "value" : "Ryhmitä"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Groupe"
+            "value" : "Grouper"
           }
         },
         "fr-CA" : {
@@ -2105,25 +2105,25 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "קבוצה"
+            "value" : "קבץ"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "समूह"
+            "value" : "समूहित करें"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Grupa"
+            "value" : "Grupiraj"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Csoport"
+            "value" : "Csoportosítás"
           }
         },
         "id" : {
@@ -2147,19 +2147,19 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Топ"
+            "value" : "Топтастыру"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "그룹"
+            "value" : "그룹화"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kumpulan"
+            "value" : "Kumpulkan"
           }
         },
         "nb" : {
@@ -2171,31 +2171,31 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Groep"
+            "value" : "Groepeer"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Grupa"
+            "value" : "Zgrupuj"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Grupo"
+            "value" : "Agrupar"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Grupo"
+            "value" : "Agrupar"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Grup"
+            "value" : "Grupează"
           }
         },
         "ru" : {
@@ -2213,25 +2213,25 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Grupp"
+            "value" : "Gruppera"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "กลุ่ม"
+            "value" : "จัดกลุ่ม"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Grup"
+            "value" : "Gruplandır"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Група"
+            "value" : "Згрупувати"
           }
         },
         "vi" : {
@@ -2243,7 +2243,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "群组"
+            "value" : "分组"
           }
         },
         "zh-Hant" : {
@@ -2266,7 +2266,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "أخفي"
+            "value" : "قناع"
           }
         },
         "bg" : {
@@ -2290,7 +2290,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Masker"
+            "value" : "Maskér"
           }
         },
         "de" : {
@@ -2332,7 +2332,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Máscara"
+            "value" : "Enmascarar"
           }
         },
         "fi" : {
@@ -2356,7 +2356,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "מסיכה"
+            "value" : "מסכה"
           }
         },
         "hi" : {
@@ -2398,7 +2398,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Бұғаттау"
+            "value" : "Маскалау"
           }
         },
         "ko" : {
@@ -2410,7 +2410,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tutup"
+            "value" : "Topengkan"
           }
         },
         "nb" : {
@@ -2428,13 +2428,13 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zasłoń"
+            "value" : "Maskuj"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Máscara"
+            "value" : "Mascarar"
           }
         },
         "pt-PT" : {
@@ -2452,13 +2452,13 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Скрыть"
+            "value" : "Маскировать"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Maska"
+            "value" : "Maskovať"
           }
         },
         "sv" : {
@@ -2488,7 +2488,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Che"
+            "value" : "Mặt nạ"
           }
         },
         "zh-Hans" : {
@@ -2517,19 +2517,19 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "مرآة"
+            "value" : "انعكاس"
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Огледало"
+            "value" : "Огледално обърни"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reflexa"
+            "value" : "Reflectir"
           }
         },
         "cs" : {
@@ -2541,7 +2541,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Spejle"
+            "value" : "Spejlvend"
           }
         },
         "de" : {
@@ -2553,7 +2553,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Καθρέφτης"
+            "value" : "Καθρεφτισμός"
           }
         },
         "en" : {
@@ -2577,7 +2577,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Espejar"
+            "value" : "Reflejar"
           }
         },
         "es-419" : {
@@ -2595,7 +2595,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Miroiter"
+            "value" : "Mettre en miroir"
           }
         },
         "fr-CA" : {
@@ -2607,7 +2607,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "כפול"
+            "value" : "שיקוף"
           }
         },
         "hi" : {
@@ -2625,13 +2625,13 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tükör"
+            "value" : "Tükrözés"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cermin"
+            "value" : "Cerminkan"
           }
         },
         "it" : {
@@ -2649,19 +2649,19 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Элементті ось бойымен айнаға айналдыру"
+            "value" : "Айнаға аудару"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "미러링하기"
+            "value" : "미러링"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cermin"
+            "value" : "Cerminkan"
           }
         },
         "nb" : {
@@ -2679,7 +2679,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lustro"
+            "value" : "Odbij lustrzanie"
           }
         },
         "pt-BR" : {
@@ -2697,7 +2697,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Speculum"
+            "value" : "Oglindește"
           }
         },
         "ru" : {
@@ -2715,7 +2715,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Spegel"
+            "value" : "Spegla"
           }
         },
         "th" : {
@@ -2739,7 +2739,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gương"
+            "value" : "Phản chiếu"
           }
         },
         "zh-Hans" : {
@@ -2757,7 +2757,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "镜像"
+            "value" : "鏡像"
           }
         }
       }
@@ -2768,31 +2768,31 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "الطلب"
+            "value" : "ترتيب"
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Поръчка"
+            "value" : "Промени реда"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Comanda"
+            "value" : "Ordenar"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Objednat"
+            "value" : "Změnit pořadí"
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bestilling"
+            "value" : "Rækkefølge"
           }
         },
         "de" : {
@@ -2804,7 +2804,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Παραγγελία"
+            "value" : "Σειρά"
           }
         },
         "en" : {
@@ -2828,7 +2828,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pedido"
+            "value" : "Ordenar"
           }
         },
         "es-419" : {
@@ -2840,25 +2840,25 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tilaus"
+            "value" : "Järjestys"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Commande"
+            "value" : "Ordonner"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Commande"
+            "value" : "Ordonner"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הזמנה"
+            "value" : "סדר"
           }
         },
         "hi" : {
@@ -2876,7 +2876,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rendelés"
+            "value" : "Sorrend"
           }
         },
         "id" : {
@@ -2888,31 +2888,31 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ordine"
+            "value" : "Ordina"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "注文"
+            "value" : "重ね順"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Тапсырыс беру"
+            "value" : "Тәртібін өзгерту"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "주문"
+            "value" : "순서"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pesanan"
+            "value" : "Susun"
           }
         },
         "nb" : {
@@ -2930,13 +2930,13 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wyprowadź"
+            "value" : "Zmień kolejność"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pedido"
+            "value" : "Ordenar"
           }
         },
         "pt-PT" : {
@@ -2948,13 +2948,13 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Comandă"
+            "value" : "Ordine"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Заказ"
+            "value" : "Порядок"
           }
         },
         "sk" : {
@@ -2966,7 +2966,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Beställ"
+            "value" : "Ordna"
           }
         },
         "th" : {
@@ -2978,13 +2978,13 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sipariş"
+            "value" : "Sırayı Ayarla"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Замовлення"
+            "value" : "Упорядкувати"
           }
         },
         "vi" : {
@@ -2996,19 +2996,19 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "订单"
+            "value" : "层级"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "訂單"
+            "value" : "順序"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "訂單"
+            "value" : "順序"
           }
         }
       }
@@ -3049,7 +3049,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "einfügen"
+            "value" : "Einfügen"
           }
         },
         "el" : {
@@ -3109,7 +3109,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הדבק בקובץ"
+            "value" : "הדבק"
           }
         },
         "hi" : {
@@ -3408,7 +3408,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "프린트"
+            "value" : "인쇄"
           }
         },
         "ms" : {
@@ -3450,7 +3450,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tipăriți"
+            "value" : "Tipărește"
           }
         },
         "ru" : {
@@ -3701,7 +3701,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Redimensionare"
+            "value" : "Redimensionează"
           }
         },
         "ru" : {
@@ -3952,7 +3952,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rotiți"
+            "value" : "Rotește"
           }
         },
         "ru" : {
@@ -4029,13 +4029,13 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Скалирай"
+            "value" : "Мащабирай"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dibuixar"
+            "value" : "Escalar"
           }
         },
         "cs" : {
@@ -4047,7 +4047,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scale"
+            "value" : "Skalér"
           }
         },
         "de" : {
@@ -4113,7 +4113,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scale"
+            "value" : "שנה קנה מידה"
           }
         },
         "hi" : {
@@ -4125,31 +4125,31 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scale"
+            "value" : "Skaliraj"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Méretnövelés"
+            "value" : "Méretezés"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scale"
+            "value" : "Ubah Skala"
           }
         },
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scale"
+            "value" : "Scala"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scale"
+            "value" : "拡大縮小"
           }
         },
         "kk" : {
@@ -4161,13 +4161,13 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "크기 조정"
+            "value" : "배율 조정"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scale"
+            "value" : "Skalakan"
           }
         },
         "nb" : {
@@ -4179,7 +4179,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scale"
+            "value" : "Schalen"
           }
         },
         "pl" : {
@@ -4197,19 +4197,19 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Escalonar"
+            "value" : "Escalar"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scale"
+            "value" : "Scalează"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Масштабирование"
+            "value" : "Масштабировать"
           }
         },
         "sk" : {
@@ -4221,31 +4221,31 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scale"
+            "value" : "Skala"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scale"
+            "value" : "ปรับสเกล"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scale"
+            "value" : "Ölçeklendir"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Масштаб"
+            "value" : "Масштабувати"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scale"
+            "value" : "Chỉnh tỉ lệ"
           }
         },
         "zh-Hans" : {
@@ -4257,7 +4257,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scale"
+            "value" : "縮放"
           }
         },
         "zh-HK" : {
@@ -4280,13 +4280,13 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Задаване на цвят"
+            "value" : "Задай цвят"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Establir color"
+            "value" : "Establir el color"
           }
         },
         "cs" : {
@@ -4394,7 +4394,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Imposta Colore"
+            "value" : "Imposta colore"
           }
         },
         "ja" : {
@@ -4412,7 +4412,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "색상 설정하기"
+            "value" : "색상 설정"
           }
         },
         "ms" : {
@@ -4454,7 +4454,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Setează culoare"
+            "value" : "Setează culoarea"
           }
         },
         "ru" : {
@@ -4484,7 +4484,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Renk Ayarla"
+            "value" : "Rengi Ayarla"
           }
         },
         "uk" : {
@@ -4496,7 +4496,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đặt Màu"
+            "value" : "Đặt màu"
           }
         },
         "zh-Hans" : {
@@ -4508,13 +4508,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "設置顏色"
+            "value" : "設定顏色"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "設置顏色"
+            "value" : "設定顏色"
           }
         }
       }
@@ -4531,7 +4531,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Скица"
+            "value" : "Скицирай"
           }
         },
         "ca" : {
@@ -4549,13 +4549,13 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skitse"
+            "value" : "Skitsér"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skizze"
+            "value" : "Skizzieren"
           }
         },
         "el" : {
@@ -4585,7 +4585,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dibujo"
+            "value" : "Dibujar"
           }
         },
         "es-419" : {
@@ -4603,13 +4603,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dessin"
+            "value" : "Dessiner"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Esquisse"
+            "value" : "Esquisser"
           }
         },
         "he" : {
@@ -4645,7 +4645,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Disegno"
+            "value" : "Disegna"
           }
         },
         "ja" : {
@@ -4687,13 +4687,13 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Szkic"
+            "value" : "Szkicuj"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Desenho"
+            "value" : "Desenhar"
           }
         },
         "pt-PT" : {
@@ -4705,13 +4705,13 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Schiță"
+            "value" : "Schițează"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Зарисовка"
+            "value" : "Рисовать"
           }
         },
         "sk" : {
@@ -4723,19 +4723,19 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Teckning"
+            "value" : "Skissa"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ภาพสเก็ตช์"
+            "value" : "สเก็ตช์"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Çizim"
+            "value" : "Çiz"
           }
         },
         "uk" : {
@@ -4747,7 +4747,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Phác Thảo"
+            "value" : "Phác thảo"
           }
         },
         "zh-Hans" : {
@@ -4765,7 +4765,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "圖畫"
+            "value" : "素描"
           }
         }
       }
@@ -4776,19 +4776,19 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "شرطة"
+            "value" : "حد"
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Щрих"
+            "value" : "Контур"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Traç"
+            "value" : "Aplicar traç"
           }
         },
         "cs" : {
@@ -4806,13 +4806,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pinselstrich"
+            "value" : "Kontur"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Γραμμή"
+            "value" : "Περίγραμμα"
           }
         },
         "en" : {
@@ -4842,13 +4842,13 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trazo"
+            "value" : "Aplicar trazo"
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Piirtojälki"
+            "value" : "Reunaviiva"
           }
         },
         "fr" : {
@@ -4866,7 +4866,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "קו"
+            "value" : "קו מתאר"
           }
         },
         "hi" : {
@@ -4878,7 +4878,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Obrub"
+            "value" : "Obrubi"
           }
         },
         "hu" : {
@@ -4902,7 +4902,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "筆画"
+            "value" : "ストローク"
           }
         },
         "kk" : {
@@ -4914,49 +4914,49 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "자획"
+            "value" : "스트로크"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lejang"
+            "value" : "Strok"
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Strøk"
+            "value" : "Strek"
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Streek"
+            "value" : "Lijn"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kreski"
+            "value" : "Obrysuj"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Traço"
+            "value" : "Contornar"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Traço"
+            "value" : "Aplicar traço"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trasare"
+            "value" : "Aplică contur"
           }
         },
         "ru" : {
@@ -4974,25 +4974,25 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Streck"
+            "value" : "Kontur"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ขีด"
+            "value" : "เส้นขอบ"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Çizgi Çek"
+            "value" : "Çizgi Ekle"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Риска"
+            "value" : "Обвести"
           }
         },
         "vi" : {
@@ -5004,7 +5004,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "笔画"
+            "value" : "描边"
           }
         },
         "zh-Hant" : {
@@ -5016,7 +5016,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "筆畫"
+            "value" : "描邊"
           }
         }
       }
@@ -5033,7 +5033,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Трансформиране"
+            "value" : "Трансформирай"
           }
         },
         "ca" : {
@@ -5099,7 +5099,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Muokkaa"
+            "value" : "Muunna"
           }
         },
         "fr" : {
@@ -5117,13 +5117,13 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "המירו"
+            "value" : "המר"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "रूपांतरण"
+            "value" : "रूपांतरित करें"
           }
         },
         "hr" : {
@@ -5171,13 +5171,13 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tukar"
+            "value" : "Ubah"
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Transformér"
+            "value" : "Transformer"
           }
         },
         "nl" : {
@@ -5267,7 +5267,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "轉換"
+            "value" : "變換"
           }
         }
       }
@@ -5290,7 +5290,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Escurçar"
+            "value" : "Retallar"
           }
         },
         "cs" : {
@@ -5302,7 +5302,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tilpas"
+            "value" : "Beskær"
           }
         },
         "de" : {
@@ -5338,7 +5338,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Acortar"
+            "value" : "Recortar"
           }
         },
         "es-419" : {
@@ -5356,13 +5356,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Raccourcir"
+            "value" : "Rogner"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Raccourcir"
+            "value" : "Rogner"
           }
         },
         "he" : {
@@ -5452,13 +5452,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Encurtar"
+            "value" : "Aparar"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scurtează"
+            "value" : "Trunchiază"
           }
         },
         "ru" : {
@@ -5476,19 +5476,19 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Putsa"
+            "value" : "Trimma"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ตัดต่อ"
+            "value" : "ตัดแต่ง"
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kısalt"
+            "value" : "Kırp"
           }
         },
         "uk" : {
@@ -5535,25 +5535,25 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Разгрупиране"
+            "value" : "Разгрупирай"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dissociar"
+            "value" : "Desagrupar"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Oddělit"
+            "value" : "Zrušit seskupení"
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Opdel Gruppe"
+            "value" : "Ophæv gruppering"
           }
         },
         "de" : {
@@ -5565,7 +5565,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Απομάκρυνση Ομάδας"
+            "value" : "Κατάργηση ομαδοποίησης"
           }
         },
         "en" : {
@@ -5601,7 +5601,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Erota ryhmästä"
+            "value" : "Poista ryhmittely"
           }
         },
         "fr" : {
@@ -5619,7 +5619,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "פיצול"
+            "value" : "בטל קיבוץ"
           }
         },
         "hi" : {
@@ -5631,7 +5631,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Razgrupiši"
+            "value" : "Razgrupiraj"
           }
         },
         "hu" : {
@@ -5673,7 +5673,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pemisah Kumpulan"
+            "value" : "Nyahkumpul"
           }
         },
         "nb" : {
@@ -5709,7 +5709,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Desparte"
+            "value" : "Degrupează"
           }
         },
         "ru" : {
@@ -5727,7 +5727,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dela upp"
+            "value" : "Avgruppera"
           }
         },
         "th" : {
@@ -5763,13 +5763,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "取消組合"
+            "value" : "取消群組"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "拆分"
+            "value" : "取消群組"
           }
         }
       }
@@ -5852,7 +5852,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sijoitus"
+            "value" : "Tasaus"
           }
         },
         "fr" : {
@@ -5876,7 +5876,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "अनुक्रम"
+            "value" : "संरेखण"
           }
         },
         "hr" : {
@@ -5906,13 +5906,13 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "配置"
+            "value" : "整列"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Жүйелеу"
+            "value" : "Туралау"
           }
         },
         "ko" : {
@@ -6061,13 +6061,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Arbeitsfläche"
+            "value" : "Zeichenfläche"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Καμβάς"
+            "value" : "Περιοχή σχεδίασης"
           }
         },
         "en" : {
@@ -6103,13 +6103,13 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Taittopohja"
+            "value" : "Piirtoalusta"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zone de travail"
+            "value" : "Plan de travail"
           }
         },
         "fr-CA" : {
@@ -6211,19 +6211,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mediul de lucru"
+            "value" : "Planșă"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Рабочая область"
+            "value" : "Артборд"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Artboard"
+            "value" : "Pracovná plocha"
           }
         },
         "sv" : {
@@ -6235,7 +6235,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "แผ่นงาน"
+            "value" : "อาร์ตบอร์ด"
           }
         },
         "tr" : {
@@ -6247,13 +6247,13 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Арткартка"
+            "value" : "Монтажна область"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bảng thiết kế"
+            "value" : "Bảng vẽ"
           }
         },
         "zh-Hans" : {
@@ -6271,7 +6271,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "画板"
+            "value" : "畫板"
           }
         }
       }
@@ -6282,13 +6282,13 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "وضع خلط"
+            "value" : "وضع المزج"
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Режим комбиниране"
+            "value" : "Режим на смесване"
           }
         },
         "ca" : {
@@ -6306,7 +6306,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Blandet tilstand"
+            "value" : "Blandingstilstand"
           }
         },
         "de" : {
@@ -6318,7 +6318,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Λειτουργία Συνδυασμού"
+            "value" : "Λειτουργία ανάμειξης"
           }
         },
         "en" : {
@@ -6372,7 +6372,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "מצב חיבור"
+            "value" : "מצב מיזוג"
           }
         },
         "hi" : {
@@ -6390,7 +6390,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Átlátszósági mód"
+            "value" : "Keverési mód"
           }
         },
         "id" : {
@@ -6414,7 +6414,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Бленд режимі"
+            "value" : "Араластыру режимі"
           }
         },
         "ko" : {
@@ -6545,7 +6545,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Marge"
+            "value" : "Vora"
           }
         },
         "cs" : {
@@ -6557,7 +6557,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Border-type"
+            "value" : "Kant"
           }
         },
         "de" : {
@@ -6635,19 +6635,19 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Graničnik"
+            "value" : "Obrub"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Határvonal"
+            "value" : "Szegély"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Batas"
+            "value" : "Tepi"
           }
         },
         "it" : {
@@ -6671,13 +6671,13 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "경계"
+            "value" : "테두리"
           }
         },
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Batas"
+            "value" : "Sempadan"
           }
         },
         "nb" : {
@@ -6749,7 +6749,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Кордон"
+            "value" : "Рамка"
           }
         },
         "vi" : {
@@ -6773,7 +6773,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "边框"
+            "value" : "邊框"
           }
         }
       }
@@ -6820,7 +6820,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Βούρτσα"
+            "value" : "Πινέλο"
           }
         },
         "en" : {
@@ -6898,7 +6898,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sikat"
+            "value" : "Kuas"
           }
         },
         "it" : {
@@ -6928,7 +6928,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sikat"
+            "value" : "Berus"
           }
         },
         "nb" : {
@@ -6940,7 +6940,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Borstel"
+            "value" : "Penseel"
           }
         },
         "pl" : {
@@ -6988,7 +6988,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "พู่กัน"
+            "value" : "แปรง"
           }
         },
         "tr" : {
@@ -7024,7 +7024,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "画笔"
+            "value" : "畫筆"
           }
         }
       }
@@ -7035,7 +7035,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "قماش"
+            "value" : "لوحة الرسم"
           }
         },
         "bg" : {
@@ -7047,7 +7047,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Canvas"
+            "value" : "Llenç"
           }
         },
         "cs" : {
@@ -7119,7 +7119,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Toile"
+            "value" : "Canevas"
           }
         },
         "he" : {
@@ -7143,7 +7143,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kanvasz"
+            "value" : "Vászon"
           }
         },
         "id" : {
@@ -7155,7 +7155,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Canvas"
+            "value" : "Tela"
           }
         },
         "ja" : {
@@ -7185,7 +7185,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lærred"
+            "value" : "Lerret"
           }
         },
         "nl" : {
@@ -7275,7 +7275,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "画布"
+            "value" : "畫布"
           }
         }
       }
@@ -7334,7 +7334,7 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Color Filter"
+            "value" : "Colour Filter"
           }
         },
         "en-GB" : {
@@ -7358,7 +7358,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "VäriFiltteri"
+            "value" : "Värisuodatin"
           }
         },
         "fr" : {
@@ -7388,7 +7388,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Filter Boje"
+            "value" : "Filter boje"
           }
         },
         "hu" : {
@@ -7484,7 +7484,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Färgfiler"
+            "value" : "Färgfilter"
           }
         },
         "th" : {
@@ -7520,7 +7520,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "顏色篩選"
+            "value" : "顏色濾鏡"
           }
         },
         "zh-HK" : {
@@ -7669,7 +7669,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Иі"
+            "value" : "Қисық"
           }
         },
         "ko" : {
@@ -7717,7 +7717,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Curvatură"
+            "value" : "Curbă"
           }
         },
         "ru" : {
@@ -7974,7 +7974,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Макет"
+            "value" : "Дизайн"
           }
         },
         "sk" : {
@@ -8201,7 +8201,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stylistyczne Efekty"
+            "value" : "Efekty"
           }
         },
         "pt-BR" : {
@@ -8296,7 +8296,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Цветът на запълване"
+            "value" : "Цвят на запълване"
           }
         },
         "ca" : {
@@ -8338,7 +8338,7 @@
         "en-AU" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fill Color"
+            "value" : "Fill Colour"
           }
         },
         "en-GB" : {
@@ -8398,7 +8398,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kitöltési Szín"
+            "value" : "Kitöltőszín"
           }
         },
         "id" : {
@@ -8422,7 +8422,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Толтырғыш түс"
+            "value" : "Толтыру түсі"
           }
         },
         "ko" : {
@@ -8452,7 +8452,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kolor Wypełnienia"
+            "value" : "Kolor wypełnienia"
           }
         },
         "pt-BR" : {
@@ -8470,7 +8470,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Culoare de Umplere"
+            "value" : "Culoare de umplere"
           }
         },
         "ru" : {
@@ -8512,7 +8512,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Màu Điền"
+            "value" : "Màu tô"
           }
         },
         "zh-Hans" : {
@@ -8619,7 +8619,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Type de police"
+            "value" : "Famille de police"
           }
         },
         "fr-CA" : {
@@ -8649,7 +8649,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Betűtípus Család"
+            "value" : "Betűcsalád"
           }
         },
         "id" : {
@@ -8661,7 +8661,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Famiglia di Font"
+            "value" : "Famiglia di caratteri"
           }
         },
         "ja" : {
@@ -8685,7 +8685,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Keluarga Font"
+            "value" : "Keluarga Fon"
           }
         },
         "nb" : {
@@ -8697,13 +8697,13 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lettertype Familie"
+            "value" : "Lettertypefamilie"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rodzina Czcionek"
+            "value" : "Rodzina czcionek"
           }
         },
         "pt-BR" : {
@@ -8721,7 +8721,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Familie de Fonturi"
+            "value" : "Familie de fonturi"
           }
         },
         "ru" : {
@@ -8745,7 +8745,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ประเภทฟอนต์"
+            "value" : "ตระกูลแบบอักษร"
           }
         },
         "tr" : {
@@ -8775,13 +8775,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "字體家族"
+            "value" : "字型系列"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "字體系列"
+            "value" : "字型系列"
           }
         }
       }
@@ -8804,7 +8804,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mida de la Font"
+            "value" : "Mida de la lletra"
           }
         },
         "cs" : {
@@ -9014,7 +9014,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kích thước Phông chữ"
+            "value" : "Kích thước phông chữ"
           }
         },
         "zh-Hans" : {
@@ -9026,7 +9026,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "字體大小"
+            "value" : "字型大小"
           }
         },
         "zh-HK" : {
@@ -9055,7 +9055,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Disposició"
+            "value" : "Format"
           }
         },
         "cs" : {
@@ -9139,7 +9139,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "फ़ॉर्मैट"
+            "value" : "फ़ॉर्मेट"
           }
         },
         "hr" : {
@@ -9199,7 +9199,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Structuur"
+            "value" : "Opmaak"
           }
         },
         "pl" : {
@@ -9211,7 +9211,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Formatar"
+            "value" : "Formato"
           }
         },
         "pt-PT" : {
@@ -9318,7 +9318,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rammestruktur"
+            "value" : "Ramme"
           }
         },
         "de" : {
@@ -9450,7 +9450,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rand"
+            "value" : "Kader"
           }
         },
         "pl" : {
@@ -9504,13 +9504,13 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kenar Çerçevesi"
+            "value" : "Çerçeve"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Рама"
+            "value" : "Фрейм"
           }
         },
         "vi" : {
@@ -9719,7 +9719,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gradação"
+            "value" : "Gradiente"
           }
         },
         "ro" : {
@@ -9796,7 +9796,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "مربعات"
+            "value" : "شبكة"
           }
         },
         "bg" : {
@@ -10036,7 +10036,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "格狀"
+            "value" : "網格"
           }
         }
       }
@@ -10071,7 +10071,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Billede kvalitet"
+            "value" : "Billedkvalitet"
           }
         },
         "de" : {
@@ -10209,7 +10209,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Jakość Obrazu"
+            "value" : "Jakość obrazu"
           }
         },
         "pt-BR" : {
@@ -10227,7 +10227,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Calitate a Imaginilor"
+            "value" : "Calitate imagine"
           }
         },
         "ru" : {
@@ -10251,7 +10251,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "คุณภาพภาพ"
+            "value" : "คุณภาพรูปภาพ"
           }
         },
         "tr" : {
@@ -10269,7 +10269,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Chất Lượng Hình Ảnh"
+            "value" : "Chất lượng hình ảnh"
           }
         },
         "zh-Hans" : {
@@ -10287,7 +10287,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "影像質量"
+            "value" : "影像質素"
           }
         }
       }
@@ -10334,7 +10334,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Στρώμα"
+            "value" : "Επίπεδο"
           }
         },
         "en" : {
@@ -10376,7 +10376,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Couche"
+            "value" : "Calque"
           }
         },
         "fr-CA" : {
@@ -10436,7 +10436,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "계층"
+            "value" : "레이어"
           }
         },
         "ms" : {
@@ -10496,7 +10496,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skikt"
+            "value" : "Lager"
           }
         },
         "th" : {
@@ -10520,7 +10520,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tầng"
+            "value" : "Lớp"
           }
         },
         "zh-Hans" : {
@@ -10555,7 +10555,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Изглед"
+            "value" : "Оформление"
           }
         },
         "ca" : {
@@ -10711,7 +10711,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Makieta"
+            "value" : "Układ"
           }
         },
         "pt-BR" : {
@@ -10806,7 +10806,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Видимост"
+            "value" : "Непрозрачност"
           }
         },
         "ca" : {
@@ -10932,7 +10932,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Түссіз"
+            "value" : "Мөлдірлік"
           }
         },
         "ko" : {
@@ -10944,7 +10944,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Litupan"
+            "value" : "Kelegapan"
           }
         },
         "nb" : {
@@ -11326,7 +11326,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Udgang"
+            "value" : "Output"
           }
         },
         "de" : {
@@ -11374,7 +11374,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tulostus"
+            "value" : "Lopputulos"
           }
         },
         "fr" : {
@@ -11506,7 +11506,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การแสดงผล"
+            "value" : "ผลลัพธ์"
           }
         },
         "tr" : {
@@ -11727,7 +11727,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pixels"
+            "value" : "Píxeis"
           }
         },
         "ro" : {
@@ -12067,7 +12067,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Previsualitzar"
+            "value" : "Previsualització"
           }
         },
         "cs" : {
@@ -12079,7 +12079,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Eksempel"
+            "value" : "Forhåndsvisning"
           }
         },
         "de" : {
@@ -12223,13 +12223,13 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Prévias"
+            "value" : "Prévia"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pré‑visualizar"
+            "value" : "Pré‑visualização"
           }
         },
         "ro" : {
@@ -12271,7 +12271,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Передогляд"
+            "value" : "Попередній перегляд"
           }
         },
         "vi" : {
@@ -12402,7 +12402,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "समाधान"
+            "value" : "रिज़ॉल्यूशन"
           }
         },
         "hr" : {
@@ -12438,7 +12438,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Шешім"
+            "value" : "Ажыратымдылық"
           }
         },
         "ko" : {
@@ -12546,7 +12546,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "分辨率"
+            "value" : "解像度"
           }
         }
       }
@@ -12587,7 +12587,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scale"
+            "value" : "Skalierung"
           }
         },
         "el" : {
@@ -12641,7 +12641,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scale"
+            "value" : "Mise à l'échelle"
           }
         },
         "he" : {
@@ -12653,19 +12653,19 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "माप"
+            "value" : "स्केल"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scale"
+            "value" : "Skaliranje"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Méret"
+            "value" : "Méretezés"
           }
         },
         "id" : {
@@ -12677,7 +12677,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scale"
+            "value" : "Scala"
           }
         },
         "ja" : {
@@ -12701,7 +12701,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scale"
+            "value" : "Skala"
           }
         },
         "nb" : {
@@ -12713,13 +12713,13 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scale"
+            "value" : "Schaal"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skale"
+            "value" : "Skala"
           }
         },
         "pt-BR" : {
@@ -12737,7 +12737,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scale"
+            "value" : "Scalare"
           }
         },
         "ru" : {
@@ -12761,7 +12761,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ขนาด"
+            "value" : "สเกล"
           }
         },
         "tr" : {
@@ -13269,7 +13269,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Büyüklük"
+            "value" : "Boyut"
           }
         },
         "uk" : {
@@ -13334,7 +13334,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Format"
+            "value" : "Stil"
           }
         },
         "de" : {
@@ -14069,13 +14069,13 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Трансформирай"
+            "value" : "Трансформация"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Transformar"
+            "value" : "Transformació"
           }
         },
         "cs" : {
@@ -14087,7 +14087,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Transformere"
+            "value" : "Transformation"
           }
         },
         "de" : {
@@ -14099,7 +14099,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Μεταμόρφωση"
+            "value" : "Μετασχηματισμός"
           }
         },
         "en" : {
@@ -14123,7 +14123,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Transformar"
+            "value" : "Transformación"
           }
         },
         "es-419" : {
@@ -14135,13 +14135,13 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Muuttaa"
+            "value" : "Muunnos"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Transformer"
+            "value" : "Transformation"
           }
         },
         "fr-CA" : {
@@ -14153,25 +14153,25 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "שנה"
+            "value" : "המרה"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "रूपांतरित करें"
+            "value" : "रूपांतरण"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Transformirati"
+            "value" : "Transformacija"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Átalakít"
+            "value" : "Átalakítás"
           }
         },
         "id" : {
@@ -14183,7 +14183,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trasforma"
+            "value" : "Trasformazione"
           }
         },
         "ja" : {
@@ -14207,7 +14207,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tukar"
+            "value" : "Transformasi"
           }
         },
         "nb" : {
@@ -14225,31 +14225,31 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Przekształć"
+            "value" : "Przekształcenie"
           }
         },
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Transformar"
+            "value" : "Transformação"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Transformar"
+            "value" : "Transformação"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Transformă"
+            "value" : "Transformare"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Преобразовать"
+            "value" : "Преобразование"
           }
         },
         "sk" : {
@@ -14273,13 +14273,13 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dönüştür"
+            "value" : "Dönüştürme"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Перетворити"
+            "value" : "Перетворення"
           }
         },
         "vi" : {
@@ -14566,25 +14566,25 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "اللوحة فارغة."
+            "value" : "لوحة العمل فارغة."
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Работното поле е празно."
+            "value" : "Работното платно е празно."
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "El llenç està buit."
+            "value" : "El tauler d’art està buit."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Artboard je prázdný."
+            "value" : "Plátno je prázdné."
           }
         },
         "da" : {
@@ -14602,7 +14602,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η καλλιτεχνική επιφάνεια είναι κενή."
+            "value" : "Η περιοχή σχεδίασης είναι άδεια."
           }
         },
         "en" : {
@@ -14626,19 +14626,19 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "El lienzo está vacío."
+            "value" : "La mesa de trabajo está vacía."
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "El área de trabajo está vacía."
+            "value" : "La mesa de trabajo está vacía."
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Työalue on tyhjä."
+            "value" : "Piirtoalusta on tyhjä."
           }
         },
         "fr" : {
@@ -14680,7 +14680,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kanvas kosong."
+            "value" : "Artboard kosong."
           }
         },
         "it" : {
@@ -14698,7 +14698,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Суреталаушы бос."
+            "value" : "Сурет тақтасы бос."
           }
         },
         "ko" : {
@@ -14710,13 +14710,13 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Artboard adalah kosong."
+            "value" : "Papan seni kosong."
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Artboard er tomt."
+            "value" : "Tegneflaten er tom."
           }
         },
         "nl" : {
@@ -14740,19 +14740,19 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A prancheta está vazia."
+            "value" : "O quadro de trabalho está vazio."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Artboard-ul este gol."
+            "value" : "Planșa este goală."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Арткард пуст."
+            "value" : "Артборд пуст."
           }
         },
         "sk" : {
@@ -14764,13 +14764,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Arbetsyta är tom."
+            "value" : "Arbetsytan är tom."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "พื้นที่การออกแบบว่างเปล่า."
+            "value" : "อาร์ตบอร์ดว่างเปล่า."
           }
         },
         "tr" : {
@@ -14782,7 +14782,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Художня дошка пуста."
+            "value" : "Монтажна область порожня."
           }
         },
         "vi" : {
@@ -14794,7 +14794,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "画布为空。"
+            "value" : "画板为空。"
           }
         },
         "zh-Hant" : {
@@ -14908,7 +14908,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "העיצוב יצא בהצלחה."
+            "value" : "העיצוב ייוצא בהצלחה."
           }
         },
         "hi" : {
@@ -15022,7 +15022,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การออกแบบได้ถูกส่งออกเรียบร้อยแล้ว"
+            "value" : "ส่งออกงานออกแบบเรียบร้อยแล้ว."
           }
         },
         "tr" : {
@@ -15058,7 +15058,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "設計已成功導出。"
+            "value" : "設計已成功匯出。"
           }
         }
       }
@@ -15094,7 +15094,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Eksport fuldført succesfuldt."
+            "value" : "Eksporten blev gennemført med succes."
           }
         },
         "de" : {
@@ -15274,7 +15274,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การส่งออกเสร็จสมบูรณ์แล้ว"
+            "value" : "การส่งออกเสร็จสมบูรณ์แล้ว."
           }
         },
         "tr" : {
@@ -15298,7 +15298,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "导出成功完成。"
+            "value" : "导出已成功完成。"
           }
         },
         "zh-Hant" : {
@@ -15310,7 +15310,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "導出已成功完成。"
+            "value" : "匯出已成功完成。"
           }
         }
       }
@@ -15322,7 +15322,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "يتجاوز الملف الحد الأقصى لحجم القماش."
+            "value" : "يتجاوز الملف الحد الأقصى لحجم لوحة الرسم."
           }
         },
         "bg" : {
@@ -15346,19 +15346,19 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fil overskrider maksimum lærredsstørrelse."
+            "value" : "Filen overskrider den maksimale lærredsstørrelse."
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Datei überschreitet maximale Leinwandgröße."
+            "value" : "Die Datei überschreitet die maximale Leinwandgröße."
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Το αρχείο υπερβαίνει το μέγιστο μέγεθος καμβά."
+            "value" : "Το αρχείο υπερβαίνει το μέγιστο μέγεθος του καμβά."
           }
         },
         "en" : {
@@ -15394,13 +15394,13 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tiedosto ylittää maksimi kangaskoon."
+            "value" : "Tiedosto ylittää kankaan enimmäiskoon."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Le fichier dépasse la taille maximale du canevas."
+            "value" : "Le fichier dépasse la taille maximale de la toile."
           }
         },
         "fr-CA" : {
@@ -15412,7 +15412,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הקובץ חריג לגודל הקנבס המקסימלי."
+            "value" : "הקובץ חורג מגודל הקנבס המרבי."
           }
         },
         "hi" : {
@@ -15496,13 +15496,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "O arquivo excede o tamanho máximo da tela."
+            "value" : "O ficheiro excede o tamanho máximo da tela."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fișierul depășește dimensiunea maximă a canvasului."
+            "value" : "Fișierul depășește dimensiunea maximă a pânzei."
           }
         },
         "ru" : {
@@ -15520,13 +15520,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Filens storlek överskrider den maximala canvasstorleken."
+            "value" : "Filens storlek överskrider dukens maximala storlek."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ไฟล์ใหญ่เกินขนาดผืนผ้าใบสูงสุด"
+            "value" : "ไฟล์มีขนาดเกินขนาดผืนผ้าใบสูงสุด."
           }
         },
         "tr" : {
@@ -15544,7 +15544,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tập tin vượt quá kích thước tối đa của canvas."
+            "value" : "Tập tin vượt quá kích thước bảng vẽ tối đa."
           }
         },
         "zh-Hans" : {
@@ -15556,7 +15556,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "文件超過最大畫布大小。"
+            "value" : "檔案超過最大畫布大小。"
           }
         },
         "zh-HK" : {
@@ -15574,7 +15574,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "لم يتم العثور على الخط."
+            "value" : "لم يتم العثور على الخط في النظام."
           }
         },
         "bg" : {
@@ -15586,7 +15586,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Font no trobada al sistema."
+            "value" : "Tipografia no trobada al sistema."
           }
         },
         "cs" : {
@@ -15598,7 +15598,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skrifttype blev ikke fundet i systemet."
+            "value" : "Skrifttypen blev ikke fundet i systemet."
           }
         },
         "de" : {
@@ -15658,7 +15658,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Polices introuvables dans le système."
+            "value" : "Police introuvable dans le système."
           }
         },
         "he" : {
@@ -15700,7 +15700,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "フォントがシステムに見つかりません。"
+            "value" : "システムにフォントが見つかりません。"
           }
         },
         "kk" : {
@@ -15718,7 +15718,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Font tidak dijumpai dalam sistem."
+            "value" : "Fon tidak ditemui dalam sistem."
           }
         },
         "nb" : {
@@ -15772,19 +15772,19 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Typsnitt finns inte i systemet."
+            "value" : "Typsnittet finns inte i systemet."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ไม่พบฟอนต์ในระบบ"
+            "value" : "ไม่พบฟอนต์ในระบบ."
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sistem içinde yazı tipi bulunamadı."
+            "value" : "Sistemde yazı tipi bulunamadı."
           }
         },
         "uk" : {
@@ -15808,7 +15808,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "系統中找不到字體。"
+            "value" : "系統中找不到字型。"
           }
         },
         "zh-HK" : {
@@ -16066,7 +16066,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "圖片解析度太低。"
+            "value" : "圖片解像度太低。"
           }
         }
       }
@@ -16102,7 +16102,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lag er låst."
+            "value" : "Laget er låst."
           }
         },
         "de" : {
@@ -16114,7 +16114,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η επιφάνεια είναι κλειδωμένη."
+            "value" : "Το επίπεδο είναι κλειδωμένο."
           }
         },
         "en" : {
@@ -16150,13 +16150,13 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Taso on lukittu."
+            "value" : "Kerros on lukittu."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "La couche est verrouillée."
+            "value" : "Le calque est verrouillé."
           }
         },
         "fr-CA" : {
@@ -16192,7 +16192,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Layer terkunci."
+            "value" : "Lapisan terkunci."
           }
         },
         "it" : {
@@ -16210,7 +16210,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Кеңістік бұғатталған."
+            "value" : "Қабат бұғатталған."
           }
         },
         "ko" : {
@@ -16228,7 +16228,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lag er låst."
+            "value" : "Laget er låst."
           }
         },
         "nl" : {
@@ -16282,7 +16282,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เลเยอร์ถูกล็อค"
+            "value" : "เลเยอร์ถูกล็อก."
           }
         },
         "tr" : {
@@ -16342,13 +16342,13 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "No s'han trobat fonts compatibles."
+            "value" : "No s'han trobat tipografies compatibles."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nenalezeny žádné kompatibilní fonty."
+            "value" : "Nebyla nalezena žádná kompatibilní písma."
           }
         },
         "da" : {
@@ -16420,7 +16420,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "לא נמצאו פונטים תואמים."
+            "value" : "לא נמצאו גופנים תואמים."
           }
         },
         "hi" : {
@@ -16456,7 +16456,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "合致するフォントが見つかりませんでした。"
+            "value" : "互換性のあるフォントが見つかりませんでした。"
           }
         },
         "kk" : {
@@ -16474,7 +16474,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tiada font serasi dikesan."
+            "value" : "Tiada fon serasi dikesan."
           }
         },
         "nb" : {
@@ -16528,13 +16528,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inga kompatibla teckensnitt hittades."
+            "value" : "Inga kompatibla typsnitt hittades."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ไม่พบฟอนต์ที่เข้ากันได้"
+            "value" : "ไม่พบฟอนต์ที่เข้ากันได้."
           }
         },
         "tr" : {
@@ -16564,13 +16564,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "未找到兼容的字體。"
+            "value" : "找不到相容的字型。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "未找到兼容的字體。"
+            "value" : "找不到兼容的字型。"
           }
         }
       }
@@ -16618,7 +16618,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Το έργο περιέχει ελλείποντες γραμματοσειρές."
+            "value" : "Το έργο περιέχει ελλείπουσες γραμματοσειρές."
           }
         },
         "en" : {
@@ -16642,7 +16642,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "El proyecto contiene fuentes faltantes."
+            "value" : "El proyecto contiene fuentes que faltan."
           }
         },
         "es-419" : {
@@ -16654,7 +16654,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hanke sisältää puuttuvia fontteja."
+            "value" : "Projekti sisältää puuttuvia fontteja."
           }
         },
         "fr" : {
@@ -16690,13 +16690,13 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A projekt hiányzó betűtípusokat tartalmaz."
+            "value" : "A projektben hiányzó betűtípusok vannak."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Proyek mengandung font yang hilang."
+            "value" : "Proyek berisi font yang hilang."
           }
         },
         "it" : {
@@ -16708,7 +16708,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "プロジェクトに不足しているフォントがあります。"
+            "value" : "プロジェクトに欠落しているフォントがあります。"
           }
         },
         "kk" : {
@@ -16786,13 +16786,13 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "โครงการมีฟอนต์ที่ขาดหาย."
+            "value" : "โปรเจ็กต์มีฟอนต์หายไป."
           }
         },
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Proje eksik fontlar içeriyor."
+            "value" : "Proje eksik yazı tipleri içeriyor."
           }
         },
         "uk" : {
@@ -16816,13 +16816,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "項目含有缺失的字體。"
+            "value" : "專案包含遺失的字型。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "項目包含缺失的字體。"
+            "value" : "項目包含缺少的字型。"
           }
         }
       }
@@ -16840,7 +16840,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Разрешението може да повлияе на качеството."
+            "value" : "Разделителната способност може да повлияе на качеството."
           }
         },
         "ca" : {
@@ -16858,7 +16858,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Opløsning kan påvirke kvaliteten."
+            "value" : "Opløsningen kan påvirke kvaliteten."
           }
         },
         "de" : {
@@ -16924,7 +16924,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "אפשרות האיכות עשויה להיות מושפעת מהרזולוציה."
+            "value" : "הרזולוציה עשויה להשפיע על האיכות."
           }
         },
         "hi" : {
@@ -16966,7 +16966,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Резолюция сапаға әсер етуі мүмкін."
+            "value" : "Ажыратымдылық сапаға әсер етуі мүмкін."
           }
         },
         "ko" : {
@@ -17038,7 +17038,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ความละเอียดอาจส่งผลต่อคุณภาพ"
+            "value" : "ความละเอียดอาจส่งผลต่อคุณภาพ."
           }
         },
         "tr" : {
@@ -17068,13 +17068,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "解像度可能影響畫質。"
+            "value" : "解析度可能影響品質。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "解析度可能會影響質量。"
+            "value" : "解像度可能會影響質素。"
           }
         }
       }
@@ -17086,7 +17086,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "بعض العناصر خارج اللوحة."
+            "value" : "بعض العناصر خارج لوحة الرسم."
           }
         },
         "bg" : {
@@ -17140,7 +17140,7 @@
         "en-GB" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Some elements are outside canvas."
+            "value" : "Some elements are outside the canvas."
           }
         },
         "es" : {
@@ -17254,7 +17254,7 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alguns elementos estão fora da área de trabalho."
+            "value" : "Alguns elementos estão fora da tela."
           }
         },
         "pt-PT" : {
@@ -17266,7 +17266,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unele elemente sunt în afara zonei de lucru."
+            "value" : "Unele elemente sunt în afara planșei."
           }
         },
         "ru" : {
@@ -17284,13 +17284,13 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Några element ligger utanför arbetsytan."
+            "value" : "Några element ligger utanför duken."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "บางส่วนขององค์ประกอบอยู่นอกกรอบ"
+            "value" : "องค์ประกอบบางส่วนอยู่นอกผืนผ้าใบ."
           }
         },
         "tr" : {
@@ -17302,13 +17302,13 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Деякі елементи знаходяться за межами аркуша."
+            "value" : "Деякі елементи знаходяться за межами полотна."
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Một số yếu tố nằm ngoài vùng vẽ."
+            "value" : "Một số yếu tố nằm ngoài bảng vẽ."
           }
         },
         "zh-Hans" : {
@@ -17410,13 +17410,13 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Osat kerroksista ovat piilossa."
+            "value" : "Jotkin kerrokset ovat piilossa."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Certaines couches sont cachées."
+            "value" : "Certains calques sont masqués."
           }
         },
         "fr-CA" : {
@@ -17458,7 +17458,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "alcuni layer sono nascosti."
+            "value" : "Alcuni livelli sono nascosti."
           }
         },
         "ja" : {
@@ -17542,7 +17542,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "บางเลเยอร์ซ่อนอยู่"
+            "value" : "เลเยอร์บางส่วนถูกซ่อน."
           }
         },
         "tr" : {
@@ -17650,7 +17650,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "No se puede importar el formato no soportado."
+            "value" : "No se puede importar el formato no compatible."
           }
         },
         "es-419" : {
@@ -17680,7 +17680,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "לא ניתן ליבא פורמט שאינו נתמך."
+            "value" : "לא ניתן לייבא פורמט שאינו נתמך."
           }
         },
         "hi" : {
@@ -17716,13 +17716,13 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "サポートされていないフォーマットをインポートできません。"
+            "value" : "サポートされていないフォーマットはインポートできません。"
           }
         },
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Қолданылмайтын форматты импорттау мүмкін емес."
+            "value" : "Қолдау көрсетілмейтін форматты импорттау мүмкін емес."
           }
         },
         "ko" : {
@@ -17740,13 +17740,13 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kan ikke importere støttet format."
+            "value" : "Kan ikke importere ustøttet format."
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kan onondersteund formaat niet importeren."
+            "value" : "Kan het niet-ondersteunde formaat niet importeren."
           }
         },
         "pl" : {
@@ -17770,7 +17770,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Imposibil de importat format neacceptat."
+            "value" : "Imposibil de importat un format neacceptat."
           }
         },
         "ru" : {
@@ -17788,7 +17788,7 @@
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Det går inte att importera ett icke-stödd format."
+            "value" : "Det går inte att importera ett format som inte stöds."
           }
         },
         "th" : {
@@ -17800,7 +17800,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Desteklenmeyen formatı içe aktaramıyor."
+            "value" : "Desteklenmeyen format içe aktarılamıyor."
           }
         },
         "uk" : {
@@ -17824,7 +17824,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "無法導入不支援的格式。"
+            "value" : "無法匯入不支援的格式。"
           }
         },
         "zh-HK" : {
@@ -17854,7 +17854,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Es perdran els canvis no enregistrats."
+            "value" : "Es perdran els canvis no desats."
           }
         },
         "cs" : {
@@ -17866,7 +17866,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Usikrede ændringer vil gå tabt."
+            "value" : "Ikke-gemte ændringer går tabt."
           }
         },
         "de" : {
@@ -17938,7 +17938,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "बचत न की गई परिवर्तनों को खो दिया जाएगा।"
+            "value" : "सहेजे नहीं गए बदलाव खो जाएंगे।"
           }
         },
         "hr" : {
@@ -18034,13 +18034,13 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nespracované zmeny sa stratia."
+            "value" : "Neuložené zmeny sa stratia."
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Olagrade ändringar kommer att gå förlorade."
+            "value" : "Osparade ändringar kommer att gå förlorade."
           }
         },
         "th" : {
@@ -18058,7 +18058,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Зміни не збережено"
+            "value" : "Незбережені зміни буде втрачено."
           }
         },
         "vi" : {
@@ -18076,13 +18076,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "未保存的更改將會丟失。"
+            "value" : "未儲存的變更將會遺失。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "未儲存的更改將會丟失。"
+            "value" : "未儲存的更改將會遺失。"
           }
         }
       }
@@ -18100,7 +18100,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Вашата работа се запазва."
+            "value" : "Работата ти се запазва."
           }
         },
         "ca" : {
@@ -18124,7 +18124,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dein Werk wird gespeichert."
+            "value" : "Deine Arbeit wird gespeichert."
           }
         },
         "el" : {
@@ -18178,7 +18178,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Votre travail est en cours de sauvegarde."
+            "value" : "Ton travail est en cours de sauvegarde."
           }
         },
         "he" : {
@@ -18190,13 +18190,13 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "आपका कार्य सुरक्षित किया जा रहा है।"
+            "value" : "आपका कार्य सहेजा जा रहा है।"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vaš rad se sprema."
+            "value" : "Tvoj rad se sprema."
           }
         },
         "hu" : {
@@ -18214,7 +18214,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Il tuo lavoro si sta salvando."
+            "value" : "Stiamo salvando il tuo lavoro."
           }
         },
         "ja" : {
@@ -18298,7 +18298,7 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "งานของคุณกำลังถูกบันทึก"
+            "value" : "งานของคุณกำลังถูกบันทึก."
           }
         },
         "tr" : {
@@ -18322,19 +18322,19 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "您的工作正在保存中。"
+            "value" : "正在保存你的工作。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "您的工作正在保存中。"
+            "value" : "正在儲存你的工作。"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "你的工作正在保存中。"
+            "value" : "你的工作正在儲存中。"
           }
         }
       }
@@ -18345,7 +18345,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "جارٍ ضبط الشفافية…"
+            "value" : "اضبط التعتيم…"
           }
         },
         "bg" : {
@@ -18357,31 +18357,31 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ajustant opacitat…"
+            "value" : "Ajusta l'opacitat…"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Upravit opacitu…"
+            "value" : "Upravit neprůhlednost…"
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Justerer opacitet…"
+            "value" : "Juster opacitet…"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Opazität anpassen…"
+            "value" : "Deckkraft anpassen…"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ρυθμιζόμενη διαφάνεια…"
+            "value" : "Ρύθμιση αδιαφάνειας…"
           }
         },
         "en" : {
@@ -18411,13 +18411,13 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ajustar opacidad…"
+            "value" : "Ajusta la opacidad…"
           }
         },
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Säädetään opasiteettia…"
+            "value" : "Säädä peittävyyttä…"
           }
         },
         "fr" : {
@@ -18429,13 +18429,13 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ajuster l'opacité…"
+            "value" : "Ajuste l'opacité…"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "מתאים שקיפות…"
+            "value" : "התאם שקיפות…"
           }
         },
         "hi" : {
@@ -18447,7 +18447,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Podešavanje neprozirnosti…"
+            "value" : "Podesi neprozirnost…"
           }
         },
         "hu" : {
@@ -18477,7 +18477,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Тағы мәліметтерді талдау…"
+            "value" : "Мөлдірлікті реттеңіз…"
           }
         },
         "ko" : {
@@ -18489,19 +18489,19 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Melaraskan opasiti…"
+            "value" : "Laraskan kelegapan…"
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Justerer opasitet…"
+            "value" : "Juster opasitet…"
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pas de doorzichtigheid aan…"
+            "value" : "Pas de ondoorzichtigheid aan…"
           }
         },
         "pl" : {
@@ -18525,7 +18525,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ajustează opacitate…"
+            "value" : "Ajustează opacitatea…"
           }
         },
         "ru" : {
@@ -18537,7 +18537,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nastaviť priesvitnosť…"
+            "value" : "Uprav nepriehľadnosť…"
           }
         },
         "sv" : {
@@ -18555,13 +18555,13 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Opasiteyi ayarlama…"
+            "value" : "Opaklığı ayarla…"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Регулювання прозорості…"
+            "value" : "Налаштуйте прозорість…"
           }
         },
         "vi" : {
@@ -18608,7 +18608,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trieu la mida del pinzell…"
+            "value" : "Tria la mida del pinzell…"
           }
         },
         "cs" : {
@@ -18620,7 +18620,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vælg penselstørrelse..."
+            "value" : "Vælg penselstørrelse…"
           }
         },
         "de" : {
@@ -18668,7 +18668,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Valitse harjan koko…"
+            "value" : "Valitse siveltimen koko…"
           }
         },
         "fr" : {
@@ -18680,7 +18680,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Choisir la taille du pinceau…"
+            "value" : "Choisis la taille du pinceau…"
           }
         },
         "he" : {
@@ -18698,13 +18698,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Odaberi veličinu četkice…"
+            "value" : "Odaberi veličinu kista…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ecsetméretet válaszd ki…"
+            "value" : "Válaszd ki az ecsetméretet…"
           }
         },
         "id" : {
@@ -18788,7 +18788,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vybrať veľkosť štetca…"
+            "value" : "Vyber veľkosť štetca…"
           }
         },
         "sv" : {
@@ -18806,13 +18806,13 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fırça boyutu seç…"
+            "value" : "Fırça boyutunu seç…"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Оберіть розмір кисті…"
+            "value" : "Оберіть розмір пензля…"
           }
         },
         "vi" : {
@@ -18853,13 +18853,13 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Изберете цвят…"
+            "value" : "Избери цвят…"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trieu color…"
+            "value" : "Tria un color…"
           }
         },
         "cs" : {
@@ -18871,7 +18871,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vælg farve..."
+            "value" : "Vælg farve…"
           }
         },
         "de" : {
@@ -18931,7 +18931,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Choisir la couleur…"
+            "value" : "Choisis la couleur…"
           }
         },
         "he" : {
@@ -19033,13 +19033,13 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Выберите цвет…"
+            "value" : "Выбери цвет…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vybrať farbu…"
+            "value" : "Vyber farbu…"
           }
         },
         "sv" : {
@@ -19057,7 +19057,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bir kategori seçme…"
+            "value" : "Bir renk seç…"
           }
         },
         "uk" : {
@@ -19104,13 +19104,13 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Изберете семейство шрифтове…"
+            "value" : "Избери семейство шрифтове…"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trieu família de tipografies…"
+            "value" : "Tria la família de tipografies…"
           }
         },
         "cs" : {
@@ -19122,13 +19122,13 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vælg skrifttypefamilie..."
+            "value" : "Vælg skrifttypefamilie…"
           }
         },
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Schriftart auswählen…"
+            "value" : "Schriftfamilie auswählen…"
           }
         },
         "el" : {
@@ -19182,7 +19182,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Choisir la famille de polices…"
+            "value" : "Choisis la famille de police…"
           }
         },
         "he" : {
@@ -19206,7 +19206,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Válaszd ki a betűtípust…"
+            "value" : "Válaszd ki a betűcsaládot…"
           }
         },
         "id" : {
@@ -19242,7 +19242,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pilih jenis font…"
+            "value" : "Pilih keluarga fon…"
           }
         },
         "nb" : {
@@ -19254,7 +19254,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kies lettertype…"
+            "value" : "Kies lettertypefamilie…"
           }
         },
         "pl" : {
@@ -19284,13 +19284,13 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Выберите шрифт…"
+            "value" : "Выбери семейство шрифтов…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vybrať rodinu písma…"
+            "value" : "Vyber rodinu písma…"
           }
         },
         "sv" : {
@@ -19314,13 +19314,13 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Оберіть шрифт…"
+            "value" : "Оберіть сімейство шрифтів…"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Chọn họ font…"
+            "value" : "Chọn họ phông chữ…"
           }
         },
         "zh-Hans" : {
@@ -19332,13 +19332,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "選擇字體家族…"
+            "value" : "選擇字型系列…"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "選擇字體系列…"
+            "value" : "選擇字型系列…"
           }
         }
       }
@@ -19355,13 +19355,13 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Изберете стил на слоя…"
+            "value" : "Избери стил на слоя…"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trieu estil de capa…"
+            "value" : "Tria l'estil de la capa…"
           }
         },
         "cs" : {
@@ -19373,7 +19373,7 @@
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vælg lagstil..."
+            "value" : "Vælg lagstil…"
           }
         },
         "de" : {
@@ -19385,7 +19385,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Επιλογή στυλ επιπέδου…"
+            "value" : "Επιλογή στιλ επιπέδου…"
           }
         },
         "en" : {
@@ -19415,7 +19415,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Elige estilo de capa…"
+            "value" : "Elige el estilo de capa…"
           }
         },
         "fi" : {
@@ -19433,7 +19433,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Choisir le style de calque…"
+            "value" : "Choisis le style de couche…"
           }
         },
         "he" : {
@@ -19481,7 +19481,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Бет стильін таңдаңыз…"
+            "value" : "Қабат стилін таңдаңыз…"
           }
         },
         "ko" : {
@@ -19529,19 +19529,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alege stilul de strat…"
+            "value" : "Alege stilul stratului…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Выберите стиль слоя…"
+            "value" : "Выбери стиль слоя…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vybrať štýl vrstvy…"
+            "value" : "Vyber štýl vrstvy…"
           }
         },
         "sv" : {
@@ -19606,13 +19606,13 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Създаване на нов слой…"
+            "value" : "Създай нов слой…"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Crea nova capa…"
+            "value" : "Crea una capa nova…"
           }
         },
         "cs" : {
@@ -19630,13 +19630,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Deine neue Ebene erstellen…"
+            "value" : "Neue Ebene erstellen…"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Δημιουργία νέας στρώσης…"
+            "value" : "Δημιουργία νέου επιπέδου…"
           }
         },
         "en" : {
@@ -19666,7 +19666,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Crea nueva capa…"
+            "value" : "Crea una nueva capa…"
           }
         },
         "fi" : {
@@ -19684,7 +19684,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Créer un nouveau calque…"
+            "value" : "Crée une nouvelle couche…"
           }
         },
         "he" : {
@@ -19792,7 +19792,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vytvoriť novú vrstvu…"
+            "value" : "Vytvor novú vrstvu…"
           }
         },
         "sv" : {
@@ -19810,7 +19810,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yeni katman oluşturuluyor…"
+            "value" : "Yeni katman oluştur…"
           }
         },
         "uk" : {
@@ -19822,7 +19822,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đang tạo lớp mới…"
+            "value" : "Tạo lớp mới…"
           }
         },
         "zh-Hans" : {
@@ -19840,7 +19840,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "創建新圖層…"
+            "value" : "建立新圖層…"
           }
         }
       }
@@ -19851,25 +19851,25 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "أدخل أبعاد اللوحة الفنية…"
+            "value" : "أدخل أبعاد لوحة العمل…"
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведете размерите на артборда…"
+            "value" : "Въведи размерите на работното платно…"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdueix les dimensions de la taula de treball…"
+            "value" : "Introdueix les dimensions del tauler d’art…"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadejte rozměry artboardu…"
+            "value" : "Zadej rozměry plátna…"
           }
         },
         "da" : {
@@ -19881,13 +19881,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Größen des Zeichenbretts eingeben…"
+            "value" : "Abmessungen der Zeichenfläche eingeben…"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε διαστάσεις artboard…"
+            "value" : "Εισάγετε διαστάσεις περιοχής σχεδίασης…"
           }
         },
         "en" : {
@@ -19911,13 +19911,13 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ingresa dimensiones del artboard…"
+            "value" : "Introduce las dimensiones de la mesa de trabajo…"
           }
         },
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ingresa las dimensiones del artboard…"
+            "value" : "Ingresa las dimensiones de la mesa de trabajo…"
           }
         },
         "fi" : {
@@ -19929,19 +19929,19 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez les dimensions de l'artboard…"
+            "value" : "Entrez les dimensions du plan de travail…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrer les dimensions de la planche à dessin…"
+            "value" : "Entre les dimensions du plan de travail…"
           }
         },
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הכנס ממדי לוח ציור…"
+            "value" : "הזן ממדי לוח עבודה…"
           }
         },
         "hi" : {
@@ -19953,13 +19953,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi dimenzije artboard-a…"
+            "value" : "Unesi dimenzije umjetničke površine…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Artboard méreteinek megadása…"
+            "value" : "Munkaterület méreteinek megadása…"
           }
         },
         "id" : {
@@ -19971,7 +19971,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inserisci dimensioni tela…"
+            "value" : "Inserisci dimensioni della tavola da disegno…"
           }
         },
         "ja" : {
@@ -19995,13 +19995,13 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Masukkan dimensi artboard…"
+            "value" : "Masukkan dimensi papan seni…"
           }
         },
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skriv inn artboard-dimensjoner…"
+            "value" : "Skriv inn dimensjoner for tegneflaten…"
           }
         },
         "nl" : {
@@ -20013,7 +20013,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wprowadź wymiary artboardu…"
+            "value" : "Wprowadź wymiary obszaru roboczego…"
           }
         },
         "pt-BR" : {
@@ -20025,31 +20025,31 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduzir dimensões da prancheta…"
+            "value" : "Introduzir dimensões do quadro de trabalho…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introducerea dimensiunilor planșei…"
+            "value" : "Introdu dimensiunile planșei…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введите размеры артборда…"
+            "value" : "Введи размеры артборда…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadajte rozmery artboardu…"
+            "value" : "Zadaj rozmery pracovnej plochy…"
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ange dimensioner för konstbräda…"
+            "value" : "Ange dimensioner för arbetsytan…"
           }
         },
         "th" : {
@@ -20067,13 +20067,13 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введіть розміри артборду…"
+            "value" : "Введіть розміри монтажної області…"
           }
         },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nhập kích thước khung vẽ…"
+            "value" : "Nhập kích thước bảng vẽ…"
           }
         },
         "zh-Hans" : {
@@ -20114,13 +20114,13 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdueix el color hex…"
+            "value" : "Introdueix el color hexadecimal…"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadejte hexadecimální barvu…"
+            "value" : "Zadej hexadecimální barvu…"
           }
         },
         "da" : {
@@ -20138,7 +20138,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισάγετε κωδικό χρώματος hex…"
+            "value" : "Εισάγετε δεκαεξαδικό κωδικό χρώματος…"
           }
         },
         "en" : {
@@ -20192,7 +20192,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "הזן צבע הקס…"
+            "value" : "הזן צבע Hex…"
           }
         },
         "hi" : {
@@ -20228,7 +20228,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "16進数カラーを入力…"
+            "value" : "16進数カラーコードを入力…"
           }
         },
         "kk" : {
@@ -20258,7 +20258,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voer hex kleur in…"
+            "value" : "Voer hexkleur in…"
           }
         },
         "pl" : {
@@ -20270,31 +20270,31 @@
         "pt-BR" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Digite a cor hex…"
+            "value" : "Digite a cor hexadecimal…"
           }
         },
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduza o código de cor hexadecimal…"
+            "value" : "Introduzir código de cor hexadecimal…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduceți codul de culoare hex…"
+            "value" : "Introdu codul de culoare hex…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введите шестнадцатеричный цвет…"
+            "value" : "Введи шестнадцатеричный цвет…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj hex farebný kód…"
+            "value" : "Zadaj hex kód farby…"
           }
         },
         "sv" : {
@@ -20371,7 +20371,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadejte rozměry obrázku…"
+            "value" : "Zadej rozměry obrázku…"
           }
         },
         "da" : {
@@ -20425,7 +20425,7 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Syötä kuvakoon mitat…"
+            "value" : "Syötä kuvan mitat…"
           }
         },
         "fr" : {
@@ -20527,19 +20527,19 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduza as dimensões da imagem…"
+            "value" : "Introduzir dimensões da imagem…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduceți dimensiunile imaginii…"
+            "value" : "Introdu dimensiunile imaginii…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введите размеры изображения…"
+            "value" : "Введи размеры изображения…"
           }
         },
         "sk" : {
@@ -20622,7 +20622,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadejte název vrstvy…"
+            "value" : "Zadej název vrstvy…"
           }
         },
         "da" : {
@@ -20682,13 +20682,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de la couche…"
+            "value" : "Entrez le nom du calque…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de la couche…"
+            "value" : "Entre le nom de la couche…"
           }
         },
         "he" : {
@@ -20724,7 +20724,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inserisci nome del layer…"
+            "value" : "Inserisci nome del livello…"
           }
         },
         "ja" : {
@@ -20754,13 +20754,13 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skriv inn lagernavn…"
+            "value" : "Skriv inn lagnavn…"
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voer lagennaam in…"
+            "value" : "Voer laagnaam in…"
           }
         },
         "pl" : {
@@ -20778,19 +20778,19 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduza o nome da camada…"
+            "value" : "Introduzir nome da camada…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduceti numele stratului…"
+            "value" : "Introdu numele stratului…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введите имя слоя…"
+            "value" : "Введи имя слоя…"
           }
         },
         "sk" : {
@@ -20873,7 +20873,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadejte text…"
+            "value" : "Zadej text…"
           }
         },
         "da" : {
@@ -20939,7 +20939,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le texte…"
+            "value" : "Entre le texte…"
           }
         },
         "he" : {
@@ -20957,7 +20957,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesite tekst…"
+            "value" : "Unesi tekst…"
           }
         },
         "hu" : {
@@ -21029,7 +21029,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduza o texto…"
+            "value" : "Introduzir texto…"
           }
         },
         "ro" : {
@@ -21041,7 +21041,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введите текст…"
+            "value" : "Введи текст…"
           }
         },
         "sk" : {
@@ -21095,7 +21095,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入文本…"
+            "value" : "輸入文字…"
           }
         }
       }
@@ -21118,7 +21118,7 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Exportant en curs…"
+            "value" : "Exportació en curs…"
           }
         },
         "cs" : {
@@ -21208,7 +21208,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unos u toku…"
+            "value" : "Izvoz u tijeku…"
           }
         },
         "hu" : {
@@ -21262,7 +21262,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Exporteren in uitvoering…"
+            "value" : "Bezig met exporteren…"
           }
         },
         "pl" : {
@@ -21340,13 +21340,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "導出進行中…"
+            "value" : "匯出進行中…"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在導出…"
+            "value" : "正在匯出…"
           }
         }
       }
@@ -21363,7 +21363,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи текст тук..."
+            "value" : "Въведи текст тук…"
           }
         },
         "ca" : {
@@ -21423,7 +21423,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insertar texto aquí…"
+            "value" : "Inserta texto aquí…"
           }
         },
         "fi" : {
@@ -21441,7 +21441,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insérer le texte ici…"
+            "value" : "Insère le texte ici…"
           }
         },
         "he" : {
@@ -21453,7 +21453,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "यहां टेक्स्ट डालें..."
+            "value" : "यहां टेक्स्ट डालें…"
           }
         },
         "hr" : {
@@ -21531,25 +21531,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inserir texto aqui..."
+            "value" : "Inserir texto aqui…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduceți text aici…"
+            "value" : "Introdu text aici…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Вставьте текст сюда..."
+            "value" : "Вставь текст сюда…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadajte text sem..."
+            "value" : "Zadaj text sem…"
           }
         },
         "sv" : {
@@ -21585,19 +21585,19 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在此插入文本..."
+            "value" : "在此插入文本…"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在這裡插入文本…"
+            "value" : "在這裡插入文字…"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在此插入文字..."
+            "value" : "在此插入文字…"
           }
         }
       }
@@ -21614,7 +21614,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Избирай цвят…"
+            "value" : "Избери цвят…"
           }
         },
         "ca" : {
@@ -21746,7 +21746,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "색상 선택 중…"
+            "value" : "색상 선택…"
           }
         },
         "ms" : {
@@ -21782,7 +21782,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Escolhe uma cor…"
+            "value" : "Escolher uma cor…"
           }
         },
         "ro" : {
@@ -21794,7 +21794,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Выберите цвет…"
+            "value" : "Выбери цвет…"
           }
         },
         "sk" : {
@@ -21859,7 +21859,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "جاري عرض المعاينة…"
+            "value" : "جارٍ عرض المعاينة…"
           }
         },
         "bg" : {
@@ -21871,19 +21871,19 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Renderitzant visualització…"
+            "value" : "Renderitzant la previsualització…"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zpracovávám náhled…"
+            "value" : "Vykreslování náhledu…"
           }
         },
         "da" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Renderer preview…"
+            "value" : "Gengiver forhåndsvisning…"
           }
         },
         "de" : {
@@ -21949,19 +21949,19 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "מייצר תצוגה מקדימה…"
+            "value" : "עיבוד תצוגה מקדימה…"
           }
         },
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "पूर्वावलोकन को रेंडर कर रहे हैं…"
+            "value" : "पूर्वावलोकन रेंडर हो रहा है…"
           }
         },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Renderiram pregled…"
+            "value" : "Renderiranje pregleda…"
           }
         },
         "hu" : {
@@ -21991,7 +21991,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Алдын ала қарауды шығару…"
+            "value" : "Алдын ала қарау қалыптастырылуда…"
           }
         },
         "ko" : {
@@ -22003,7 +22003,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Menyediakan pratonton…"
+            "value" : "Menjana pratonton…"
           }
         },
         "nb" : {
@@ -22015,7 +22015,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voorbeeld renderen…"
+            "value" : "Bezig met voorvertoning renderen…"
           }
         },
         "pl" : {
@@ -22033,7 +22033,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Procurar documentos…"
+            "value" : "A gerar pré‑visualização…"
           }
         },
         "ro" : {
@@ -22045,7 +22045,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Рендеринг превью…"
+            "value" : "Рендеринг предпросмотра…"
           }
         },
         "sk" : {
@@ -22081,7 +22081,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đang kết xuất xem trước..."
+            "value" : "Đang kết xuất xem trước…"
           }
         },
         "zh-Hans" : {
@@ -22110,7 +22110,7 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "البحث عن الخطوط…"
+            "value" : "ابحث عن الخطوط…"
           }
         },
         "bg" : {
@@ -22176,7 +22176,7 @@
         "es-419" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buscar tipografías…"
+            "value" : "Buscar fuentes…"
           }
         },
         "fi" : {
@@ -22200,7 +22200,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "חפש פונטים…"
+            "value" : "חפש גופנים…"
           }
         },
         "hi" : {
@@ -22218,13 +22218,13 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Betűtípus keresése…"
+            "value" : "Betűtípusok keresése…"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mencari font…"
+            "value" : "Cari font…"
           }
         },
         "it" : {
@@ -22254,7 +22254,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mencari fon…"
+            "value" : "Cari fon…"
           }
         },
         "nb" : {
@@ -22290,19 +22290,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caută tipuri de litere…"
+            "value" : "Caută fonturi…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ищем шрифты…"
+            "value" : "Ищи шрифты…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hľadám písma…"
+            "value" : "Hľadaj písma…"
           }
         },
         "sv" : {
@@ -22344,7 +22344,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋字型中..."
+            "value" : "搜尋字型中…"
           }
         },
         "zh-HK" : {
@@ -22361,25 +22361,25 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "حدد حجم اللوحة…"
+            "value" : "حدد حجم لوحة الرسم…"
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Определяне на размер на платното..."
+            "value" : "Определяне на размер на платното…"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Estableix mida del canvas…"
+            "value" : "Estableix la mida del llenç…"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nastavte velikost plátna…"
+            "value" : "Nastav velikost plátna…"
           }
         },
         "da" : {
@@ -22439,13 +22439,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Définir la taille du canevas…"
+            "value" : "Définir la taille de la toile…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Définir la taille du canevas…"
+            "value" : "Définis la taille du canevas…"
           }
         },
         "he" : {
@@ -22493,7 +22493,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Мата өлшемін орнатыңыз..."
+            "value" : "Кенеп өлшемін орнатыңыз…"
           }
         },
         "ko" : {
@@ -22523,7 +22523,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ustal rozmiar płótna..."
+            "value" : "Ustal rozmiar płótna…"
           }
         },
         "pt-BR" : {
@@ -22541,7 +22541,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stabilește dimensiunea canvasului…"
+            "value" : "Stabilește dimensiunea pânzei…"
           }
         },
         "ru" : {
@@ -22553,13 +22553,13 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nastaviť veľkosť plátna…"
+            "value" : "Nastav veľkosť plátna…"
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sätt canvasstorlek..."
+            "value" : "Sätt dukstorlek…"
           }
         },
         "th" : {
@@ -22583,7 +22583,7 @@
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Đặt kích thước canvas…"
+            "value" : "Đặt kích thước bảng vẽ…"
           }
         },
         "zh-Hans" : {
@@ -22595,13 +22595,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "設置畫布大小…"
+            "value" : "設定畫布大小…"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "設置畫布大小…"
+            "value" : "設定畫布大小…"
           }
         }
       }
@@ -22618,19 +22618,19 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Задаване на непрозрачност на слоя..."
+            "value" : "Задаване на непрозрачност на слоя…"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Estableix opacitat de capa…"
+            "value" : "Estableix l'opacitat de la capa…"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nastavte opacitu vrstvy…"
+            "value" : "Nastav neprůhlednost vrstvy…"
           }
         },
         "da" : {
@@ -22642,13 +22642,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Opazität der Ebene festlegen…"
+            "value" : "Deckkraft der Ebene festlegen…"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ορισμός της διαφάνειας στρώματος…"
+            "value" : "Ορισμός αδιαφάνειας επιπέδου…"
           }
         },
         "en" : {
@@ -22684,19 +22684,19 @@
         "fi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aseta tason läpinäkyvyys…"
+            "value" : "Aseta tason peittävyys…"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Définir l'opacité de la couche…"
+            "value" : "Définir l'opacité du calque…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Définir l'opacité du calque…"
+            "value" : "Définis l'opacité de la couche…"
           }
         },
         "he" : {
@@ -22714,7 +22714,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Postavi prozirnost sloja…"
+            "value" : "Postavi neprozirnost sloja…"
           }
         },
         "hu" : {
@@ -22744,7 +22744,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Қабаттың мөлдірлігін орнатыңыз..."
+            "value" : "Қабаттың мөлдірлігін орнатыңыз…"
           }
         },
         "ko" : {
@@ -22762,19 +22762,19 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sett laggjennomsiktighet…"
+            "value" : "Sett lagets opasitet…"
           }
         },
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stel laagdoorzichtigheid in…"
+            "value" : "Stel laagondoorzichtigheid in…"
           }
         },
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ustal przezroczystość warstwy..."
+            "value" : "Ustal przezroczystość warstwy…"
           }
         },
         "pt-BR" : {
@@ -22804,13 +22804,13 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nastaviť krytie vrstvy…"
+            "value" : "Nastav nepriehľadnosť vrstvy…"
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sätt lagrets opacitet..."
+            "value" : "Sätt lagrets opacitet…"
           }
         },
         "th" : {
@@ -22852,7 +22852,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "設置圖層不透明度…"
+            "value" : "設定圖層不透明度…"
           }
         }
       }
@@ -22863,25 +22863,25 @@
         "ar" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "حدد عرض الخط…"
+            "value" : "حدد عرض الحد…"
           }
         },
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Определяне на ширина на линията..."
+            "value" : "Определяне на ширина на линията…"
           }
         },
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Estableix amplada de traç…"
+            "value" : "Estableix l'amplada del traç…"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nastavte tloušťku tahu…"
+            "value" : "Nastav tloušťku tahu…"
           }
         },
         "da" : {
@@ -22899,7 +22899,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ορισμός πλάτους γραμμής…"
+            "value" : "Ορισμός πλάτους περιγράμματος…"
           }
         },
         "en" : {
@@ -22947,7 +22947,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Définir la largeur du pinceau…"
+            "value" : "Définis l'épaisseur du trait…"
           }
         },
         "he" : {
@@ -22965,7 +22965,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Postavi debljinu poteza…"
+            "value" : "Postavi debljinu obruba…"
           }
         },
         "hu" : {
@@ -23007,7 +23007,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tetapkan lebar stroke…"
+            "value" : "Tetapkan lebar strok…"
           }
         },
         "nb" : {
@@ -23025,7 +23025,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ustal szerokość linii..."
+            "value" : "Ustal szerokość linii…"
           }
         },
         "pt-BR" : {
@@ -23043,7 +23043,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stabilește lățimea liniei…"
+            "value" : "Stabilește lățimea conturului…"
           }
         },
         "ru" : {
@@ -23055,13 +23055,13 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nastaviť šírku ťahu…"
+            "value" : "Nastav šírku ťahu…"
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ange penseldragets bredd…"
+            "value" : "Ange konturens bredd…"
           }
         },
         "th" : {
@@ -23079,7 +23079,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Встановити ширину лінії…"
+            "value" : "Встановити товщину обведення…"
           }
         },
         "vi" : {
@@ -23091,19 +23091,19 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "设定笔画宽度…"
+            "value" : "设定描边宽度…"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "設定筆畫寬度..."
+            "value" : "設定筆畫寬度…"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "設置筆觸寬度…"
+            "value" : "設定描邊寬度…"
           }
         }
       }
@@ -23120,7 +23120,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Посочете размерите..."
+            "value" : "Посочи размерите…"
           }
         },
         "ca" : {
@@ -23132,7 +23132,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Uveďte rozměry…"
+            "value" : "Uveď rozměry…"
           }
         },
         "da" : {
@@ -23204,7 +23204,7 @@
         "he" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ציין מימדים…"
+            "value" : "ציין ממדים…"
           }
         },
         "hi" : {
@@ -23246,7 +23246,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Өлшемдерін көрсетіңіз..."
+            "value" : "Өлшемдерді көрсетіңіз…"
           }
         },
         "ko" : {
@@ -23276,7 +23276,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Określ wymiary..."
+            "value" : "Określ wymiary…"
           }
         },
         "pt-BR" : {
@@ -23300,19 +23300,19 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Укажите размеры…"
+            "value" : "Укажи размеры…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Určte rozmery…"
+            "value" : "Urči rozmery…"
           }
         },
         "sv" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ange dimensioner..."
+            "value" : "Ange dimensioner…"
           }
         },
         "th" : {
@@ -23348,7 +23348,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "指定尺寸..."
+            "value" : "指定尺寸…"
           }
         },
         "zh-HK" : {
@@ -23377,13 +23377,13 @@
         "ca" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Escriu per cercar fonts…"
+            "value" : "Escriu per cercar tipografies…"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadejte pro hledání písem…"
+            "value" : "Zadej pro hledání písem…"
           }
         },
         "da" : {
@@ -23449,7 +23449,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tapez pour rechercher des polices…"
+            "value" : "Tape pour rechercher des polices…"
           }
         },
         "he" : {
@@ -23461,7 +23461,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "फॉन्ट्स खोजने के लिए टाइप करें..."
+            "value" : "फॉन्ट्स खोजने के लिए टाइप करें…"
           }
         },
         "hr" : {
@@ -23497,13 +23497,13 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Шрифттарды іздеу үшін жазыңыз…"
+            "value" : "Шрифттерді іздеу үшін жазыңыз…"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "폰트 검색어 입력하기…"
+            "value" : "폰트 검색어 입력…"
           }
         },
         "ms" : {
@@ -23551,13 +23551,13 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введите для поиска шрифтов…"
+            "value" : "Введи для поиска шрифтов…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadajte, aby ste hľadali písma…"
+            "value" : "Začni písať na vyhľadanie písiem…"
           }
         },
         "sv" : {
@@ -23605,7 +23605,7 @@
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入以搜索字型…"
+            "value" : "輸入以搜尋字型…"
           }
         }
       }
