@@ -187,6 +187,16 @@ extension TK.Label {
       String(localized: "TK.Label.meeting", defaultValue: "Meeting", bundle: .module, comment: "Use for a scheduled business meeting or appointment")
    }
 
+   /// "Ordered" - Use for showing an order's status
+   public static var ordered: String {
+      String(
+         localized: "TK.Label.ordered",
+         defaultValue: "Ordered",
+         bundle: .module,
+         comment: "Use for showing an order's status"
+      )
+   }
+
    /// "Organization" - Use for company or group organization details
    public static var organization: String {
       String(
@@ -244,6 +254,16 @@ extension TK.Label {
          defaultValue: "Transaction History",
          bundle: .module,
          comment: "Use for showing past financial transactions or records"
+      )
+   }
+
+   /// "Validated" - Use for showing a validated status
+   public static var validated: String {
+      String(
+         localized: "TK.Label.validated",
+         defaultValue: "Validated",
+         bundle: .module,
+         comment: "Use for showing a validated status"
       )
    }
 
