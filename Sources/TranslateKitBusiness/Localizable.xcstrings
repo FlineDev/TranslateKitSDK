@@ -15312,6 +15312,24 @@
         }
       }
     },
+    "TK.Label.ordered" : {
+      "comment" : "Use for showing an order's status",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Ordered"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Commandé"
+          }
+        }
+      }
+    },
     "TK.Label.organization" : {
       "comment" : "Use for company or group organization details",
       "localizations" : {
@@ -16814,6 +16832,24 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "交易歷史"
+          }
+        }
+      }
+    },
+    "TK.Label.validated" : {
+      "comment" : "Use for showing a validated status",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Validated"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Validé"
           }
         }
       }
