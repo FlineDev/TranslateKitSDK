@@ -21706,7 +21706,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Choisissez un instrument…"
+            "value" : "Choisir un instrument…"
           }
         },
         "fr-CA" : {
@@ -22711,7 +22711,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de l'album…"
+            "value" : "Saisir le nom de l'album…"
           }
         },
         "fr-CA" : {
@@ -22962,7 +22962,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de l'artiste…"
+            "value" : "Saisir le nom de l'artiste…"
           }
         },
         "fr-CA" : {
@@ -23213,7 +23213,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le BPM…"
+            "value" : "Saisir le BPM…"
           }
         },
         "fr-CA" : {
@@ -23464,7 +23464,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez la progression d'accords…"
+            "value" : "Saisir la progression d'accords…"
           }
         },
         "fr-CA" : {
@@ -23715,13 +23715,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez les paroles ici…"
+            "value" : "Saisir les paroles ici…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez les paroles ici…"
+            "value" : "Entrer les paroles ici…"
           }
         },
         "he" : {
@@ -23966,13 +23966,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le titre de la chanson…"
+            "value" : "Saisir le titre de la chanson…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisissez le titre de la chanson…"
+            "value" : "Saisir le titre de la chanson…"
           }
         },
         "he" : {
@@ -24217,13 +24217,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez la signature rythmique…"
+            "value" : "Saisir la signature rythmique…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisissez la signature rythmique…"
+            "value" : "Saisir la signature rythmique…"
           }
         },
         "he" : {

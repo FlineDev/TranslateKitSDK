@@ -22188,13 +22188,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez la date limite…"
+            "value" : "Saisir la date limite…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez la date limite…"
+            "value" : "Entrer la date limite…"
           }
         },
         "he" : {
@@ -22439,13 +22439,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez la date d'échéance…"
+            "value" : "Saisir la date d'échéance…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez la date d'échéance…"
+            "value" : "Entrer la date d'échéance…"
           }
         },
         "he" : {
@@ -22690,13 +22690,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom du projet…"
+            "value" : "Saisir le nom du projet…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisissez le nom du projet…"
+            "value" : "Saisir le nom du projet…"
           }
         },
         "he" : {
@@ -22941,13 +22941,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez la description de la tâche…"
+            "value" : "Saisir la description de la tâche…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisissez la description de la tâche…"
+            "value" : "Saisir la description de la tâche…"
           }
         },
         "he" : {
@@ -23198,7 +23198,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le titre de la tâche…"
+            "value" : "Entrer le titre de la tâche…"
           }
         },
         "he" : {
@@ -23449,7 +23449,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le temps passé…"
+            "value" : "Entrer le temps passé…"
           }
         },
         "he" : {

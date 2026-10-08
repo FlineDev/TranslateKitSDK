@@ -24206,7 +24206,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de l'album…"
+            "value" : "Saisir le nom de l'album…"
           }
         },
         "fr-CA" : {
@@ -24458,7 +24458,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez la description…"
+            "value" : "Saisir la description…"
           }
         },
         "fr-CA" : {

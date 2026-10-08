@@ -21437,13 +21437,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le type d'activité…"
+            "value" : "Saisir le type d'activité…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le type d'activité…"
+            "value" : "Entrer le type d'activité…"
           }
         },
         "he" : {
@@ -21688,13 +21688,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez votre poids actuel…"
+            "value" : "Saisir votre poids actuel…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le poids actuel…"
+            "value" : "Entrer le poids actuel…"
           }
         },
         "he" : {
@@ -21939,13 +21939,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez votre objectif quotidien de pas…"
+            "value" : "Saisir votre objectif quotidien de pas…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez l'objectif quotidien de pas…"
+            "value" : "Entrer l'objectif quotidien de pas…"
           }
         },
         "he" : {
@@ -22190,13 +22190,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez la durée de l'exercice…"
+            "value" : "Saisir la durée de l'exercice…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez la durée de l'exercice…"
+            "value" : "Entrer la durée de l'exercice…"
           }
         },
         "he" : {
@@ -22441,13 +22441,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez votre fréquence cardiaque…"
+            "value" : "Saisir votre fréquence cardiaque…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez la fréquence cardiaque…"
+            "value" : "Entrer la fréquence cardiaque…"
           }
         },
         "he" : {
@@ -22692,13 +22692,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez votre taille…"
+            "value" : "Saisir votre taille…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez la taille…"
+            "value" : "Entrer la taille…"
           }
         },
         "he" : {
@@ -22943,13 +22943,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez les détails du repas…"
+            "value" : "Saisir les détails du repas…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez les détails du repas…"
+            "value" : "Entrer les détails du repas…"
           }
         },
         "he" : {
@@ -23194,13 +23194,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nombre de répétitions…"
+            "value" : "Saisir le nombre de répétitions…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisissez le nombre de répétitions…"
+            "value" : "Saisir le nombre de répétitions…"
           }
         },
         "he" : {
@@ -23445,13 +23445,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nombre de séries…"
+            "value" : "Saisir le nombre de séries…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisissez le nombre de séries…"
+            "value" : "Saisir le nombre de séries…"
           }
         },
         "he" : {
@@ -23696,13 +23696,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez votre poids cible…"
+            "value" : "Saisir votre poids cible…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisissez le poids cible…"
+            "value" : "Saisir le poids cible…"
           }
         },
         "he" : {
@@ -23947,13 +23947,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez la quantité d'eau…"
+            "value" : "Saisir la quantité d'eau…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez la quantité d'eau…"
+            "value" : "Entrer la quantité d'eau…"
           }
         },
         "he" : {
@@ -24198,13 +24198,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez la durée de l'entraînement…"
+            "value" : "Saisir la durée de l'entraînement…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez la durée de l'entraînement…"
+            "value" : "Entrer la durée de l'entraînement…"
           }
         },
         "he" : {
@@ -24455,7 +24455,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trouve un exercice…"
+            "value" : "Trouver un exercice…"
           }
         },
         "he" : {
@@ -24700,13 +24700,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Enregistrez votre repas…"
+            "value" : "Enregistrer votre repas…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Enregistrez votre repas…"
+            "value" : "Enregistrer votre repas…"
           }
         },
         "he" : {
@@ -25208,7 +25208,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fixez un objectif de condition physique…"
+            "value" : "Fixer un objectif de condition physique…"
           }
         },
         "he" : {

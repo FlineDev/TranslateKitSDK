@@ -21686,7 +21686,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez une description de groupe…"
+            "value" : "Saisir une description de groupe…"
           }
         },
         "fr-CA" : {
@@ -21937,7 +21937,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom du groupe…"
+            "value" : "Saisir le nom du groupe…"
           }
         },
         "fr-CA" : {
@@ -22188,7 +22188,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez un hashtag…"
+            "value" : "Saisir un hashtag…"
           }
         },
         "fr-CA" : {
@@ -23192,7 +23192,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Partagez votre histoire…"
+            "value" : "Partager votre histoire…"
           }
         },
         "fr-CA" : {
@@ -23443,7 +23443,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Partagez vos pensées…"
+            "value" : "Partager vos pensées…"
           }
         },
         "fr-CA" : {

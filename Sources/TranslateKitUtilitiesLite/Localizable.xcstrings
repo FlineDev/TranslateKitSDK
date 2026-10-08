@@ -20431,7 +20431,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Choisissez le format de sortie…"
+            "value" : "Choisir le format de sortie…"
           }
         },
         "fr-CA" : {
@@ -20933,7 +20933,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez la clé API…"
+            "value" : "Saisir la clé API…"
           }
         },
         "fr-CA" : {
@@ -21184,13 +21184,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de l'appareil…"
+            "value" : "Saisir le nom de l'appareil…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de l'appareil…"
+            "value" : "Entrer le nom de l'appareil…"
           }
         },
         "he" : {
@@ -21435,13 +21435,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le DNS…"
+            "value" : "Saisir le DNS…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le DNS…"
+            "value" : "Entrer le DNS…"
           }
         },
         "he" : {
@@ -21686,13 +21686,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de fichier…"
+            "value" : "Saisir le nom de fichier…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom du fichier…"
+            "value" : "Entrer le nom du fichier…"
           }
         },
         "he" : {
@@ -21937,13 +21937,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez l'adresse IP…"
+            "value" : "Saisir l'adresse IP…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez l'adresse IP…"
+            "value" : "Entrer l'adresse IP…"
           }
         },
         "he" : {
@@ -22188,13 +22188,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le numéro de port…"
+            "value" : "Saisir le numéro de port…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le numéro de port…"
+            "value" : "Entrer le numéro de port…"
           }
         },
         "he" : {
@@ -22439,13 +22439,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez l'adresse du serveur…"
+            "value" : "Saisir l'adresse du serveur…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisissez l'adresse du serveur…"
+            "value" : "Saisir l'adresse du serveur…"
           }
         },
         "he" : {

@@ -18927,7 +18927,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le titre de l'article…"
+            "value" : "Saisir le titre de l'article…"
           }
         },
         "fr-CA" : {
@@ -19178,7 +19178,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de l'auteur…"
+            "value" : "Saisir le nom de l'auteur…"
           }
         },
         "fr-CA" : {
@@ -21939,13 +21939,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tapez pour ajouter des tags…"
+            "value" : "Taper pour ajouter des tags…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tapez pour ajouter des étiquettes…"
+            "value" : "Taper pour ajouter des étiquettes…"
           }
         },
         "he" : {

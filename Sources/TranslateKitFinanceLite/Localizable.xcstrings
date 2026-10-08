@@ -21182,7 +21182,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Choisissez la méthode de paiement…"
+            "value" : "Choisir la méthode de paiement…"
           }
         },
         "fr-CA" : {
@@ -21433,7 +21433,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le numéro de compte…"
+            "value" : "Saisir le numéro de compte…"
           }
         },
         "fr-CA" : {
@@ -21684,7 +21684,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le montant à transférer…"
+            "value" : "Saisir le montant à transférer…"
           }
         },
         "fr-CA" : {
@@ -22186,7 +22186,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le montant du budget…"
+            "value" : "Saisir le montant du budget…"
           }
         },
         "fr-CA" : {
@@ -22688,7 +22688,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le code de réduction…"
+            "value" : "Saisir le code de réduction…"
           }
         },
         "fr-CA" : {
@@ -22939,7 +22939,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le taux de change…"
+            "value" : "Saisir le taux de change…"
           }
         },
         "fr-CA" : {
@@ -23190,13 +23190,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le taux d'intérêt…"
+            "value" : "Saisir le taux d'intérêt…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le taux d'intérêt…"
+            "value" : "Entrer le taux d'intérêt…"
           }
         },
         "he" : {
@@ -23441,13 +23441,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le numéro de facture…"
+            "value" : "Saisir le numéro de facture…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le numéro de facture…"
+            "value" : "Entrer le numéro de facture…"
           }
         },
         "he" : {
@@ -23692,13 +23692,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez les détails de paiement…"
+            "value" : "Saisir les détails de paiement…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez les détails de paiement…"
+            "value" : "Entrer les détails de paiement…"
           }
         },
         "he" : {
@@ -23943,13 +23943,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le code promotionnel…"
+            "value" : "Saisir le code promotionnel…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisissez le code promo…"
+            "value" : "Saisir le code promo…"
           }
         },
         "he" : {
@@ -24194,13 +24194,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom du destinataire…"
+            "value" : "Saisir le nom du destinataire…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom du destinataire…"
+            "value" : "Entrer le nom du destinataire…"
           }
         },
         "he" : {
@@ -24445,13 +24445,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le montant de la transaction…"
+            "value" : "Saisir le montant de la transaction…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisissez le montant de la transaction…"
+            "value" : "Saisir le montant de la transaction…"
           }
         },
         "he" : {

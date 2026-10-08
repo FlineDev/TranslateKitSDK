@@ -21937,7 +21937,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez l'adresse…"
+            "value" : "Saisir l'adresse…"
           }
         },
         "fr-CA" : {
@@ -22188,13 +22188,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de la ville…"
+            "value" : "Saisir le nom de la ville…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de la ville…"
+            "value" : "Entrer le nom de la ville…"
           }
         },
         "he" : {
@@ -22439,13 +22439,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez la ville ou le quartier…"
+            "value" : "Saisir la ville ou le quartier…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez la ville ou le quartier…"
+            "value" : "Entrer la ville ou le quartier…"
           }
         },
         "he" : {
@@ -22690,13 +22690,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le numéro de confirmation…"
+            "value" : "Saisir le numéro de confirmation…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le numéro de confirmation…"
+            "value" : "Entrer le numéro de confirmation…"
           }
         },
         "he" : {
@@ -22947,7 +22947,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez la destination…"
+            "value" : "Entrer la destination…"
           }
         },
         "he" : {
@@ -23192,13 +23192,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le numéro de vol…"
+            "value" : "Saisir le numéro de vol…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le numéro de vol…"
+            "value" : "Entrer le numéro de vol…"
           }
         },
         "he" : {
@@ -23443,13 +23443,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de l'hôtel…"
+            "value" : "Saisir le nom de l'hôtel…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de l'hôtel…"
+            "value" : "Entrer le nom de l'hôtel…"
           }
         },
         "he" : {
@@ -23694,13 +23694,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le numéro de passeport…"
+            "value" : "Saisir le numéro de passeport…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le numéro de passeport…"
+            "value" : "Entrer le numéro de passeport…"
           }
         },
         "he" : {
@@ -23945,13 +23945,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez les dates de voyage…"
+            "value" : "Saisir les dates de voyage…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez les dates de voyage…"
+            "value" : "Entrer les dates de voyage…"
           }
         },
         "he" : {
@@ -24447,13 +24447,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trouvez des restaurants à proximité…"
+            "value" : "Trouver des restaurants à proximité…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trouvez des restaurants à proximité…"
+            "value" : "Trouver des restaurants à proximité…"
           }
         },
         "he" : {

@@ -21687,13 +21687,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez la formule…"
+            "value" : "Saisir la formule…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisissez la formule…"
+            "value" : "Saisir la formule…"
           }
         },
         "he" : {
@@ -21938,13 +21938,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez votre question ici…"
+            "value" : "Saisir votre question ici…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisissez votre question ici…"
+            "value" : "Saisir votre question ici…"
           }
         },
         "he" : {
@@ -22189,13 +22189,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le sujet à étudier…"
+            "value" : "Saisir le sujet à étudier…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisissez le sujet à étudier…"
+            "value" : "Saisir le sujet à étudier…"
           }
         },
         "he" : {
@@ -22440,13 +22440,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nommez votre flashcard…"
+            "value" : "Nommer votre flashcard…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nommez votre carte-éclair…"
+            "value" : "Nommer votre carte-éclair…"
           }
         },
         "he" : {
@@ -24203,7 +24203,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisissez la définition…"
+            "value" : "Saisir la définition…"
           }
         },
         "he" : {
@@ -24448,13 +24448,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tapez votre question…"
+            "value" : "Taper votre question…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisissez votre question…"
+            "value" : "Saisir votre question…"
           }
         },
         "he" : {

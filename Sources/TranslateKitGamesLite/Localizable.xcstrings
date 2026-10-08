@@ -21171,13 +21171,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom du clan…"
+            "value" : "Saisir le nom du clan…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom du clan…"
+            "value" : "Entrer le nom du clan…"
           }
         },
         "he" : {
@@ -21422,13 +21422,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le pseudo…"
+            "value" : "Saisir le pseudo…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le gamertag…"
+            "value" : "Entrer le gamertag…"
           }
         },
         "he" : {
@@ -21673,13 +21673,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom du joueur…"
+            "value" : "Saisir le nom du joueur…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom du joueur…"
+            "value" : "Entrer le nom du joueur…"
           }
         },
         "he" : {

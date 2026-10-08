@@ -18674,7 +18674,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Choisissez la taille du pinceau…"
+            "value" : "Choisir la taille du pinceau…"
           }
         },
         "fr-CA" : {
@@ -18925,7 +18925,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Choisissez la couleur…"
+            "value" : "Choisir la couleur…"
           }
         },
         "fr-CA" : {
@@ -19176,7 +19176,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Choisissez la famille de police…"
+            "value" : "Choisir la famille de police…"
           }
         },
         "fr-CA" : {
@@ -19427,7 +19427,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Choisissez le style de calque…"
+            "value" : "Choisir le style de calque…"
           }
         },
         "fr-CA" : {
@@ -19929,13 +19929,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez les dimensions du plan de travail…"
+            "value" : "Saisir les dimensions du plan de travail…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez les dimensions du plan de travail…"
+            "value" : "Entrer les dimensions du plan de travail…"
           }
         },
         "he" : {
@@ -20180,13 +20180,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez la couleur hexadécimale…"
+            "value" : "Saisir la couleur hexadécimale…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez la couleur hexadécimale…"
+            "value" : "Entrer la couleur hexadécimale…"
           }
         },
         "he" : {
@@ -20431,13 +20431,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez les dimensions de l'image…"
+            "value" : "Saisir les dimensions de l'image…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez les dimensions de l'image…"
+            "value" : "Entrer les dimensions de l'image…"
           }
         },
         "he" : {
@@ -20682,13 +20682,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom du calque…"
+            "value" : "Saisir le nom du calque…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de la couche…"
+            "value" : "Entrer le nom de la couche…"
           }
         },
         "he" : {
@@ -20939,7 +20939,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le texte…"
+            "value" : "Entrer le texte…"
           }
         },
         "he" : {
@@ -21435,13 +21435,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insérez le texte ici…"
+            "value" : "Insérer le texte ici…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insérez le texte ici…"
+            "value" : "Insérer le texte ici…"
           }
         },
         "he" : {
@@ -21686,13 +21686,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Choisissez une couleur…"
+            "value" : "Choisir une couleur…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Choisissez une couleur…"
+            "value" : "Choisir une couleur…"
           }
         },
         "he" : {
@@ -23443,13 +23443,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tapez pour rechercher des polices…"
+            "value" : "Taper pour rechercher des polices…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tapez pour rechercher des polices…"
+            "value" : "Taper pour rechercher des polices…"
           }
         },
         "he" : {

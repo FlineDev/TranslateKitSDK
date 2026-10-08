@@ -17922,13 +17922,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez un sujet ou un mot-clé…"
+            "value" : "Saisir un sujet ou un mot-clé…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez un sujet ou un mot-clé…"
+            "value" : "Entrer un sujet ou un mot-clé…"
           }
         },
         "he" : {
@@ -19936,7 +19936,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tapez un commentaire…"
+            "value" : "Taper un commentaire…"
           }
         },
         "he" : {

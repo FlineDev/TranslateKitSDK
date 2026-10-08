@@ -20181,13 +20181,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de l'album…"
+            "value" : "Saisir le nom de l'album…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de l'album…"
+            "value" : "Entrer le nom de l'album…"
           }
         },
         "he" : {

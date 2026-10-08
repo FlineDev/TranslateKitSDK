@@ -21939,7 +21939,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Choisissez une catégorie…"
+            "value" : "Choisir une catégorie…"
           }
         },
         "fr-CA" : {
@@ -22190,7 +22190,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Citez cette entrée…"
+            "value" : "Citer cette entrée…"
           }
         },
         "fr-CA" : {
@@ -22692,13 +22692,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez des mots-clés…"
+            "value" : "Saisir des mots-clés…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez les mots-clés…"
+            "value" : "Entrer les mots-clés…"
           }
         },
         "he" : {
@@ -22943,13 +22943,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le terme de recherche…"
+            "value" : "Saisir le terme de recherche…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisissez le terme de recherche…"
+            "value" : "Saisir le terme de recherche…"
           }
         },
         "he" : {
@@ -23194,13 +23194,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez un sujet ou un mot-clé…"
+            "value" : "Saisir un sujet ou un mot-clé…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez un sujet ou un mot-clé…"
+            "value" : "Entrer un sujet ou un mot-clé…"
           }
         },
         "he" : {
@@ -25453,13 +25453,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tapez pour rechercher…"
+            "value" : "Taper pour rechercher…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tapez pour rechercher…"
+            "value" : "Taper pour rechercher…"
           }
         },
         "he" : {

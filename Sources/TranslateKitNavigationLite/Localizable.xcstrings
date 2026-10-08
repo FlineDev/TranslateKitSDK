@@ -20437,7 +20437,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisissez la destination…"
+            "value" : "Saisir la destination…"
           }
         },
         "he" : {
@@ -20688,7 +20688,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisissez le nom de l'arrêt…"
+            "value" : "Saisir le nom de l'arrêt…"
           }
         },
         "he" : {

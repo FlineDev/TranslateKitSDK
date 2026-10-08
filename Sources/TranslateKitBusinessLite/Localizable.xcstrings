@@ -23945,13 +23945,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom du client…"
+            "value" : "Saisir le nom du client…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom du client…"
+            "value" : "Entrer le nom du client…"
           }
         },
         "he" : {
@@ -24196,13 +24196,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de la société…"
+            "value" : "Saisir le nom de la société…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de l'entreprise…"
+            "value" : "Entrer le nom de l'entreprise…"
           }
         },
         "he" : {
@@ -24447,13 +24447,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le numéro de facture…"
+            "value" : "Saisir le numéro de facture…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le numéro de facture…"
+            "value" : "Entrer le numéro de facture…"
           }
         },
         "he" : {
@@ -24698,13 +24698,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez la note de paiement…"
+            "value" : "Saisir la note de paiement…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez la note de paiement…"
+            "value" : "Entrer la note de paiement…"
           }
         },
         "he" : {
@@ -24949,13 +24949,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom du projet…"
+            "value" : "Saisir le nom du projet…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisissez le nom du projet…"
+            "value" : "Saisir le nom du projet…"
           }
         },
         "he" : {
@@ -25200,13 +25200,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom du destinataire…"
+            "value" : "Saisir le nom du destinataire…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom du destinataire…"
+            "value" : "Entrer le nom du destinataire…"
           }
         },
         "he" : {
@@ -25451,13 +25451,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le numéro d'identification fiscale…"
+            "value" : "Saisir le numéro d'identification fiscale…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisissez le numéro d'identification fiscale…"
+            "value" : "Saisir le numéro d'identification fiscale…"
           }
         },
         "he" : {

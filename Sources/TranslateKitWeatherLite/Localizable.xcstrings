@@ -19177,13 +19177,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de la ville…"
+            "value" : "Saisir le nom de la ville…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de la ville…"
+            "value" : "Entrer le nom de la ville…"
           }
         },
         "he" : {
@@ -19428,13 +19428,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez les coordonnées…"
+            "value" : "Saisir les coordonnées…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez les coordonnées…"
+            "value" : "Entrer les coordonnées…"
           }
         },
         "he" : {
@@ -19679,13 +19679,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le lieu…"
+            "value" : "Saisir le lieu…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez l’emplacement…"
+            "value" : "Entrer l’emplacement…"
           }
         },
         "he" : {
@@ -19930,13 +19930,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le code postal…"
+            "value" : "Saisir le code postal…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisissez le code postal…"
+            "value" : "Saisir le code postal…"
           }
         },
         "he" : {
@@ -20181,13 +20181,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le code postal…"
+            "value" : "Saisir le code postal…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le code postal…"
+            "value" : "Entrer le code postal…"
           }
         },
         "he" : {

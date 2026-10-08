@@ -19176,13 +19176,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez des étiquettes de catégorie…"
+            "value" : "Saisir des étiquettes de catégorie…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez des étiquettes de catégorie…"
+            "value" : "Entrer des étiquettes de catégorie…"
           }
         },
         "he" : {
@@ -19427,13 +19427,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez les détails du pack…"
+            "value" : "Saisir les détails du pack…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez les détails du pack…"
+            "value" : "Entrer les détails du pack…"
           }
         },
         "he" : {
@@ -19678,13 +19678,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom du pack…"
+            "value" : "Saisir le nom du pack…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom du pack…"
+            "value" : "Entrer le nom du pack…"
           }
         },
         "he" : {
@@ -19929,13 +19929,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez les tags du sticker…"
+            "value" : "Saisir les tags du sticker…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisissez les étiquettes de l'autocollant…"
+            "value" : "Saisir les étiquettes de l'autocollant…"
           }
         },
         "he" : {

@@ -53821,7 +53821,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Choisissez une date…"
+            "value" : "Choisir une date…"
           }
         },
         "fr-CA" : {
@@ -54073,7 +54073,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Choisissez un fichier…"
+            "value" : "Choisir un fichier…"
           }
         },
         "fr-CA" : {
@@ -54325,7 +54325,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Choisissez une langue…"
+            "value" : "Choisir une langue…"
           }
         },
         "fr-CA" : {
@@ -54577,7 +54577,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Choisissez une option…"
+            "value" : "Choisir une option…"
           }
         },
         "fr-CA" : {
@@ -54828,7 +54828,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Confirmez le mot de passe…"
+            "value" : "Confirmer le mot de passe…"
           }
         },
         "fr-CA" : {
@@ -56587,13 +56587,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez votre email…"
+            "value" : "Saisir votre email…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez votre courriel…"
+            "value" : "Entrer votre courriel…"
           }
         },
         "he" : {
@@ -56838,13 +56838,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le prénom…"
+            "value" : "Saisir le prénom…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le prénom…"
+            "value" : "Entrer le prénom…"
           }
         },
         "he" : {
@@ -57089,13 +57089,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de famille…"
+            "value" : "Saisir le nom de famille…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de famille…"
+            "value" : "Entrer le nom de famille…"
           }
         },
         "he" : {
@@ -57340,13 +57340,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez un nouveau mot de passe…"
+            "value" : "Saisir un nouveau mot de passe…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nouveau mot de passe…"
+            "value" : "Entrer le nouveau mot de passe…"
           }
         },
         "he" : {
@@ -57591,13 +57591,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez un mot de passe…"
+            "value" : "Saisir un mot de passe…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le mot de passe…"
+            "value" : "Entrer le mot de passe…"
           }
         },
         "he" : {
@@ -57842,13 +57842,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le numéro de téléphone…"
+            "value" : "Saisir le numéro de téléphone…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le numéro de téléphone…"
+            "value" : "Entrer le numéro de téléphone…"
           }
         },
         "he" : {
@@ -58099,7 +58099,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le texte…"
+            "value" : "Entrer le texte…"
           }
         },
         "he" : {
@@ -58344,13 +58344,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom d'utilisateur…"
+            "value" : "Saisir le nom d'utilisateur…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez un nom d'utilisateur…"
+            "value" : "Entrer un nom d'utilisateur…"
           }
         },
         "he" : {
@@ -63367,7 +63367,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sélectionnez l'heure…"
+            "value" : "Sélectionner l'heure…"
           }
         },
         "fr-CA" : {

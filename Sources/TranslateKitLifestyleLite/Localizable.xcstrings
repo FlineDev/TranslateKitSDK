@@ -20942,7 +20942,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Décrivez votre tâche…"
+            "value" : "Décrire votre tâche…"
           }
         },
         "he" : {
@@ -21187,13 +21187,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez la durée de la méditation…"
+            "value" : "Saisir la durée de la méditation…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez la durée de méditation…"
+            "value" : "Entrer la durée de méditation…"
           }
         },
         "he" : {
@@ -21444,7 +21444,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de la tâche…"
+            "value" : "Entrer le nom de la tâche…"
           }
         },
         "he" : {
@@ -21695,7 +21695,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le titre de la tâche…"
+            "value" : "Entrer le titre de la tâche…"
           }
         },
         "he" : {
@@ -21946,7 +21946,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le temps passé…"
+            "value" : "Entrer le temps passé…"
           }
         },
         "he" : {
@@ -22191,13 +22191,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le poids…"
+            "value" : "Saisir le poids…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez votre poids…"
+            "value" : "Entrer votre poids…"
           }
         },
         "he" : {
@@ -22442,13 +22442,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez la durée de l'entraînement…"
+            "value" : "Saisir la durée de l'entraînement…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez la durée de l'entraînement…"
+            "value" : "Entrer la durée de l'entraînement…"
           }
         },
         "he" : {
@@ -24456,7 +24456,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tapez un message…"
+            "value" : "Taper un message…"
           }
         },
         "he" : {

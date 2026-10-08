@@ -21441,7 +21441,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Décrivez les symptômes…"
+            "value" : "Décrire les symptômes…"
           }
         },
         "he" : {
@@ -21937,13 +21937,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez les allergies…"
+            "value" : "Saisir les allergies…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez les allergies…"
+            "value" : "Entrer les allergies…"
           }
         },
         "he" : {
@@ -22439,13 +22439,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le diagnostic…"
+            "value" : "Saisir le diagnostic…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le diagnostic…"
+            "value" : "Entrer le diagnostic…"
           }
         },
         "he" : {
@@ -22690,13 +22690,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le contact d'urgence…"
+            "value" : "Saisir le contact d'urgence…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez un contact d'urgence…"
+            "value" : "Entrer un contact d'urgence…"
           }
         },
         "he" : {
@@ -22941,13 +22941,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez les antécédents médicaux…"
+            "value" : "Saisir les antécédents médicaux…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez les antécédents médicaux…"
+            "value" : "Entrer les antécédents médicaux…"
           }
         },
         "he" : {
@@ -23192,13 +23192,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom du médicament…"
+            "value" : "Saisir le nom du médicament…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom du médicament…"
+            "value" : "Entrer le nom du médicament…"
           }
         },
         "he" : {
@@ -23443,13 +23443,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez l'ID du patient…"
+            "value" : "Saisir l'ID du patient…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez l'identifiant du patient…"
+            "value" : "Entrer l'identifiant du patient…"
           }
         },
         "he" : {
@@ -23694,13 +23694,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez les détails de la pharmacie…"
+            "value" : "Saisir les détails de la pharmacie…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez les détails de la pharmacie…"
+            "value" : "Entrer les détails de la pharmacie…"
           }
         },
         "he" : {
@@ -23945,13 +23945,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le numéro d'ordonnance…"
+            "value" : "Saisir le numéro d'ordonnance…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisissez le numéro d'ordonnance…"
+            "value" : "Saisir le numéro d'ordonnance…"
           }
         },
         "he" : {
@@ -24196,13 +24196,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom du professionnel de santé…"
+            "value" : "Saisir le nom du professionnel de santé…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisissez le nom du fournisseur…"
+            "value" : "Saisir le nom du fournisseur…"
           }
         },
         "he" : {
@@ -24447,13 +24447,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez les symptômes…"
+            "value" : "Saisir les symptômes…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisissez les symptômes…"
+            "value" : "Saisir les symptômes…"
           }
         },
         "he" : {
@@ -24698,13 +24698,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez les notes de traitement…"
+            "value" : "Saisir les notes de traitement…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez les notes de traitement…"
+            "value" : "Entrer les notes de traitement…"
           }
         },
         "he" : {

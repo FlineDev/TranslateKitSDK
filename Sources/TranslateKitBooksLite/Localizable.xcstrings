@@ -22191,7 +22191,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de l'auteur…"
+            "value" : "Saisir le nom de l'auteur…"
           }
         },
         "fr-CA" : {
@@ -22442,13 +22442,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le titre du livre…"
+            "value" : "Saisir le titre du livre…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le titre du livre…"
+            "value" : "Entrer le titre du livre…"
           }
         },
         "he" : {
@@ -22693,13 +22693,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom du chapitre…"
+            "value" : "Saisir le nom du chapitre…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom du chapitre…"
+            "value" : "Entrer le nom du chapitre…"
           }
         },
         "he" : {
@@ -22944,13 +22944,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de la collection…"
+            "value" : "Saisir le nom de la collection…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de la collection…"
+            "value" : "Entrer le nom de la collection…"
           }
         },
         "he" : {
@@ -23195,13 +23195,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez un genre…"
+            "value" : "Saisir un genre…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le genre…"
+            "value" : "Entrer le genre…"
           }
         },
         "he" : {
@@ -23447,13 +23447,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez l'ISBN…"
+            "value" : "Saisir l'ISBN…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez l'ISBN…"
+            "value" : "Entrer l'ISBN…"
           }
         },
         "he" : {
@@ -23698,13 +23698,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le numéro de page…"
+            "value" : "Saisir le numéro de page…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le numéro de la page…"
+            "value" : "Entrer le numéro de la page…"
           }
         },
         "he" : {
@@ -23949,13 +23949,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez l'éditeur…"
+            "value" : "Saisir l'éditeur…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisissez le nom de l'éditeur…"
+            "value" : "Saisir le nom de l'éditeur…"
           }
         },
         "he" : {
@@ -24200,13 +24200,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez une citation…"
+            "value" : "Saisir une citation…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisissez la citation…"
+            "value" : "Saisir la citation…"
           }
         },
         "he" : {
@@ -24451,13 +24451,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez votre objectif de lecture…"
+            "value" : "Saisir votre objectif de lecture…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisissez votre objectif de lecture…"
+            "value" : "Saisir votre objectif de lecture…"
           }
         },
         "he" : {

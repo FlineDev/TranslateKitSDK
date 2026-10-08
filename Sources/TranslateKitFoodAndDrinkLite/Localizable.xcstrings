@@ -17163,7 +17163,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez l'adresse de livraison…"
+            "value" : "Saisir l'adresse de livraison…"
           }
         },
         "fr-CA" : {
@@ -17414,7 +17414,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez une note pour la livraison…"
+            "value" : "Saisir une note pour la livraison…"
           }
         },
         "fr-CA" : {
@@ -17665,13 +17665,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nombre d'invités…"
+            "value" : "Saisir le nombre d'invités…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nombre d’invités…"
+            "value" : "Entrer le nombre d’invités…"
           }
         },
         "he" : {
@@ -17916,13 +17916,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le code promotionnel…"
+            "value" : "Saisir le code promotionnel…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisissez le code promo…"
+            "value" : "Saisir le code promo…"
           }
         },
         "he" : {
@@ -18669,7 +18669,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trouvez des recettes…"
+            "value" : "Trouver des recettes…"
           }
         },
         "fr-CA" : {
@@ -18920,13 +18920,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Évaluez votre expérience…"
+            "value" : "Évaluer votre expérience…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Évaluez votre expérience…"
+            "value" : "Évaluer votre expérience…"
           }
         },
         "he" : {

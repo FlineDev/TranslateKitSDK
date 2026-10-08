@@ -19930,7 +19930,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez l'adresse…"
+            "value" : "Saisir l'adresse…"
           }
         },
         "fr-CA" : {
@@ -20438,7 +20438,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le numéro de carte…"
+            "value" : "Entrer le numéro de carte…"
           }
         },
         "he" : {
@@ -20683,13 +20683,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de la ville…"
+            "value" : "Saisir le nom de la ville…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de la ville…"
+            "value" : "Entrer le nom de la ville…"
           }
         },
         "he" : {
@@ -20934,13 +20934,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le code de réduction…"
+            "value" : "Saisir le code de réduction…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le code du coupon…"
+            "value" : "Entrer le code du coupon…"
           }
         },
         "he" : {
@@ -21191,7 +21191,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le code de réduction…"
+            "value" : "Entrer le code de réduction…"
           }
         },
         "he" : {
@@ -21436,13 +21436,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le code promo…"
+            "value" : "Saisir le code promo…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisissez le code promotionnel…"
+            "value" : "Saisir le code promotionnel…"
           }
         },
         "he" : {
@@ -21687,13 +21687,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom du destinataire…"
+            "value" : "Saisir le nom du destinataire…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom du destinataire…"
+            "value" : "Entrer le nom du destinataire…"
           }
         },
         "he" : {
@@ -21938,13 +21938,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez l'adresse d'expédition…"
+            "value" : "Saisir l'adresse d'expédition…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez l'adresse de livraison…"
+            "value" : "Entrer l'adresse de livraison…"
           }
         },
         "he" : {
@@ -22190,13 +22190,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le code postal…"
+            "value" : "Saisir le code postal…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le code postal…"
+            "value" : "Entrer le code postal…"
           }
         },
         "he" : {

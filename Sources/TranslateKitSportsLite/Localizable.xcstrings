@@ -20165,13 +20165,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de la ligue…"
+            "value" : "Saisir le nom de la ligue…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de la ligue…"
+            "value" : "Entrer le nom de la ligue…"
           }
         },
         "he" : {
@@ -20416,13 +20416,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez la taille de l'effectif…"
+            "value" : "Saisir la taille de l'effectif…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisissez la taille de l'effectif…"
+            "value" : "Saisir la taille de l'effectif…"
           }
         },
         "he" : {
@@ -20667,13 +20667,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le score…"
+            "value" : "Saisir le score…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisissez le score…"
+            "value" : "Saisir le score…"
           }
         },
         "he" : {
@@ -20918,13 +20918,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez les dates de la saison…"
+            "value" : "Saisir les dates de la saison…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisissez les dates de la saison…"
+            "value" : "Saisir les dates de la saison…"
           }
         },
         "he" : {
@@ -21169,13 +21169,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le code d'équipe…"
+            "value" : "Saisir le code d'équipe…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisissez le code d'équipe…"
+            "value" : "Saisir le code d'équipe…"
           }
         },
         "he" : {
@@ -21420,13 +21420,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de l'équipe…"
+            "value" : "Saisir le nom de l'équipe…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisissez le nom de l'équipe…"
+            "value" : "Saisir le nom de l'équipe…"
           }
         },
         "he" : {
@@ -21671,13 +21671,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom du tournoi…"
+            "value" : "Saisir le nom du tournoi…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisissez le nom du tournoi…"
+            "value" : "Saisir le nom du tournoi…"
           }
         },
         "he" : {
@@ -21922,13 +21922,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez l'adresse du lieu…"
+            "value" : "Saisir l'adresse du lieu…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez l'adresse du lieu…"
+            "value" : "Entrer l'adresse du lieu…"
           }
         },
         "he" : {
@@ -22179,7 +22179,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trouvez un exercice…"
+            "value" : "Trouver un joueur…"
           }
         },
         "he" : {
