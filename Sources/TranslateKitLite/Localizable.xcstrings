@@ -13,7 +13,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Приеми"
+            "value" : "Приемете"
           }
         },
         "ca" : {
@@ -187,7 +187,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Acceptă"
+            "value" : "Acceptați"
           }
         },
         "ru" : {
@@ -264,7 +264,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добави"
+            "value" : "Добавете"
           }
         },
         "ca" : {
@@ -438,7 +438,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adaugă"
+            "value" : "Adăugați"
           }
         },
         "ru" : {
@@ -766,7 +766,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Позволи"
+            "value" : "Позволете"
           }
         },
         "ca" : {
@@ -940,7 +940,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Permite"
+            "value" : "Permiteți"
           }
         },
         "ru" : {
@@ -1017,7 +1017,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Приложи"
+            "value" : "Приложете"
           }
         },
         "ca" : {
@@ -1191,7 +1191,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aplică"
+            "value" : "Aplicați"
           }
         },
         "ru" : {
@@ -1693,7 +1693,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Anulează"
+            "value" : "Anulați"
           }
         },
         "ru" : {
@@ -1770,7 +1770,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Промени"
+            "value" : "Променете"
           }
         },
         "ca" : {
@@ -1944,7 +1944,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Schimbă"
+            "value" : "Schimbați"
           }
         },
         "ru" : {
@@ -2021,7 +2021,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Изчисти"
+            "value" : "Изчистете"
           }
         },
         "ca" : {
@@ -2195,7 +2195,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Golește"
+            "value" : "Goliți"
           }
         },
         "ru" : {
@@ -2272,7 +2272,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Изчисти всички"
+            "value" : "Изчистете всички"
           }
         },
         "ca" : {
@@ -2446,7 +2446,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Golește tot"
+            "value" : "Goliți tot"
           }
         },
         "ru" : {
@@ -2523,7 +2523,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Затвори"
+            "value" : "Затворете"
           }
         },
         "ca" : {
@@ -2697,7 +2697,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Închide"
+            "value" : "Închideți"
           }
         },
         "ru" : {
@@ -2774,7 +2774,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сгъни"
+            "value" : "Сгънете"
           }
         },
         "ca" : {
@@ -2948,7 +2948,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Restrânge"
+            "value" : "Restrângeți"
           }
         },
         "ru" : {
@@ -3025,7 +3025,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Потвърди"
+            "value" : "Потвърдете"
           }
         },
         "ca" : {
@@ -3199,7 +3199,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Confirmă"
+            "value" : "Confirmați"
           }
         },
         "ru" : {
@@ -3276,7 +3276,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Продължи"
+            "value" : "Продължете"
           }
         },
         "ca" : {
@@ -3450,7 +3450,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Continuă"
+            "value" : "Continuați"
           }
         },
         "ru" : {
@@ -3527,7 +3527,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Копирай"
+            "value" : "Копирайте"
           }
         },
         "ca" : {
@@ -3701,7 +3701,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Copiază"
+            "value" : "Copiați"
           }
         },
         "ru" : {
@@ -3778,7 +3778,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Създай"
+            "value" : "Създайте"
           }
         },
         "ca" : {
@@ -3952,7 +3952,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Creează"
+            "value" : "Creați"
           }
         },
         "ru" : {
@@ -4029,7 +4029,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Персонализирай"
+            "value" : "Персонализирайте"
           }
         },
         "ca" : {
@@ -4203,7 +4203,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Personalizează"
+            "value" : "Personalizați"
           }
         },
         "ru" : {
@@ -4280,7 +4280,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Откажи"
+            "value" : "Откажете"
           }
         },
         "ca" : {
@@ -4454,7 +4454,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Refuză"
+            "value" : "Refuzați"
           }
         },
         "ru" : {
@@ -4531,7 +4531,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Изтрий"
+            "value" : "Изтрийте"
           }
         },
         "ca" : {
@@ -4705,7 +4705,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Șterge"
+            "value" : "Ștergeți"
           }
         },
         "ru" : {
@@ -4782,7 +4782,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Изтрий всичко"
+            "value" : "Изтрийте всичко"
           }
         },
         "ca" : {
@@ -4956,7 +4956,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Șterge tot"
+            "value" : "Ștergeți tot"
           }
         },
         "ru" : {
@@ -5512,13 +5512,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "詳細資訊…"
+            "value" : "詳細資訊⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "詳細資料…"
+            "value" : "詳細資料⋯"
           }
         }
       }
@@ -5535,7 +5535,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Изключи"
+            "value" : "Изключете"
           }
         },
         "ca" : {
@@ -5709,7 +5709,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dezactivează"
+            "value" : "Dezactivați"
           }
         },
         "ru" : {
@@ -5786,7 +5786,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Затвори"
+            "value" : "Затворете"
           }
         },
         "ca" : {
@@ -5960,7 +5960,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Închide"
+            "value" : "Închideți"
           }
         },
         "ru" : {
@@ -6288,7 +6288,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Изтегли"
+            "value" : "Изтеглете"
           }
         },
         "ca" : {
@@ -6462,7 +6462,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Descarcă"
+            "value" : "Descărcați"
           }
         },
         "ru" : {
@@ -6539,7 +6539,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Редактирай"
+            "value" : "Редактирайте"
           }
         },
         "ca" : {
@@ -6713,7 +6713,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Editează"
+            "value" : "Editați"
           }
         },
         "ru" : {
@@ -6790,7 +6790,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Активирай"
+            "value" : "Активирайте"
           }
         },
         "ca" : {
@@ -6964,7 +6964,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Activează"
+            "value" : "Activați"
           }
         },
         "ru" : {
@@ -7041,7 +7041,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Разшири"
+            "value" : "Разширете"
           }
         },
         "ca" : {
@@ -7215,7 +7215,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Extinde"
+            "value" : "Extindeți"
           }
         },
         "ru" : {
@@ -7292,7 +7292,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Експортирай"
+            "value" : "Експортирайте"
           }
         },
         "ca" : {
@@ -7466,7 +7466,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Exportă"
+            "value" : "Exportați"
           }
         },
         "ru" : {
@@ -7543,7 +7543,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Филтрирай"
+            "value" : "Филтрирайте"
           }
         },
         "ca" : {
@@ -7717,7 +7717,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Filtrează"
+            "value" : "Filtrați"
           }
         },
         "ru" : {
@@ -7794,7 +7794,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Намери"
+            "value" : "Намерете"
           }
         },
         "ca" : {
@@ -7968,7 +7968,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Găsește"
+            "value" : "Găsiți"
           }
         },
         "ru" : {
@@ -8045,7 +8045,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Препрати"
+            "value" : "Препратете"
           }
         },
         "ca" : {
@@ -8547,7 +8547,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Скрий"
+            "value" : "Скрийте"
           }
         },
         "ca" : {
@@ -8721,7 +8721,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ascunde"
+            "value" : "Ascundeți"
           }
         },
         "ru" : {
@@ -8798,7 +8798,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Импортирай"
+            "value" : "Импортирайте"
           }
         },
         "ca" : {
@@ -8972,7 +8972,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Importă"
+            "value" : "Importați"
           }
         },
         "ru" : {
@@ -9300,7 +9300,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Запази"
+            "value" : "Запазете"
           }
         },
         "ca" : {
@@ -9474,7 +9474,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Păstrează"
+            "value" : "Păstrați"
           }
         },
         "ru" : {
@@ -9551,7 +9551,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Научи повече"
+            "value" : "Научете повече"
           }
         },
         "ca" : {
@@ -9581,7 +9581,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Μάθε περισσότερα"
+            "value" : "Μάθετε περισσότερα"
           }
         },
         "en" : {
@@ -9725,7 +9725,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Află mai multe"
+            "value" : "Aflați mai multe"
           }
         },
         "ru" : {
@@ -9802,7 +9802,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Научи повече…"
+            "value" : "Научете повече…"
           }
         },
         "ca" : {
@@ -9832,7 +9832,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Μάθε περισσότερα…"
+            "value" : "Μάθετε περισσότερα…"
           }
         },
         "en" : {
@@ -9976,7 +9976,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Află mai multe…"
+            "value" : "Aflați mai multe…"
           }
         },
         "ru" : {
@@ -10030,13 +10030,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "更多內容…"
+            "value" : "更多內容⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "進一步了解…"
+            "value" : "進一步了解⋯"
           }
         }
       }
@@ -10053,7 +10053,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Зареди още"
+            "value" : "Заредете още"
           }
         },
         "ca" : {
@@ -10083,7 +10083,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Φόρτωσε περισσότερα"
+            "value" : "Φορτώστε περισσότερα"
           }
         },
         "en" : {
@@ -10227,7 +10227,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Încarcă mai mult"
+            "value" : "Încărcați mai mult"
           }
         },
         "ru" : {
@@ -10304,7 +10304,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Управлявай"
+            "value" : "Управлявайте"
           }
         },
         "ca" : {
@@ -10478,7 +10478,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gestionează"
+            "value" : "Gestionați"
           }
         },
         "ru" : {
@@ -11034,13 +11034,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "更多…"
+            "value" : "更多⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "更多…"
+            "value" : "更多⋯"
           }
         }
       }
@@ -11231,7 +11231,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dezactivează sunetul"
+            "value" : "Dezactivați sunetul"
           }
         },
         "ru" : {
@@ -12563,7 +12563,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Отвори"
+            "value" : "Отворете"
           }
         },
         "ca" : {
@@ -12737,7 +12737,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Deschide"
+            "value" : "Deschideți"
           }
         },
         "ru" : {
@@ -13065,7 +13065,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Пусни"
+            "value" : "Пуснете"
           }
         },
         "ca" : {
@@ -13239,7 +13239,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Redă"
+            "value" : "Redați"
           }
         },
         "ru" : {
@@ -13567,7 +13567,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Обнови"
+            "value" : "Обновете"
           }
         },
         "ca" : {
@@ -13741,7 +13741,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reîmprospătează"
+            "value" : "Reîmprospătați"
           }
         },
         "ru" : {
@@ -13818,7 +13818,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Презареди"
+            "value" : "Презаредете"
           }
         },
         "ca" : {
@@ -13992,7 +13992,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reîncarcă"
+            "value" : "Reîncărcați"
           }
         },
         "ru" : {
@@ -14069,7 +14069,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Премахни"
+            "value" : "Премахнете"
           }
         },
         "ca" : {
@@ -14243,7 +14243,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Elimină"
+            "value" : "Eliminați"
           }
         },
         "ru" : {
@@ -14320,7 +14320,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Премахни всички"
+            "value" : "Премахнете всички"
           }
         },
         "ca" : {
@@ -14494,7 +14494,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Elimină tot"
+            "value" : "Eliminați tot"
           }
         },
         "ru" : {
@@ -14571,7 +14571,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Преименувай"
+            "value" : "Преименувайте"
           }
         },
         "ca" : {
@@ -14745,7 +14745,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Redenumește"
+            "value" : "Redenumiți"
           }
         },
         "ru" : {
@@ -14822,7 +14822,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Повтори"
+            "value" : "Повторете"
           }
         },
         "ca" : {
@@ -14996,7 +14996,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Repetă"
+            "value" : "Repetați"
           }
         },
         "ru" : {
@@ -15073,7 +15073,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Нулирай"
+            "value" : "Нулирайте"
           }
         },
         "ca" : {
@@ -15247,7 +15247,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Resetează"
+            "value" : "Resetați"
           }
         },
         "ru" : {
@@ -15324,7 +15324,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Възстанови"
+            "value" : "Възстановете"
           }
         },
         "ca" : {
@@ -15498,7 +15498,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Restabilește"
+            "value" : "Restabiliți"
           }
         },
         "ru" : {
@@ -15575,7 +15575,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Опитай пак"
+            "value" : "Опитайте пак"
           }
         },
         "ca" : {
@@ -15605,7 +15605,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Δοκίμασε ξανά"
+            "value" : "Δοκιμάστε ξανά"
           }
         },
         "en" : {
@@ -15749,7 +15749,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reîncearcă"
+            "value" : "Reîncercați"
           }
         },
         "ru" : {
@@ -16000,7 +16000,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Returnează"
+            "value" : "Returnați"
           }
         },
         "ru" : {
@@ -16077,7 +16077,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Запази"
+            "value" : "Запазете"
           }
         },
         "ca" : {
@@ -16251,7 +16251,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Salvează"
+            "value" : "Salvați"
           }
         },
         "ru" : {
@@ -16328,7 +16328,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Запази промените"
+            "value" : "Запазете промените"
           }
         },
         "ca" : {
@@ -16502,7 +16502,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Salvează modificările"
+            "value" : "Salvați modificările"
           }
         },
         "ru" : {
@@ -16753,7 +16753,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caută"
+            "value" : "Căutați"
           }
         },
         "ru" : {
@@ -16830,7 +16830,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Избери"
+            "value" : "Изберете"
           }
         },
         "ca" : {
@@ -17004,7 +17004,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Selectează"
+            "value" : "Selectați"
           }
         },
         "ru" : {
@@ -17081,7 +17081,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Избери всичко"
+            "value" : "Изберете всичко"
           }
         },
         "ca" : {
@@ -17255,7 +17255,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Selectează tot"
+            "value" : "Selectați tot"
           }
         },
         "ru" : {
@@ -17332,7 +17332,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Изпрати"
+            "value" : "Изпратете"
           }
         },
         "ca" : {
@@ -17506,7 +17506,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trimite"
+            "value" : "Trimiteți"
           }
         },
         "ru" : {
@@ -17583,7 +17583,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сподели"
+            "value" : "Споделете"
           }
         },
         "ca" : {
@@ -17757,7 +17757,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Distribuie"
+            "value" : "Distribuiți"
           }
         },
         "ru" : {
@@ -18008,7 +18008,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Distribuie…"
+            "value" : "Distribuiți…"
           }
         },
         "ru" : {
@@ -18062,13 +18062,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "分享…"
+            "value" : "分享⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "分享…"
+            "value" : "分享⋯"
           }
         }
       }
@@ -18085,7 +18085,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Покажи"
+            "value" : "Покажете"
           }
         },
         "ca" : {
@@ -18259,7 +18259,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Afișează"
+            "value" : "Afișați"
           }
         },
         "ru" : {
@@ -18336,7 +18336,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Покажи всички"
+            "value" : "Покажете всички"
           }
         },
         "ca" : {
@@ -18510,7 +18510,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Afișează tot"
+            "value" : "Afișați tot"
           }
         },
         "ru" : {
@@ -18587,7 +18587,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Покажи детайли"
+            "value" : "Покажете детайли"
           }
         },
         "ca" : {
@@ -18761,7 +18761,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Afișează detalii"
+            "value" : "Afișați detalii"
           }
         },
         "ru" : {
@@ -18838,7 +18838,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Покажи по-малко"
+            "value" : "Покажете по-малко"
           }
         },
         "ca" : {
@@ -19012,7 +19012,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Arată mai puțin"
+            "value" : "Arătați mai puțin"
           }
         },
         "ru" : {
@@ -19089,7 +19089,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Покажи повече"
+            "value" : "Покажете повече"
           }
         },
         "ca" : {
@@ -19263,7 +19263,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Arată mai multe"
+            "value" : "Arătați mai multe"
           }
         },
         "ru" : {
@@ -19514,7 +19514,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Conectează-te"
+            "value" : "Conectați-vă"
           }
         },
         "ru" : {
@@ -19765,7 +19765,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Deconectează-te"
+            "value" : "Deconectați-vă"
           }
         },
         "ru" : {
@@ -19842,7 +19842,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Пропусни"
+            "value" : "Пропуснете"
           }
         },
         "ca" : {
@@ -20016,7 +20016,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Omite"
+            "value" : "Omiteți"
           }
         },
         "ru" : {
@@ -20093,7 +20093,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сортирай"
+            "value" : "Сортирайте"
           }
         },
         "ca" : {
@@ -20267,7 +20267,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sortează"
+            "value" : "Sortați"
           }
         },
         "ru" : {
@@ -20344,7 +20344,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сортирай по"
+            "value" : "Сортирайте по"
           }
         },
         "ca" : {
@@ -20518,7 +20518,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sortează după"
+            "value" : "Sortați după"
           }
         },
         "ru" : {
@@ -21020,7 +21020,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Oprește"
+            "value" : "Opriți"
           }
         },
         "ru" : {
@@ -21097,7 +21097,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Изпрати"
+            "value" : "Изпратете"
           }
         },
         "ca" : {
@@ -21271,7 +21271,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trimite"
+            "value" : "Trimiteți"
           }
         },
         "ru" : {
@@ -21348,7 +21348,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Синхронизирай"
+            "value" : "Синхронизирайте"
           }
         },
         "ca" : {
@@ -21522,7 +21522,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sincronizează"
+            "value" : "Sincronizați"
           }
         },
         "ru" : {
@@ -21599,7 +21599,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Опитай отново"
+            "value" : "Опитайте отново"
           }
         },
         "ca" : {
@@ -21629,7 +21629,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Δοκίμασε ξανά"
+            "value" : "Δοκιμάστε ξανά"
           }
         },
         "en" : {
@@ -21773,7 +21773,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reîncearcă"
+            "value" : "Reîncercați"
           }
         },
         "ru" : {
@@ -21850,7 +21850,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Изключи"
+            "value" : "Изключете"
           }
         },
         "ca" : {
@@ -22024,7 +22024,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dezactivează"
+            "value" : "Dezactivați"
           }
         },
         "ru" : {
@@ -22101,7 +22101,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Включи"
+            "value" : "Включете"
           }
         },
         "ca" : {
@@ -22275,7 +22275,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Activează"
+            "value" : "Activați"
           }
         },
         "ru" : {
@@ -22352,7 +22352,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Отмени"
+            "value" : "Отменете"
           }
         },
         "ca" : {
@@ -22526,7 +22526,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Anulează"
+            "value" : "Anulați"
           }
         },
         "ru" : {
@@ -22603,7 +22603,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Обнови"
+            "value" : "Обновете"
           }
         },
         "ca" : {
@@ -22777,7 +22777,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Actualizează"
+            "value" : "Actualizați"
           }
         },
         "ru" : {
@@ -22854,7 +22854,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Потвърди"
+            "value" : "Потвърдете"
           }
         },
         "ca" : {
@@ -23028,7 +23028,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Verifică"
+            "value" : "Verificați"
           }
         },
         "ru" : {
@@ -23105,7 +23105,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Прегледай"
+            "value" : "Прегледайте"
           }
         },
         "ca" : {
@@ -23279,7 +23279,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Afișează"
+            "value" : "Afișați"
           }
         },
         "ru" : {
@@ -42259,7 +42259,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Utilisateur·rice"
+            "value" : "Utilisateur"
           }
         },
         "he" : {
@@ -44191,7 +44191,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сигурен/на ли си?"
+            "value" : "Сигурни ли сте?"
           }
         },
         "ca" : {
@@ -44221,7 +44221,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Είσαι σίγουρος/η;"
+            "value" : "Είστε βέβαιοι;"
           }
         },
         "en" : {
@@ -44263,13 +44263,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Êtes-vous sûr(e) ?"
+            "value" : "Voulez-vous vraiment continuer ?"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Es-tu sûr.e ?"
+            "value" : "En êtes-vous certain ?"
           }
         },
         "he" : {
@@ -44293,7 +44293,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Biztos vagy benne?"
+            "value" : "Biztos benne?"
           }
         },
         "id" : {
@@ -44359,25 +44359,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tens a certeza?"
+            "value" : "Tem a certeza?"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ești sigur(ă)?"
+            "value" : "Sigur?"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ты уверен(а)?"
+            "value" : "Вы уверены?"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Si si istý?"
+            "value" : "Ste si istí?"
           }
         },
         "sv" : {
@@ -44395,7 +44395,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Emin misin?"
+            "value" : "Emin misiniz?"
           }
         },
         "uk" : {
@@ -44443,7 +44443,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сигурен/на ли си, че искаш да изтриеш това?"
+            "value" : "Сигурни ли сте, че искате да изтриете това?"
           }
         },
         "ca" : {
@@ -44455,7 +44455,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Opravdu chceš tohle smazat?"
+            "value" : "Opravdu chcete tohle smazat?"
           }
         },
         "da" : {
@@ -44473,7 +44473,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Είσαι σίγουρος/η ότι θέλεις να το διαγράψεις;"
+            "value" : "Είστε βέβαιοι ότι θέλετε να το διαγράψετε;"
           }
         },
         "en" : {
@@ -44515,13 +44515,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Êtes-vous sûr de vouloir supprimer cela ?"
+            "value" : "Voulez-vous vraiment supprimer cela ?"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Es-tu sûr.e de vouloir supprimer ceci ?"
+            "value" : "Voulez-vous vraiment supprimer ceci ?"
           }
         },
         "he" : {
@@ -44545,7 +44545,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Biztos, hogy törölni szeretnéd?"
+            "value" : "Biztosan törölni szeretné?"
           }
         },
         "id" : {
@@ -44611,25 +44611,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tens a certeza de que queres eliminar isto?"
+            "value" : "Tem a certeza de que quer eliminar isto?"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ești sigur că vrei să ștergi asta?"
+            "value" : "Sigur doriți să ștergeți asta?"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ты уверен(а), что хочешь удалить это?"
+            "value" : "Вы уверены, что хотите удалить это?"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Si si istý, že to chceš vymazať?"
+            "value" : "Naozaj to chcete vymazať?"
           }
         },
         "sv" : {
@@ -44647,7 +44647,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bunu silmek istediğine emin misin?"
+            "value" : "Bunu silmek istediğinizden emin misiniz?"
           }
         },
         "uk" : {
@@ -44695,7 +44695,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сигурен/на ли си, че искаш да отхвърлиш промените си?"
+            "value" : "Сигурни ли сте, че искате да отхвърлите промените си?"
           }
         },
         "ca" : {
@@ -44707,7 +44707,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Opravdu chceš zahodit své změny?"
+            "value" : "Opravdu chcete zahodit své změny?"
           }
         },
         "da" : {
@@ -44725,7 +44725,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Είσαι σίγουρος/η ότι θέλεις να απορρίψεις τις αλλαγές σου;"
+            "value" : "Είστε βέβαιοι ότι θέλετε να απορρίψετε τις αλλαγές σας;"
           }
         },
         "en" : {
@@ -44767,13 +44767,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Êtes-vous sûr de vouloir annuler vos modifications ?"
+            "value" : "Voulez-vous vraiment annuler vos modifications ?"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Es-tu sûr.e de vouloir annuler tes modifications ?"
+            "value" : "Voulez-vous vraiment annuler vos modifications ?"
           }
         },
         "he" : {
@@ -44797,13 +44797,13 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Biztos, hogy el akarod vetni a módosításokat?"
+            "value" : "Biztosan el szeretné vetni a módosításokat?"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yakin ingin membuang perubahanmu?"
+            "value" : "Yakin ingin membuang perubahan Anda?"
           }
         },
         "it" : {
@@ -44863,25 +44863,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tens a certeza de que queres descartar as tuas alterações?"
+            "value" : "Tem a certeza de que quer descartar as alterações?"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ești sigur că vrei să renunți la modificări?"
+            "value" : "Sigur doriți să renunțați la modificări?"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ты уверен(а), что хочешь отменить изменения?"
+            "value" : "Вы уверены, что хотите отменить изменения?"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Si si istý, že chceš zrušiť zmeny?"
+            "value" : "Naozaj chcete zrušiť zmeny?"
           }
         },
         "sv" : {
@@ -44899,7 +44899,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Değişikliklerini kaydetmeden çıkmak istediğine emin misin?"
+            "value" : "Değişikliklerinizi kaydetmeden çıkmak istediğinizden emin misiniz?"
           }
         },
         "uk" : {
@@ -45966,7 +45966,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zkontroluj své internetové připojení a zkus to znovu."
+            "value" : "Zkontrolujte své internetové připojení a zkuste to znovu."
           }
         },
         "da" : {
@@ -45984,7 +45984,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Έλεγξε τη σύνδεση στο Διαδίκτυο και δοκίμασε ξανά."
+            "value" : "Ελέγξτε τη σύνδεσή σας στο Διαδίκτυο και δοκιμάστε ξανά."
           }
         },
         "en" : {
@@ -46050,13 +46050,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Provjeri svoju internetsku vezu, pa pokušaj ponovo."
+            "value" : "Provjerite svoju internetsku vezu, pa pokušajte ponovo."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ellenőrizd az internetkapcsolatodat, majd próbáld újra."
+            "value" : "Ellenőrizze az internetkapcsolatát, majd próbálja újra."
           }
         },
         "id" : {
@@ -46122,25 +46122,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Verifica a tua ligação à Internet e tenta novamente."
+            "value" : "Verifique a ligação à Internet e tente novamente."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Verifică conexiunea ta la Internet, apoi încearcă din nou."
+            "value" : "Verificați conexiunea la internet, apoi încercați din nou."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Проверь свое интернет-соединение и попробуй снова."
+            "value" : "Проверьте своё интернет-соединение и попробуйте снова."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skontroluj svoje internetové pripojenie a skús to znova."
+            "value" : "Skontrolujte svoje internetové pripojenie a skúste to znova."
           }
         },
         "sv" : {
@@ -46888,7 +46888,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Твоё устройство не поддерживается."
+            "value" : "Ваше устройство не поддерживается."
           }
         },
         "sk" : {
@@ -47493,7 +47493,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Μορφή αρχείου δεν υποστηρίζεται."
+            "value" : "Η μορφή αρχείου δεν υποστηρίζεται."
           }
         },
         "en" : {
@@ -48970,7 +48970,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Излезе от системата."
+            "value" : "Излязохте от системата."
           }
         },
         "ca" : {
@@ -48982,7 +48982,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Byl(a) jsi odhlášen(a)."
+            "value" : "Byli jste odhlášeni."
           }
         },
         "da" : {
@@ -49000,7 +49000,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Έχεις αποσυνδεθεί."
+            "value" : "Έχετε αποσυνδεθεί."
           }
         },
         "en" : {
@@ -49066,19 +49066,19 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Odjavljen/a si."
+            "value" : "Odjavljeni ste."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kijelentkeztettünk."
+            "value" : "Kijelentkeztettük."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kamu telah keluar dari akun."
+            "value" : "Anda telah keluar dari akun."
           }
         },
         "it" : {
@@ -49126,7 +49126,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wylogowano cię."
+            "value" : "Wylogowano Cię."
           }
         },
         "pt-BR" : {
@@ -49138,25 +49138,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Terminaste sessão."
+            "value" : "A sessão foi terminada."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ai fost deconectat."
+            "value" : "Ați fost deconectat."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ты вышел из аккаунта."
+            "value" : "Вы вышли из аккаунта."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Odhlásili sme ťa."
+            "value" : "Odhlásili sme vás."
           }
         },
         "sv" : {
@@ -49485,7 +49485,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nemáš oprávnění tuto akci provést."
+            "value" : "Nemáte oprávnění tuto akci provést."
           }
         },
         "da" : {
@@ -49503,7 +49503,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Δεν έχεις άδεια να εκτελέσεις αυτήν την ενέργεια."
+            "value" : "Δεν έχετε άδεια να εκτελέσετε αυτήν την ενέργεια."
           }
         },
         "en" : {
@@ -49575,7 +49575,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nincs engedélyed ezt a műveletet végrehajtani."
+            "value" : "Nincs engedélye ennek a műveletnek a végrehajtására."
           }
         },
         "id" : {
@@ -49641,25 +49641,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Não tens permissão para realizar esta ação."
+            "value" : "Não tem permissão para realizar esta ação."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nu ai permisiunea de a efectua această acțiune."
+            "value" : "Nu aveți permisiunea de a efectua această acțiune."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "У тебя нет разрешений на выполнение этого действия."
+            "value" : "У Вас нет разрешений на выполнение этого действия."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nemáš povolenie vykonať túto akciu."
+            "value" : "Nemáte povolenie vykonať túto akciu."
           }
         },
         "sv" : {
@@ -49988,7 +49988,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zkontroluj prosím své internetové připojení."
+            "value" : "Zkontrolujte prosím své internetové připojení."
           }
         },
         "da" : {
@@ -50006,7 +50006,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Έλεγξε τη σύνδεσή σου στο Διαδίκτυο."
+            "value" : "Ελέγξτε τη σύνδεσή σας στο Διαδίκτυο."
           }
         },
         "en" : {
@@ -50072,13 +50072,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Provjeri svoju internetsku vezu."
+            "value" : "Provjerite svoju internetsku vezu."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ellenőrizd az internetkapcsolatodat."
+            "value" : "Ellenőrizze az internetkapcsolatát."
           }
         },
         "id" : {
@@ -50144,25 +50144,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Por favor, verifica a tua ligação à Internet."
+            "value" : "Por favor, verifique a ligação à Internet."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Te rugăm să verifici conexiunea la internet."
+            "value" : "Verificați conexiunea la internet."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Пожалуйста, проверь свое интернет-соединение."
+            "value" : "Проверьте свое интернет-соединение."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skontroluj prosím pripojenie na internet."
+            "value" : "Skontrolujte prosím pripojenie na internet."
           }
         },
         "sv" : {
@@ -50240,7 +50240,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zkus to prosím znovu později."
+            "value" : "Zkuste to prosím znovu později."
           }
         },
         "da" : {
@@ -50258,7 +50258,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Δοκίμασε ξανά αργότερα."
+            "value" : "Δοκιμάστε ξανά αργότερα."
           }
         },
         "en" : {
@@ -50324,13 +50324,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pokušaj ponovno kasnije."
+            "value" : "Pokušajte ponovno kasnije."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kérlek, próbáld meg később."
+            "value" : "Kérjük, próbálja meg később."
           }
         },
         "id" : {
@@ -50396,25 +50396,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Por favor, tenta novamente mais tarde."
+            "value" : "Por favor, tente novamente mais tarde."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Te rugăm să încerci din nou mai târziu."
+            "value" : "Încercați din nou mai târziu."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Пожалуйста, попробуй снова позже."
+            "value" : "Попробуйте снова позже."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skús to znova neskôr."
+            "value" : "Skúste to znova neskôr."
           }
         },
         "sv" : {
@@ -50606,7 +50606,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Міндетті өріс бос."
+            "value" : "Міндетті өріс бос"
           }
         },
         "ko" : {
@@ -50618,7 +50618,7 @@
         "ms" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Medan yang diperlukan adalah kosong."
+            "value" : "Medan yang diperlukan kosong"
           }
         },
         "nb" : {
@@ -50690,7 +50690,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Обов’язкове поле залишено порожнім."
+            "value" : "Обов’язкове поле залишено порожнім"
           }
         },
         "vi" : {
@@ -50857,7 +50857,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сессия аяқталды."
+            "value" : "Сессия аяқталды"
           }
         },
         "ko" : {
@@ -50995,7 +50995,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tvoje relace vypršela. Přihlas se prosím znovu."
+            "value" : "Vaše relace vypršela. Přihlaste se prosím znovu."
           }
         },
         "da" : {
@@ -51013,7 +51013,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η συνεδρία σου έχει λήξει. Συνδέσου ξανά."
+            "value" : "Η συνεδρία σας έχει λήξει. Συνδεθείτε ξανά."
           }
         },
         "en" : {
@@ -51079,13 +51079,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tvoja sesija je istekla. Prijavi se ponovno."
+            "value" : "Vaša sesija je istekla. Prijavite se ponovno."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A munkameneted lejárt. Kérlek, jelentkezz be újra."
+            "value" : "A munkamenete lejárt. Kérjük, jelentkezzen be újra."
           }
         },
         "id" : {
@@ -51151,25 +51151,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A tua sessão expirou. Por favor, inicia sessão novamente."
+            "value" : "A sessão expirou. Por favor, inicie sessão novamente."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sesiunea ta a expirat. Te rugăm să te conectezi din nou."
+            "value" : "Sesiunea dvs. a expirat. Conectați-vă din nou."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Твоя сессия истекла. Пожалуйста, войди снова."
+            "value" : "Ваша сессия истекла. Войдите снова."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tvoja relácia vypršala. Prosím, prihlás sa znova."
+            "value" : "Vaša relácia vypršala. Prosím, prihláste sa znova."
           }
         },
         "sv" : {
@@ -51247,7 +51247,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Něco se pokazilo. Zkus to prosím znovu později."
+            "value" : "Něco se pokazilo. Zkuste to prosím znovu později."
           }
         },
         "da" : {
@@ -51265,7 +51265,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Κάτι πήγε στραβά. Δοκίμασε ξανά αργότερα."
+            "value" : "Κάτι πήγε στραβά. Δοκιμάστε ξανά αργότερα."
           }
         },
         "en" : {
@@ -51331,13 +51331,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Došlo je do greške. Pokušaj ponovno kasnije."
+            "value" : "Došlo je do greške. Pokušajte ponovno kasnije."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Valami hiba történt. Kérlek, próbáld meg később."
+            "value" : "Valami hiba történt. Kérjük, próbálja meg később."
           }
         },
         "id" : {
@@ -51403,25 +51403,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Algo correu mal. Por favor, tenta novamente mais tarde."
+            "value" : "Algo correu mal. Por favor, tente novamente mais tarde."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ceva nu a mers bine. Te rog, încearcă din nou mai târziu."
+            "value" : "Ceva nu a mers bine. Încercați din nou mai târziu."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Что-то пошло не так. Пожалуйста, попробуй снова позже."
+            "value" : "Что-то пошло не так. Попробуйте снова позже."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Niečo sa pokazilo. Prosím, skús to znova neskôr."
+            "value" : "Niečo sa pokazilo. Prosím, skúste to znova neskôr."
           }
         },
         "sv" : {
@@ -51499,7 +51499,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zkus to znovu později."
+            "value" : "Zkuste to znovu později."
           }
         },
         "da" : {
@@ -51517,7 +51517,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Δοκίμασε ξανά αργότερα."
+            "value" : "Δοκιμάστε ξανά αργότερα."
           }
         },
         "en" : {
@@ -51565,7 +51565,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Essaye de nouveau plus tard."
+            "value" : "Réessayez plus tard."
           }
         },
         "he" : {
@@ -51583,13 +51583,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pokušaj ponovno kasnije."
+            "value" : "Pokušajte ponovno kasnije."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Próbáld meg később újra."
+            "value" : "Próbálja meg később újra."
           }
         },
         "id" : {
@@ -51655,25 +51655,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tenta novamente mais tarde."
+            "value" : "Tente novamente mais tarde."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Încearcă din nou mai târziu."
+            "value" : "Încercați din nou mai târziu."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Попробуй позже."
+            "value" : "Попробуйте позже."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skús to znova neskôr."
+            "value" : "Skúste to znova neskôr."
           }
         },
         "sv" : {
@@ -51751,7 +51751,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tvé nahrávání bylo úspěšné!"
+            "value" : "Vaše nahrávání bylo úspěšné!"
           }
         },
         "da" : {
@@ -51769,7 +51769,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Η ανάρτησή σας ήταν επιτυχής!"
+            "value" : "Η μεταφόρτωσή σας ήταν επιτυχής!"
           }
         },
         "en" : {
@@ -51835,13 +51835,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tvoj prijenos je bio uspješan!"
+            "value" : "Vaš prijenos je bio uspješan!"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A feltöltésed sikeres volt!"
+            "value" : "A feltöltése sikeres volt!"
           }
         },
         "id" : {
@@ -51907,25 +51907,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "O teu carregamento foi bem-sucedido!"
+            "value" : "O carregamento foi bem-sucedido!"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Încărcarea ta a fost un succes!"
+            "value" : "Încărcarea dvs. a fost un succes!"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Твоя загрузка прошла успешно!"
+            "value" : "Ваша загрузка прошла успешно!"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tvoj upload bol úspešný!"
+            "value" : "Váš upload bol úspešný!"
           }
         },
         "sv" : {
@@ -52505,7 +52505,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Jsi offline."
+            "value" : "Jste offline."
           }
         },
         "da" : {
@@ -52523,7 +52523,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Είσαι εκτός σύνδεσης."
+            "value" : "Είστε εκτός σύνδεσης."
           }
         },
         "en" : {
@@ -52589,19 +52589,19 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Offline si."
+            "value" : "Offline ste."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Offline vagy."
+            "value" : "Offline állapotban van."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kamu sedang offline."
+            "value" : "Anda sedang offline."
           }
         },
         "it" : {
@@ -52661,25 +52661,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Estás offline."
+            "value" : "Está offline."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ești offline."
+            "value" : "Sunteți offline."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ты офлайн."
+            "value" : "Вы офлайн."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Si offline."
+            "value" : "Ste offline."
           }
         },
         "sv" : {
@@ -52768,7 +52768,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wird analysiert…"
+            "value" : "Wird analysiert …"
           }
         },
         "el" : {
@@ -52972,13 +52972,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在分析…"
+            "value" : "正在分析⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在分析…"
+            "value" : "正在分析⋯"
           }
         }
       }
@@ -53019,7 +53019,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wird authentifiziert…"
+            "value" : "Wird authentifiziert …"
           }
         },
         "el" : {
@@ -53223,13 +53223,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "驗證中…"
+            "value" : "驗證中⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在驗證…"
+            "value" : "正在驗證⋯"
           }
         }
       }
@@ -53270,7 +53270,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Puffern…"
+            "value" : "Puffern …"
           }
         },
         "el" : {
@@ -53474,13 +53474,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "緩衝中…"
+            "value" : "緩衝中⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在緩衝…"
+            "value" : "正在緩衝⋯"
           }
         }
       }
@@ -53521,7 +53521,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wird berechnet…"
+            "value" : "Wird berechnet …"
           }
         },
         "el" : {
@@ -53725,13 +53725,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "計算中…"
+            "value" : "計算中⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在計算…"
+            "value" : "正在計算⋯"
           }
         }
       }
@@ -53761,7 +53761,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vyber datum…"
+            "value" : "Vyberte datum…"
           }
         },
         "da" : {
@@ -53773,13 +53773,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wähle ein Datum…"
+            "value" : "Wähle ein Datum …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Επίλεξε ημερομηνία…"
+            "value" : "Επιλέξτε ημερομηνία…"
           }
         },
         "en" : {
@@ -53845,13 +53845,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Odaberi datum…"
+            "value" : "Odaberite datum…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Válassz egy dátumot…"
+            "value" : "Válasszon egy dátumot…"
           }
         },
         "id" : {
@@ -53923,19 +53923,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alege data…"
+            "value" : "Alegeți data…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Выбери дату…"
+            "value" : "Выберите дату…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vyber dátum…"
+            "value" : "Vyberte dátum…"
           }
         },
         "sv" : {
@@ -53953,7 +53953,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bir tarih seç…"
+            "value" : "Bir tarih seçin…"
           }
         },
         "uk" : {
@@ -53977,13 +53977,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "選擇日期…"
+            "value" : "選擇日期⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "選擇一個日期…"
+            "value" : "選擇一個日期⋯"
           }
         }
       }
@@ -54013,7 +54013,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vyber soubor…"
+            "value" : "Vyberte soubor…"
           }
         },
         "da" : {
@@ -54025,13 +54025,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wähle eine Datei…"
+            "value" : "Wähle eine Datei …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Επίλεξε ένα αρχείο…"
+            "value" : "Επιλέξτε ένα αρχείο…"
           }
         },
         "en" : {
@@ -54097,13 +54097,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Odaberi datoteku…"
+            "value" : "Odaberite datoteku…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Válassz egy fájlt…"
+            "value" : "Válasszon egy fájlt…"
           }
         },
         "id" : {
@@ -54175,19 +54175,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alege un fișier…"
+            "value" : "Alegeți un fișier…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Выбери файл…"
+            "value" : "Выберите файл…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vyber súbor…"
+            "value" : "Vyberte súbor…"
           }
         },
         "sv" : {
@@ -54205,7 +54205,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bir dosya seç…"
+            "value" : "Bir dosya seçin…"
           }
         },
         "uk" : {
@@ -54229,13 +54229,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "選擇檔案…"
+            "value" : "選擇檔案⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "選擇一個檔案…"
+            "value" : "選擇一個檔案⋯"
           }
         }
       }
@@ -54265,7 +54265,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vyber jazyk…"
+            "value" : "Vyberte jazyk…"
           }
         },
         "da" : {
@@ -54277,13 +54277,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wähle eine Sprache…"
+            "value" : "Wähle eine Sprache …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Επίλεξε γλώσσα…"
+            "value" : "Επιλέξτε γλώσσα…"
           }
         },
         "en" : {
@@ -54349,13 +54349,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Odaberi jezik…"
+            "value" : "Odaberite jezik…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Válassz egy nyelvet…"
+            "value" : "Válasszon egy nyelvet…"
           }
         },
         "id" : {
@@ -54427,19 +54427,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alege o limbă…"
+            "value" : "Alegeți o limbă…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Выбери язык…"
+            "value" : "Выберите язык…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vyber jazyk…"
+            "value" : "Vyberte jazyk…"
           }
         },
         "sv" : {
@@ -54457,7 +54457,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bir dil seç…"
+            "value" : "Bir dil seçin…"
           }
         },
         "uk" : {
@@ -54481,13 +54481,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "選擇語言…"
+            "value" : "選擇語言⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "選擇一種語言…"
+            "value" : "選擇一種語言⋯"
           }
         }
       }
@@ -54517,7 +54517,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vyber možnost…"
+            "value" : "Vyberte možnost…"
           }
         },
         "da" : {
@@ -54529,13 +54529,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wähle eine Option…"
+            "value" : "Wähle eine Option …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Επίλεξε μία επιλογή…"
+            "value" : "Επιλέξτε μία επιλογή…"
           }
         },
         "en" : {
@@ -54601,13 +54601,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Odaberi opciju…"
+            "value" : "Odaberite opciju…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Válassz egy lehetőséget…"
+            "value" : "Válasszon egy lehetőséget…"
           }
         },
         "id" : {
@@ -54679,19 +54679,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alege o opțiune…"
+            "value" : "Alegeți o opțiune…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Выбери вариант…"
+            "value" : "Выберите вариант…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vyber možnosť…"
+            "value" : "Vyberte možnosť…"
           }
         },
         "sv" : {
@@ -54709,7 +54709,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bir seçenek seç…"
+            "value" : "Bir seçenek seçin…"
           }
         },
         "uk" : {
@@ -54733,13 +54733,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "選擇一個選項…"
+            "value" : "選擇一個選項⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "選擇一個選項…"
+            "value" : "選擇一個選項⋯"
           }
         }
       }
@@ -54756,7 +54756,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Потвърди паролата…"
+            "value" : "Потвърдете паролата…"
           }
         },
         "ca" : {
@@ -54768,7 +54768,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Potvrď heslo…"
+            "value" : "Potvrďte heslo…"
           }
         },
         "da" : {
@@ -54780,13 +54780,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Passwort bestätigen…"
+            "value" : "Passwort bestätigen …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Επιβεβαίωσε τον κωδικό πρόσβασης…"
+            "value" : "Επιβεβαιώστε τον κωδικό πρόσβασης…"
           }
         },
         "en" : {
@@ -54852,13 +54852,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Potvrdi lozinku…"
+            "value" : "Potvrdite lozinku…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Erősítsd meg a jelszót…"
+            "value" : "Erősítse meg a jelszót…"
           }
         },
         "id" : {
@@ -54930,19 +54930,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Confirmă parola…"
+            "value" : "Confirmați parola…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Подтверди пароль…"
+            "value" : "Подтвердите пароль…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Potvrď heslo…"
+            "value" : "Potvrďte heslo…"
           }
         },
         "sv" : {
@@ -54984,13 +54984,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "確認密碼…"
+            "value" : "確認密碼⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "確認密碼…"
+            "value" : "確認密碼⋯"
           }
         }
       }
@@ -55031,7 +55031,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Verbinden…"
+            "value" : "Verbinden …"
           }
         },
         "el" : {
@@ -55235,13 +55235,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "連線中…"
+            "value" : "連線中⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在連線…"
+            "value" : "正在連線⋯"
           }
         }
       }
@@ -55282,7 +55282,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Erstellen…"
+            "value" : "Erstellen …"
           }
         },
         "el" : {
@@ -55486,13 +55486,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "建立中…"
+            "value" : "建立中⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在建立…"
+            "value" : "正在建立⋯"
           }
         }
       }
@@ -55533,7 +55533,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Löschen…"
+            "value" : "Löschen …"
           }
         },
         "el" : {
@@ -55737,13 +55737,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "刪除中…"
+            "value" : "刪除中⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在刪除…"
+            "value" : "正在刪除⋯"
           }
         }
       }
@@ -55784,7 +55784,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Laden…"
+            "value" : "Laden …"
           }
         },
         "el" : {
@@ -55988,13 +55988,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "下載中…"
+            "value" : "下載中⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在下載…"
+            "value" : "正在下載⋯"
           }
         }
       }
@@ -56263,7 +56263,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи сума…"
+            "value" : "Въведете сума…"
           }
         },
         "ca" : {
@@ -56275,7 +56275,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej částku…"
+            "value" : "Zadejte částku…"
           }
         },
         "da" : {
@@ -56287,13 +56287,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Betrag eingeben…"
+            "value" : "Betrag eingeben …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Βάλε ποσό…"
+            "value" : "Βάλτε ποσό…"
           }
         },
         "en" : {
@@ -56359,13 +56359,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi svoju email adresu…"
+            "value" : "Unesite iznos…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be az összeget…"
+            "value" : "Adja meg az összeget…"
           }
         },
         "id" : {
@@ -56431,25 +56431,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insere o montante…"
+            "value" : "Insira o montante…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu suma…"
+            "value" : "Introduceți suma…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи сумму…"
+            "value" : "Введите сумму…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj sumu…"
+            "value" : "Zadajte sumu…"
           }
         },
         "sv" : {
@@ -56467,7 +56467,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Miktarı gir…"
+            "value" : "Miktarı girin…"
           }
         },
         "uk" : {
@@ -56491,13 +56491,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入金額…"
+            "value" : "輸入金額⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入金額…"
+            "value" : "輸入金額⋯"
           }
         }
       }
@@ -56515,7 +56515,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи твоя имейл…"
+            "value" : "Въведете имейла си…"
           }
         },
         "ca" : {
@@ -56527,7 +56527,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej svůj e-mail…"
+            "value" : "Zadejte svůj e-mail…"
           }
         },
         "da" : {
@@ -56539,13 +56539,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gib deine E-Mail-Adresse ein…"
+            "value" : "Gib deine E-Mail-Adresse ein …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Βάλε το email σου…"
+            "value" : "Βάλτε το email σας…"
           }
         },
         "en" : {
@@ -56593,7 +56593,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entre ton courriel…"
+            "value" : "Entrez votre courriel…"
           }
         },
         "he" : {
@@ -56617,7 +56617,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be az email címedet…"
+            "value" : "Adja meg az e-mail-címét…"
           }
         },
         "id" : {
@@ -56683,25 +56683,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insere o teu email…"
+            "value" : "Insira o email…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu emailul tău…"
+            "value" : "Introduceți emailul…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи адрес электронной почты…"
+            "value" : "Введите адрес электронной почты…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj svoj email…"
+            "value" : "Zadajte svoj email…"
           }
         },
         "sv" : {
@@ -56719,7 +56719,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "E-posta adresini gir…"
+            "value" : "E-posta adresinizi girin…"
           }
         },
         "uk" : {
@@ -56743,13 +56743,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入你的電子郵件…"
+            "value" : "輸入你的電子郵件⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入你的電郵…"
+            "value" : "輸入你的電郵⋯"
           }
         }
       }
@@ -56766,7 +56766,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи име…"
+            "value" : "Въведете име…"
           }
         },
         "ca" : {
@@ -56778,7 +56778,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej křestní jméno…"
+            "value" : "Zadejte křestní jméno…"
           }
         },
         "da" : {
@@ -56790,13 +56790,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gib deinen Vornamen ein…"
+            "value" : "Gib deinen Vornamen ein …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Βάλε το όνομα…"
+            "value" : "Βάλτε το όνομα…"
           }
         },
         "en" : {
@@ -56844,7 +56844,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entre le prénom…"
+            "value" : "Entrez le prénom…"
           }
         },
         "he" : {
@@ -56862,13 +56862,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi ime…"
+            "value" : "Unesite ime…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a keresztnevet…"
+            "value" : "Adja meg a keresztnevet…"
           }
         },
         "id" : {
@@ -56934,25 +56934,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insere o primeiro nome…"
+            "value" : "Insira o primeiro nome…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu prenumele…"
+            "value" : "Introduceți prenumele…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи имя…"
+            "value" : "Введите имя…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj meno…"
+            "value" : "Zadajte meno…"
           }
         },
         "sv" : {
@@ -56994,13 +56994,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入名…"
+            "value" : "輸入名⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入名字…"
+            "value" : "輸入名字⋯"
           }
         }
       }
@@ -57017,7 +57017,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи фамилия…"
+            "value" : "Въведете фамилия…"
           }
         },
         "ca" : {
@@ -57029,7 +57029,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej příjmení…"
+            "value" : "Zadejte příjmení…"
           }
         },
         "da" : {
@@ -57041,13 +57041,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gib deinen Nachnamen ein…"
+            "value" : "Gib deinen Nachnamen ein …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Βάλε το επώνυμο…"
+            "value" : "Βάλτε το επώνυμο…"
           }
         },
         "en" : {
@@ -57113,13 +57113,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi prezime…"
+            "value" : "Unesite prezime…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a vezetéknevet…"
+            "value" : "Adja meg a vezetéknevet…"
           }
         },
         "id" : {
@@ -57185,25 +57185,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insere o apelido…"
+            "value" : "Insira o apelido…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu numele de familie…"
+            "value" : "Introduceți numele de familie…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи фамилию…"
+            "value" : "Введите фамилию…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj priezvisko…"
+            "value" : "Zadajte priezvisko…"
           }
         },
         "sv" : {
@@ -57221,7 +57221,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Soyadını gir…"
+            "value" : "Soyadını girin…"
           }
         },
         "uk" : {
@@ -57245,13 +57245,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入姓…"
+            "value" : "輸入姓⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入姓氏…"
+            "value" : "輸入姓氏⋯"
           }
         }
       }
@@ -57268,7 +57268,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи нова парола…"
+            "value" : "Въведете нова парола…"
           }
         },
         "ca" : {
@@ -57280,7 +57280,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej nové heslo…"
+            "value" : "Zadejte nové heslo…"
           }
         },
         "da" : {
@@ -57292,13 +57292,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Neues Passwort eingeben…"
+            "value" : "Neues Passwort eingeben …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Βάλε νέο κωδικό πρόσβασης…"
+            "value" : "Βάλτε νέο κωδικό πρόσβασης…"
           }
         },
         "en" : {
@@ -57364,13 +57364,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi novu lozinku…"
+            "value" : "Unesite novu lozinku…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be az új jelszót…"
+            "value" : "Adja meg az új jelszót…"
           }
         },
         "id" : {
@@ -57436,25 +57436,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insere a nova palavra-passe…"
+            "value" : "Insira a nova palavra-passe…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu o parolă nouă…"
+            "value" : "Introduceți o parolă nouă…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи новый пароль…"
+            "value" : "Введите новый пароль…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj nové heslo…"
+            "value" : "Zadajte nové heslo…"
           }
         },
         "sv" : {
@@ -57496,13 +57496,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入新密碼…"
+            "value" : "輸入新密碼⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入新密碼…"
+            "value" : "輸入新密碼⋯"
           }
         }
       }
@@ -57519,7 +57519,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи парола…"
+            "value" : "Въведете парола…"
           }
         },
         "ca" : {
@@ -57531,7 +57531,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej heslo…"
+            "value" : "Zadejte heslo…"
           }
         },
         "da" : {
@@ -57543,13 +57543,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Passwort eingeben…"
+            "value" : "Passwort eingeben …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Βάλε κωδικό πρόσβασης…"
+            "value" : "Βάλτε κωδικό πρόσβασης…"
           }
         },
         "en" : {
@@ -57615,13 +57615,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi lozinku…"
+            "value" : "Unesite lozinku…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a jelszót…"
+            "value" : "Adja meg a jelszót…"
           }
         },
         "id" : {
@@ -57687,25 +57687,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insere a palavra-passe…"
+            "value" : "Insira a palavra-passe…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu parola…"
+            "value" : "Introduceți parola…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи пароль…"
+            "value" : "Введите пароль…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj heslo…"
+            "value" : "Zadajte heslo…"
           }
         },
         "sv" : {
@@ -57747,13 +57747,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入密碼…"
+            "value" : "輸入密碼⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入密碼…"
+            "value" : "輸入密碼⋯"
           }
         }
       }
@@ -57770,7 +57770,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи телефонен номер…"
+            "value" : "Въведете телефонен номер…"
           }
         },
         "ca" : {
@@ -57782,7 +57782,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej telefonní číslo…"
+            "value" : "Zadejte telefonní číslo…"
           }
         },
         "da" : {
@@ -57794,13 +57794,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gib die Telefonnummer ein…"
+            "value" : "Gib die Telefonnummer ein …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Βάλε τον αριθμό τηλεφώνου…"
+            "value" : "Βάλτε τον αριθμό τηλεφώνου…"
           }
         },
         "en" : {
@@ -57866,13 +57866,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi broj telefona…"
+            "value" : "Unesite broj telefona…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a telefonszámot…"
+            "value" : "Adja meg a telefonszámot…"
           }
         },
         "id" : {
@@ -57938,25 +57938,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insere o número de telefone…"
+            "value" : "Insira o número de telefone…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu numărul de telefon…"
+            "value" : "Introduceți numărul de telefon…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи номер телефона…"
+            "value" : "Введите номер телефона…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj telefónne číslo…"
+            "value" : "Zadajte telefónne číslo…"
           }
         },
         "sv" : {
@@ -57998,13 +57998,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入電話號碼…"
+            "value" : "輸入電話號碼⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入電話號碼…"
+            "value" : "輸入電話號碼⋯"
           }
         }
       }
@@ -58021,7 +58021,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи текст…"
+            "value" : "Въведете текст…"
           }
         },
         "ca" : {
@@ -58033,7 +58033,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej text…"
+            "value" : "Zadejte text…"
           }
         },
         "da" : {
@@ -58045,13 +58045,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Text eingeben…"
+            "value" : "Text eingeben …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Βάλε κείμενο…"
+            "value" : "Βάλτε κείμενο…"
           }
         },
         "en" : {
@@ -58117,13 +58117,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi tekst…"
+            "value" : "Unesite tekst…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a szöveget…"
+            "value" : "Adja meg a szöveget…"
           }
         },
         "id" : {
@@ -58189,25 +58189,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insere o texto…"
+            "value" : "Insira o texto…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu textul…"
+            "value" : "Introduceți textul…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи текст…"
+            "value" : "Введите текст…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj text…"
+            "value" : "Zadajte text…"
           }
         },
         "sv" : {
@@ -58249,13 +58249,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入文字…"
+            "value" : "輸入文字⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入文字…"
+            "value" : "輸入文字⋯"
           }
         }
       }
@@ -58272,7 +58272,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи потребителско име…"
+            "value" : "Въведете потребителско име…"
           }
         },
         "ca" : {
@@ -58284,7 +58284,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej uživatelské jméno…"
+            "value" : "Zadejte uživatelské jméno…"
           }
         },
         "da" : {
@@ -58296,13 +58296,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gib deinen Benutzernamen ein…"
+            "value" : "Gib deinen Benutzernamen ein …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Βάλε όνομα χρήστη…"
+            "value" : "Βάλτε όνομα χρήστη…"
           }
         },
         "en" : {
@@ -58368,13 +58368,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi korisničko ime…"
+            "value" : "Unesite korisničko ime…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a felhasználónevet…"
+            "value" : "Adja meg a felhasználónevet…"
           }
         },
         "id" : {
@@ -58440,25 +58440,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insere o nome de utilizador…"
+            "value" : "Insira o nome de utilizador…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu numele de utilizator…"
+            "value" : "Introduceți numele de utilizator…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи имя пользователя…"
+            "value" : "Введите имя пользователя…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj používateľské meno…"
+            "value" : "Zadajte používateľské meno…"
           }
         },
         "sv" : {
@@ -58500,13 +58500,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入使用者名稱…"
+            "value" : "輸入使用者名稱⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入用戶名稱…"
+            "value" : "輸入用戶名稱⋯"
           }
         }
       }
@@ -58547,7 +58547,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Exportieren…"
+            "value" : "Exportieren …"
           }
         },
         "el" : {
@@ -58751,13 +58751,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "匯出中…"
+            "value" : "匯出中⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "匯出中…"
+            "value" : "匯出中⋯"
           }
         }
       }
@@ -59050,7 +59050,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Generieren…"
+            "value" : "Generieren …"
           }
         },
         "el" : {
@@ -59254,13 +59254,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在產生…"
+            "value" : "正在產生⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "產生中…"
+            "value" : "產生中⋯"
           }
         }
       }
@@ -59301,7 +59301,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Importieren…"
+            "value" : "Importieren …"
           }
         },
         "el" : {
@@ -59505,13 +59505,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在匯入…"
+            "value" : "正在匯入⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "匯入中…"
+            "value" : "匯入中⋯"
           }
         }
       }
@@ -59552,7 +59552,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Initialisieren…"
+            "value" : "Initialisieren …"
           }
         },
         "el" : {
@@ -59756,13 +59756,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在初始化…"
+            "value" : "正在初始化⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "初始化中…"
+            "value" : "初始化中⋯"
           }
         }
       }
@@ -60055,7 +60055,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Laden…"
+            "value" : "Laden …"
           }
         },
         "el" : {
@@ -60259,13 +60259,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "載入中…"
+            "value" : "載入中⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在載入…"
+            "value" : "正在載入⋯"
           }
         }
       }
@@ -60306,7 +60306,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Keine Ergebnisse gefunden…"
+            "value" : "Keine Ergebnisse gefunden …"
           }
         },
         "el" : {
@@ -60510,13 +60510,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "未找到結果…"
+            "value" : "未找到結果⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "找不到結果…"
+            "value" : "找不到結果⋯"
           }
         }
       }
@@ -60557,7 +60557,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hier ist noch nichts…"
+            "value" : "Hier ist noch nichts …"
           }
         },
         "el" : {
@@ -60761,13 +60761,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "這裡還沒有任何東西…"
+            "value" : "這裡還沒有任何東西⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "目前這裡甚麼都沒有…"
+            "value" : "目前這裡甚麼都沒有⋯"
           }
         }
       }
@@ -61060,7 +61060,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vorbereiten…"
+            "value" : "Vorbereiten …"
           }
         },
         "el" : {
@@ -61264,13 +61264,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "準備中…"
+            "value" : "準備中⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在準備…"
+            "value" : "正在準備⋯"
           }
         }
       }
@@ -61562,7 +61562,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Verarbeiten…"
+            "value" : "Verarbeiten …"
           }
         },
         "el" : {
@@ -61766,13 +61766,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "處理中…"
+            "value" : "處理中⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "處理中…"
+            "value" : "處理中⋯"
           }
         }
       }
@@ -61813,7 +61813,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Anfrage wird verarbeitet…"
+            "value" : "Anfrage wird verarbeitet …"
           }
         },
         "el" : {
@@ -62017,13 +62017,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "處理請求中…"
+            "value" : "處理請求中⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "處理請求中…"
+            "value" : "處理請求中⋯"
           }
         }
       }
@@ -62064,7 +62064,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aktualisieren…"
+            "value" : "Aktualisieren …"
           }
         },
         "el" : {
@@ -62268,13 +62268,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在重新整理…"
+            "value" : "正在重新整理⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在重新整理…"
+            "value" : "正在重新整理⋯"
           }
         }
       }
@@ -62315,7 +62315,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Speichern…"
+            "value" : "Speichern …"
           }
         },
         "el" : {
@@ -62519,13 +62519,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "儲存中…"
+            "value" : "儲存中⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在儲存…"
+            "value" : "正在儲存⋯"
           }
         }
       }
@@ -62542,7 +62542,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Търси по име…"
+            "value" : "Търсете по име…"
           }
         },
         "ca" : {
@@ -62566,7 +62566,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nach Namen suchen…"
+            "value" : "Nach Namen suchen …"
           }
         },
         "el" : {
@@ -62638,7 +62638,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pretraži po imenu…"
+            "value" : "Pretražite po imenu…"
           }
         },
         "hu" : {
@@ -62716,7 +62716,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caută după nume…"
+            "value" : "Căutați după nume…"
           }
         },
         "ru" : {
@@ -62728,7 +62728,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hľadaj podľa mena…"
+            "value" : "Hľadajte podľa mena…"
           }
         },
         "sv" : {
@@ -62770,13 +62770,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "依名稱搜尋…"
+            "value" : "依名稱搜尋⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "按名稱搜尋…"
+            "value" : "按名稱搜尋⋯"
           }
         }
       }
@@ -62817,7 +62817,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Suchen…"
+            "value" : "Suchen …"
           }
         },
         "el" : {
@@ -63021,13 +63021,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋…"
+            "value" : "搜尋⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋…"
+            "value" : "搜尋⋯"
           }
         }
       }
@@ -63068,7 +63068,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Suchen…"
+            "value" : "Suchen …"
           }
         },
         "el" : {
@@ -63272,13 +63272,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋…"
+            "value" : "搜尋⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋中…"
+            "value" : "搜尋中⋯"
           }
         }
       }
@@ -63307,7 +63307,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vyber čas…"
+            "value" : "Vyberte čas…"
           }
         },
         "da" : {
@@ -63319,7 +63319,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zeit auswählen…"
+            "value" : "Zeit auswählen …"
           }
         },
         "el" : {
@@ -63391,7 +63391,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Odaberi vrijeme…"
+            "value" : "Odaberite vrijeme…"
           }
         },
         "hu" : {
@@ -63469,19 +63469,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Selectează ora…"
+            "value" : "Selectați ora…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Выбери время…"
+            "value" : "Выберите время…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vyber čas…"
+            "value" : "Vyberte čas…"
           }
         },
         "sv" : {
@@ -63523,13 +63523,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "選擇時間…"
+            "value" : "選擇時間⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "選擇時間…"
+            "value" : "選擇時間⋯"
           }
         }
       }
@@ -63570,7 +63570,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Senden…"
+            "value" : "Senden …"
           }
         },
         "el" : {
@@ -63756,7 +63756,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Виберіть час…"
+            "value" : "Надсилання…"
           }
         },
         "vi" : {
@@ -63774,13 +63774,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在傳送…"
+            "value" : "正在傳送⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "傳送中…"
+            "value" : "傳送中⋯"
           }
         }
       }
@@ -63821,7 +63821,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Synchronisieren…"
+            "value" : "Synchronisieren …"
           }
         },
         "el" : {
@@ -64025,13 +64025,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在同步…"
+            "value" : "正在同步⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "同步中…"
+            "value" : "同步中⋯"
           }
         }
       }
@@ -64072,7 +64072,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aktualisieren…"
+            "value" : "Aktualisieren …"
           }
         },
         "el" : {
@@ -64276,13 +64276,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "更新中…"
+            "value" : "更新中⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在更新…"
+            "value" : "正在更新⋯"
           }
         }
       }
@@ -64323,7 +64323,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hochladen…"
+            "value" : "Hochladen …"
           }
         },
         "el" : {
@@ -64527,13 +64527,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在上傳…"
+            "value" : "正在上傳⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "上傳中…"
+            "value" : "上傳中⋯"
           }
         }
       }
@@ -64826,7 +64826,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Verifizieren…"
+            "value" : "Verifizieren …"
           }
         },
         "el" : {
@@ -65030,13 +65030,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在驗證…"
+            "value" : "正在驗證⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "驗證中…"
+            "value" : "驗證中⋯"
           }
         }
       }
@@ -65077,7 +65077,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Warten…"
+            "value" : "Warten …"
           }
         },
         "el" : {
@@ -65281,13 +65281,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "等待中…"
+            "value" : "等待中⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "等待中…"
+            "value" : "等待中⋯"
           }
         }
       }
@@ -65305,7 +65305,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Напиши отговор…"
+            "value" : "Напишете отговор…"
           }
         },
         "ca" : {
@@ -65317,7 +65317,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Napiš odpověď…"
+            "value" : "Napište odpověď…"
           }
         },
         "da" : {
@@ -65329,13 +65329,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Schreibe eine Antwort…"
+            "value" : "Schreibe eine Antwort …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Γράψε μια απάντηση…"
+            "value" : "Γράψτε μια απάντηση…"
           }
         },
         "en" : {
@@ -65401,7 +65401,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Napiši odgovor…"
+            "value" : "Napišite odgovor…"
           }
         },
         "hu" : {
@@ -65473,25 +65473,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Escreve uma resposta…"
+            "value" : "Escreva uma resposta…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scrie un răspuns…"
+            "value" : "Scrieți un răspuns…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Напиши ответ…"
+            "value" : "Напишите ответ…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Napíš odpoveď…"
+            "value" : "Napíšte odpoveď…"
           }
         },
         "sv" : {
@@ -65509,7 +65509,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cevap yaz…"
+            "value" : "Cevap yazın…"
           }
         },
         "uk" : {
@@ -65533,13 +65533,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "寫回覆…"
+            "value" : "寫回覆⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "寫回覆…"
+            "value" : "寫回覆⋯"
           }
         }
       }

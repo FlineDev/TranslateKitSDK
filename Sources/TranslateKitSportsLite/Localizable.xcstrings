@@ -13,7 +13,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добави резултат"
+            "value" : "Добавете резултат"
           }
         },
         "ca" : {
@@ -187,7 +187,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adaugă scor"
+            "value" : "Adăugați scor"
           }
         },
         "ru" : {
@@ -264,7 +264,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добави член на отбора"
+            "value" : "Добавете член на отбора"
           }
         },
         "ca" : {
@@ -438,7 +438,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adaugă membru în echipă"
+            "value" : "Adăugați membru în echipă"
           }
         },
         "ru" : {
@@ -515,7 +515,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Регистрирай се"
+            "value" : "Регистрирайте се"
           }
         },
         "ca" : {
@@ -545,7 +545,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Κάνε check-in"
+            "value" : "Κάντε check-in"
           }
         },
         "en" : {
@@ -766,7 +766,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сравни статистики"
+            "value" : "Сравнете статистики"
           }
         },
         "ca" : {
@@ -940,7 +940,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Compară statistici"
+            "value" : "Comparați statistici"
           }
         },
         "ru" : {
@@ -1017,7 +1017,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Създай турнир"
+            "value" : "Създайте турнир"
           }
         },
         "ca" : {
@@ -1191,7 +1191,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Creează turneu"
+            "value" : "Creați turneu"
           }
         },
         "ru" : {
@@ -1268,7 +1268,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Приключи играта"
+            "value" : "Приключете играта"
           }
         },
         "ca" : {
@@ -1442,7 +1442,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Încheie jocul"
+            "value" : "Încheiați jocul"
           }
         },
         "ru" : {
@@ -1519,7 +1519,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Експортирай статистики"
+            "value" : "Експортирайте статистики"
           }
         },
         "ca" : {
@@ -1693,7 +1693,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Exportă statistici"
+            "value" : "Exportați statistici"
           }
         },
         "ru" : {
@@ -1770,7 +1770,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Следвай отбора"
+            "value" : "Следвайте отбора"
           }
         },
         "ca" : {
@@ -1800,7 +1800,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ακολούθησε Ομάδα"
+            "value" : "Ακολουθήστε Ομάδα"
           }
         },
         "en" : {
@@ -1944,7 +1944,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Urmărește echipa"
+            "value" : "Urmăriți echipa"
           }
         },
         "ru" : {
@@ -2021,7 +2021,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Генерирай отчет"
+            "value" : "Генерирайте отчет"
           }
         },
         "ca" : {
@@ -2195,7 +2195,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Generează raport"
+            "value" : "Generați raport"
           }
         },
         "ru" : {
@@ -2272,7 +2272,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Покани играчи"
+            "value" : "Поканете играчи"
           }
         },
         "ca" : {
@@ -2446,7 +2446,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Invită jucători"
+            "value" : "Invitați jucători"
           }
         },
         "ru" : {
@@ -2523,7 +2523,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Присъедини се към събитието"
+            "value" : "Присъединете се към събитието"
           }
         },
         "ca" : {
@@ -2697,7 +2697,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Participă la eveniment"
+            "value" : "Participați la eveniment"
           }
         },
         "ru" : {
@@ -2774,7 +2774,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Присъедини се към лигата"
+            "value" : "Присъединете се към лигата"
           }
         },
         "ca" : {
@@ -2948,7 +2948,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alătură-te ligii"
+            "value" : "Alăturați-vă ligii"
           }
         },
         "ru" : {
@@ -3025,7 +3025,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Присъедини се към отбора"
+            "value" : "Присъединете се към отбора"
           }
         },
         "ca" : {
@@ -3199,7 +3199,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alătură-te echipei"
+            "value" : "Alăturați-vă echipei"
           }
         },
         "ru" : {
@@ -3276,7 +3276,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Управлявай отбора"
+            "value" : "Управлявайте отбора"
           }
         },
         "ca" : {
@@ -3450,7 +3450,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gestionează echipa"
+            "value" : "Gestionați echipa"
           }
         },
         "ru" : {
@@ -3527,7 +3527,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Публикувай обновление"
+            "value" : "Публикувайте обновление"
           }
         },
         "ca" : {
@@ -3701,7 +3701,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Publică actualizarea"
+            "value" : "Publicați actualizarea"
           }
         },
         "ru" : {
@@ -3778,7 +3778,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Оцени играча"
+            "value" : "Оценете играча"
           }
         },
         "ca" : {
@@ -3952,7 +3952,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Evaluează jucătorul"
+            "value" : "Evaluați jucătorul"
           }
         },
         "ru" : {
@@ -4203,7 +4203,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Înregistrează"
+            "value" : "Înregistrați"
           }
         },
         "ru" : {
@@ -4280,7 +4280,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Регистрирай отбора"
+            "value" : "Регистрирайте отбора"
           }
         },
         "ca" : {
@@ -4454,7 +4454,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Înregistrează echipa"
+            "value" : "Înregistrați echipa"
           }
         },
         "ru" : {
@@ -4531,7 +4531,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Възобнови играта"
+            "value" : "Възобновете играта"
           }
         },
         "ca" : {
@@ -4705,7 +4705,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Continuă jocul"
+            "value" : "Continuați jocul"
           }
         },
         "ru" : {
@@ -4782,7 +4782,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Запази играта"
+            "value" : "Запазете играта"
           }
         },
         "ca" : {
@@ -4956,7 +4956,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Salvează jocul"
+            "value" : "Salvați jocul"
           }
         },
         "ru" : {
@@ -5033,7 +5033,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Планирай мач"
+            "value" : "Планирайте мач"
           }
         },
         "ca" : {
@@ -5207,7 +5207,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Programează meci"
+            "value" : "Programați meci"
           }
         },
         "ru" : {
@@ -5284,7 +5284,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Задай цел"
+            "value" : "Задайте цел"
           }
         },
         "ca" : {
@@ -5314,7 +5314,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Όρισε Στόχο"
+            "value" : "Ορίστε Στόχο"
           }
         },
         "en" : {
@@ -5458,7 +5458,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stabilește obiectivul"
+            "value" : "Stabiliți obiectivul"
           }
         },
         "ru" : {
@@ -5535,7 +5535,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сподели акцент"
+            "value" : "Споделете акцент"
           }
         },
         "ca" : {
@@ -5709,7 +5709,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Împărtășește momente importante"
+            "value" : "Împărtășiți momente importante"
           }
         },
         "ru" : {
@@ -5786,7 +5786,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Започни игра"
+            "value" : "Започнете игра"
           }
         },
         "ca" : {
@@ -5816,7 +5816,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ξεκίνησε Παιχνίδι"
+            "value" : "Ξεκινήστε Παιχνίδι"
           }
         },
         "en" : {
@@ -5960,7 +5960,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Începe jocul"
+            "value" : "Începeți jocul"
           }
         },
         "ru" : {
@@ -6037,7 +6037,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Подай резултата"
+            "value" : "Подайте резултата"
           }
         },
         "ca" : {
@@ -6211,7 +6211,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trimite scorul"
+            "value" : "Trimiteți scorul"
           }
         },
         "ru" : {
@@ -6288,7 +6288,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Синхронизирай данните"
+            "value" : "Синхронизирайте данните"
           }
         },
         "ca" : {
@@ -6462,7 +6462,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sincronizează datele"
+            "value" : "Sincronizați datele"
           }
         },
         "ru" : {
@@ -6539,7 +6539,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Следи"
+            "value" : "Следете"
           }
         },
         "ca" : {
@@ -6569,7 +6569,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Παρακολούθησε"
+            "value" : "Παρακολουθήστε"
           }
         },
         "en" : {
@@ -6713,7 +6713,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Urmărește"
+            "value" : "Urmăriți"
           }
         },
         "ru" : {
@@ -6790,7 +6790,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Проследи представянето"
+            "value" : "Проследете представянето"
           }
         },
         "ca" : {
@@ -6964,7 +6964,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Urmărește performanța"
+            "value" : "Urmăriți performanța"
           }
         },
         "ru" : {
@@ -7041,7 +7041,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Отпиши се"
+            "value" : "Отпишете се"
           }
         },
         "ca" : {
@@ -7215,7 +7215,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nu mai urmări"
+            "value" : "Nu mai urmăriți"
           }
         },
         "ru" : {
@@ -7292,7 +7292,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Актуализирай профила"
+            "value" : "Актуализирайте профила"
           }
         },
         "ca" : {
@@ -7466,7 +7466,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Actualizează profilul"
+            "value" : "Actualizați profilul"
           }
         },
         "ru" : {
@@ -7543,7 +7543,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Прегледай класацията"
+            "value" : "Прегледайте класацията"
           }
         },
         "ca" : {
@@ -7717,7 +7717,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vezi clasamentul"
+            "value" : "Vedeți clasamentul"
           }
         },
         "ru" : {
@@ -7794,7 +7794,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Прегледай разписанието"
+            "value" : "Прегледайте разписанието"
           }
         },
         "ca" : {
@@ -7968,7 +7968,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vezi programul"
+            "value" : "Vedeți programul"
           }
         },
         "ru" : {
@@ -8045,7 +8045,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Прегледай статистиките"
+            "value" : "Прегледайте статистиките"
           }
         },
         "ca" : {
@@ -8219,7 +8219,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vezi statistici"
+            "value" : "Vedeți statistici"
           }
         },
         "ru" : {
@@ -8296,7 +8296,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Гледай на живо"
+            "value" : "Гледайте на живо"
           }
         },
         "ca" : {
@@ -8470,7 +8470,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vezi live"
+            "value" : "Vedeți live"
           }
         },
         "ru" : {
@@ -8547,7 +8547,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Гледай повторение"
+            "value" : "Гледайте повторение"
           }
         },
         "ca" : {
@@ -8721,7 +8721,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vezi reluarea"
+            "value" : "Vedeți reluarea"
           }
         },
         "ru" : {
@@ -16609,7 +16609,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Πέτυχες ημερήσιο σερί!"
+            "value" : "Πετύχατε ημερήσιο σερί!"
           }
         },
         "en" : {
@@ -16783,7 +16783,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Günlük seriyi tamamladın!"
+            "value" : "Günlük seriyi tamamladınız!"
           }
         },
         "uk" : {
@@ -20093,7 +20093,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи име на лигата…"
+            "value" : "Въведете име на лигата…"
           }
         },
         "ca" : {
@@ -20105,7 +20105,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej název ligy…"
+            "value" : "Zadejte název ligy…"
           }
         },
         "da" : {
@@ -20117,13 +20117,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Liganamen eingeben…"
+            "value" : "Liganamen eingeben …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Γράψε όνομα πρωταθλήματος…"
+            "value" : "Γράψτε όνομα πρωταθλήματος…"
           }
         },
         "en" : {
@@ -20189,13 +20189,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi naziv lige…"
+            "value" : "Unesite naziv lige…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a liga nevét…"
+            "value" : "Adja meg a liga nevét…"
           }
         },
         "id" : {
@@ -20267,7 +20267,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu numele ligii…"
+            "value" : "Introduceți numele ligii…"
           }
         },
         "ru" : {
@@ -20279,7 +20279,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj názov ligy…"
+            "value" : "Zadajte názov ligy…"
           }
         },
         "sv" : {
@@ -20297,7 +20297,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lig adını gir…"
+            "value" : "Lig adını girin…"
           }
         },
         "uk" : {
@@ -20321,13 +20321,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "請輸入聯盟名稱…"
+            "value" : "請輸入聯盟名稱⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入聯賽名稱…"
+            "value" : "輸入聯賽名稱⋯"
           }
         }
       }
@@ -20344,7 +20344,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи брой играчи…"
+            "value" : "Въведете брой играчи…"
           }
         },
         "ca" : {
@@ -20356,7 +20356,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej velikost týmu…"
+            "value" : "Zadejte velikost týmu…"
           }
         },
         "da" : {
@@ -20368,13 +20368,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gib die Anzahl der Spieler:innen im Team ein…"
+            "value" : "Gib die Anzahl der Spieler:innen im Team ein …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Γράψε μέγεθος ρόστερ…"
+            "value" : "Γράψτε μέγεθος ρόστερ…"
           }
         },
         "en" : {
@@ -20440,13 +20440,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi broj igrača…"
+            "value" : "Unesite broj igrača…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a csapat létszámát…"
+            "value" : "Adja meg a csapat létszámát…"
           }
         },
         "id" : {
@@ -20518,7 +20518,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu dimensiunea echipei…"
+            "value" : "Introduceți dimensiunea echipei…"
           }
         },
         "ru" : {
@@ -20530,7 +20530,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj veľkosť súpisky…"
+            "value" : "Zadajte veľkosť súpisky…"
           }
         },
         "sv" : {
@@ -20548,7 +20548,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Oyuncu sayısını gir…"
+            "value" : "Oyuncu sayısını girin…"
           }
         },
         "uk" : {
@@ -20572,13 +20572,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入名單人數…"
+            "value" : "輸入名單人數⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入名單人數…"
+            "value" : "輸入名單人數⋯"
           }
         }
       }
@@ -20595,7 +20595,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи резултат…"
+            "value" : "Въведете резултат…"
           }
         },
         "ca" : {
@@ -20607,7 +20607,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej skóre…"
+            "value" : "Zadejte skóre…"
           }
         },
         "da" : {
@@ -20619,13 +20619,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gib den Punktestand ein…"
+            "value" : "Gib den Punktestand ein …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Γράψε σκορ…"
+            "value" : "Γράψτε σκορ…"
           }
         },
         "en" : {
@@ -20691,13 +20691,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi rezultat…"
+            "value" : "Unesite rezultat…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a pontszámot…"
+            "value" : "Adja meg a pontszámot…"
           }
         },
         "id" : {
@@ -20769,7 +20769,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu scorul…"
+            "value" : "Introduceți scorul…"
           }
         },
         "ru" : {
@@ -20781,7 +20781,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj výsledok…"
+            "value" : "Zadajte výsledok…"
           }
         },
         "sv" : {
@@ -20799,7 +20799,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skoru gir…"
+            "value" : "Skoru girin…"
           }
         },
         "uk" : {
@@ -20823,13 +20823,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入得分…"
+            "value" : "輸入得分⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入得分…"
+            "value" : "輸入得分⋯"
           }
         }
       }
@@ -20846,7 +20846,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи дати на сезона…"
+            "value" : "Въведете дати на сезона…"
           }
         },
         "ca" : {
@@ -20858,7 +20858,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej termíny sezóny…"
+            "value" : "Zadejte termíny sezóny…"
           }
         },
         "da" : {
@@ -20870,13 +20870,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gib die Saison-Daten ein…"
+            "value" : "Gib die Saison-Daten ein …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Γράψε τις ημερομηνίες σεζόν…"
+            "value" : "Γράψτε τις ημερομηνίες σεζόν…"
           }
         },
         "en" : {
@@ -20942,13 +20942,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi datume sezone…"
+            "value" : "Unesite datume sezone…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a szezon dátumait…"
+            "value" : "Adja meg a szezon dátumait…"
           }
         },
         "id" : {
@@ -21020,7 +21020,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu datele sezonului…"
+            "value" : "Introduceți datele sezonului…"
           }
         },
         "ru" : {
@@ -21032,7 +21032,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj dátumy sezóny…"
+            "value" : "Zadajte dátumy sezóny…"
           }
         },
         "sv" : {
@@ -21050,7 +21050,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sezon tarihlerini gir…"
+            "value" : "Sezon tarihlerini girin…"
           }
         },
         "uk" : {
@@ -21074,13 +21074,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入賽季日期…"
+            "value" : "輸入賽季日期⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入賽季日期…"
+            "value" : "輸入賽季日期⋯"
           }
         }
       }
@@ -21097,7 +21097,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи код на отбора…"
+            "value" : "Въведете код на отбора…"
           }
         },
         "ca" : {
@@ -21109,7 +21109,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej týmový kód…"
+            "value" : "Zadejte týmový kód…"
           }
         },
         "da" : {
@@ -21121,13 +21121,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gib den Team-Code ein…"
+            "value" : "Gib den Team-Code ein …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Γράψε τον κωδικό ομάδας…"
+            "value" : "Γράψτε τον κωδικό ομάδας…"
           }
         },
         "en" : {
@@ -21193,13 +21193,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi timski kod…"
+            "value" : "Unesite timski kod…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a csapat kódját…"
+            "value" : "Adja meg a csapat kódját…"
           }
         },
         "id" : {
@@ -21271,7 +21271,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu codul echipei…"
+            "value" : "Introduceți codul echipei…"
           }
         },
         "ru" : {
@@ -21283,7 +21283,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj tímový kód…"
+            "value" : "Zadajte tímový kód…"
           }
         },
         "sv" : {
@@ -21301,7 +21301,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Takım kodunu gir…"
+            "value" : "Takım kodunu girin…"
           }
         },
         "uk" : {
@@ -21325,13 +21325,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入隊伍代碼…"
+            "value" : "輸入隊伍代碼⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入隊伍代碼…"
+            "value" : "輸入隊伍代碼⋯"
           }
         }
       }
@@ -21348,7 +21348,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи име на отбор…"
+            "value" : "Въведете име на отбор…"
           }
         },
         "ca" : {
@@ -21360,7 +21360,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej název týmu…"
+            "value" : "Zadejte název týmu…"
           }
         },
         "da" : {
@@ -21372,13 +21372,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gib den Teamnamen ein…"
+            "value" : "Gib den Teamnamen ein …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Γράψε το όνομα ομάδας…"
+            "value" : "Γράψτε το όνομα ομάδας…"
           }
         },
         "en" : {
@@ -21444,13 +21444,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi ime tima…"
+            "value" : "Unesite ime tima…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a csapat nevét…"
+            "value" : "Adja meg a csapat nevét…"
           }
         },
         "id" : {
@@ -21522,7 +21522,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu numele echipei…"
+            "value" : "Introduceți numele echipei…"
           }
         },
         "ru" : {
@@ -21534,7 +21534,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj názov tímu…"
+            "value" : "Zadajte názov tímu…"
           }
         },
         "sv" : {
@@ -21552,7 +21552,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Takım adını gir…"
+            "value" : "Takım adını girin…"
           }
         },
         "uk" : {
@@ -21576,13 +21576,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入隊伍名稱…"
+            "value" : "輸入隊伍名稱⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入隊伍名稱…"
+            "value" : "輸入隊伍名稱⋯"
           }
         }
       }
@@ -21599,7 +21599,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи име на турнир…"
+            "value" : "Въведете име на турнир…"
           }
         },
         "ca" : {
@@ -21611,7 +21611,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej název turnaje…"
+            "value" : "Zadejte název turnaje…"
           }
         },
         "da" : {
@@ -21623,13 +21623,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gib den Turniernamen ein…"
+            "value" : "Gib den Turniernamen ein …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Γράψε το όνομα του τουρνουά…"
+            "value" : "Γράψτε το όνομα του τουρνουά…"
           }
         },
         "en" : {
@@ -21695,13 +21695,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi naziv turnira…"
+            "value" : "Unesite naziv turnira…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a torna nevét…"
+            "value" : "Adja meg a torna nevét…"
           }
         },
         "id" : {
@@ -21773,7 +21773,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu numele turneului…"
+            "value" : "Introduceți numele turneului…"
           }
         },
         "ru" : {
@@ -21785,7 +21785,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj názov turnaja…"
+            "value" : "Zadajte názov turnaja…"
           }
         },
         "sv" : {
@@ -21803,7 +21803,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Turnuva adını gir…"
+            "value" : "Turnuva adını girin…"
           }
         },
         "uk" : {
@@ -21827,13 +21827,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入錦標賽名稱…"
+            "value" : "輸入錦標賽名稱⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入錦標賽名稱…"
+            "value" : "輸入錦標賽名稱⋯"
           }
         }
       }
@@ -21850,7 +21850,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи адрес на мястото…"
+            "value" : "Въведете адрес на мястото…"
           }
         },
         "ca" : {
@@ -21862,7 +21862,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej adresu místa konání…"
+            "value" : "Zadejte adresu místa konání…"
           }
         },
         "da" : {
@@ -21874,13 +21874,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Veranstaltungsadresse eingeben…"
+            "value" : "Veranstaltungsadresse eingeben …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Γράψε διεύθυνση χώρου…"
+            "value" : "Γράψτε διεύθυνση χώρου…"
           }
         },
         "en" : {
@@ -21946,13 +21946,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi adresu mjesta održavanja…"
+            "value" : "Unesite adresu mjesta održavanja…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a helyszín címét…"
+            "value" : "Adja meg a helyszín címét…"
           }
         },
         "id" : {
@@ -22024,7 +22024,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu adresa locației…"
+            "value" : "Introduceți adresa locației…"
           }
         },
         "ru" : {
@@ -22036,7 +22036,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj adresu miesta konania…"
+            "value" : "Zadajte adresu miesta konania…"
           }
         },
         "sv" : {
@@ -22054,7 +22054,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mekan adresini gir…"
+            "value" : "Mekan adresini girin…"
           }
         },
         "uk" : {
@@ -22078,13 +22078,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入場地地址…"
+            "value" : "輸入場地地址⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入場地地址…"
+            "value" : "輸入場地地址⋯"
           }
         }
       }
@@ -22101,7 +22101,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Намери играч…"
+            "value" : "Намерете играч…"
           }
         },
         "ca" : {
@@ -22113,7 +22113,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Najdi hráče…"
+            "value" : "Najděte hráče…"
           }
         },
         "da" : {
@@ -22125,13 +22125,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Einen Spieler finden…"
+            "value" : "Einen Spieler finden …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Βρες έναν παίκτη…"
+            "value" : "Βρείτε έναν παίκτη…"
           }
         },
         "en" : {
@@ -22179,7 +22179,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trouver un joueur…"
+            "value" : "Trouvez un exercice…"
           }
         },
         "he" : {
@@ -22197,7 +22197,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pronađi igrača…"
+            "value" : "Pronađite igrača…"
           }
         },
         "hu" : {
@@ -22275,7 +22275,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caută un jucător…"
+            "value" : "Căutați un jucător…"
           }
         },
         "ru" : {
@@ -22287,7 +22287,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nájdi hráča…"
+            "value" : "Nájdite hráča…"
           }
         },
         "sv" : {
@@ -22329,13 +22329,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "尋找選手…"
+            "value" : "尋找選手⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "找一位球員…"
+            "value" : "找一位球員⋯"
           }
         }
       }
@@ -22364,7 +22364,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zaznamenej výkon…"
+            "value" : "Zaznamenejte výkon…"
           }
         },
         "da" : {
@@ -22376,7 +22376,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Leistungsdaten protokollieren…"
+            "value" : "Leistungsdaten protokollieren …"
           }
         },
         "el" : {
@@ -22448,7 +22448,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zabilježi izvedbu…"
+            "value" : "Zabilježite izvedbu…"
           }
         },
         "hu" : {
@@ -22526,7 +22526,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Înregistrează performanța…"
+            "value" : "Înregistrați performanța…"
           }
         },
         "ru" : {
@@ -22538,7 +22538,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zaznamenaj výkon…"
+            "value" : "Zaznamenajte výkon…"
           }
         },
         "sv" : {
@@ -22556,7 +22556,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Performansı kaydet…"
+            "value" : "Performansı kaydedin…"
           }
         },
         "uk" : {
@@ -22580,13 +22580,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "記錄表現…"
+            "value" : "記錄表現⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "記錄表現…"
+            "value" : "記錄表現⋯"
           }
         }
       }
@@ -22627,7 +22627,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Errungenschaften suchen…"
+            "value" : "Errungenschaften suchen …"
           }
         },
         "el" : {
@@ -22699,7 +22699,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pretraži postignuća…"
+            "value" : "Pretražite postignuća…"
           }
         },
         "hu" : {
@@ -22777,7 +22777,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caută realizări…"
+            "value" : "Căutați realizări…"
           }
         },
         "ru" : {
@@ -22789,7 +22789,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hľadaj úspechy…"
+            "value" : "Hľadajte úspechy…"
           }
         },
         "sv" : {
@@ -22831,13 +22831,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋成就…"
+            "value" : "搜尋成就⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋成就…"
+            "value" : "搜尋成就⋯"
           }
         }
       }
@@ -22878,7 +22878,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Athleten suchen…"
+            "value" : "Athleten suchen …"
           }
         },
         "el" : {
@@ -22950,7 +22950,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pretraži sportaše…"
+            "value" : "Pretražite sportaše…"
           }
         },
         "hu" : {
@@ -23028,7 +23028,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caută atleți…"
+            "value" : "Căutați atleți…"
           }
         },
         "ru" : {
@@ -23040,7 +23040,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hľadaj športovcov…"
+            "value" : "Hľadajte športovcov…"
           }
         },
         "sv" : {
@@ -23082,13 +23082,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋運動員…"
+            "value" : "搜尋運動員⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋運動員…"
+            "value" : "搜尋運動員⋯"
           }
         }
       }
@@ -23129,7 +23129,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ligen suchen…"
+            "value" : "Ligen suchen …"
           }
         },
         "el" : {
@@ -23201,7 +23201,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pretraži lige…"
+            "value" : "Pretražite lige…"
           }
         },
         "hu" : {
@@ -23279,7 +23279,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caută ligi…"
+            "value" : "Căutați ligi…"
           }
         },
         "ru" : {
@@ -23291,7 +23291,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hľadaj ligy…"
+            "value" : "Hľadajte ligy…"
           }
         },
         "sv" : {
@@ -23333,13 +23333,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋聯盟…"
+            "value" : "搜尋聯盟⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋聯賽…"
+            "value" : "搜尋聯賽⋯"
           }
         }
       }
@@ -23380,7 +23380,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Spiele suchen…"
+            "value" : "Spiele suchen …"
           }
         },
         "el" : {
@@ -23452,7 +23452,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pretraži utakmice…"
+            "value" : "Pretražite utakmice…"
           }
         },
         "hu" : {
@@ -23530,7 +23530,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caută meciuri…"
+            "value" : "Căutați meciuri…"
           }
         },
         "ru" : {
@@ -23542,7 +23542,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hľadaj zápasy…"
+            "value" : "Hľadajte zápasy…"
           }
         },
         "sv" : {
@@ -23584,13 +23584,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋比賽…"
+            "value" : "搜尋比賽⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋比賽…"
+            "value" : "搜尋比賽⋯"
           }
         }
       }
@@ -23631,7 +23631,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Spieler:innen durchsuchen…"
+            "value" : "Spieler:innen durchsuchen …"
           }
         },
         "el" : {
@@ -23703,7 +23703,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pretraži igrače…"
+            "value" : "Pretražite igrače…"
           }
         },
         "hu" : {
@@ -23781,7 +23781,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caută jucători…"
+            "value" : "Căutați jucători…"
           }
         },
         "ru" : {
@@ -23793,7 +23793,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hľadaj hráčov…"
+            "value" : "Hľadajte hráčov…"
           }
         },
         "sv" : {
@@ -23835,13 +23835,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋選手…"
+            "value" : "搜尋選手⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋球員…"
+            "value" : "搜尋球員⋯"
           }
         }
       }
@@ -23858,7 +23858,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Търси отбори…"
+            "value" : "Търсете отбори…"
           }
         },
         "ca" : {
@@ -23882,7 +23882,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Teams durchsuchen…"
+            "value" : "Teams durchsuchen …"
           }
         },
         "el" : {
@@ -23954,7 +23954,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pretraži timove…"
+            "value" : "Pretražite timove…"
           }
         },
         "hu" : {
@@ -24032,7 +24032,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caută echipe…"
+            "value" : "Căutați echipe…"
           }
         },
         "ru" : {
@@ -24044,7 +24044,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hľadaj tímy…"
+            "value" : "Hľadajte tímy…"
           }
         },
         "sv" : {
@@ -24086,13 +24086,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋隊伍…"
+            "value" : "搜尋隊伍⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋球隊…"
+            "value" : "搜尋球隊⋯"
           }
         }
       }
@@ -24109,7 +24109,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Търси турнири…"
+            "value" : "Търсете турнири…"
           }
         },
         "ca" : {
@@ -24133,7 +24133,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Turniere durchsuchen…"
+            "value" : "Turniere durchsuchen …"
           }
         },
         "el" : {
@@ -24205,7 +24205,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pretraži turnire…"
+            "value" : "Pretražite turnire…"
           }
         },
         "hu" : {
@@ -24283,7 +24283,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caută turnee…"
+            "value" : "Căutați turnee…"
           }
         },
         "ru" : {
@@ -24295,7 +24295,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hľadaj turnaje…"
+            "value" : "Hľadajte turnaje…"
           }
         },
         "sv" : {
@@ -24337,13 +24337,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋錦標賽…"
+            "value" : "搜尋錦標賽⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋錦標賽…"
+            "value" : "搜尋錦標賽⋯"
           }
         }
       }
@@ -24360,7 +24360,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Търси места…"
+            "value" : "Търсете места…"
           }
         },
         "ca" : {
@@ -24384,7 +24384,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Veranstaltungsorte durchsuchen…"
+            "value" : "Veranstaltungsorte durchsuchen …"
           }
         },
         "el" : {
@@ -24456,7 +24456,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pretraži objekte…"
+            "value" : "Pretražite objekte…"
           }
         },
         "hu" : {
@@ -24534,7 +24534,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caută locații…"
+            "value" : "Căutați locații…"
           }
         },
         "ru" : {
@@ -24546,7 +24546,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hľadaj miesta…"
+            "value" : "Hľadajte miesta…"
           }
         },
         "sv" : {
@@ -24588,13 +24588,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋場地…"
+            "value" : "搜尋場地⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋場地…"
+            "value" : "搜尋場地⋯"
           }
         }
       }
@@ -24611,7 +24611,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Определи фитнес цел…"
+            "value" : "Определете фитнес цел…"
           }
         },
         "ca" : {
@@ -24623,7 +24623,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nastav cílovou hodnotu fitness…"
+            "value" : "Nastavte cílovou hodnotu fitness…"
           }
         },
         "da" : {
@@ -24635,7 +24635,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fitnessziel festlegen…"
+            "value" : "Fitnessziel festlegen …"
           }
         },
         "el" : {
@@ -24707,7 +24707,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Postavi cilj za kondiciju…"
+            "value" : "Postavite cilj za kondiciju…"
           }
         },
         "hu" : {
@@ -24785,7 +24785,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stabilește obiectivul de fitness…"
+            "value" : "Stabiliți obiectivul de fitness…"
           }
         },
         "ru" : {
@@ -24797,7 +24797,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nastav cieľ v oblasti fitness…"
+            "value" : "Nastavte cieľ v oblasti fitness…"
           }
         },
         "sv" : {
@@ -24815,7 +24815,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fitness hedefini belirle…"
+            "value" : "Fitness hedefini belirleyin…"
           }
         },
         "uk" : {
@@ -24839,13 +24839,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "設定健身目標…"
+            "value" : "設定健身目標⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "設定健身目標…"
+            "value" : "設定健身目標⋯"
           }
         }
       }
@@ -24886,7 +24886,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Workout verfolgen…"
+            "value" : "Workout verfolgen …"
           }
         },
         "el" : {
@@ -24958,7 +24958,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Prati trening…"
+            "value" : "Pratite trening…"
           }
         },
         "hu" : {
@@ -25036,7 +25036,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Urmărește antrenamentul…"
+            "value" : "Urmăriți antrenamentul…"
           }
         },
         "ru" : {
@@ -25048,7 +25048,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sleduj tréning…"
+            "value" : "Sledujte tréning…"
           }
         },
         "sv" : {
@@ -25090,13 +25090,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "追蹤運動…"
+            "value" : "追蹤運動⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "追蹤運動…"
+            "value" : "追蹤運動⋯"
           }
         }
       }

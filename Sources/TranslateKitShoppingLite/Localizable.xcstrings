@@ -13,7 +13,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добави в количката"
+            "value" : "Добавете в количката"
           }
         },
         "ca" : {
@@ -187,7 +187,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adaugă în Coș"
+            "value" : "Adăugați în Coș"
           }
         },
         "ru" : {
@@ -264,7 +264,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добави към Любими"
+            "value" : "Добавете към Любими"
           }
         },
         "ca" : {
@@ -438,7 +438,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adaugă la Favorite"
+            "value" : "Adăugați la Favorite"
           }
         },
         "ru" : {
@@ -515,7 +515,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Приложи купон"
+            "value" : "Приложете купон"
           }
         },
         "ca" : {
@@ -689,7 +689,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aplică cuponul"
+            "value" : "Aplicați cuponul"
           }
         },
         "ru" : {
@@ -766,7 +766,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Приложи филтър"
+            "value" : "Приложете филтър"
           }
         },
         "ca" : {
@@ -940,7 +940,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aplică filtrul"
+            "value" : "Aplicați filtrul"
           }
         },
         "ru" : {
@@ -1017,7 +1017,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Резервирай сега"
+            "value" : "Резервирайте сега"
           }
         },
         "ca" : {
@@ -1191,7 +1191,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rezervă Acum"
+            "value" : "Rezervați Acum"
           }
         },
         "ru" : {
@@ -1268,7 +1268,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Купи"
+            "value" : "Купете"
           }
         },
         "ca" : {
@@ -1442,7 +1442,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cumpără"
+            "value" : "Cumpărați"
           }
         },
         "ru" : {
@@ -1519,7 +1519,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Купи сега"
+            "value" : "Купете сега"
           }
         },
         "ca" : {
@@ -1693,7 +1693,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cumpără Acum"
+            "value" : "Cumpărați Acum"
           }
         },
         "ru" : {
@@ -2021,7 +2021,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сравни"
+            "value" : "Сравнете"
           }
         },
         "ca" : {
@@ -2195,7 +2195,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Compară"
+            "value" : "Comparați"
           }
         },
         "ru" : {
@@ -2272,7 +2272,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сравни цени"
+            "value" : "Сравнете цени"
           }
         },
         "ca" : {
@@ -2446,7 +2446,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Compară prețurile"
+            "value" : "Comparați prețurile"
           }
         },
         "ru" : {
@@ -2523,7 +2523,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Намери в магазина"
+            "value" : "Намерете в магазина"
           }
         },
         "ca" : {
@@ -2553,7 +2553,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Βρες στο Κατάστημα"
+            "value" : "Βρείτε στο Κατάστημα"
           }
         },
         "en" : {
@@ -2697,7 +2697,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caută în magazin"
+            "value" : "Căutați în magazin"
           }
         },
         "ru" : {
@@ -2774,7 +2774,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Поръчай сега"
+            "value" : "Поръчайте сега"
           }
         },
         "ca" : {
@@ -2948,7 +2948,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Comandă acum"
+            "value" : "Comandați acum"
           }
         },
         "ru" : {
@@ -3025,7 +3025,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Направи поръчка"
+            "value" : "Направете поръчка"
           }
         },
         "ca" : {
@@ -3055,7 +3055,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Καταχώρισε παραγγελία"
+            "value" : "Καταχωρίστε παραγγελία"
           }
         },
         "en" : {
@@ -3199,7 +3199,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Plasează comanda"
+            "value" : "Plasați comanda"
           }
         },
         "ru" : {
@@ -3450,7 +3450,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Precomandă"
+            "value" : "Precomandați"
           }
         },
         "ru" : {
@@ -3527,7 +3527,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Продължи към плащане"
+            "value" : "Продължете към плащане"
           }
         },
         "ca" : {
@@ -3557,7 +3557,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Προχώρα στην Ολοκλήρωση Παραγγελίας"
+            "value" : "Προχωρήστε στην Ολοκλήρωση Παραγγελίας"
           }
         },
         "en" : {
@@ -3701,7 +3701,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Continuă la plată"
+            "value" : "Continuați la plată"
           }
         },
         "ru" : {
@@ -3778,7 +3778,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Оцени продукта"
+            "value" : "Оценете продукта"
           }
         },
         "ca" : {
@@ -3952,7 +3952,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Evaluează produsul"
+            "value" : "Evaluați produsul"
           }
         },
         "ru" : {
@@ -4029,7 +4029,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Премахни от количката"
+            "value" : "Премахнете от количката"
           }
         },
         "ca" : {
@@ -4203,7 +4203,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Elimină din coș"
+            "value" : "Eliminați din coș"
           }
         },
         "ru" : {
@@ -4280,7 +4280,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Премахни от списъка с желания"
+            "value" : "Премахнете от списъка с желания"
           }
         },
         "ca" : {
@@ -4454,7 +4454,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Elimină din lista de dorințe"
+            "value" : "Eliminați din lista de dorințe"
           }
         },
         "ru" : {
@@ -4531,7 +4531,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Прегледай покупката"
+            "value" : "Прегледайте покупката"
           }
         },
         "ca" : {
@@ -4705,7 +4705,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Revizuiește achiziția"
+            "value" : "Revizuiți achiziția"
           }
         },
         "ru" : {
@@ -4782,7 +4782,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Запази за по-късно"
+            "value" : "Запазете за по-късно"
           }
         },
         "ca" : {
@@ -4956,7 +4956,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Salvează pentru mai târziu"
+            "value" : "Salvați pentru mai târziu"
           }
         },
         "ru" : {
@@ -5033,7 +5033,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сканирай"
+            "value" : "Сканирайте"
           }
         },
         "ca" : {
@@ -5207,7 +5207,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scanează"
+            "value" : "Scanați"
           }
         },
         "ru" : {
@@ -5284,7 +5284,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сканирай QR код"
+            "value" : "Сканирайте QR код"
           }
         },
         "ca" : {
@@ -5458,7 +5458,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scanează cod QR"
+            "value" : "Scanați cod QR"
           }
         },
         "ru" : {
@@ -5535,7 +5535,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сподели"
+            "value" : "Споделете"
           }
         },
         "ca" : {
@@ -5709,7 +5709,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Partajează"
+            "value" : "Partajați"
           }
         },
         "ru" : {
@@ -5786,7 +5786,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сортирай по дата"
+            "value" : "Сортирайте по дата"
           }
         },
         "ca" : {
@@ -5960,7 +5960,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sortează după dată"
+            "value" : "Sortați după dată"
           }
         },
         "ru" : {
@@ -6037,7 +6037,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Започни пазаруване"
+            "value" : "Започнете пазаруване"
           }
         },
         "ca" : {
@@ -6067,7 +6067,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ξεκίνα Αγορές"
+            "value" : "Ξεκινήστε Αγορές"
           }
         },
         "en" : {
@@ -6211,7 +6211,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Începe cumpărăturile"
+            "value" : "Începeți cumpărăturile"
           }
         },
         "ru" : {
@@ -6288,7 +6288,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Абонирай се"
+            "value" : "Абонирайте се"
           }
         },
         "ca" : {
@@ -6462,7 +6462,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abonează-te"
+            "value" : "Abonați-vă"
           }
         },
         "ru" : {
@@ -6540,7 +6540,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Абонирай се и спести"
+            "value" : "Абонирайте се и спести"
           }
         },
         "ca" : {
@@ -6570,7 +6570,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Κάνε εγγραφή και εξοικονόμησε"
+            "value" : "Κάντε εγγραφή και εξοικονομήστε"
           }
         },
         "en" : {
@@ -6642,7 +6642,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Iratkozz fel és spórolj"
+            "value" : "Feliratkozás és megtakarítás"
           }
         },
         "id" : {
@@ -6714,7 +6714,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abonează-te & Economisește"
+            "value" : "Abonați-vă & Economisiți"
           }
         },
         "ru" : {
@@ -6791,7 +6791,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Проследи поръчката"
+            "value" : "Проследете поръчката"
           }
         },
         "ca" : {
@@ -6821,7 +6821,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Παρακολούθησε Παραγγελία"
+            "value" : "Παρακολουθήστε Παραγγελία"
           }
         },
         "en" : {
@@ -6965,7 +6965,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Urmărește comanda"
+            "value" : "Urmăriți comanda"
           }
         },
         "ru" : {
@@ -7216,7 +7216,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vezi coșul"
+            "value" : "Vedeți coșul"
           }
         },
         "ru" : {
@@ -7293,7 +7293,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Прегледай детайли"
+            "value" : "Прегледайте детайли"
           }
         },
         "ca" : {
@@ -7467,7 +7467,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vezi detalii"
+            "value" : "Vedeți detalii"
           }
         },
         "ru" : {
@@ -7718,7 +7718,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vezi anunțurile"
+            "value" : "Vedeți anunțurile"
           }
         },
         "ru" : {
@@ -7795,7 +7795,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Прегледай отзивите"
+            "value" : "Прегледайте отзивите"
           }
         },
         "ca" : {
@@ -7969,7 +7969,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vezi recenziile"
+            "value" : "Vedeți recenziile"
           }
         },
         "ru" : {
@@ -17693,7 +17693,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A maximális mennyiséget elértük."
+            "value" : "A maximális mennyiség elérve."
           }
         },
         "id" : {
@@ -19367,7 +19367,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tvoje objednávka byla úspěšně zadána."
+            "value" : "Vaše objednávka byla úspěšně zadána."
           }
         },
         "da" : {
@@ -19457,13 +19457,13 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A rendelésed sikeresen leadva."
+            "value" : "A rendelése sikeresen leadva."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pesananmu berhasil dibuat."
+            "value" : "Pesanan Anda berhasil dibuat."
           }
         },
         "it" : {
@@ -19523,25 +19523,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A tua encomenda foi feita com sucesso."
+            "value" : "A encomenda foi feita com sucesso."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Comanda ta a fost plasată cu succes."
+            "value" : "Comanda dvs. a fost plasată cu succes."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Твой заказ успешно размещён."
+            "value" : "Ваш заказ успешно размещён."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tvoja objednávka bola úspešne zadaná."
+            "value" : "Vaša objednávka bola úspešne zadaná."
           }
         },
         "sv" : {
@@ -19607,7 +19607,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добави бележка за доставка…"
+            "value" : "Добавете бележка за доставка…"
           }
         },
         "ca" : {
@@ -19631,13 +19631,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Füge eine Liefernotiz hinzu…"
+            "value" : "Füge eine Liefernotiz hinzu …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Πρόσθεσε μια σημείωση παράδοσης…"
+            "value" : "Προσθέστε μια σημείωση παράδοσης…"
           }
         },
         "en" : {
@@ -19703,7 +19703,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dodaj napomenu za dostavu…"
+            "value" : "Dodajte napomenu za dostavu…"
           }
         },
         "hu" : {
@@ -19781,7 +19781,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adaugă o notă de livrare…"
+            "value" : "Adăugați o notă de livrare…"
           }
         },
         "ru" : {
@@ -19793,7 +19793,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pridaj poznámku k dodávke…"
+            "value" : "Pridajte poznámku k dodávke…"
           }
         },
         "sv" : {
@@ -19811,7 +19811,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bir teslimat notu ekle…"
+            "value" : "Bir teslimat notu ekleyin…"
           }
         },
         "uk" : {
@@ -19835,13 +19835,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "新增送貨備註…"
+            "value" : "新增送貨備註⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "新增送貨備註…"
+            "value" : "新增送貨備註⋯"
           }
         }
       }
@@ -19858,7 +19858,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи адрес…"
+            "value" : "Въведете адрес…"
           }
         },
         "ca" : {
@@ -19870,7 +19870,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej adresu…"
+            "value" : "Zadejte adresu…"
           }
         },
         "da" : {
@@ -19882,13 +19882,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adresse eingeben…"
+            "value" : "Adresse eingeben …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Γράψε διεύθυνση…"
+            "value" : "Γράψτε διεύθυνση…"
           }
         },
         "en" : {
@@ -19954,13 +19954,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi adresu…"
+            "value" : "Unesite adresu…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Add meg a címet…"
+            "value" : "Adja meg a címet…"
           }
         },
         "id" : {
@@ -20026,13 +20026,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduz o endereço…"
+            "value" : "Introduza o endereço…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu adresa…"
+            "value" : "Introduceți adresa…"
           }
         },
         "ru" : {
@@ -20044,7 +20044,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj adresu…"
+            "value" : "Zadajte adresu…"
           }
         },
         "sv" : {
@@ -20062,7 +20062,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adres gir…"
+            "value" : "Adres girin…"
           }
         },
         "uk" : {
@@ -20086,13 +20086,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入地址…"
+            "value" : "輸入地址⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入地址…"
+            "value" : "輸入地址⋯"
           }
         }
       }
@@ -20109,7 +20109,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи сума…"
+            "value" : "Въведете сума…"
           }
         },
         "ca" : {
@@ -20121,7 +20121,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej částku…"
+            "value" : "Zadejte částku…"
           }
         },
         "da" : {
@@ -20133,13 +20133,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Betrag eingeben…"
+            "value" : "Betrag eingeben …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Γράψε ποσό…"
+            "value" : "Γράψτε ποσό…"
           }
         },
         "en" : {
@@ -20205,13 +20205,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi iznos…"
+            "value" : "Unesite iznos…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be az összeget…"
+            "value" : "Adja meg az összeget…"
           }
         },
         "id" : {
@@ -20277,13 +20277,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insere o montante…"
+            "value" : "Insira o montante…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu suma…"
+            "value" : "Introduceți suma…"
           }
         },
         "ru" : {
@@ -20295,7 +20295,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj sumu…"
+            "value" : "Zadajte sumu…"
           }
         },
         "sv" : {
@@ -20313,7 +20313,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Miktarı gir…"
+            "value" : "Miktarı girin…"
           }
         },
         "uk" : {
@@ -20337,13 +20337,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入金額…"
+            "value" : "輸入金額⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入金額…"
+            "value" : "輸入金額⋯"
           }
         }
       }
@@ -20360,7 +20360,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи номер на карта…"
+            "value" : "Въведете номер на карта…"
           }
         },
         "ca" : {
@@ -20372,7 +20372,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej číslo karty…"
+            "value" : "Zadejte číslo karty…"
           }
         },
         "da" : {
@@ -20384,13 +20384,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kartennummer eingeben…"
+            "value" : "Kartennummer eingeben …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Γράψε αριθμό κάρτας…"
+            "value" : "Γράψτε αριθμό κάρτας…"
           }
         },
         "en" : {
@@ -20456,13 +20456,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi broj kartice…"
+            "value" : "Unesite broj kartice…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a kártyaszámot…"
+            "value" : "Adja meg a kártyaszámot…"
           }
         },
         "id" : {
@@ -20528,13 +20528,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduz o número do cartão…"
+            "value" : "Introduza o número do cartão…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu numărul cardului…"
+            "value" : "Introduceți numărul cardului…"
           }
         },
         "ru" : {
@@ -20546,7 +20546,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj číslo karty…"
+            "value" : "Zadajte číslo karty…"
           }
         },
         "sv" : {
@@ -20564,7 +20564,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kart numarasını gir…"
+            "value" : "Kart numarasını girin…"
           }
         },
         "uk" : {
@@ -20588,13 +20588,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入卡號…"
+            "value" : "輸入卡號⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入信用卡號碼…"
+            "value" : "輸入信用卡號碼⋯"
           }
         }
       }
@@ -20611,7 +20611,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи име на град…"
+            "value" : "Въведете име на град…"
           }
         },
         "ca" : {
@@ -20623,7 +20623,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej název města…"
+            "value" : "Zadejte název města…"
           }
         },
         "da" : {
@@ -20635,13 +20635,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stadtname eingeben…"
+            "value" : "Stadtname eingeben …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Γράψε όνομα πόλης…"
+            "value" : "Γράψτε όνομα πόλης…"
           }
         },
         "en" : {
@@ -20707,13 +20707,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi naziv grada…"
+            "value" : "Unesite naziv grada…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a város nevét…"
+            "value" : "Adja meg a város nevét…"
           }
         },
         "id" : {
@@ -20779,13 +20779,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduz o nome da cidade…"
+            "value" : "Introduza o nome da cidade…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu numele orașului…"
+            "value" : "Introduceți numele orașului…"
           }
         },
         "ru" : {
@@ -20797,7 +20797,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj názov mesta…"
+            "value" : "Zadajte názov mesta…"
           }
         },
         "sv" : {
@@ -20815,7 +20815,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Şehir adını gir…"
+            "value" : "Şehir adını girin…"
           }
         },
         "uk" : {
@@ -20839,13 +20839,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入城市名稱…"
+            "value" : "輸入城市名稱⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入城市名稱…"
+            "value" : "輸入城市名稱⋯"
           }
         }
       }
@@ -20862,7 +20862,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи кода на купона…"
+            "value" : "Въведете кода на купона…"
           }
         },
         "ca" : {
@@ -20874,7 +20874,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej kód kupónu…"
+            "value" : "Zadejte kód kupónu…"
           }
         },
         "da" : {
@@ -20886,13 +20886,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gutscheincode eingeben…"
+            "value" : "Gutscheincode eingeben …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Γράψε τον κωδικό κουπονιού…"
+            "value" : "Γράψτε τον κωδικό κουπονιού…"
           }
         },
         "en" : {
@@ -20958,13 +20958,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi kod kupona…"
+            "value" : "Unesite kod kupona…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a kuponkódot…"
+            "value" : "Adja meg a kuponkódot…"
           }
         },
         "id" : {
@@ -21030,13 +21030,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduz o código do cupão…"
+            "value" : "Introduza o código do cupão…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu codul de reducere…"
+            "value" : "Introduceți codul de reducere…"
           }
         },
         "ru" : {
@@ -21048,7 +21048,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj kód kupónu…"
+            "value" : "Zadajte kód kupónu…"
           }
         },
         "sv" : {
@@ -21066,7 +21066,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kupon kodunu gir…"
+            "value" : "Kupon kodunu girin…"
           }
         },
         "uk" : {
@@ -21090,13 +21090,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入優惠碼…"
+            "value" : "輸入優惠碼⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入優惠券代碼…"
+            "value" : "輸入優惠券代碼⋯"
           }
         }
       }
@@ -21113,7 +21113,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи код за отстъпка…"
+            "value" : "Въведете код за отстъпка…"
           }
         },
         "ca" : {
@@ -21125,7 +21125,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej kód slevy…"
+            "value" : "Zadejte kód slevy…"
           }
         },
         "da" : {
@@ -21137,13 +21137,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rabattcode eingeben…"
+            "value" : "Rabattcode eingeben …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Γράψε τον κωδικό έκπτωσης…"
+            "value" : "Γράψτε τον κωδικό έκπτωσης…"
           }
         },
         "en" : {
@@ -21209,13 +21209,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi kod za popust…"
+            "value" : "Unesite kod za popust…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a kedvezménykódot…"
+            "value" : "Adja meg a kedvezménykódot…"
           }
         },
         "id" : {
@@ -21281,13 +21281,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduz o código de desconto…"
+            "value" : "Introduza o código de desconto…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu codul de discount…"
+            "value" : "Introduceți codul de discount…"
           }
         },
         "ru" : {
@@ -21299,7 +21299,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj zľavový kód…"
+            "value" : "Zadajte zľavový kód…"
           }
         },
         "sv" : {
@@ -21317,7 +21317,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "İndirim kodunu gir…"
+            "value" : "İndirim kodunu girin…"
           }
         },
         "uk" : {
@@ -21341,13 +21341,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入折扣碼…"
+            "value" : "輸入折扣碼⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入折扣碼…"
+            "value" : "輸入折扣碼⋯"
           }
         }
       }
@@ -21364,7 +21364,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи промо код…"
+            "value" : "Въведете промо код…"
           }
         },
         "ca" : {
@@ -21376,7 +21376,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej promo kód…"
+            "value" : "Zadejte promo kód…"
           }
         },
         "da" : {
@@ -21388,13 +21388,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gib den Aktionscode ein…"
+            "value" : "Gib den Aktionscode ein …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Γράψε τον κωδικό προσφοράς…"
+            "value" : "Γράψτε τον κωδικό προσφοράς…"
           }
         },
         "en" : {
@@ -21460,13 +21460,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi promotivni kod…"
+            "value" : "Unesite promotivni kod…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a promóciós kódot…"
+            "value" : "Adja meg a promóciós kódot…"
           }
         },
         "id" : {
@@ -21532,13 +21532,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduz o código promocional…"
+            "value" : "Introduza o código promocional…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu codul promoțional…"
+            "value" : "Introduceți codul promoțional…"
           }
         },
         "ru" : {
@@ -21550,7 +21550,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj propagačný kód…"
+            "value" : "Zadajte propagačný kód…"
           }
         },
         "sv" : {
@@ -21568,7 +21568,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Promosyon kodunu gir…"
+            "value" : "Promosyon kodunu girin…"
           }
         },
         "uk" : {
@@ -21592,13 +21592,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入優惠碼…"
+            "value" : "輸入優惠碼⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入優惠碼…"
+            "value" : "輸入優惠碼⋯"
           }
         }
       }
@@ -21615,7 +21615,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи име на получателя…"
+            "value" : "Въведете име на получателя…"
           }
         },
         "ca" : {
@@ -21627,7 +21627,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej jméno příjemce…"
+            "value" : "Zadejte jméno příjemce…"
           }
         },
         "da" : {
@@ -21639,13 +21639,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Name des/der Empfänger:in eingeben…"
+            "value" : "Name des/der Empfänger:in eingeben …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Γράψε όνομα παραλήπτη…"
+            "value" : "Γράψτε όνομα παραλήπτη…"
           }
         },
         "en" : {
@@ -21711,13 +21711,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi ime primatelja…"
+            "value" : "Unesite ime primatelja…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a címzett nevét…"
+            "value" : "Adja meg a címzett nevét…"
           }
         },
         "id" : {
@@ -21783,13 +21783,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduz o nome do destinatário…"
+            "value" : "Introduza o nome do destinatário…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu numele destinatarului…"
+            "value" : "Introduceți numele destinatarului…"
           }
         },
         "ru" : {
@@ -21801,7 +21801,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj meno príjemcu…"
+            "value" : "Zadajte meno príjemcu…"
           }
         },
         "sv" : {
@@ -21819,7 +21819,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alıcının adını gir…"
+            "value" : "Alıcının adını girin…"
           }
         },
         "uk" : {
@@ -21843,13 +21843,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入收件人姓名…"
+            "value" : "輸入收件人姓名⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入收件人姓名…"
+            "value" : "輸入收件人姓名⋯"
           }
         }
       }
@@ -21866,7 +21866,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи адрес за доставка…"
+            "value" : "Въведете адрес за доставка…"
           }
         },
         "ca" : {
@@ -21878,7 +21878,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej doručovací adresu…"
+            "value" : "Zadejte doručovací adresu…"
           }
         },
         "da" : {
@@ -21890,13 +21890,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lieferadresse eingeben…"
+            "value" : "Lieferadresse eingeben …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Γράψε διεύθυνση αποστολής…"
+            "value" : "Γράψτε διεύθυνση αποστολής…"
           }
         },
         "en" : {
@@ -21962,13 +21962,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi adresu za dostavu…"
+            "value" : "Unesite adresu za dostavu…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a szállítási címet…"
+            "value" : "Adja meg a szállítási címet…"
           }
         },
         "id" : {
@@ -22034,13 +22034,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduz o endereço de entrega…"
+            "value" : "Introduza o endereço de entrega…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu adresa de livrare…"
+            "value" : "Introduceți adresa de livrare…"
           }
         },
         "ru" : {
@@ -22052,7 +22052,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj dodaciu adresu…"
+            "value" : "Zadajte dodaciu adresu…"
           }
         },
         "sv" : {
@@ -22070,7 +22070,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gönderim adresini gir…"
+            "value" : "Gönderim adresini girin…"
           }
         },
         "uk" : {
@@ -22094,13 +22094,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入收件地址…"
+            "value" : "輸入收件地址⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入送貨地址…"
+            "value" : "輸入送貨地址⋯"
           }
         }
       }
@@ -22118,7 +22118,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи пощенски код…"
+            "value" : "Въведете пощенски код…"
           }
         },
         "ca" : {
@@ -22130,7 +22130,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej PSČ…"
+            "value" : "Zadejte PSČ…"
           }
         },
         "da" : {
@@ -22142,13 +22142,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Postleitzahl eingeben…"
+            "value" : "Postleitzahl eingeben …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Γράψε ταχυδρομικό κώδικα…"
+            "value" : "Γράψτε ταχυδρομικό κώδικα…"
           }
         },
         "en" : {
@@ -22214,13 +22214,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi poštanski ili ZIP kod…"
+            "value" : "Unesite poštanski ili ZIP kod…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a ZIP-kódot…"
+            "value" : "Adja meg a ZIP-kódot…"
           }
         },
         "id" : {
@@ -22286,13 +22286,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduz o código postal…"
+            "value" : "Introduza o código postal…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu codul poștal…"
+            "value" : "Introduceți codul poștal…"
           }
         },
         "ru" : {
@@ -22304,7 +22304,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj PSČ…"
+            "value" : "Zadajte PSČ…"
           }
         },
         "sv" : {
@@ -22322,7 +22322,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Posta kodu gir…"
+            "value" : "Posta kodu girin…"
           }
         },
         "uk" : {
@@ -22346,13 +22346,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入郵遞區號…"
+            "value" : "輸入郵遞區號⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入郵政編號…"
+            "value" : "輸入郵政編號⋯"
           }
         }
       }
@@ -22369,7 +22369,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Търси по марка…"
+            "value" : "Търсете по марка…"
           }
         },
         "ca" : {
@@ -22393,7 +22393,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nach Marke suchen…"
+            "value" : "Nach Marke suchen …"
           }
         },
         "el" : {
@@ -22465,7 +22465,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pretraži po brendu…"
+            "value" : "Pretražite po brendu…"
           }
         },
         "hu" : {
@@ -22543,7 +22543,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caută după marcă…"
+            "value" : "Căutați după marcă…"
           }
         },
         "ru" : {
@@ -22555,7 +22555,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hľadaj podľa značky…"
+            "value" : "Hľadajte podľa značky…"
           }
         },
         "sv" : {
@@ -22597,13 +22597,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "按品牌搜尋…"
+            "value" : "按品牌搜尋⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "按品牌搜尋…"
+            "value" : "按品牌搜尋⋯"
           }
         }
       }
@@ -22620,7 +22620,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Търси по категория…"
+            "value" : "Търсете по категория…"
           }
         },
         "ca" : {
@@ -22644,7 +22644,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nach Kategorie suchen…"
+            "value" : "Nach Kategorie suchen …"
           }
         },
         "el" : {
@@ -22716,7 +22716,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pretraži po kategoriji…"
+            "value" : "Pretražite po kategoriji…"
           }
         },
         "hu" : {
@@ -22794,7 +22794,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caută după categorie…"
+            "value" : "Căutați după categorie…"
           }
         },
         "ru" : {
@@ -22806,7 +22806,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hľadaj podľa kategórie…"
+            "value" : "Hľadajte podľa kategórie…"
           }
         },
         "sv" : {
@@ -22848,13 +22848,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "按類別搜尋…"
+            "value" : "按類別搜尋⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "按類別搜尋…"
+            "value" : "按類別搜尋⋯"
           }
         }
       }
@@ -22871,7 +22871,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Търси по име…"
+            "value" : "Търсете по име…"
           }
         },
         "ca" : {
@@ -22895,7 +22895,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nach Namen suchen…"
+            "value" : "Nach Namen suchen …"
           }
         },
         "el" : {
@@ -22967,7 +22967,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pretraži po imenu…"
+            "value" : "Pretražite po imenu…"
           }
         },
         "hu" : {
@@ -23045,7 +23045,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caută după nume…"
+            "value" : "Căutați după nume…"
           }
         },
         "ru" : {
@@ -23057,7 +23057,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hľadaj podľa názvu…"
+            "value" : "Hľadajte podľa názvu…"
           }
         },
         "sv" : {
@@ -23099,13 +23099,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "依名稱搜尋…"
+            "value" : "依名稱搜尋⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "按名稱搜尋…"
+            "value" : "按名稱搜尋⋯"
           }
         }
       }
@@ -23122,7 +23122,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Търси по цена…"
+            "value" : "Търсете по цена…"
           }
         },
         "ca" : {
@@ -23146,7 +23146,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nach Preis suchen…"
+            "value" : "Nach Preis suchen …"
           }
         },
         "el" : {
@@ -23218,7 +23218,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pretraži prema cijeni…"
+            "value" : "Pretražite prema cijeni…"
           }
         },
         "hu" : {
@@ -23296,7 +23296,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caută după preț…"
+            "value" : "Căutați după preț…"
           }
         },
         "ru" : {
@@ -23308,7 +23308,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hľadaj podľa ceny…"
+            "value" : "Hľadajte podľa ceny…"
           }
         },
         "sv" : {
@@ -23350,13 +23350,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "按價格搜尋…"
+            "value" : "按價格搜尋⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "按價格搜尋…"
+            "value" : "按價格搜尋⋯"
           }
         }
       }
@@ -23373,7 +23373,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Търси продукти…"
+            "value" : "Търсете продукти…"
           }
         },
         "ca" : {
@@ -23397,7 +23397,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nach Produkten suchen…"
+            "value" : "Nach Produkten suchen …"
           }
         },
         "el" : {
@@ -23469,7 +23469,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pretraži proizvode…"
+            "value" : "Pretražite proizvode…"
           }
         },
         "hu" : {
@@ -23547,7 +23547,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caută produse…"
+            "value" : "Căutați produse…"
           }
         },
         "ru" : {
@@ -23559,7 +23559,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hľadaj produkty…"
+            "value" : "Hľadajte produkty…"
           }
         },
         "sv" : {
@@ -23601,13 +23601,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋產品…"
+            "value" : "搜尋產品⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋產品…"
+            "value" : "搜尋產品⋯"
           }
         }
       }
@@ -23624,7 +23624,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Избери дата за доставка…"
+            "value" : "Изберете дата за доставка…"
           }
         },
         "ca" : {
@@ -23636,7 +23636,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vyber datum doručení…"
+            "value" : "Vyberte datum doručení…"
           }
         },
         "da" : {
@@ -23648,7 +23648,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lieferdatum auswählen…"
+            "value" : "Lieferdatum auswählen …"
           }
         },
         "el" : {
@@ -23720,7 +23720,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Odaberi datum dostave…"
+            "value" : "Odaberite datum dostave…"
           }
         },
         "hu" : {
@@ -23798,7 +23798,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Selectează data livrării…"
+            "value" : "Selectați data livrării…"
           }
         },
         "ru" : {
@@ -23810,7 +23810,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vyber dátum doručenia…"
+            "value" : "Vyberte dátum doručenia…"
           }
         },
         "sv" : {
@@ -23828,7 +23828,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Teslimat tarihini seç…"
+            "value" : "Teslimat tarihini seçin…"
           }
         },
         "uk" : {
@@ -23852,13 +23852,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "選擇配送日期…"
+            "value" : "選擇配送日期⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "選擇送貨日期…"
+            "value" : "選擇送貨日期⋯"
           }
         }
       }
@@ -23875,7 +23875,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Избери метод на плащане…"
+            "value" : "Изберете метод на плащане…"
           }
         },
         "ca" : {
@@ -23887,7 +23887,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vyber způsob platby…"
+            "value" : "Vyberte způsob platby…"
           }
         },
         "da" : {
@@ -23899,7 +23899,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zahlungsmethode auswählen…"
+            "value" : "Zahlungsmethode auswählen …"
           }
         },
         "el" : {
@@ -23971,7 +23971,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Odaberi način plaćanja…"
+            "value" : "Odaberite način plaćanja…"
           }
         },
         "hu" : {
@@ -24049,7 +24049,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Selectează metoda de plată…"
+            "value" : "Selectați metoda de plată…"
           }
         },
         "ru" : {
@@ -24061,7 +24061,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vyber spôsob platby…"
+            "value" : "Vyberte spôsob platby…"
           }
         },
         "sv" : {
@@ -24079,7 +24079,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ödeme yöntemini seç…"
+            "value" : "Ödeme yöntemini seçin…"
           }
         },
         "uk" : {
@@ -24103,13 +24103,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "選擇付款方式…"
+            "value" : "選擇付款方式⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "選擇付款方法…"
+            "value" : "選擇付款方法⋯"
           }
         }
       }
@@ -24126,7 +24126,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Избери метод на доставка…"
+            "value" : "Изберете метод на доставка…"
           }
         },
         "ca" : {
@@ -24138,7 +24138,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vyber způsob dopravy…"
+            "value" : "Vyberte způsob dopravy…"
           }
         },
         "da" : {
@@ -24150,7 +24150,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Versandmethode auswählen…"
+            "value" : "Versandmethode auswählen …"
           }
         },
         "el" : {
@@ -24222,7 +24222,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Odaberi način dostave…"
+            "value" : "Odaberite način dostave…"
           }
         },
         "hu" : {
@@ -24300,7 +24300,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Selectează metoda de livrare…"
+            "value" : "Selectați metoda de livrare…"
           }
         },
         "ru" : {
@@ -24312,7 +24312,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vyber spôsob dopravy…"
+            "value" : "Vyberte spôsob dopravy…"
           }
         },
         "sv" : {
@@ -24330,7 +24330,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gönderim yöntemini seç…"
+            "value" : "Gönderim yöntemini seçin…"
           }
         },
         "uk" : {
@@ -24354,13 +24354,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "選擇運送方式…"
+            "value" : "選擇運送方式⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "選擇運送方式…"
+            "value" : "選擇運送方式⋯"
           }
         }
       }
@@ -24377,7 +24377,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Напиши отзив…"
+            "value" : "Напишете отзив…"
           }
         },
         "ca" : {
@@ -24401,13 +24401,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Eine Bewertung schreiben…"
+            "value" : "Eine Bewertung schreiben …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Γράψε μια αξιολόγηση…"
+            "value" : "Γράψτε μια αξιολόγηση…"
           }
         },
         "en" : {
@@ -24473,7 +24473,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Napiši recenziju…"
+            "value" : "Napišite recenziju…"
           }
         },
         "hu" : {
@@ -24545,13 +24545,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Escreve uma avaliação…"
+            "value" : "Escreva uma avaliação…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scrie o recenzie…"
+            "value" : "Scrieți o recenzie…"
           }
         },
         "ru" : {
@@ -24563,7 +24563,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Napíš recenziu…"
+            "value" : "Napíšte recenziu…"
           }
         },
         "sv" : {
@@ -24581,7 +24581,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bir inceleme yaz…"
+            "value" : "Bir inceleme yazın…"
           }
         },
         "uk" : {
@@ -24605,13 +24605,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "撰寫評論…"
+            "value" : "撰寫評論⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "撰寫評論…"
+            "value" : "撰寫評論⋯"
           }
         }
       }
