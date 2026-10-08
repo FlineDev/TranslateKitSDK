@@ -13,7 +13,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавете бележка"
+            "value" : "Добави бележка"
           }
         },
         "ca" : {
@@ -264,7 +264,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавете в библиотека"
+            "value" : "Добави в библиотеката"
           }
         },
         "ca" : {
@@ -444,7 +444,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавить в Библиотеку"
+            "value" : "Добавить в библиотеку"
           }
         },
         "sk" : {
@@ -468,7 +468,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kitaplığa Ekle"
+            "value" : "Kütüphaneye Ekle"
           }
         },
         "uk" : {
@@ -515,7 +515,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавете в Списък за четене"
+            "value" : "Добави в списъка за четене"
           }
         },
         "ca" : {
@@ -527,7 +527,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Přidat do seznamu četby"
+            "value" : "Přidat do seznamu k přečtení"
           }
         },
         "da" : {
@@ -701,7 +701,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pridať do zoznamu na prečítanie"
+            "value" : "Pridať do zoznamu na čítanie"
           }
         },
         "sv" : {
@@ -725,7 +725,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Додати до списку читання"
+            "value" : "Додати до списку для читання"
           }
         },
         "vi" : {
@@ -766,7 +766,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Отбележете"
+            "value" : "Отбележи"
           }
         },
         "ca" : {
@@ -796,7 +796,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Προσθήκη Σελιδοδείκτη"
+            "value" : "Προσθήκη σελιδοδείκτη"
           }
         },
         "en" : {
@@ -892,7 +892,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Бетбелгі қою"
+            "value" : "Бетбелгілеу"
           }
         },
         "ko" : {
@@ -970,13 +970,13 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yer İşareti Ekle"
+            "value" : "Yer İşaretlerine Ekle"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Закладка"
+            "value" : "Додати до закладок"
           }
         },
         "vi" : {
@@ -1017,7 +1017,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Разгледайте"
+            "value" : "Разгледай"
           }
         },
         "ca" : {
@@ -1268,7 +1268,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Цитирайте"
+            "value" : "Цитирай"
           }
         },
         "ca" : {
@@ -1519,7 +1519,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сравнете"
+            "value" : "Сравни"
           }
         },
         "ca" : {
@@ -1770,7 +1770,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Копирайте връзка"
+            "value" : "Копирай връзка"
           }
         },
         "ca" : {
@@ -2021,7 +2021,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Създайте ново"
+            "value" : "Създай ново"
           }
         },
         "ca" : {
@@ -2147,7 +2147,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Жаңасын жасау"
+            "value" : "Жаңасын құру"
           }
         },
         "ko" : {
@@ -2207,7 +2207,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vytvoriť nový"
+            "value" : "Vytvoriť nové"
           }
         },
         "sv" : {
@@ -2272,7 +2272,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Определете"
+            "value" : "Определи"
           }
         },
         "ca" : {
@@ -2523,7 +2523,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Изтеглете материали"
+            "value" : "Изтегли материали"
           }
         },
         "ca" : {
@@ -2774,7 +2774,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Експортирайте PDF"
+            "value" : "Експортирай PDF"
           }
         },
         "ca" : {
@@ -3025,7 +3025,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Генерирайте отчет"
+            "value" : "Генерирай отчет"
           }
         },
         "ca" : {
@@ -3055,7 +3055,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Δημιουργία Αναφοράς"
+            "value" : "Δημιουργία αναφοράς"
           }
         },
         "en" : {
@@ -3527,7 +3527,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Маркирайте"
+            "value" : "Маркирай"
           }
         },
         "ca" : {
@@ -3778,7 +3778,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Индексирайте"
+            "value" : "Индексирай"
           }
         },
         "ca" : {
@@ -3790,7 +3790,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Index"
+            "value" : "Indexovat"
           }
         },
         "da" : {
@@ -3880,7 +3880,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Index"
+            "value" : "Indexelés"
           }
         },
         "id" : {
@@ -3958,13 +3958,13 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Индекс"
+            "value" : "Индексировать"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Index"
+            "value" : "Indexovať"
           }
         },
         "sv" : {
@@ -3982,13 +3982,13 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dizin"
+            "value" : "Dizinle"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Покажчик"
+            "value" : "Індексувати"
           }
         },
         "vi" : {
@@ -4029,7 +4029,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Потърсете"
+            "value" : "Потърси"
           }
         },
         "ca" : {
@@ -4280,7 +4280,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Маркирайте като прочетено"
+            "value" : "Маркирай като прочетено"
           }
         },
         "ca" : {
@@ -4531,7 +4531,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Отворете в браузъра"
+            "value" : "Отвори в браузъра"
           }
         },
         "ca" : {
@@ -4561,7 +4561,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Άνοιγμα στον Περιηγητή"
+            "value" : "Άνοιγμα στον περιηγητή"
           }
         },
         "en" : {
@@ -4782,7 +4782,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Организирайте"
+            "value" : "Организирай"
           }
         },
         "ca" : {
@@ -5033,7 +5033,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Принтирайте"
+            "value" : "Принтирай"
           }
         },
         "ca" : {
@@ -5535,7 +5535,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Прочетете статия"
+            "value" : "Прочети статия"
           }
         },
         "ca" : {
@@ -5565,7 +5565,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Διαβάστε το Άρθρο"
+            "value" : "Ανάγνωση άρθρου"
           }
         },
         "en" : {
@@ -6037,7 +6037,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Премахнете всички"
+            "value" : "Премахни всички"
           }
         },
         "ca" : {
@@ -6288,7 +6288,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Проучете"
+            "value" : "Проучи"
           }
         },
         "ca" : {
@@ -6539,7 +6539,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Прегледайте"
+            "value" : "Прегледай"
           }
         },
         "ca" : {
@@ -6790,7 +6790,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Запазете за по-късно"
+            "value" : "Запази за по-късно"
           }
         },
         "ca" : {
@@ -6820,7 +6820,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Αποθήκευση για Αργότερα"
+            "value" : "Αποθήκευση για αργότερα"
           }
         },
         "en" : {
@@ -7041,7 +7041,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Запазете в любими"
+            "value" : "Запази в любими"
           }
         },
         "ca" : {
@@ -7137,7 +7137,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Spremi u omiljene"
+            "value" : "Spremi u favorite"
           }
         },
         "hu" : {
@@ -7251,7 +7251,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Зберегти в улюблені"
+            "value" : "Зберегти у вибране"
           }
         },
         "vi" : {
@@ -7543,7 +7543,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Споделете документ"
+            "value" : "Сподели документ"
           }
         },
         "ca" : {
@@ -7573,7 +7573,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Μοιραστείτε Έγγραφο"
+            "value" : "Κοινοποίηση εγγράφου"
           }
         },
         "en" : {
@@ -7794,7 +7794,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Покажете подсказка"
+            "value" : "Покажи подсказка"
           }
         },
         "ca" : {
@@ -7824,7 +7824,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Δείξτε Υπόδειξη"
+            "value" : "Εμφάνιση υπόδειξης"
           }
         },
         "en" : {
@@ -7962,7 +7962,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mostrar Dica"
+            "value" : "Mostrar dica"
           }
         },
         "ro" : {
@@ -8045,7 +8045,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Учете"
+            "value" : "Учи"
           }
         },
         "ca" : {
@@ -8296,7 +8296,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Абонирайте се"
+            "value" : "Абонирай се"
           }
         },
         "ca" : {
@@ -8464,7 +8464,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Assinar"
+            "value" : "Subscrever"
           }
         },
         "ro" : {
@@ -8547,7 +8547,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Преведете"
+            "value" : "Преведи"
           }
         },
         "ca" : {
@@ -8757,7 +8757,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Перекладати"
+            "value" : "Перекласти"
           }
         },
         "vi" : {
@@ -8798,7 +8798,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Прегледайте детайли"
+            "value" : "Прегледай детайли"
           }
         },
         "ca" : {

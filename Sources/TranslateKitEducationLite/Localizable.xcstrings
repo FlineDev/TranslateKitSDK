@@ -13,7 +13,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Отговорете на въпросите"
+            "value" : "Отговори на въпросите"
           }
         },
         "ca" : {
@@ -264,7 +264,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Отбележете"
+            "value" : "Отбележи"
           }
         },
         "ca" : {
@@ -294,7 +294,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Προσθήκη Σελιδοδείκτη"
+            "value" : "Προσθήκη σελιδοδείκτη"
           }
         },
         "en" : {
@@ -390,7 +390,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Бетбелгі"
+            "value" : "Бетбелгілеу"
           }
         },
         "ko" : {
@@ -468,13 +468,13 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yer İşareti Ekle"
+            "value" : "Yer İşaretlerine Ekle"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Додати в закладки"
+            "value" : "Додати до закладок"
           }
         },
         "vi" : {
@@ -515,7 +515,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Проверете отговора"
+            "value" : "Провери отговора"
           }
         },
         "ca" : {
@@ -766,7 +766,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Проверете решението"
+            "value" : "Провери решението"
           }
         },
         "ca" : {
@@ -1018,7 +1018,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Проверете решението"
+            "value" : "Провери решението"
           }
         },
         "ca" : {
@@ -1048,7 +1048,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ελέγξτε τη Λύση"
+            "value" : "Έλεγχος λύσης"
           }
         },
         "en" : {
@@ -1269,7 +1269,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Завършете урока"
+            "value" : "Завърши урока"
           }
         },
         "ca" : {
@@ -1520,7 +1520,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Изтеглете материали"
+            "value" : "Изтегли материали"
           }
         },
         "ca" : {
@@ -1771,7 +1771,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Обяснете"
+            "value" : "Обясни"
           }
         },
         "ca" : {
@@ -2022,7 +2022,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Изследвайте темата"
+            "value" : "Изследвай темата"
           }
         },
         "ca" : {
@@ -2524,7 +2524,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Генериране на отчет"
+            "value" : "Генерирай отчет"
           }
         },
         "ca" : {
@@ -2554,7 +2554,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Δημιουργία Αναφοράς"
+            "value" : "Δημιουργία αναφοράς"
           }
         },
         "en" : {
@@ -2620,7 +2620,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Generiraj izvještaj"
+            "value" : "Generiraj izvješće"
           }
         },
         "hu" : {
@@ -2775,7 +2775,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Оценете"
+            "value" : "Оцени"
           }
         },
         "ca" : {
@@ -3026,7 +3026,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Маркирайте"
+            "value" : "Маркирай"
           }
         },
         "ca" : {
@@ -3277,7 +3277,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Слушайте"
+            "value" : "Слушай"
           }
         },
         "ca" : {
@@ -3307,7 +3307,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ακούστε"
+            "value" : "Ακρόαση"
           }
         },
         "en" : {
@@ -3528,7 +3528,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Завършете"
+            "value" : "Завърши"
           }
         },
         "ca" : {
@@ -3558,7 +3558,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Επισημάνετέ το ως ολοκληρωμένο"
+            "value" : "Σήμανση ως ολοκληρωμένο"
           }
         },
         "en" : {
@@ -3654,7 +3654,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Дайын деп белгілеу"
+            "value" : "Аяқталған деп белгілеу"
           }
         },
         "ko" : {
@@ -3732,7 +3732,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tamamlandı Olarak İşaretle"
+            "value" : "Tamamla"
           }
         },
         "uk" : {
@@ -3779,7 +3779,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Запомнете"
+            "value" : "Запомни"
           }
         },
         "ca" : {
@@ -4030,7 +4030,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Практикувайте"
+            "value" : "Практикувай"
           }
         },
         "ca" : {
@@ -4210,7 +4210,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Практиковаться"
+            "value" : "Тренироваться"
           }
         },
         "sk" : {
@@ -4240,7 +4240,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Практикуватися"
+            "value" : "Тренуватися"
           }
         },
         "vi" : {
@@ -4532,7 +4532,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Четете"
+            "value" : "Чети"
           }
         },
         "ca" : {
@@ -4562,7 +4562,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Διαβάστε"
+            "value" : "Ανάγνωση"
           }
         },
         "en" : {
@@ -4783,7 +4783,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Запишете отговора"
+            "value" : "Запиши отговора"
           }
         },
         "ca" : {
@@ -5034,7 +5034,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Повторете упражнението"
+            "value" : "Повтори упражнението"
           }
         },
         "ca" : {
@@ -5136,7 +5136,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gyakorlat Ismétlése"
+            "value" : "Gyakorlat ismétlése"
           }
         },
         "id" : {
@@ -5285,7 +5285,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Докладвайте грешки"
+            "value" : "Докладвай грешки"
           }
         },
         "ca" : {
@@ -5787,7 +5787,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Планирайте уроци"
+            "value" : "Планирай уроци"
           }
         },
         "ca" : {
@@ -6038,7 +6038,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Пропуснете глава"
+            "value" : "Пропусни глава"
           }
         },
         "ca" : {
@@ -6289,7 +6289,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Решете"
+            "value" : "Реши"
           }
         },
         "ca" : {
@@ -6540,7 +6540,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Започнете упражнение"
+            "value" : "Започни упражнение"
           }
         },
         "ca" : {
@@ -6570,7 +6570,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ξεκινήστε Άσκηση"
+            "value" : "Έναρξη άσκησης"
           }
         },
         "en" : {
@@ -6708,7 +6708,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Iniciar Exercício"
+            "value" : "Iniciar exercício"
           }
         },
         "ro" : {
@@ -6791,7 +6791,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Започнете урок"
+            "value" : "Започни урок"
           }
         },
         "ca" : {
@@ -6821,7 +6821,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ξεκινήστε Μάθημα"
+            "value" : "Έναρξη μαθήματος"
           }
         },
         "en" : {
@@ -6959,7 +6959,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Iniciar Aula"
+            "value" : "Iniciar aula"
           }
         },
         "ro" : {
@@ -7042,7 +7042,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Започнете урок с наставник"
+            "value" : "Започни урок с наставник"
           }
         },
         "ca" : {
@@ -7072,7 +7072,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Έναρξη Διδασκαλίας"
+            "value" : "Έναρξη διδασκαλίας"
           }
         },
         "en" : {
@@ -7293,7 +7293,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Учете"
+            "value" : "Учи"
           }
         },
         "ca" : {
@@ -7544,7 +7544,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Подайте отговор"
+            "value" : "Подай отговор"
           }
         },
         "ca" : {
@@ -7574,7 +7574,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Υποβάλετε Απάντηση"
+            "value" : "Υποβολή απάντησης"
           }
         },
         "en" : {
@@ -7795,7 +7795,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Записвайте бележки"
+            "value" : "Записвай бележки"
           }
         },
         "ca" : {
@@ -7825,7 +7825,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Κάντε Σημειώσεις"
+            "value" : "Λήψη σημειώσεων"
           }
         },
         "en" : {
@@ -7897,7 +7897,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Jegyzet Készítése"
+            "value" : "Jegyzetek készítése"
           }
         },
         "id" : {
@@ -8046,7 +8046,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Тествайте себе си"
+            "value" : "Тествай себе си"
           }
         },
         "ca" : {
@@ -8076,7 +8076,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Δοκιμάστε τον εαυτό σας"
+            "value" : "Αυτοαξιολόγηση"
           }
         },
         "en" : {
@@ -8214,7 +8214,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Teste-se"
+            "value" : "Testar-se"
           }
         },
         "ro" : {
@@ -8250,7 +8250,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kendinizi Test Edin"
+            "value" : "Test Et"
           }
         },
         "uk" : {
@@ -8297,7 +8297,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Проследете напредъка"
+            "value" : "Проследи напредъка"
           }
         },
         "ca" : {
@@ -8327,7 +8327,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Παρακολουθήστε την Πρόοδο"
+            "value" : "Παρακολούθηση προόδου"
           }
         },
         "en" : {
@@ -8465,7 +8465,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Acompanhar Progresso"
+            "value" : "Acompanhar progresso"
           }
         },
         "ro" : {
@@ -8548,7 +8548,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Преглед на напредъка"
+            "value" : "Виж напредъка"
           }
         },
         "ca" : {
@@ -8578,7 +8578,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Δείτε Πρόοδο"
+            "value" : "Προβολή προόδου"
           }
         },
         "en" : {
@@ -8799,7 +8799,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Напишете размишление"
+            "value" : "Напиши размишление"
           }
         },
         "ca" : {
@@ -8829,7 +8829,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Γράψτε Αναστοχασμό"
+            "value" : "Καταγραφή στοχασμού"
           }
         },
         "en" : {

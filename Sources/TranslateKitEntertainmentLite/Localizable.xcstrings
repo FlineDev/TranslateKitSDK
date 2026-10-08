@@ -13,7 +13,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавете в плейлист"
+            "value" : "Добави в плейлист"
           }
         },
         "ca" : {
@@ -109,7 +109,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dodaj na playlistu"
+            "value" : "Dodaj na popis za reprodukciju"
           }
         },
         "hu" : {
@@ -139,7 +139,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Плейлистке қосу"
+            "value" : "Тізімге қосу"
           }
         },
         "ko" : {
@@ -217,7 +217,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Oynatma Listesine Ekle"
+            "value" : "Çalma Listesine Ekle"
           }
         },
         "uk" : {
@@ -264,7 +264,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавете в опашката"
+            "value" : "Добави в опашката"
           }
         },
         "ca" : {
@@ -360,7 +360,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dodaj u red"
+            "value" : "Dodaj u red čekanja"
           }
         },
         "hu" : {
@@ -432,7 +432,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adicionar à Fila"
+            "value" : "Adicionar à fila"
           }
         },
         "ro" : {
@@ -450,7 +450,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pridať do poradia"
+            "value" : "Pridať do frontu"
           }
         },
         "sv" : {
@@ -515,7 +515,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Излъчвайте"
+            "value" : "Излъчвай"
           }
         },
         "ca" : {
@@ -766,7 +766,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Създайте плейлист"
+            "value" : "Създай плейлист"
           }
         },
         "ca" : {
@@ -1017,7 +1017,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Изтегляне за офлайн"
+            "value" : "Изтегли за офлайн"
           }
         },
         "ca" : {
@@ -1029,7 +1029,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stáhnout pro offline"
+            "value" : "Stáhnout pro použití offline"
           }
         },
         "da" : {
@@ -1113,7 +1113,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Preuzmi za offline"
+            "value" : "Preuzmi za izvanmrežni pristup"
           }
         },
         "hu" : {
@@ -1197,13 +1197,13 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Загрузить для офлайн-доступа"
+            "value" : "Загрузить для работы без подключения"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stiahnuť na používanie offline"
+            "value" : "Stiahnuť na offline použitie"
           }
         },
         "sv" : {
@@ -1227,7 +1227,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Завантажити для перегляду офлайн"
+            "value" : "Завантажити для офлайн-доступу"
           }
         },
         "vi" : {
@@ -1268,7 +1268,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Бързо превъртете напред"
+            "value" : "Бързо превърти напред"
           }
         },
         "ca" : {
@@ -1519,7 +1519,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Следвайте"
+            "value" : "Следвай"
           }
         },
         "ca" : {
@@ -1770,7 +1770,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Харесайте"
+            "value" : "Харесай"
           }
         },
         "ca" : {
@@ -2021,7 +2021,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Свържете"
+            "value" : "Свържи"
           }
         },
         "ca" : {
@@ -2272,7 +2272,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Повторение"
+            "value" : "Повтаряй"
           }
         },
         "ca" : {
@@ -2368,7 +2368,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Loop"
+            "value" : "Ponavljaj"
           }
         },
         "hu" : {
@@ -2476,7 +2476,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Döngü"
+            "value" : "Döngüye Al"
           }
         },
         "uk" : {
@@ -2523,7 +2523,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Закачете"
+            "value" : "Закачи"
           }
         },
         "ca" : {
@@ -2619,7 +2619,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zakvači"
+            "value" : "Prikvači"
           }
         },
         "hu" : {
@@ -3025,7 +3025,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Оценете"
+            "value" : "Оцени"
           }
         },
         "ca" : {
@@ -3276,7 +3276,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Оценете съдържанието"
+            "value" : "Оцени съдържанието"
           }
         },
         "ca" : {
@@ -3306,7 +3306,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Βαθμολογήστε το Περιεχόμενο"
+            "value" : "Βαθμολόγηση περιεχομένου"
           }
         },
         "en" : {
@@ -3527,7 +3527,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Препоръчайте"
+            "value" : "Препоръчай"
           }
         },
         "ca" : {
@@ -3557,7 +3557,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Προτείνετε"
+            "value" : "Σύσταση"
           }
         },
         "en" : {
@@ -4029,7 +4029,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Запишете видео"
+            "value" : "Запиши видео"
           }
         },
         "ca" : {
@@ -4041,7 +4041,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nahrávat video"
+            "value" : "Zaznamenat video"
           }
         },
         "da" : {
@@ -4059,7 +4059,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Καταγραφή Βίντεο"
+            "value" : "Εγγραφή βίντεο"
           }
         },
         "en" : {
@@ -4215,7 +4215,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nahrávať video"
+            "value" : "Nahrať video"
           }
         },
         "sv" : {
@@ -4280,7 +4280,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Премахване от опашката"
+            "value" : "Премахни от опашката"
           }
         },
         "ca" : {
@@ -4531,7 +4531,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Превъртете назад"
+            "value" : "Превърти назад"
           }
         },
         "ca" : {
@@ -4782,7 +4782,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "График"
+            "value" : "Насрочи"
           }
         },
         "ca" : {
@@ -5033,7 +5033,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Споделете история"
+            "value" : "Сподели история"
           }
         },
         "ca" : {
@@ -5063,7 +5063,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Μοιραστείτε Ιστορία"
+            "value" : "Κοινοποίηση ιστορίας"
           }
         },
         "en" : {
@@ -5237,7 +5237,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hikaye Paylaş"
+            "value" : "Hikayeyi Paylaş"
           }
         },
         "uk" : {
@@ -5284,7 +5284,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Разбъркване"
+            "value" : "Разбъркай"
           }
         },
         "ca" : {
@@ -5535,7 +5535,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Пропуснете интрото"
+            "value" : "Пропусни интрото"
           }
         },
         "ca" : {
@@ -5703,7 +5703,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saltar Introdução"
+            "value" : "Saltar introdução"
           }
         },
         "ro" : {
@@ -5715,7 +5715,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Пропустить заставку"
+            "value" : "Пропустить вступление"
           }
         },
         "sk" : {
@@ -5786,7 +5786,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Абониране"
+            "value" : "Абонирай се"
           }
         },
         "ca" : {
@@ -5954,7 +5954,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Assinar"
+            "value" : "Subscrever"
           }
         },
         "ro" : {
@@ -6037,7 +6037,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Подрежете видео"
+            "value" : "Подрежи видео"
           }
         },
         "ca" : {
@@ -6067,7 +6067,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Αποκοπή Βίντεο"
+            "value" : "Περικοπή βίντεο"
           }
         },
         "en" : {
@@ -6205,7 +6205,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cortar Vídeo"
+            "value" : "Cortar vídeo"
           }
         },
         "ro" : {
@@ -6288,7 +6288,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Отпишете се"
+            "value" : "Отпиши се"
           }
         },
         "ca" : {
@@ -6468,7 +6468,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Отменить подписку"
+            "value" : "Отписаться"
           }
         },
         "sk" : {
@@ -6539,7 +6539,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Не харесвайте"
+            "value" : "Премахни харесването"
           }
         },
         "ca" : {
@@ -6551,7 +6551,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Odebrat To se mi líbí"
+            "value" : "Zrušit To se mi líbí"
           }
         },
         "da" : {
@@ -6719,13 +6719,13 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Не нравится"
+            "value" : "Убрать отметку «Мне нравится»"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zrušiť Páči sa mi"
+            "value" : "Odznačiť"
           }
         },
         "sv" : {
@@ -6790,7 +6790,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Откачете"
+            "value" : "Откачи"
           }
         },
         "ca" : {
@@ -6802,7 +6802,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Odšpendlit"
+            "value" : "Odepnout"
           }
         },
         "da" : {
@@ -7041,7 +7041,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Гледайте"
+            "value" : "Гледай"
           }
         },
         "ca" : {
@@ -7221,7 +7221,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Смотреть"
+            "value" : "Наблюдать"
           }
         },
         "sk" : {
@@ -7292,7 +7292,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Гледайте по-късно"
+            "value" : "Гледай по-късно"
           }
         },
         "ca" : {

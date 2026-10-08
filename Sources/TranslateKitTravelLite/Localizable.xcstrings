@@ -13,7 +13,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Резервирайте"
+            "value" : "Резервирай"
           }
         },
         "ca" : {
@@ -264,7 +264,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Резервирайте сега"
+            "value" : "Резервирай сега"
           }
         },
         "ca" : {
@@ -515,7 +515,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Разгледайте"
+            "value" : "Разгледай"
           }
         },
         "ca" : {
@@ -766,7 +766,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Обадете се"
+            "value" : "Обади се"
           }
         },
         "ca" : {
@@ -1017,7 +1017,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Проверете статуса на полета"
+            "value" : "Провери статуса на полета"
           }
         },
         "ca" : {
@@ -1268,7 +1268,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Регистрирайте се"
+            "value" : "Регистрирай се"
           }
         },
         "ca" : {
@@ -1280,7 +1280,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Odbavit se"
+            "value" : "Označit účast"
           }
         },
         "da" : {
@@ -1454,7 +1454,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Odbaviť sa"
+            "value" : "Nahlásiť príchod"
           }
         },
         "sv" : {
@@ -1519,7 +1519,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Напуснете"
+            "value" : "Напусни"
           }
         },
         "ca" : {
@@ -1770,7 +1770,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сравнете"
+            "value" : "Сравни"
           }
         },
         "ca" : {
@@ -2021,7 +2021,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Изтеглете офлайн карта"
+            "value" : "Изтегли офлайн карта"
           }
         },
         "ca" : {
@@ -2272,7 +2272,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Изследвайте"
+            "value" : "Изследвай"
           }
         },
         "ca" : {
@@ -2523,7 +2523,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавете в любими"
+            "value" : "Добави в любими"
           }
         },
         "ca" : {
@@ -2774,7 +2774,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Филтрирайте резултати"
+            "value" : "Филтрирай резултати"
           }
         },
         "ca" : {
@@ -3025,7 +3025,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Намерете наблизо"
+            "value" : "Намери наблизо"
           }
         },
         "ca" : {
@@ -3055,7 +3055,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Βρείτε Κοντινά"
+            "value" : "Εύρεση κοντινών"
           }
         },
         "en" : {
@@ -3229,7 +3229,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yakındakileri Bul"
+            "value" : "Yakınları Bul"
           }
         },
         "uk" : {
@@ -3276,7 +3276,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Вземете упътвания"
+            "value" : "Вземи упътвания"
           }
         },
         "ca" : {
@@ -3306,7 +3306,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Πάρτε Οδηγίες"
+            "value" : "Λήψη οδηγιών"
           }
         },
         "en" : {
@@ -3378,7 +3378,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Útvonalterv"
+            "value" : "Útvonalterv kérése"
           }
         },
         "id" : {
@@ -3486,7 +3486,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Отримати напрямки"
+            "value" : "Отримати вказівки"
           }
         },
         "vi" : {
@@ -3527,7 +3527,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Навигирайте"
+            "value" : "Навигирай"
           }
         },
         "ca" : {
@@ -3707,7 +3707,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Навигация"
+            "value" : "Навигировать"
           }
         },
         "sk" : {
@@ -3737,7 +3737,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Навігація"
+            "value" : "Навігувати"
           }
         },
         "vi" : {
@@ -3778,7 +3778,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Планирайте пътуване"
+            "value" : "Планирай пътуване"
           }
         },
         "ca" : {
@@ -3808,7 +3808,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Σχεδιάστε ένα Ταξίδι"
+            "value" : "Σχεδιασμός ταξιδιού"
           }
         },
         "en" : {
@@ -4029,7 +4029,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Принтирайте билет"
+            "value" : "Принтирай билет"
           }
         },
         "ca" : {
@@ -4280,7 +4280,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Оценете"
+            "value" : "Оцени"
           }
         },
         "ca" : {
@@ -4310,7 +4310,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Βαθμολογήστε"
+            "value" : "Βαθμολόγηση"
           }
         },
         "en" : {
@@ -4448,7 +4448,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Avaliar"
+            "value" : "Classificar"
           }
         },
         "ro" : {
@@ -4531,7 +4531,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Резервирайте"
+            "value" : "Резервирай"
           }
         },
         "ca" : {
@@ -4633,7 +4633,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Foglalás"
+            "value" : "Asztalfoglalás"
           }
         },
         "id" : {
@@ -4657,7 +4657,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Брондау"
+            "value" : "Резервация жасау"
           }
         },
         "ko" : {
@@ -4782,7 +4782,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Резервирайте маса"
+            "value" : "Резервирай маса"
           }
         },
         "ca" : {
@@ -5033,7 +5033,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Резервирайте хотел"
+            "value" : "Резервирай хотел"
           }
         },
         "ca" : {
@@ -5284,7 +5284,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Оставете отзив"
+            "value" : "Остави отзив"
           }
         },
         "ca" : {
@@ -5314,7 +5314,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Κάντε κριτική"
+            "value" : "Κριτική"
           }
         },
         "en" : {
@@ -5535,7 +5535,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сканирайте"
+            "value" : "Сканирай"
           }
         },
         "ca" : {
@@ -5786,7 +5786,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сканирайте QR код"
+            "value" : "Сканирай QR код"
           }
         },
         "ca" : {
@@ -6037,7 +6037,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Споделете местоположение"
+            "value" : "Сподели местоположение"
           }
         },
         "ca" : {
@@ -6067,7 +6067,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Μοιραστείτε την τοποθεσία"
+            "value" : "Κοινοποίηση τοποθεσίας"
           }
         },
         "en" : {
@@ -6288,7 +6288,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Започнете навигация"
+            "value" : "Започни навигация"
           }
         },
         "ca" : {
@@ -6318,7 +6318,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ξεκινήστε Πλοήγηση"
+            "value" : "Έναρξη πλοήγησης"
           }
         },
         "en" : {
@@ -6539,7 +6539,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Проследете полета"
+            "value" : "Проследи полета"
           }
         },
         "ca" : {
@@ -6790,7 +6790,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Проследете поръчката"
+            "value" : "Проследи поръчката"
           }
         },
         "ca" : {
@@ -6820,7 +6820,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Παρακολουθήστε Παραγγελία"
+            "value" : "Παρακολούθηση παραγγελίας"
           }
         },
         "en" : {
@@ -6970,7 +6970,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Отслеживать заказ"
+            "value" : "Отследить заказ"
           }
         },
         "sk" : {
@@ -7041,7 +7041,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Проследете напредъка"
+            "value" : "Проследи напредъка"
           }
         },
         "ca" : {
@@ -7071,7 +7071,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Παρακολουθήστε την Πρόοδο"
+            "value" : "Παρακολούθηση προόδου"
           }
         },
         "en" : {
@@ -7167,7 +7167,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ілгерілеуді бақылау"
+            "value" : "Прогресті бақылау"
           }
         },
         "ko" : {
@@ -7209,7 +7209,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Acompanhar Progresso"
+            "value" : "Acompanhar progresso"
           }
         },
         "ro" : {
@@ -7292,7 +7292,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Преведете"
+            "value" : "Преведи"
           }
         },
         "ca" : {
@@ -7543,7 +7543,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Премахнете от любими"
+            "value" : "Премахни от любими"
           }
         },
         "ca" : {
@@ -7794,7 +7794,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Преглед на часовата прогноза"
+            "value" : "Виж часовата прогноза"
           }
         },
         "ca" : {
@@ -7824,7 +7824,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Δείτε Ωριαία Πρόγνωση"
+            "value" : "Προβολή ωριαίας πρόγνωσης"
           }
         },
         "en" : {
@@ -8045,7 +8045,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Преглед на обяви"
+            "value" : "Виж обявите"
           }
         },
         "ca" : {
@@ -8075,7 +8075,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Δείτε Καταχωρίσεις"
+            "value" : "Προβολή καταχωρίσεων"
           }
         },
         "en" : {
@@ -8255,7 +8255,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Переглянути списки"
+            "value" : "Переглянути пропозиції"
           }
         },
         "vi" : {
@@ -8296,7 +8296,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Преглед на седмичната прогноза"
+            "value" : "Виж седмичната прогноза"
           }
         },
         "ca" : {
@@ -8326,7 +8326,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Δείτε Εβδομαδιαία Πρόγνωση"
+            "value" : "Προβολή εβδομαδιαίας πρόγνωσης"
           }
         },
         "en" : {

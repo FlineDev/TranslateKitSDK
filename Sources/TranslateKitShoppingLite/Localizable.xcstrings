@@ -13,7 +13,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавете в количката"
+            "value" : "Добави в количката"
           }
         },
         "ca" : {
@@ -264,7 +264,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавете към Любими"
+            "value" : "Добави към Любими"
           }
         },
         "ca" : {
@@ -276,7 +276,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Přidat do oblíbených položek"
+            "value" : "Přidat do oblíbených"
           }
         },
         "da" : {
@@ -444,7 +444,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавить в Избранное"
+            "value" : "Добавить в избранное"
           }
         },
         "sk" : {
@@ -515,7 +515,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Приложете купон"
+            "value" : "Приложи купон"
           }
         },
         "ca" : {
@@ -545,7 +545,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εφαρμογή Κωδικού Έκπτωσης"
+            "value" : "Εφαρμογή κουπονιού"
           }
         },
         "en" : {
@@ -766,7 +766,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Приложете филтър"
+            "value" : "Приложи филтър"
           }
         },
         "ca" : {
@@ -796,7 +796,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εφαρμογή Φίλτρου"
+            "value" : "Εφαρμογή φίλτρου"
           }
         },
         "en" : {
@@ -1017,7 +1017,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Резервирайте сега"
+            "value" : "Резервирай сега"
           }
         },
         "ca" : {
@@ -1185,7 +1185,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reservar Agora"
+            "value" : "Reservar agora"
           }
         },
         "ro" : {
@@ -1268,7 +1268,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Купете"
+            "value" : "Купи"
           }
         },
         "ca" : {
@@ -1519,7 +1519,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Купете сега"
+            "value" : "Купи сега"
           }
         },
         "ca" : {
@@ -1549,7 +1549,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Αγορά Τώρα"
+            "value" : "Αγορά τώρα"
           }
         },
         "en" : {
@@ -1621,7 +1621,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Azonnali vásárlás"
+            "value" : "Vásárlás most"
           }
         },
         "id" : {
@@ -2021,7 +2021,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сравнете"
+            "value" : "Сравни"
           }
         },
         "ca" : {
@@ -2272,7 +2272,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сравнете цени"
+            "value" : "Сравни цени"
           }
         },
         "ca" : {
@@ -2523,7 +2523,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Намерете в магазина"
+            "value" : "Намери в магазина"
           }
         },
         "ca" : {
@@ -2553,7 +2553,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Βρείτε στο Κατάστημα"
+            "value" : "Εύρεση στο κατάστημα"
           }
         },
         "en" : {
@@ -2774,7 +2774,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Поръчайте сега"
+            "value" : "Поръчай сега"
           }
         },
         "ca" : {
@@ -3025,7 +3025,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Направете поръчка"
+            "value" : "Направи поръчка"
           }
         },
         "ca" : {
@@ -3055,7 +3055,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Καταχωρίστε παραγγελία"
+            "value" : "Καταχώριση παραγγελίας"
           }
         },
         "en" : {
@@ -3527,7 +3527,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Продължете към плащане"
+            "value" : "Продължи към плащане"
           }
         },
         "ca" : {
@@ -3557,7 +3557,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Προχωρήστε στην Ολοκλήρωση Παραγγελίας"
+            "value" : "Μετάβαση στο ταμείο"
           }
         },
         "en" : {
@@ -3629,7 +3629,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tovább a pénztárhoz"
+            "value" : "Tovább a fizetéshez"
           }
         },
         "id" : {
@@ -3778,7 +3778,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Оценете продукта"
+            "value" : "Оцени продукта"
           }
         },
         "ca" : {
@@ -4029,7 +4029,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Премахнете от количката"
+            "value" : "Премахни от количката"
           }
         },
         "ca" : {
@@ -4280,7 +4280,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Премахнете от списъка с желания"
+            "value" : "Премахни от списъка с желания"
           }
         },
         "ca" : {
@@ -4531,7 +4531,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Прегледайте покупката"
+            "value" : "Прегледай покупката"
           }
         },
         "ca" : {
@@ -4782,7 +4782,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Запазете за по-късно"
+            "value" : "Запази за по-късно"
           }
         },
         "ca" : {
@@ -4812,7 +4812,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Αποθήκευση για Αργότερα"
+            "value" : "Αποθήκευση για αργότερα"
           }
         },
         "en" : {
@@ -5033,7 +5033,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сканирайте"
+            "value" : "Сканирай"
           }
         },
         "ca" : {
@@ -5284,7 +5284,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сканирайте QR код"
+            "value" : "Сканирай QR код"
           }
         },
         "ca" : {
@@ -5488,7 +5488,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "QR Kodu Tara"
+            "value" : "QR Kodunu Tara"
           }
         },
         "uk" : {
@@ -5535,7 +5535,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Споделете"
+            "value" : "Сподели"
           }
         },
         "ca" : {
@@ -5786,7 +5786,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сортирайте по дата"
+            "value" : "Сортирай по дата"
           }
         },
         "ca" : {
@@ -6037,7 +6037,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Започнете пазаруване"
+            "value" : "Започни пазаруване"
           }
         },
         "ca" : {
@@ -6067,7 +6067,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ξεκινήστε Αγορές"
+            "value" : "Έναρξη αγορών"
           }
         },
         "en" : {
@@ -6288,7 +6288,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Абонирайте се"
+            "value" : "Абонирай се"
           }
         },
         "ca" : {
@@ -6540,7 +6540,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Абонирайте се и спести"
+            "value" : "Абонирай се и спести"
           }
         },
         "ca" : {
@@ -6570,7 +6570,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Κάντε εγγραφή και εξοικονομήστε"
+            "value" : "Εγγραφή και εξοικονόμηση"
           }
         },
         "en" : {
@@ -6791,7 +6791,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Проследете поръчката"
+            "value" : "Проследи поръчката"
           }
         },
         "ca" : {
@@ -6821,7 +6821,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Παρακολουθήστε Παραγγελία"
+            "value" : "Παρακολούθηση παραγγελίας"
           }
         },
         "en" : {
@@ -7042,7 +7042,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Преглед на количката"
+            "value" : "Виж количката"
           }
         },
         "ca" : {
@@ -7293,7 +7293,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Прегледайте детайли"
+            "value" : "Прегледай детайли"
           }
         },
         "ca" : {
@@ -7544,7 +7544,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Преглед на обяви"
+            "value" : "Виж обявите"
           }
         },
         "ca" : {
@@ -7574,7 +7574,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Προβολή Καταχωρίσεων"
+            "value" : "Προβολή καταχωρίσεων"
           }
         },
         "en" : {
@@ -7795,7 +7795,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Прегледайте отзивите"
+            "value" : "Прегледай отзивите"
           }
         },
         "ca" : {

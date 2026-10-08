@@ -13,7 +13,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавете анимация"
+            "value" : "Добави анимация"
           }
         },
         "ca" : {
@@ -264,7 +264,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавете рамка"
+            "value" : "Добави рамка"
           }
         },
         "ca" : {
@@ -515,7 +515,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавете надпис"
+            "value" : "Добави надпис"
           }
         },
         "ca" : {
@@ -766,7 +766,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавете ефекти"
+            "value" : "Добави ефекти"
           }
         },
         "ca" : {
@@ -1017,7 +1017,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавете етикети"
+            "value" : "Добави етикети"
           }
         },
         "ca" : {
@@ -1268,7 +1268,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавете текст"
+            "value" : "Добави текст"
           }
         },
         "ca" : {
@@ -1519,7 +1519,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавете в колекцията"
+            "value" : "Добави в колекцията"
           }
         },
         "ca" : {
@@ -1770,7 +1770,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавете към Любими"
+            "value" : "Добави към Любими"
           }
         },
         "ca" : {
@@ -1872,7 +1872,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hozzáadás a Kedvencekhez"
+            "value" : "Hozzáadás a kedvencekhez"
           }
         },
         "id" : {
@@ -1980,7 +1980,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Додати до колекції"
+            "value" : "Додати до вибраного"
           }
         },
         "vi" : {
@@ -2021,7 +2021,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавете в бързи действия"
+            "value" : "Добави в бързи действия"
           }
         },
         "ca" : {
@@ -2272,7 +2272,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Регулирайте непрозрачността"
+            "value" : "Регулирай непрозрачността"
           }
         },
         "ca" : {
@@ -2523,7 +2523,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Копирайте в клавиатурата"
+            "value" : "Копирай в клавиатурата"
           }
         },
         "ca" : {
@@ -2774,7 +2774,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Създайте пакет"
+            "value" : "Създай пакет"
           }
         },
         "ca" : {
@@ -3025,7 +3025,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Редактирайте стикер"
+            "value" : "Редактирай стикер"
           }
         },
         "ca" : {
@@ -3276,7 +3276,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Експортирайте пакет"
+            "value" : "Експортирай пакет"
           }
         },
         "ca" : {
@@ -3527,7 +3527,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Обърнете"
+            "value" : "Обърни"
           }
         },
         "ca" : {
@@ -3557,7 +3557,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Αναποδογυρίστε"
+            "value" : "Αναστροφή"
           }
         },
         "en" : {
@@ -3629,7 +3629,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Flip"
+            "value" : "Tükrözés"
           }
         },
         "id" : {
@@ -3653,7 +3653,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Айналдыру"
+            "value" : "Аудару"
           }
         },
         "ko" : {
@@ -3731,7 +3731,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Çevir"
+            "value" : "Ters Çevir"
           }
         },
         "uk" : {
@@ -3778,7 +3778,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Импортирайте пакет"
+            "value" : "Импортирай пакет"
           }
         },
         "ca" : {
@@ -4029,7 +4029,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Огледало"
+            "value" : "Огледално обърни"
           }
         },
         "ca" : {
@@ -4059,7 +4059,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Καθρέφτης"
+            "value" : "Καθρεφτισμός"
           }
         },
         "en" : {
@@ -4131,7 +4131,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tükör"
+            "value" : "Tükrözés"
           }
         },
         "id" : {
@@ -4155,7 +4155,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Айна жасау"
+            "value" : "Айнаға аудару"
           }
         },
         "ko" : {
@@ -4280,7 +4280,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Преглед на стикер"
+            "value" : "Прегледай стикера"
           }
         },
         "ca" : {
@@ -4531,7 +4531,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Бързо изпратете"
+            "value" : "Бързо изпрати"
           }
         },
         "ca" : {
@@ -4782,7 +4782,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Премахнете фона"
+            "value" : "Премахни фона"
           }
         },
         "ca" : {
@@ -5033,7 +5033,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Преоразмерете"
+            "value" : "Преоразмери"
           }
         },
         "ca" : {
@@ -5063,7 +5063,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Αλλαγή Μεγέθους"
+            "value" : "Αλλαγή μεγέθους"
           }
         },
         "en" : {
@@ -5284,7 +5284,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Завъртете"
+            "value" : "Завърти"
           }
         },
         "ca" : {
@@ -5535,7 +5535,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Запазете в Снимки"
+            "value" : "Запази в Снимки"
           }
         },
         "ca" : {
@@ -5565,7 +5565,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Αποθήκευση στις Φωτό"
+            "value" : "Αποθήκευση στις Φωτογραφίες"
           }
         },
         "en" : {
@@ -5631,7 +5631,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Spremi u Foto"
+            "value" : "Spremi u Fotografije"
           }
         },
         "hu" : {
@@ -5786,7 +5786,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Изпратете стикер"
+            "value" : "Изпрати стикер"
           }
         },
         "ca" : {

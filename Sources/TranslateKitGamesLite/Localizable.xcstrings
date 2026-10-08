@@ -13,7 +13,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Атакувайте"
+            "value" : "Атакувай"
           }
         },
         "ca" : {
@@ -515,7 +515,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Блокирайте играча"
+            "value" : "Блокирай играча"
           }
         },
         "ca" : {
@@ -1017,7 +1017,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Заявете"
+            "value" : "Заяви"
           }
         },
         "ca" : {
@@ -1268,7 +1268,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Съберете"
+            "value" : "Събери"
           }
         },
         "ca" : {
@@ -1519,7 +1519,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Защитете"
+            "value" : "Защити"
           }
         },
         "ca" : {
@@ -1770,7 +1770,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Екипирайте предмет"
+            "value" : "Екипирай предмет"
           }
         },
         "ca" : {
@@ -2021,7 +2021,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Борете се"
+            "value" : "Бори се"
           }
         },
         "ca" : {
@@ -2272,7 +2272,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Намерете противник"
+            "value" : "Намери противник"
           }
         },
         "ca" : {
@@ -2302,7 +2302,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Βρείτε Αντίπαλο"
+            "value" : "Εύρεση αντιπάλου"
           }
         },
         "en" : {
@@ -2523,7 +2523,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Откажете се"
+            "value" : "Откажи се"
           }
         },
         "ca" : {
@@ -2774,7 +2774,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Поканете"
+            "value" : "Покани"
           }
         },
         "ca" : {
@@ -3025,7 +3025,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Присъединете се"
+            "value" : "Присъедини се"
           }
         },
         "ca" : {
@@ -3055,7 +3055,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Είσοδος"
+            "value" : "Συμμετοχή"
           }
         },
         "en" : {
@@ -3193,7 +3193,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrar"
+            "value" : "Aderir"
           }
         },
         "ro" : {
@@ -3276,7 +3276,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Присъединете се към предизвикателство"
+            "value" : "Присъедини се към предизвикателство"
           }
         },
         "ca" : {
@@ -3402,7 +3402,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сынаққа қосылу"
+            "value" : "Челленджге қосылу"
           }
         },
         "ko" : {
@@ -3456,7 +3456,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Присоединиться к вызову"
+            "value" : "Присоединиться к челленджу"
           }
         },
         "sk" : {
@@ -3480,7 +3480,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Müsabakaya Katıl"
+            "value" : "Meydan Okumaya Katıl"
           }
         },
         "uk" : {
@@ -3527,7 +3527,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Присъединете се към мач"
+            "value" : "Присъедини се към мач"
           }
         },
         "ca" : {
@@ -3778,7 +3778,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Повишете нивото"
+            "value" : "Повиши нивото"
           }
         },
         "ca" : {
@@ -4280,7 +4280,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Играйте сега"
+            "value" : "Играй сега"
           }
         },
         "ca" : {
@@ -4310,7 +4310,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Παίξτε τώρα"
+            "value" : "Παιχνίδι τώρα"
           }
         },
         "en" : {
@@ -4531,7 +4531,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Практикувайте"
+            "value" : "Практикувай"
           }
         },
         "ca" : {
@@ -5033,7 +5033,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Докладвайте играч"
+            "value" : "Докладвай играч"
           }
         },
         "ca" : {
@@ -5284,7 +5284,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Възродете се"
+            "value" : "Възроди се"
           }
         },
         "ca" : {
@@ -5786,7 +5786,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Продължете"
+            "value" : "Продължи"
           }
         },
         "ca" : {
@@ -6037,7 +6037,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Пропуснете интрото"
+            "value" : "Пропусни интрото"
           }
         },
         "ca" : {
@@ -6205,7 +6205,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saltar Introdução"
+            "value" : "Saltar introdução"
           }
         },
         "ro" : {
@@ -6288,7 +6288,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Пропуснете урока"
+            "value" : "Пропусни урока"
           }
         },
         "ca" : {
@@ -6539,7 +6539,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Следете"
+            "value" : "Следи"
           }
         },
         "ca" : {
@@ -6790,7 +6790,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Предайте се"
+            "value" : "Предай се"
           }
         },
         "ca" : {
@@ -7041,7 +7041,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Проследете напредъка"
+            "value" : "Проследи напредъка"
           }
         },
         "ca" : {
@@ -7071,7 +7071,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Παρακολουθήστε την Πρόοδο"
+            "value" : "Παρακολούθηση προόδου"
           }
         },
         "en" : {
@@ -7209,7 +7209,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Acompanhar Progresso"
+            "value" : "Acompanhar progresso"
           }
         },
         "ro" : {
@@ -7292,7 +7292,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Тренирайте"
+            "value" : "Тренирай"
           }
         },
         "ca" : {
@@ -7794,7 +7794,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Надградете"
+            "value" : "Надгради"
           }
         },
         "ca" : {
@@ -8045,7 +8045,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Използвайте бонус"
+            "value" : "Използвай бонус"
           }
         },
         "ca" : {
@@ -8075,7 +8075,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Χρησιμοποιήστε Power-Up"
+            "value" : "Χρήση Power-Up"
           }
         },
         "en" : {
@@ -8296,7 +8296,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Гледайте"
+            "value" : "Гледай"
           }
         },
         "ca" : {
@@ -8464,7 +8464,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Assistir"
+            "value" : "Ver"
           }
         },
         "ro" : {

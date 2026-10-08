@@ -13,7 +13,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавете резултат"
+            "value" : "Добави резултат"
           }
         },
         "ca" : {
@@ -264,7 +264,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавете член на отбора"
+            "value" : "Добави член на отбора"
           }
         },
         "ca" : {
@@ -515,7 +515,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Регистрирайте се"
+            "value" : "Регистрирай се"
           }
         },
         "ca" : {
@@ -545,7 +545,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Κάντε check-in"
+            "value" : "Check-in"
           }
         },
         "en" : {
@@ -766,7 +766,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сравнете статистики"
+            "value" : "Сравни статистики"
           }
         },
         "ca" : {
@@ -1017,7 +1017,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Създайте турнир"
+            "value" : "Създай турнир"
           }
         },
         "ca" : {
@@ -1268,7 +1268,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Приключете играта"
+            "value" : "Приключи играта"
           }
         },
         "ca" : {
@@ -1519,7 +1519,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Експортирайте статистики"
+            "value" : "Експортирай статистики"
           }
         },
         "ca" : {
@@ -1770,7 +1770,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Следвайте отбора"
+            "value" : "Следвай отбора"
           }
         },
         "ca" : {
@@ -1800,7 +1800,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ακολουθήστε Ομάδα"
+            "value" : "Ακολούθηση ομάδας"
           }
         },
         "en" : {
@@ -2021,7 +2021,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Генерирайте отчет"
+            "value" : "Генерирай отчет"
           }
         },
         "ca" : {
@@ -2051,7 +2051,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Δημιουργία Αναφοράς"
+            "value" : "Δημιουργία αναφοράς"
           }
         },
         "en" : {
@@ -2272,7 +2272,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Поканете играчи"
+            "value" : "Покани играчи"
           }
         },
         "ca" : {
@@ -2523,7 +2523,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Присъединете се към събитието"
+            "value" : "Присъедини се към събитието"
           }
         },
         "ca" : {
@@ -2774,7 +2774,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Присъединете се към лигата"
+            "value" : "Присъедини се към лигата"
           }
         },
         "ca" : {
@@ -3025,7 +3025,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Присъединете се към отбора"
+            "value" : "Присъедини се към отбора"
           }
         },
         "ca" : {
@@ -3276,7 +3276,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Управлявайте отбора"
+            "value" : "Управлявай отбора"
           }
         },
         "ca" : {
@@ -3527,7 +3527,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Публикувайте обновление"
+            "value" : "Публикувай обновление"
           }
         },
         "ca" : {
@@ -3778,7 +3778,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Оценете играча"
+            "value" : "Оцени играча"
           }
         },
         "ca" : {
@@ -4280,7 +4280,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Регистрирайте отбора"
+            "value" : "Регистрирай отбора"
           }
         },
         "ca" : {
@@ -4531,7 +4531,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Възобновете играта"
+            "value" : "Възобнови играта"
           }
         },
         "ca" : {
@@ -4782,7 +4782,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Запазете играта"
+            "value" : "Запази играта"
           }
         },
         "ca" : {
@@ -5033,7 +5033,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Планирайте мач"
+            "value" : "Планирай мач"
           }
         },
         "ca" : {
@@ -5284,7 +5284,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Задайте цел"
+            "value" : "Задай цел"
           }
         },
         "ca" : {
@@ -5314,7 +5314,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ορίστε Στόχο"
+            "value" : "Ορισμός στόχου"
           }
         },
         "en" : {
@@ -5452,7 +5452,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Definir Objetivo"
+            "value" : "Definir objetivo"
           }
         },
         "ro" : {
@@ -5535,7 +5535,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Споделете акцент"
+            "value" : "Сподели акцент"
           }
         },
         "ca" : {
@@ -5786,7 +5786,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Започнете игра"
+            "value" : "Започни игра"
           }
         },
         "ca" : {
@@ -5816,7 +5816,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ξεκινήστε Παιχνίδι"
+            "value" : "Έναρξη παιχνιδιού"
           }
         },
         "en" : {
@@ -6037,7 +6037,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Подайте резултата"
+            "value" : "Подай резултата"
           }
         },
         "ca" : {
@@ -6288,7 +6288,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Синхронизирайте данните"
+            "value" : "Синхронизирай данните"
           }
         },
         "ca" : {
@@ -6539,7 +6539,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Следете"
+            "value" : "Следи"
           }
         },
         "ca" : {
@@ -6569,7 +6569,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Παρακολουθήστε"
+            "value" : "Παρακολούθηση"
           }
         },
         "en" : {
@@ -6665,7 +6665,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Қадағалау"
+            "value" : "Бақылау"
           }
         },
         "ko" : {
@@ -6790,7 +6790,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Проследете представянето"
+            "value" : "Проследи представянето"
           }
         },
         "ca" : {
@@ -7041,7 +7041,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Отпишете се"
+            "value" : "Отпиши се"
           }
         },
         "ca" : {
@@ -7071,7 +7071,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Κατάργηση παρακολούθησης"
+            "value" : "Κατάργηση ακολούθησης"
           }
         },
         "en" : {
@@ -7221,7 +7221,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Перестать следить"
+            "value" : "Отписаться"
           }
         },
         "sk" : {
@@ -7292,7 +7292,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Актуализирайте профила"
+            "value" : "Актуализирай профила"
           }
         },
         "ca" : {
@@ -7543,7 +7543,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Прегледайте класацията"
+            "value" : "Прегледай класацията"
           }
         },
         "ca" : {
@@ -7794,7 +7794,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Прегледайте разписанието"
+            "value" : "Прегледай разписанието"
           }
         },
         "ca" : {
@@ -8045,7 +8045,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Прегледайте статистиките"
+            "value" : "Прегледай статистиките"
           }
         },
         "ca" : {
@@ -8296,7 +8296,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Гледайте на живо"
+            "value" : "Гледай на живо"
           }
         },
         "ca" : {
@@ -8547,7 +8547,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Гледайте повторение"
+            "value" : "Гледай повторение"
           }
         },
         "ca" : {

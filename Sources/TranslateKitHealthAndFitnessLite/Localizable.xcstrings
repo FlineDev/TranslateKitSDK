@@ -4045,7 +4045,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавете измерване"
+            "value" : "Добави измерване"
           }
         },
         "ca" : {
@@ -4296,7 +4296,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавете снимка"
+            "value" : "Добави снимка"
           }
         },
         "ca" : {
@@ -4547,7 +4547,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавете тренировка"
+            "value" : "Добави тренировка"
           }
         },
         "ca" : {
@@ -4798,7 +4798,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Започнете тренировка"
+            "value" : "Започни тренировка"
           }
         },
         "ca" : {
@@ -5049,7 +5049,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Отменете тренировката"
+            "value" : "Отмени тренировката"
           }
         },
         "ca" : {
@@ -5300,7 +5300,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Приключете"
+            "value" : "Завърши"
           }
         },
         "ca" : {
@@ -5402,7 +5402,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Teljesítve"
+            "value" : "Befejezés"
           }
         },
         "id" : {
@@ -5468,7 +5468,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Concluído"
+            "value" : "Concluir"
           }
         },
         "ro" : {
@@ -5510,7 +5510,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Виконано"
+            "value" : "Завершити"
           }
         },
         "vi" : {
@@ -5551,7 +5551,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Създайте задача"
+            "value" : "Създай задача"
           }
         },
         "ca" : {
@@ -5802,7 +5802,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Приключете упражнението"
+            "value" : "Приключи упражнението"
           }
         },
         "ca" : {
@@ -6053,7 +6053,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Приключете тренировката"
+            "value" : "Приключи тренировката"
           }
         },
         "ca" : {
@@ -6304,7 +6304,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведете тегло"
+            "value" : "Въведи тегло"
           }
         },
         "ca" : {
@@ -6555,7 +6555,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Генериране на отчет"
+            "value" : "Генерирай отчет"
           }
         },
         "ca" : {
@@ -6585,7 +6585,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Δημιουργία Αναφοράς"
+            "value" : "Δημιουργία αναφοράς"
           }
         },
         "en" : {
@@ -6651,7 +6651,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Generiraj izvještaj"
+            "value" : "Generiraj izvješće"
           }
         },
         "hu" : {
@@ -6806,7 +6806,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Присъединете се към предизвикателство"
+            "value" : "Присъедини се към предизвикателство"
           }
         },
         "ca" : {
@@ -7057,7 +7057,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Записване на хранене"
+            "value" : "Запиши хранене"
           }
         },
         "ca" : {
@@ -7308,7 +7308,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Запишете вода"
+            "value" : "Запиши вода"
           }
         },
         "ca" : {
@@ -7559,7 +7559,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Завършете"
+            "value" : "Завърши"
           }
         },
         "ca" : {
@@ -7661,7 +7661,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Megjelölés késznek"
+            "value" : "Késznek jelölés"
           }
         },
         "id" : {
@@ -7810,7 +7810,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Измерете"
+            "value" : "Измери"
           }
         },
         "ca" : {
@@ -7822,7 +7822,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Změřit"
+            "value" : "Měřit"
           }
         },
         "da" : {
@@ -8061,7 +8061,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Медитирайте"
+            "value" : "Медитирай"
           }
         },
         "ca" : {
@@ -8163,7 +8163,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Meditálás kezdése"
+            "value" : "Meditáció indítása"
           }
         },
         "id" : {
@@ -8312,7 +8312,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Наблюдавайте"
+            "value" : "Наблюдавай"
           }
         },
         "ca" : {
@@ -8438,7 +8438,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Мониторинг жасау"
+            "value" : "Бақылау"
           }
         },
         "ko" : {
@@ -8498,7 +8498,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Monitorovať"
+            "value" : "Sledovať"
           }
         },
         "sv" : {
@@ -9065,7 +9065,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Повторете упражнението"
+            "value" : "Повтори упражнението"
           }
         },
         "ca" : {
@@ -9233,7 +9233,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Repetir Exercício"
+            "value" : "Repetir exercício"
           }
         },
         "ro" : {
@@ -9316,7 +9316,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Докладвайте проблем"
+            "value" : "Докладвай проблем"
           }
         },
         "ca" : {
@@ -9346,7 +9346,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Αναφορά Προβλήματος"
+            "value" : "Αναφορά προβλήματος"
           }
         },
         "en" : {
@@ -9567,7 +9567,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Поискайте достъп"
+            "value" : "Поискай достъп"
           }
         },
         "ca" : {
@@ -9597,7 +9597,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ζήτηση Πρόσβασης"
+            "value" : "Αίτημα πρόσβασης"
           }
         },
         "en" : {
@@ -9818,7 +9818,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Нулирайте напредъка"
+            "value" : "Нулирай напредъка"
           }
         },
         "ca" : {
@@ -10069,7 +10069,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Възобновяване на тренировката"
+            "value" : "Възобнови тренировката"
           }
         },
         "ca" : {
@@ -10320,7 +10320,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Преглед на напредъка"
+            "value" : "Прегледай напредъка"
           }
         },
         "ca" : {
@@ -10571,7 +10571,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Запазете видео"
+            "value" : "Запази видео"
           }
         },
         "ca" : {
@@ -10739,7 +10739,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Guardar Vídeo"
+            "value" : "Guardar vídeo"
           }
         },
         "ro" : {
@@ -10822,7 +10822,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Задайте цел"
+            "value" : "Задай цел"
           }
         },
         "ca" : {
@@ -10852,7 +10852,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ορίστε στόχο"
+            "value" : "Ορισμός στόχου"
           }
         },
         "en" : {
@@ -10990,7 +10990,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Definir Objetivo"
+            "value" : "Definir objetivo"
           }
         },
         "ro" : {
@@ -11073,7 +11073,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Задайте напомняне"
+            "value" : "Задай напомняне"
           }
         },
         "ca" : {
@@ -11103,7 +11103,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ορίστε Υπενθύμιση"
+            "value" : "Ορισμός υπενθύμισης"
           }
         },
         "en" : {
@@ -11199,7 +11199,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Еске салуды орнату"
+            "value" : "Еске салу орнату"
           }
         },
         "ko" : {
@@ -11324,7 +11324,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Пропуснете упражнението"
+            "value" : "Пропусни упражнението"
           }
         },
         "ca" : {
@@ -11575,7 +11575,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Започнете упражнение"
+            "value" : "Започни упражнение"
           }
         },
         "ca" : {
@@ -11605,7 +11605,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ξεκινήστε Άσκηση"
+            "value" : "Έναρξη άσκησης"
           }
         },
         "en" : {
@@ -11743,7 +11743,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Iniciar Exercício"
+            "value" : "Iniciar exercício"
           }
         },
         "ro" : {
@@ -11826,7 +11826,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Започнете тренировка"
+            "value" : "Започни тренировка"
           }
         },
         "ca" : {
@@ -11856,7 +11856,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ξεκινήστε Προπόνηση"
+            "value" : "Έναρξη προπόνησης"
           }
         },
         "en" : {
@@ -12077,7 +12077,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Спрете упражнението"
+            "value" : "Спри упражнението"
           }
         },
         "ca" : {
@@ -12328,7 +12328,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Проследете калориите"
+            "value" : "Проследи калориите"
           }
         },
         "ca" : {
@@ -12358,7 +12358,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Παρακολουθήστε Θερμίδες"
+            "value" : "Παρακολούθηση θερμίδων"
           }
         },
         "en" : {
@@ -12579,7 +12579,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Проследете съня"
+            "value" : "Проследи съня"
           }
         },
         "ca" : {
@@ -12830,7 +12830,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Проследяване на теглото"
+            "value" : "Следи теглото"
           }
         },
         "ca" : {
