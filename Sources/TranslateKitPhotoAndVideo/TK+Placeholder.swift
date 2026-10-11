@@ -6,7 +6,7 @@ extension TK.Placeholder {
    public static var addCaptionDots: String {
       String(
          localized: "TK.Placeholder.addCaptionDots",
-         defaultValue: "Add caption...",
+         defaultValue: "Add caption…",
          bundle: .module,
          comment: "Placeholder for adding a caption to an image or video"
       )
@@ -16,7 +16,7 @@ extension TK.Placeholder {
    public static var addPhotoDescriptionDots: String {
       String(
          localized: "TK.Placeholder.addPhotoDescriptionDots",
-         defaultValue: "Add photo description...",
+         defaultValue: "Add photo description…",
          bundle: .module,
          comment: "Placeholder for adding a description to a photo"
       )
@@ -26,7 +26,7 @@ extension TK.Placeholder {
    public static var addTagsDots: String {
       String(
          localized: "TK.Placeholder.addTagsDots",
-         defaultValue: "Add tags...",
+         defaultValue: "Add tags…",
          bundle: .module,
          comment: "Placeholder for adding tags to an image or video"
       )
@@ -36,7 +36,7 @@ extension TK.Placeholder {
    public static var addVideoTitleDots: String {
       String(
          localized: "TK.Placeholder.addVideoTitleDots",
-         defaultValue: "Add video title...",
+         defaultValue: "Add video title…",
          bundle: .module,
          comment: "Placeholder for adding a title to a video"
       )
@@ -46,7 +46,7 @@ extension TK.Placeholder {
    public static var adjustingColorsDots: String {
       String(
          localized: "TK.Placeholder.adjustingColorsDots",
-         defaultValue: "Adjusting colors...",
+         defaultValue: "Adjusting colors…",
          bundle: .module,
          comment: "Placeholder when adjusting color settings"
       )
@@ -56,7 +56,7 @@ extension TK.Placeholder {
    public static var adjustingExposureDots: String {
       String(
          localized: "TK.Placeholder.adjustingExposureDots",
-         defaultValue: "Adjusting exposure...",
+         defaultValue: "Adjusting exposure…",
          bundle: .module,
          comment: "Placeholder when adjusting exposure settings"
       )
@@ -66,7 +66,7 @@ extension TK.Placeholder {
    public static var analyzingImageDots: String {
       String(
          localized: "TK.Placeholder.analyzingImageDots",
-         defaultValue: "Analyzing image...",
+         defaultValue: "Analyzing image…",
          bundle: .module,
          comment: "Placeholder when analyzing an image"
       )
@@ -76,7 +76,7 @@ extension TK.Placeholder {
    public static var applyingFiltersDots: String {
       String(
          localized: "TK.Placeholder.applyingFiltersDots",
-         defaultValue: "Applying filters...",
+         defaultValue: "Applying filters…",
          bundle: .module,
          comment: "Placeholder when applying filters to an image or video"
       )
@@ -86,7 +86,7 @@ extension TK.Placeholder {
    public static var creatingPreviewDots: String {
       String(
          localized: "TK.Placeholder.creatingPreviewDots",
-         defaultValue: "Creating preview...",
+         defaultValue: "Creating preview…",
          bundle: .module,
          comment: "Placeholder when creating a preview of the media"
       )
@@ -96,7 +96,7 @@ extension TK.Placeholder {
    public static var enterAlbumNameDots: String {
       String(
          localized: "TK.Placeholder.enterAlbumNameDots",
-         defaultValue: "Enter album name...",
+         defaultValue: "Enter album name…",
          bundle: .module,
          comment: "Placeholder for entering an album name"
       )
@@ -106,7 +106,7 @@ extension TK.Placeholder {
    public static var enterDescriptionDots: String {
       String(
          localized: "TK.Placeholder.enterDescriptionDots",
-         defaultValue: "Enter description...",
+         defaultValue: "Enter description…",
          bundle: .module,
          comment: "Placeholder for entering a description"
       )
@@ -116,7 +116,7 @@ extension TK.Placeholder {
    public static var exportingVideoDots: String {
       String(
          localized: "TK.Placeholder.exportingVideoDots",
-         defaultValue: "Exporting video...",
+         defaultValue: "Exporting video…",
          bundle: .module,
          comment: "Placeholder when exporting a video"
       )
@@ -126,7 +126,7 @@ extension TK.Placeholder {
    public static var generatingPreviewDots: String {
       String(
          localized: "TK.Placeholder.generatingPreviewDots",
-         defaultValue: "Generating preview...",
+         defaultValue: "Generating preview…",
          bundle: .module,
          comment: "Placeholder when generating a preview of media"
       )
@@ -136,7 +136,7 @@ extension TK.Placeholder {
    public static var loadingFiltersDots: String {
       String(
          localized: "TK.Placeholder.loadingFiltersDots",
-         defaultValue: "Loading filters...",
+         defaultValue: "Loading filters…",
          bundle: .module,
          comment: "Placeholder when loading filters for an image or video"
       )
@@ -146,7 +146,7 @@ extension TK.Placeholder {
    public static var processingImageDots: String {
       String(
          localized: "TK.Placeholder.processingImageDots",
-         defaultValue: "Processing image...",
+         defaultValue: "Processing image…",
          bundle: .module,
          comment: "Placeholder when processing an image"
       )
@@ -156,7 +156,7 @@ extension TK.Placeholder {
    public static var processingVideoDots: String {
       String(
          localized: "TK.Placeholder.processingVideoDots",
-         defaultValue: "Processing video...",
+         defaultValue: "Processing video…",
          bundle: .module,
          comment: "Placeholder when processing a video"
       )
@@ -166,7 +166,7 @@ extension TK.Placeholder {
    public static var renderingEffectsDots: String {
       String(
          localized: "TK.Placeholder.renderingEffectsDots",
-         defaultValue: "Rendering effects...",
+         defaultValue: "Rendering effects…",
          bundle: .module,
          comment: "Placeholder when rendering effects for an image or video"
       )
@@ -176,7 +176,7 @@ extension TK.Placeholder {
    public static var renderingPreviewDots: String {
       String(
          localized: "TK.Placeholder.renderingPreviewDots",
-         defaultValue: "Rendering preview...",
+         defaultValue: "Rendering preview…",
          bundle: .module,
          comment: "Placeholder when rendering a preview of media"
       )
@@ -186,7 +186,7 @@ extension TK.Placeholder {
    public static var searchMediaDots: String {
       String(
          localized: "TK.Placeholder.searchMediaDots",
-         defaultValue: "Search media...",
+         defaultValue: "Search media…",
          bundle: .module,
          comment: "Placeholder for searching through media"
       )
@@ -196,7 +196,7 @@ extension TK.Placeholder {
    public static var trimmingVideoDots: String {
       String(
          localized: "TK.Placeholder.trimmingVideoDots",
-         defaultValue: "Trimming video...",
+         defaultValue: "Trimming video…",
          bundle: .module,
          comment: "Placeholder when trimming a video"
       )

@@ -187,7 +187,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Arhivează"
+            "value" : "Arhivați"
           }
         },
         "ru" : {
@@ -264,7 +264,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Отбележи"
+            "value" : "Отметка"
           }
         },
         "ca" : {
@@ -294,7 +294,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Προσθήκη σελιδοδείκτη"
+            "value" : "Σελιδοδείκτης"
           }
         },
         "en" : {
@@ -438,7 +438,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adaugă semn de carte"
+            "value" : "Marcaj"
           }
         },
         "ru" : {
@@ -468,13 +468,13 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yer İşaretlerine Ekle"
+            "value" : "Yer İşareti"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Додати до закладок"
+            "value" : "Закладка"
           }
         },
         "vi" : {
@@ -689,7 +689,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Urmărește"
+            "value" : "Urmăriți"
           }
         },
         "ru" : {
@@ -796,7 +796,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Άκου"
+            "value" : "Ακρόαση"
           }
         },
         "en" : {
@@ -940,7 +940,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ascultă"
+            "value" : "Ascultați"
           }
         },
         "ru" : {
@@ -1047,7 +1047,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Άκου το άρθρο"
+            "value" : "Ακρόαση άρθρου"
           }
         },
         "en" : {
@@ -1191,7 +1191,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ascultă articolul"
+            "value" : "Ascultați articolul"
           }
         },
         "ru" : {
@@ -1442,7 +1442,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Deschide în browser"
+            "value" : "Deschideți în browser"
           }
         },
         "ru" : {
@@ -1693,7 +1693,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Publică"
+            "value" : "Publicați"
           }
         },
         "ru" : {
@@ -1944,7 +1944,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tipărește"
+            "value" : "Tipăriți"
           }
         },
         "ru" : {
@@ -2051,7 +2051,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Διάβασε το άρθρο"
+            "value" : "Ανάγνωση άρθρου"
           }
         },
         "en" : {
@@ -2195,7 +2195,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Citește articolul"
+            "value" : "Citiți articolul"
           }
         },
         "ru" : {
@@ -2302,7 +2302,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Διάβασε αργότερα"
+            "value" : "Ανάγνωση αργότερα"
           }
         },
         "en" : {
@@ -2446,7 +2446,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Citește mai târziu"
+            "value" : "Citiți mai târziu"
           }
         },
         "ru" : {
@@ -2458,7 +2458,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Prečítaj neskôr"
+            "value" : "Prečítať neskôr"
           }
         },
         "sv" : {
@@ -2523,7 +2523,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Прочети сега"
+            "value" : "Чети сега"
           }
         },
         "ca" : {
@@ -2553,7 +2553,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Διάβασε τώρα"
+            "value" : "Ανάγνωση τώρα"
           }
         },
         "en" : {
@@ -2697,7 +2697,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Citește acum"
+            "value" : "Citiți acum"
           }
         },
         "ru" : {
@@ -2709,7 +2709,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Prečítaj teraz"
+            "value" : "Prečítať teraz"
           }
         },
         "sv" : {
@@ -2948,7 +2948,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Raportează conținut"
+            "value" : "Raportați conținut"
           }
         },
         "ru" : {
@@ -3151,7 +3151,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Қате туралы хабарлау"
+            "value" : "Мәселені хабарлау"
           }
         },
         "ko" : {
@@ -3199,7 +3199,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Raportează o problemă"
+            "value" : "Raportați o problemă"
           }
         },
         "ru" : {
@@ -3450,7 +3450,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Salvează articolul"
+            "value" : "Salvați articolul"
           }
         },
         "ru" : {
@@ -3701,7 +3701,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Salvează pentru mai târziu"
+            "value" : "Salvați pentru mai târziu"
           }
         },
         "ru" : {
@@ -3808,7 +3808,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Μοιράσου έγγραφο"
+            "value" : "Κοινή χρήση εγγράφου"
           }
         },
         "en" : {
@@ -3904,7 +3904,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Құжатты бөлісу"
+            "value" : "Құжатпен бөлісу"
           }
         },
         "ko" : {
@@ -3952,7 +3952,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Partajează documentul"
+            "value" : "Partajați documentul"
           }
         },
         "ru" : {
@@ -4059,7 +4059,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Μοιράσου ιστορία"
+            "value" : "Κοινή χρήση ιστορίας"
           }
         },
         "en" : {
@@ -4155,7 +4155,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Жаңалықты бөлісу"
+            "value" : "Әңгімені бөлісу"
           }
         },
         "ko" : {
@@ -4203,7 +4203,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Partajează povestea"
+            "value" : "Partajați povestea"
           }
         },
         "ru" : {
@@ -4454,7 +4454,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abonează-te"
+            "value" : "Abonați-vă"
           }
         },
         "ru" : {
@@ -4705,7 +4705,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rezumă"
+            "value" : "Rezumați"
           }
         },
         "ru" : {
@@ -4956,7 +4956,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tradu"
+            "value" : "Traduceți"
           }
         },
         "ru" : {
@@ -5207,7 +5207,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nu mai urmări"
+            "value" : "Nu mai urmăriți"
           }
         },
         "ru" : {
@@ -5458,7 +5458,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dezabonează‑te"
+            "value" : "Dezabonați-vă"
           }
         },
         "ru" : {
@@ -5565,7 +5565,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Δες τις έκτακτες ειδήσεις"
+            "value" : "Προβολή έκτακτων ειδήσεων"
           }
         },
         "en" : {
@@ -5709,7 +5709,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vezi știrile de ultimă oră"
+            "value" : "Vedeți știrile de ultimă oră"
           }
         },
         "ru" : {
@@ -14574,7 +14574,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Статията беше добавена към твоите отметки."
+            "value" : "Статията беше добавена към Вашите отметки."
           }
         },
         "ca" : {
@@ -14586,7 +14586,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Článek byl přidán do tvých záložek."
+            "value" : "Článek byl přidán do vašich záložek."
           }
         },
         "da" : {
@@ -14670,13 +14670,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Članak je dodan u tvoje oznake."
+            "value" : "Članak je dodan u vaše oznake."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cikk hozzáadva a könyvjelzőidhez."
+            "value" : "Cikk hozzáadva a könyvjelzőihez."
           }
         },
         "id" : {
@@ -14730,7 +14730,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Artykuł został dodany do twoich zakładek."
+            "value" : "Artykuł został dodany do Twoich zakładek."
           }
         },
         "pt-BR" : {
@@ -14742,7 +14742,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Artigo adicionado aos teus marcadores."
+            "value" : "Artigo adicionado aos marcadores."
           }
         },
         "ro" : {
@@ -14760,7 +14760,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Článok bol pridaný do tvojich záložiek."
+            "value" : "Článok bol pridaný do vašich záložiek."
           }
         },
         "sv" : {
@@ -15582,7 +15582,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Съдържанието не е налично в твоя регион."
+            "value" : "Съдържанието не е налично във Вашия регион."
           }
         },
         "ca" : {
@@ -15594,7 +15594,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Obsah není dostupný ve tvém regionu."
+            "value" : "Obsah není dostupný ve vašem regionu."
           }
         },
         "da" : {
@@ -15678,13 +15678,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sadržaj nije dostupan u tvojoj regiji."
+            "value" : "Sadržaj nije dostupan u vašoj regiji."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A tartalom nem elérhető a régiódban."
+            "value" : "A tartalom nem elérhető a régiójában."
           }
         },
         "id" : {
@@ -15738,7 +15738,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Treść niedostępna w twoim regionie."
+            "value" : "Treść niedostępna w Twoim regionie."
           }
         },
         "pt-BR" : {
@@ -15750,25 +15750,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Conteúdo não disponível na tua região."
+            "value" : "Conteúdo não disponível na região."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Conținutul nu este disponibil în regiunea ta."
+            "value" : "Conținutul nu este disponibil în regiunea dvs."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Контент недоступен в твоём регионе."
+            "value" : "Контент недоступен в Вашем регионе."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Obsah nie je dostupný vo tvojej oblasti."
+            "value" : "Obsah nie je dostupný vo vašej oblasti."
           }
         },
         "sv" : {
@@ -17520,7 +17520,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nu ai articole salvate încă."
+            "value" : "Nu aveți articole salvate încă."
           }
         },
         "ru" : {
@@ -17849,7 +17849,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Необходим е абонамент, за да продължиш четенето."
+            "value" : "Необходим е абонамент, за да продължите четенето."
           }
         },
         "ca" : {
@@ -17879,7 +17879,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Απαιτείται συνδρομή για να συνεχίσεις την ανάγνωση."
+            "value" : "Απαιτείται συνδρομή για να συνεχίσετε την ανάγνωση."
           }
         },
         "en" : {
@@ -17939,7 +17939,7 @@
         "hi" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "सामग्री तक पहुँचने के लिए सदस्यता आवश्यक है।"
+            "value" : "पढ़ना जारी रखने के लिए सदस्यता आवश्यक है।"
           }
         },
         "hr" : {
@@ -18101,7 +18101,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Достигна лимита за безплатни статии."
+            "value" : "Достигнахте лимита за безплатни статии."
           }
         },
         "ca" : {
@@ -18113,7 +18113,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dosáhl(a) jsi limitu bezplatných článků."
+            "value" : "Dosáhli jste limitu bezplatných článků."
           }
         },
         "da" : {
@@ -18131,7 +18131,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Έφτασες στο όριο των δωρεάν άρθρων σου."
+            "value" : "Φτάσατε στο όριο των δωρεάν άρθρων σας."
           }
         },
         "en" : {
@@ -18197,13 +18197,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dosegnut je tvoj limit besplatnih članaka."
+            "value" : "Dosegnut je vaš limit besplatnih članaka."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Elérted az ingyenes cikkek limitjét."
+            "value" : "Elérte az ingyenes cikkek limitjét."
           }
         },
         "id" : {
@@ -18269,13 +18269,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ultrapassaste o limite de artigos gratuitos."
+            "value" : "Ultrapassou o limite de artigos gratuitos."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ai atins limita articolelor gratuite."
+            "value" : "Ați atins limita articolelor gratuite."
           }
         },
         "ru" : {
@@ -18287,7 +18287,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dosiahol si svoj bezplatný limit článkov."
+            "value" : "Dosiahli ste svoj bezplatný limit článkov."
           }
         },
         "sv" : {
@@ -18353,7 +18353,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добави надпис…"
+            "value" : "Добавете надпис…"
           }
         },
         "ca" : {
@@ -18377,13 +18377,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Füge eine Bildunterschrift hinzu…"
+            "value" : "Füge eine Bildunterschrift hinzu …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Πρόσθεσε μια λεζάντα…"
+            "value" : "Προσθέστε μια λεζάντα…"
           }
         },
         "en" : {
@@ -18449,7 +18449,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dodaj opis…"
+            "value" : "Dodajte opis…"
           }
         },
         "hu" : {
@@ -18527,7 +18527,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adaugă o descriere…"
+            "value" : "Adăugați o descriere…"
           }
         },
         "ru" : {
@@ -18539,7 +18539,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pridaj popis…"
+            "value" : "Pridajte popis…"
           }
         },
         "sv" : {
@@ -18557,7 +18557,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bir başlık ekle…"
+            "value" : "Bir başlık ekleyin…"
           }
         },
         "uk" : {
@@ -18581,13 +18581,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "新增說明…"
+            "value" : "新增說明⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "加入說明…"
+            "value" : "加入說明⋯"
           }
         }
       }
@@ -18604,7 +18604,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добави резюме на главата…"
+            "value" : "Добавете резюме на главата…"
           }
         },
         "ca" : {
@@ -18628,13 +18628,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kapitelzusammenfassung hinzufügen…"
+            "value" : "Kapitelzusammenfassung hinzufügen …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Πρόσθεσε περίληψη κεφαλαίου…"
+            "value" : "Προσθέστε περίληψη κεφαλαίου…"
           }
         },
         "en" : {
@@ -18700,13 +18700,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dodaj sažetak poglavlja…"
+            "value" : "Dodajte sažetak poglavlja…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adj fejezetösszefoglalót…"
+            "value" : "Fejezetösszefoglaló hozzáadása…"
           }
         },
         "id" : {
@@ -18778,7 +18778,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adaugă un rezumat al capitolului…"
+            "value" : "Adăugați un rezumat al capitolului…"
           }
         },
         "ru" : {
@@ -18808,7 +18808,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bölüm özeti ekle…"
+            "value" : "Bölüm özeti ekleyin…"
           }
         },
         "uk" : {
@@ -18832,13 +18832,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "新增章節摘要…"
+            "value" : "新增章節摘要⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "新增章節摘要…"
+            "value" : "新增章節摘要⋯"
           }
         }
       }
@@ -18855,7 +18855,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи заглавието на статията…"
+            "value" : "Въведете заглавието на статията…"
           }
         },
         "ca" : {
@@ -18879,13 +18879,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Titel des Artikels eingeben…"
+            "value" : "Titel des Artikels eingeben …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Πληκτρολόγησε τίτλο άρθρου…"
+            "value" : "Πληκτρολογήστε τίτλο άρθρου…"
           }
         },
         "en" : {
@@ -18927,7 +18927,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le titre de l'article…"
+            "value" : "Saisir le titre de l'article…"
           }
         },
         "fr-CA" : {
@@ -18951,7 +18951,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi naslov članka…"
+            "value" : "Unesite naslov članka…"
           }
         },
         "hu" : {
@@ -19029,19 +19029,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu titlul articolului…"
+            "value" : "Introduceți titlul articolului…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи заголовок статьи…"
+            "value" : "Введите заголовок статьи…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj názov článku…"
+            "value" : "Zadajte názov článku…"
           }
         },
         "sv" : {
@@ -19059,7 +19059,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Makale başlığını gir…"
+            "value" : "Makale başlığını girin…"
           }
         },
         "uk" : {
@@ -19083,13 +19083,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入文章標題…"
+            "value" : "輸入文章標題⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入文章標題…"
+            "value" : "輸入文章標題⋯"
           }
         }
       }
@@ -19106,7 +19106,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи името на автора…"
+            "value" : "Въведете името на автора…"
           }
         },
         "ca" : {
@@ -19130,13 +19130,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Autorname eingeben…"
+            "value" : "Autorname eingeben …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Πληκτρολόγησε όνομα συγγραφέα…"
+            "value" : "Πληκτρολογήστε όνομα συγγραφέα…"
           }
         },
         "en" : {
@@ -19178,7 +19178,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de l'auteur…"
+            "value" : "Saisir le nom de l'auteur…"
           }
         },
         "fr-CA" : {
@@ -19202,7 +19202,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi ime autora…"
+            "value" : "Unesite ime autora…"
           }
         },
         "hu" : {
@@ -19280,19 +19280,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu numele autorului…"
+            "value" : "Introduceți numele autorului…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи имя автора…"
+            "value" : "Введите имя автора…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj meno autora…"
+            "value" : "Zadajte meno autora…"
           }
         },
         "sv" : {
@@ -19310,7 +19310,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yazarın adını gir…"
+            "value" : "Yazarın adını girin…"
           }
         },
         "uk" : {
@@ -19334,13 +19334,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入作者姓名…"
+            "value" : "輸入作者姓名⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入作者名稱…"
+            "value" : "輸入作者名稱⋯"
           }
         }
       }
@@ -19357,7 +19357,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Филтрирай статиите…"
+            "value" : "Филтрирайте статиите…"
           }
         },
         "ca" : {
@@ -19381,13 +19381,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Artikel filtern…"
+            "value" : "Artikel filtern …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Φιλτράρισε άρθρα…"
+            "value" : "Φιλτράρετε άρθρα…"
           }
         },
         "en" : {
@@ -19453,7 +19453,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Filtriraj članke…"
+            "value" : "Filtrirajte članke…"
           }
         },
         "hu" : {
@@ -19531,7 +19531,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Filtrează articole…"
+            "value" : "Filtrați articole…"
           }
         },
         "ru" : {
@@ -19585,13 +19585,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "篩選文章…"
+            "value" : "篩選文章⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "篩選文章…"
+            "value" : "篩選文章⋯"
           }
         }
       }
@@ -19608,7 +19608,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Филтрирай по година…"
+            "value" : "Филтрирайте по година…"
           }
         },
         "ca" : {
@@ -19632,13 +19632,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nach Jahr filtern…"
+            "value" : "Nach Jahr filtern …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Φιλτράρισε κατά έτος…"
+            "value" : "Φιλτράρετε κατά έτος…"
           }
         },
         "en" : {
@@ -19704,7 +19704,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Filtriraj po godini…"
+            "value" : "Filtrirajte po godini…"
           }
         },
         "hu" : {
@@ -19782,7 +19782,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Filtrează după an…"
+            "value" : "Filtrați după an…"
           }
         },
         "ru" : {
@@ -19836,13 +19836,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "按年份篩選…"
+            "value" : "按年份篩選⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "按年篩選…"
+            "value" : "按年篩選⋯"
           }
         }
       }
@@ -19859,7 +19859,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Намери в статията…"
+            "value" : "Намерете в статията…"
           }
         },
         "ca" : {
@@ -19883,13 +19883,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Im Artikel suchen…"
+            "value" : "Im Artikel suchen …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Βρες στο άρθρο…"
+            "value" : "Βρείτε στο άρθρο…"
           }
         },
         "en" : {
@@ -19955,7 +19955,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pronađi u članku…"
+            "value" : "Pronađite u članku…"
           }
         },
         "hu" : {
@@ -20033,7 +20033,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caută în articol…"
+            "value" : "Căutați în articol…"
           }
         },
         "ru" : {
@@ -20087,13 +20087,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在文章中搜尋…"
+            "value" : "在文章中搜尋⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在文章中尋找…"
+            "value" : "在文章中尋找⋯"
           }
         }
       }
@@ -20110,7 +20110,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Търси в архивите…"
+            "value" : "Търсете в архивите…"
           }
         },
         "ca" : {
@@ -20134,13 +20134,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Archive durchsuchen…"
+            "value" : "Archive durchsuchen …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Αναζήτησε στα αρχεία…"
+            "value" : "Αναζητήστε στα αρχεία…"
           }
         },
         "en" : {
@@ -20206,7 +20206,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pretraži arhive…"
+            "value" : "Pretražite arhive…"
           }
         },
         "hu" : {
@@ -20284,7 +20284,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caută arhive…"
+            "value" : "Căutați arhive…"
           }
         },
         "ru" : {
@@ -20338,13 +20338,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋封存…"
+            "value" : "搜尋封存⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋檔案…"
+            "value" : "搜尋檔案⋯"
           }
         }
       }
@@ -20361,7 +20361,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Търси статии…"
+            "value" : "Търсете статии…"
           }
         },
         "ca" : {
@@ -20385,13 +20385,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Artikel suchen…"
+            "value" : "Artikel suchen …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Αναζήτησε άρθρα…"
+            "value" : "Αναζητήστε άρθρα…"
           }
         },
         "en" : {
@@ -20457,7 +20457,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pretraži članke…"
+            "value" : "Pretražite članke…"
           }
         },
         "hu" : {
@@ -20535,7 +20535,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caută articole…"
+            "value" : "Căutați articole…"
           }
         },
         "ru" : {
@@ -20589,13 +20589,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋文章…"
+            "value" : "搜尋文章⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋文章…"
+            "value" : "搜尋文章⋯"
           }
         }
       }
@@ -20612,7 +20612,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Търси автор…"
+            "value" : "Търсете автор…"
           }
         },
         "ca" : {
@@ -20636,13 +20636,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nach Autor suchen…"
+            "value" : "Nach Autor suchen …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Αναζήτησε συγγραφέα…"
+            "value" : "Αναζητήστε συγγραφέα…"
           }
         },
         "en" : {
@@ -20708,7 +20708,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pretraži autora…"
+            "value" : "Pretražite autora…"
           }
         },
         "hu" : {
@@ -20786,7 +20786,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caută autor…"
+            "value" : "Căutați autor…"
           }
         },
         "ru" : {
@@ -20840,13 +20840,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋作者…"
+            "value" : "搜尋作者⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋作者…"
+            "value" : "搜尋作者⋯"
           }
         }
       }
@@ -20863,7 +20863,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Търси заглавия…"
+            "value" : "Търсете заглавия…"
           }
         },
         "ca" : {
@@ -20887,13 +20887,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Überschriften suchen…"
+            "value" : "Überschriften suchen …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Αναζήτησε τίτλους ειδήσεων…"
+            "value" : "Αναζητήστε τίτλους ειδήσεων…"
           }
         },
         "en" : {
@@ -20959,7 +20959,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pretraži po naslovima…"
+            "value" : "Pretražite po naslovima…"
           }
         },
         "hu" : {
@@ -21037,7 +21037,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caută titluri…"
+            "value" : "Căutați titluri…"
           }
         },
         "ru" : {
@@ -21091,13 +21091,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋新聞標題…"
+            "value" : "搜尋新聞標題⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋頭條…"
+            "value" : "搜尋頭條⋯"
           }
         }
       }
@@ -21114,7 +21114,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Търси новини…"
+            "value" : "Търсете новини…"
           }
         },
         "ca" : {
@@ -21138,13 +21138,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nach Nachrichten suchen…"
+            "value" : "Nach Nachrichten suchen …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Αναζήτησε ειδήσεις…"
+            "value" : "Αναζητήστε ειδήσεις…"
           }
         },
         "en" : {
@@ -21210,7 +21210,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pretraži vijesti…"
+            "value" : "Pretražite vijesti…"
           }
         },
         "hu" : {
@@ -21288,7 +21288,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caută știri…"
+            "value" : "Căutați știri…"
           }
         },
         "ru" : {
@@ -21342,13 +21342,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋新聞…"
+            "value" : "搜尋新聞⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋新聞…"
+            "value" : "搜尋新聞⋯"
           }
         }
       }
@@ -21365,7 +21365,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Търси публикации…"
+            "value" : "Търсете публикации…"
           }
         },
         "ca" : {
@@ -21389,13 +21389,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Publikationen durchsuchen…"
+            "value" : "Publikationen durchsuchen …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Αναζήτησε δημοσιεύσεις…"
+            "value" : "Αναζητήστε δημοσιεύσεις…"
           }
         },
         "en" : {
@@ -21461,7 +21461,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pretraži publikacije…"
+            "value" : "Pretražite publikacije…"
           }
         },
         "hu" : {
@@ -21539,7 +21539,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caută publicații…"
+            "value" : "Căutați publicații…"
           }
         },
         "ru" : {
@@ -21593,13 +21593,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋出版品…"
+            "value" : "搜尋出版品⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋出版物…"
+            "value" : "搜尋出版物⋯"
           }
         }
       }
@@ -21616,7 +21616,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Търси популярни теми…"
+            "value" : "Търсете популярни теми…"
           }
         },
         "ca" : {
@@ -21640,13 +21640,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trendthemen suchen…"
+            "value" : "Trendthemen suchen …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Αναζήτησε δημοφιλή θέματα…"
+            "value" : "Αναζητήστε δημοφιλή θέματα…"
           }
         },
         "en" : {
@@ -21712,7 +21712,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pretraži popularne teme…"
+            "value" : "Pretražite popularne teme…"
           }
         },
         "hu" : {
@@ -21790,7 +21790,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caută subiecte de actualitate…"
+            "value" : "Căutați subiecte de actualitate…"
           }
         },
         "ru" : {
@@ -21844,13 +21844,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋熱門話題…"
+            "value" : "搜尋熱門話題⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋熱門話題…"
+            "value" : "搜尋熱門話題⋯"
           }
         }
       }
@@ -21867,7 +21867,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Напиши, за да добавиш тагове…"
+            "value" : "Напишете, за да добавите тагове…"
           }
         },
         "ca" : {
@@ -21879,7 +21879,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Začni psát pro přidání štítků…"
+            "value" : "Začněte psát pro přidání štítků…"
           }
         },
         "da" : {
@@ -21891,13 +21891,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tippe, um Tags hinzuzufügen…"
+            "value" : "Tippe, um Tags hinzuzufügen …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Πληκτρολόγησε για να προσθέσεις ετικέτες…"
+            "value" : "Πληκτρολογήστε για να προσθέσετε ετικέτες…"
           }
         },
         "en" : {
@@ -21939,13 +21939,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tapez pour ajouter des tags…"
+            "value" : "Taper pour ajouter des tags…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tapez pour ajouter des étiquettes…"
+            "value" : "Taper pour ajouter des étiquettes…"
           }
         },
         "he" : {
@@ -21963,13 +21963,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Upiši da dodaš oznake…"
+            "value" : "Upišite da dodate oznake…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írj be címkéket…"
+            "value" : "Írjon be címkéket…"
           }
         },
         "id" : {
@@ -22035,25 +22035,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Escreve para adicionar etiquetas…"
+            "value" : "Escreva para adicionar etiquetas…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scrie pentru a adăuga etichete…"
+            "value" : "Scrieți pentru a adăuga etichete…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи, чтобы добавить теги…"
+            "value" : "Введите, чтобы добавить теги…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj tagy…"
+            "value" : "Zadajte tagy…"
           }
         },
         "sv" : {
@@ -22071,7 +22071,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Etiket eklemek için yaz…"
+            "value" : "Etiket eklemek için yazın…"
           }
         },
         "uk" : {
@@ -22095,13 +22095,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入以新增標籤…"
+            "value" : "輸入以新增標籤⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入以加入標籤…"
+            "value" : "輸入以加入標籤⋯"
           }
         }
       }
@@ -22118,7 +22118,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Напиши пост…"
+            "value" : "Напишете пост…"
           }
         },
         "ca" : {
@@ -22142,13 +22142,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Einen Beitrag schreiben…"
+            "value" : "Einen Beitrag schreiben …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Γράψε μια ανάρτηση…"
+            "value" : "Γράψτε μια ανάρτηση…"
           }
         },
         "en" : {
@@ -22214,7 +22214,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Napiši objavu…"
+            "value" : "Napišite objavu…"
           }
         },
         "hu" : {
@@ -22286,19 +22286,19 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Escreve uma publicação…"
+            "value" : "Escreva uma publicação…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scrie o postare…"
+            "value" : "Scrieți o postare…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Напиши пост…"
+            "value" : "Напишите пост…"
           }
         },
         "sk" : {
@@ -22322,7 +22322,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bir gönderi yaz…"
+            "value" : "Bir gönderi yazın…"
           }
         },
         "uk" : {
@@ -22346,13 +22346,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "撰寫貼文…"
+            "value" : "撰寫貼文⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "撰寫貼文…"
+            "value" : "撰寫貼文⋯"
           }
         }
       }
@@ -22369,7 +22369,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Напиши мнението си…"
+            "value" : "Напишете мнението си…"
           }
         },
         "ca" : {
@@ -22393,13 +22393,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Deine Meinung schreiben…"
+            "value" : "Deine Meinung schreiben …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Γράψε τη γνώμη σου…"
+            "value" : "Γράψτε τη γνώμη σας…"
           }
         },
         "en" : {
@@ -22465,13 +22465,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Napiši svoje mišljenje…"
+            "value" : "Napišite svoje mišljenje…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd le a véleményed…"
+            "value" : "Írja le a véleményét…"
           }
         },
         "id" : {
@@ -22537,19 +22537,19 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Escreve a tua opinião…"
+            "value" : "Escreva a opinião…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scrie părerea ta…"
+            "value" : "Scrieți părerea…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Напиши своё мнение…"
+            "value" : "Напишите своё мнение…"
           }
         },
         "sk" : {
@@ -22573,7 +22573,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fikrini yaz…"
+            "value" : "Fikrinizi yazın…"
           }
         },
         "uk" : {
@@ -22597,13 +22597,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "撰寫你的意見…"
+            "value" : "撰寫你的意見⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "撰寫意見…"
+            "value" : "撰寫意見⋯"
           }
         }
       }
