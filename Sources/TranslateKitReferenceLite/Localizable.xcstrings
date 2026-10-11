@@ -725,7 +725,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Додати до Читанки"
+            "value" : "Додати до списку читання"
           }
         },
         "vi" : {
@@ -1866,7 +1866,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kopiraj poveznicu"
+            "value" : "Kopiraj link"
           }
         },
         "hu" : {

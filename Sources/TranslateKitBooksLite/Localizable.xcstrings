@@ -976,7 +976,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Додати до списку для читання"
+            "value" : "Додати до списку читання"
           }
         },
         "vi" : {
@@ -2535,7 +2535,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stáhnout pro použití offline"
+            "value" : "Stáhnout pro offline"
           }
         },
         "da" : {
@@ -2619,7 +2619,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Preuzmi za izvanmrežni pristup"
+            "value" : "Preuzmi za offline"
           }
         },
         "hu" : {
@@ -5786,7 +5786,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Четете сега"
+            "value" : "Чети сега"
           }
         },
         "ca" : {
