@@ -15,8 +15,8 @@ jobs:
         run: xcodebuild -version && swift --version
 
       - name: Build package
-        run: swift build
+        run: swift build --build-system swiftbuild
 
       - name: Run tests
         if: hashFiles('Tests/**') != ''
-        run: swift test
+        run: swift test --build-system swiftbuild
