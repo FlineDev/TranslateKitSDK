@@ -187,7 +187,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adăugați marcaj"
+            "value" : "Adăugați un marcaj"
           }
         },
         "ru" : {
@@ -1549,7 +1549,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Προσθήκη σελιδοδείκτη"
+            "value" : "Σελιδοδείκτης"
           }
         },
         "en" : {
@@ -1645,7 +1645,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Бетбелгілеу"
+            "value" : "Бетбелгі"
           }
         },
         "ko" : {
@@ -1693,7 +1693,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Marchați"
+            "value" : "Marcaj"
           }
         },
         "ru" : {
@@ -1723,13 +1723,13 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yer İşaretlerine Ekle"
+            "value" : "Yer İşareti"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Додати до закладок"
+            "value" : "Закладка"
           }
         },
         "vi" : {
@@ -3127,7 +3127,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Megjegyzés szerkesztése"
+            "value" : "Jegyzet szerkesztése"
           }
         },
         "id" : {
@@ -4956,7 +4956,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Marchați ca citit"
+            "value" : "Marcați drept citit"
           }
         },
         "ru" : {
@@ -5159,7 +5159,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Оқымаған деп белгілеу"
+            "value" : "Оқылмаған деп белгілеу"
           }
         },
         "ko" : {
@@ -5207,7 +5207,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Marchați ca necitit"
+            "value" : "Marcați drept necitit"
           }
         },
         "ru" : {
@@ -5786,7 +5786,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Прочети сега"
+            "value" : "Четете сега"
           }
         },
         "ca" : {

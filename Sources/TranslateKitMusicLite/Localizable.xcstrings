@@ -13,7 +13,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добави в библиотеката"
+            "value" : "Добави в Библиотека"
           }
         },
         "ca" : {
@@ -193,7 +193,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добавить в библиотеку"
+            "value" : "Добавить в медиатеку"
           }
         },
         "sk" : {
@@ -217,7 +217,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kütüphaneye Ekle"
+            "value" : "Arşiv’e Ekle"
           }
         },
         "uk" : {
@@ -1770,7 +1770,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Повтаряй"
+            "value" : "Повторение"
           }
         },
         "ca" : {
@@ -1782,7 +1782,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Opakovat"
+            "value" : "Smyčka"
           }
         },
         "da" : {
@@ -1866,7 +1866,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ponavljaj"
+            "value" : "Petlja"
           }
         },
         "hu" : {
@@ -1938,7 +1938,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Repetir"
+            "value" : "Repetição contínua"
           }
         },
         "ro" : {
@@ -1956,7 +1956,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Opakovať"
+            "value" : "Slučka"
           }
         },
         "sv" : {
@@ -1974,7 +1974,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Döngüye Al"
+            "value" : "Döngü"
           }
         },
         "uk" : {
@@ -2804,7 +2804,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Παιχνίδι τώρα"
+            "value" : "Αναπαραγωγή τώρα"
           }
         },
         "en" : {
@@ -3037,7 +3037,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Procvičovat"
+            "value" : "Procvičit"
           }
         },
         "da" : {
@@ -6288,7 +6288,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Абонирай се"
+            "value" : "Абониране"
           }
         },
         "ca" : {
@@ -6569,7 +6569,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Συμμετοχή στο κουίζ"
+            "value" : "Έναρξη κουίζ"
           }
         },
         "en" : {

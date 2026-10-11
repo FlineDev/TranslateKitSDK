@@ -3904,7 +3904,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Аяқталған деп белгілеу"
+            "value" : "Орындалды деп белгілеу"
           }
         },
         "ko" : {
@@ -4460,7 +4460,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Отслеживать"
+            "value" : "Следить"
           }
         },
         "sk" : {
@@ -7794,7 +7794,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Започни записването"
+            "value" : "Стартирай записа"
           }
         },
         "ca" : {
@@ -8715,7 +8715,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Acompanhar"
+            "value" : "Rastrear"
           }
         },
         "ro" : {

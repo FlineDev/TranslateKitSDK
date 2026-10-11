@@ -6288,7 +6288,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Поискай достъп"
+            "value" : "Заяви достъп"
           }
         },
         "ca" : {
@@ -7824,7 +7824,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Κατάργηση ακολούθησης"
+            "value" : "Διακοπή ακολούθησης"
           }
         },
         "en" : {
@@ -8075,7 +8075,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Κατάργηση 'Μου αρέσει'"
+            "value" : "Κατάργηση Μου αρέσει"
           }
         },
         "en" : {
@@ -8547,7 +8547,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Виж профила"
+            "value" : "Преглед на профил"
           }
         },
         "ca" : {

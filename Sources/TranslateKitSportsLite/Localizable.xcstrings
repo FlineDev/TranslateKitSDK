@@ -6665,7 +6665,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Бақылау"
+            "value" : "Қадағалау"
           }
         },
         "ko" : {
@@ -7071,7 +7071,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Κατάργηση ακολούθησης"
+            "value" : "Διακοπή ακολούθησης"
           }
         },
         "en" : {

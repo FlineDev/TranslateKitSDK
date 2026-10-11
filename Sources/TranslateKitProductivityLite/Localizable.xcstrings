@@ -641,7 +641,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Файлды тіркеу"
+            "value" : "Файл тіркеу"
           }
         },
         "ko" : {
@@ -3306,7 +3306,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Επισήμανση ως ολοκληρωμένο"
+            "value" : "Σήμανση ως ολοκληρωμένο"
           }
         },
         "en" : {
@@ -3952,7 +3952,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Marchați ca citit"
+            "value" : "Marcați drept citit"
           }
         },
         "ru" : {
@@ -4203,7 +4203,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Marchați ca necitit"
+            "value" : "Marcați drept necitit"
           }
         },
         "ru" : {
@@ -4627,7 +4627,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Prikvači"
+            "value" : "Zakvači"
           }
         },
         "hu" : {

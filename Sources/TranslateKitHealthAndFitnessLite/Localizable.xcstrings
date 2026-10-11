@@ -5300,7 +5300,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Завърши"
+            "value" : "Приключи"
           }
         },
         "ca" : {
@@ -8163,7 +8163,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Meditáció indítása"
+            "value" : "Meditálás kezdése"
           }
         },
         "id" : {
@@ -10069,7 +10069,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Възобнови тренировката"
+            "value" : "Продължи тренировката"
           }
         },
         "ca" : {

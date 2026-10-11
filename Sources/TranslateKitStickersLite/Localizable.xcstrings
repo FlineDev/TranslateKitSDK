@@ -1980,7 +1980,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Додати до вибраного"
+            "value" : "Додати до Улюблених"
           }
         },
         "vi" : {
@@ -3731,7 +3731,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ters Çevir"
+            "value" : "Çevir"
           }
         },
         "uk" : {
@@ -4029,7 +4029,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Огледално обърни"
+            "value" : "Огледало"
           }
         },
         "ca" : {
@@ -4131,7 +4131,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tükrözés"
+            "value" : "Tükör"
           }
         },
         "id" : {
@@ -4155,7 +4155,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Айнаға аудару"
+            "value" : "Айна"
           }
         },
         "ko" : {
@@ -5631,7 +5631,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Spremi u Fotografije"
+            "value" : "Spremi u Foto"
           }
         },
         "hu" : {

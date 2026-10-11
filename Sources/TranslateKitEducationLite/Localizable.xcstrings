@@ -294,7 +294,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Προσθήκη σελιδοδείκτη"
+            "value" : "Σελιδοδείκτης"
           }
         },
         "en" : {
@@ -390,7 +390,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Бетбелгілеу"
+            "value" : "Бетбелгі"
           }
         },
         "ko" : {
@@ -438,7 +438,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adăugați semn de carte"
+            "value" : "Marcaj"
           }
         },
         "ru" : {
@@ -468,13 +468,13 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yer İşaretlerine Ekle"
+            "value" : "Yer İşareti"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Додати до закладок"
+            "value" : "Закладка"
           }
         },
         "vi" : {
@@ -3654,7 +3654,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Аяқталған деп белгілеу"
+            "value" : "Орындалды деп белгілеу"
           }
         },
         "ko" : {
@@ -7897,7 +7897,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Jegyzetek készítése"
+            "value" : "Jegyzet készítése"
           }
         },
         "id" : {

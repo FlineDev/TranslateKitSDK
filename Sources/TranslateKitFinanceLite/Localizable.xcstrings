@@ -1436,7 +1436,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fazer cópia de segurança dos dados"
+            "value" : "Fazer backup de dados"
           }
         },
         "ro" : {
@@ -2398,7 +2398,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Депозит салу"
+            "value" : "Салым"
           }
         },
         "ko" : {
@@ -3127,7 +3127,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Jelentés generálása"
+            "value" : "Jelentés készítése"
           }
         },
         "id" : {
@@ -5745,7 +5745,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Зберегти у вибране"
+            "value" : "Зберегти в обране"
           }
         },
         "vi" : {
@@ -6790,7 +6790,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Абонирай се"
+            "value" : "Абониране"
           }
         },
         "ca" : {

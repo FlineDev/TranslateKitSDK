@@ -9581,7 +9581,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Περισσότερες πληροφορίες"
+            "value" : "Μάθετε περισσότερα"
           }
         },
         "en" : {
@@ -9832,7 +9832,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Περισσότερες πληροφορίες…"
+            "value" : "Μάθετε περισσότερα…"
           }
         },
         "en" : {
@@ -15605,7 +15605,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Επανάληψη"
+            "value" : "Νέα δοκιμή"
           }
         },
         "en" : {
@@ -17757,7 +17757,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Distribuiți"
+            "value" : "Partajați"
           }
         },
         "ru" : {
@@ -18008,7 +18008,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Distribuiți…"
+            "value" : "Partajați…"
           }
         },
         "ru" : {
@@ -19012,7 +19012,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Arătați mai puțin"
+            "value" : "Mai puține"
           }
         },
         "ru" : {
@@ -19263,7 +19263,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Arătați mai multe"
+            "value" : "Mai multe"
           }
         },
         "ru" : {
@@ -19514,7 +19514,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Conectați-vă"
+            "value" : "Autentificați-vă"
           }
         },
         "ru" : {
@@ -19765,7 +19765,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Deconectați-vă"
+            "value" : "Ieșiți din cont"
           }
         },
         "ru" : {
@@ -21629,7 +21629,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Δοκιμή ξανά"
+            "value" : "Νέα δοκιμή"
           }
         },
         "en" : {

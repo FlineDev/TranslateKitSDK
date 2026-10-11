@@ -438,7 +438,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adăugați semn de carte"
+            "value" : "Marcaj"
           }
         },
         "ru" : {
@@ -3808,7 +3808,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Κοινοποίηση εγγράφου"
+            "value" : "Κοινή χρήση εγγράφου"
           }
         },
         "en" : {
@@ -4059,7 +4059,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Κοινοποίηση ιστορίας"
+            "value" : "Κοινή χρήση ιστορίας"
           }
         },
         "en" : {
@@ -4448,7 +4448,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Subscrever"
+            "value" : "Assinar"
           }
         },
         "ro" : {

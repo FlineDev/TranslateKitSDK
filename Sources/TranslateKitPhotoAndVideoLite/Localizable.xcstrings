@@ -1113,7 +1113,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kopiraj poveznicu"
+            "value" : "Kopiraj link"
           }
         },
         "hu" : {
@@ -2727,7 +2727,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ters Çevir"
+            "value" : "Çevir"
           }
         },
         "uk" : {
@@ -6569,7 +6569,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Κοινοποίηση εγγράφου"
+            "value" : "Κοινή χρήση εγγράφου"
           }
         },
         "en" : {
@@ -6743,7 +6743,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Belgeyi Paylaş"
+            "value" : "Belge Paylaş"
           }
         },
         "uk" : {
@@ -7717,7 +7717,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Faceți poză"
+            "value" : "Fotografiați"
           }
         },
         "ru" : {
@@ -8249,7 +8249,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kırp"
+            "value" : "Kısalt"
           }
         },
         "uk" : {
@@ -8422,7 +8422,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Бейнемазмұнды қысқарту"
+            "value" : "Видеоны кесу"
           }
         },
         "ko" : {

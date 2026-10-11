@@ -474,7 +474,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Додати до вибраного"
+            "value" : "Додати до Улюблених"
           }
         },
         "vi" : {
@@ -4059,7 +4059,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Αφαίρεση από το καλάθι αγορών"
+            "value" : "Αφαίρεση από το καλάθι"
           }
         },
         "en" : {
@@ -5960,7 +5960,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Faceți o poză"
+            "value" : "Fotografiați"
           }
         },
         "ru" : {

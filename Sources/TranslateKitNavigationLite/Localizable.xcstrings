@@ -3623,7 +3623,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Navigiraj"
+            "value" : "Kreni"
           }
         },
         "hu" : {
@@ -4782,7 +4782,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Докладвай метеорологичното състояние"
+            "value" : "Докладвай метеорологични условия"
           }
         },
         "ca" : {
@@ -4962,7 +4962,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сообщить о погодных условиях"
+            "value" : "Сообщить о погоде"
           }
         },
         "sk" : {

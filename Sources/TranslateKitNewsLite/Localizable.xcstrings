@@ -515,7 +515,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Отбележи"
+            "value" : "Отметка"
           }
         },
         "ca" : {
@@ -641,7 +641,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Бетбелгілеу"
+            "value" : "Бетбелгі"
           }
         },
         "ko" : {
@@ -689,7 +689,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adăugați la semnele de carte"
+            "value" : "Marcaj"
           }
         },
         "ru" : {
@@ -862,7 +862,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kopiraj poveznicu"
+            "value" : "Kopiraj link"
           }
         },
         "hu" : {
@@ -1280,7 +1280,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stáhnout pro použití offline"
+            "value" : "Stáhnout pro offline"
           }
         },
         "da" : {
@@ -1364,7 +1364,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Preuzmi za izvanmrežni pristup"
+            "value" : "Preuzmi za offline"
           }
         },
         "hu" : {
@@ -1782,7 +1782,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nahlásit"
+            "value" : "Označit"
           }
         },
         "da" : {
@@ -3378,7 +3378,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Olvasás későbbre"
+            "value" : "Olvasás később"
           }
         },
         "id" : {
@@ -3557,7 +3557,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ανάγνωση περισσότερων"
+            "value" : "Διαβάστε περισσότερα"
           }
         },
         "en" : {
@@ -4059,7 +4059,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Κοινοποίηση ιστορίας"
+            "value" : "Κοινή χρήση ιστορίας"
           }
         },
         "en" : {
@@ -4448,7 +4448,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Subscrever"
+            "value" : "Assinar"
           }
         },
         "ro" : {
@@ -4657,7 +4657,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Мазмұнды қорытындылау"
+            "value" : "Жинақтау"
           }
         },
         "ko" : {
@@ -5284,7 +5284,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Прекрати абонамента"
+            "value" : "Спри абонамент"
           }
         },
         "ca" : {

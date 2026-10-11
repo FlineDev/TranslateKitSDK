@@ -952,7 +952,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Previesť"
+            "value" : "Konvertovať"
           }
         },
         "sv" : {
@@ -1974,7 +1974,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "PDF’yi Dışa Aktar"
+            "value" : "PDF’i Dışa Aktar"
           }
         },
         "uk" : {
@@ -2368,7 +2368,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Formatiraj"
+            "value" : "Format"
           }
         },
         "hu" : {
@@ -6743,7 +6743,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kırp"
+            "value" : "Kısalt"
           }
         },
         "uk" : {

@@ -3402,7 +3402,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Челленджге қосылу"
+            "value" : "Сынаққа қосылу"
           }
         },
         "ko" : {
@@ -3456,7 +3456,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Присоединиться к челленджу"
+            "value" : "Присоединиться к вызову"
           }
         },
         "sk" : {
@@ -3480,7 +3480,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Meydan Okumaya Katıl"
+            "value" : "Müsabakaya Katıl"
           }
         },
         "uk" : {
@@ -4310,7 +4310,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Παιχνίδι τώρα"
+            "value" : "Παίξτε τώρα"
           }
         },
         "en" : {

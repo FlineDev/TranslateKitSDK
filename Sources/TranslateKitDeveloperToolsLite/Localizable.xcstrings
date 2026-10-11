@@ -1770,7 +1770,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Отстрани грешки"
+            "value" : "Отстраняване на грешки"
           }
         },
         "ca" : {
@@ -4531,7 +4531,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Наблюдавай"
+            "value" : "Следи"
           }
         },
         "ca" : {
@@ -4711,7 +4711,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Отслеживать"
+            "value" : "Следить"
           }
         },
         "sk" : {
@@ -7920,7 +7920,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Тестілеу"
+            "value" : "Сынау"
           }
         },
         "ko" : {
