@@ -187,7 +187,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adaugă marcaj"
+            "value" : "Adăugați un marcaj"
           }
         },
         "ru" : {
@@ -366,7 +366,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Megjegyzés Hozzáadása"
+            "value" : "Jegyzet hozzáadása"
           }
         },
         "id" : {
@@ -438,7 +438,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adaugă notă"
+            "value" : "Adăugați notă"
           }
         },
         "ru" : {
@@ -611,7 +611,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dodaj u knjižnicu"
+            "value" : "Dodaj u medijateku"
           }
         },
         "hu" : {
@@ -689,7 +689,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adaugă în bibliotecă"
+            "value" : "Adăugați în bibliotecă"
           }
         },
         "ru" : {
@@ -940,7 +940,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adaugă la lista de lecturi"
+            "value" : "Adăugați la lista de lecturi"
           }
         },
         "ru" : {
@@ -976,7 +976,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Додати до списку для читання"
+            "value" : "Додати до списку читання"
           }
         },
         "vi" : {
@@ -1191,7 +1191,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adnotează"
+            "value" : "Adnotați"
           }
         },
         "ru" : {
@@ -1442,7 +1442,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Arhivează"
+            "value" : "Arhivați"
           }
         },
         "ru" : {
@@ -1549,7 +1549,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Προσθήκη Σελιδοδείκτη"
+            "value" : "Σελιδοδείκτης"
           }
         },
         "en" : {
@@ -1645,7 +1645,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Бетбелгі қою"
+            "value" : "Бетбелгі"
           }
         },
         "ko" : {
@@ -1693,7 +1693,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Marchează"
+            "value" : "Marcaj"
           }
         },
         "ru" : {
@@ -1723,7 +1723,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yer İşaretle"
+            "value" : "Yer İşareti"
           }
         },
         "uk" : {
@@ -1944,7 +1944,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Răsfoiește biblioteca"
+            "value" : "Răsfoiți biblioteca"
           }
         },
         "ru" : {
@@ -2195,7 +2195,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Schimbă fontul"
+            "value" : "Schimbați fontul"
           }
         },
         "ru" : {
@@ -2446,7 +2446,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Copiază citatul"
+            "value" : "Copiați citatul"
           }
         },
         "ru" : {
@@ -2535,7 +2535,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stáhnout pro použití offline"
+            "value" : "Stáhnout pro offline"
           }
         },
         "da" : {
@@ -2619,7 +2619,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Preuzmi za izvanmrežni pristup"
+            "value" : "Preuzmi za offline"
           }
         },
         "hu" : {
@@ -2691,13 +2691,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Transferir para Offline"
+            "value" : "Transferir para offline"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Descarcă pentru offline"
+            "value" : "Descărcați pentru offline"
           }
         },
         "ru" : {
@@ -2727,7 +2727,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Çevrimdışı İçin İndir"
+            "value" : "Çevrimdışı İndir"
           }
         },
         "uk" : {
@@ -2948,7 +2948,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Editează marcajul"
+            "value" : "Editați marcajul"
           }
         },
         "ru" : {
@@ -3127,7 +3127,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Jegyzet Szerkesztése"
+            "value" : "Jegyzet szerkesztése"
           }
         },
         "id" : {
@@ -3151,7 +3151,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ескертпені өңдеу"
+            "value" : "Жазбаны өңдеу"
           }
         },
         "ko" : {
@@ -3199,7 +3199,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Editează nota"
+            "value" : "Editați nota"
           }
         },
         "ru" : {
@@ -3450,7 +3450,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Exportă evidențierile"
+            "value" : "Exportați evidențierile"
           }
         },
         "ru" : {
@@ -3701,7 +3701,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Exportă notițele"
+            "value" : "Exportați notițele"
           }
         },
         "ru" : {
@@ -3952,7 +3952,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mergi la capitol"
+            "value" : "Mergeți la capitol"
           }
         },
         "ru" : {
@@ -4203,7 +4203,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mergi la pagină"
+            "value" : "Mergeți la pagină"
           }
         },
         "ru" : {
@@ -4454,7 +4454,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Evidențiază"
+            "value" : "Evidențiați"
           }
         },
         "ru" : {
@@ -4705,7 +4705,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Importă cartea"
+            "value" : "Importați cartea"
           }
         },
         "ru" : {
@@ -4956,7 +4956,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Marchează ca citit"
+            "value" : "Marcați drept citit"
           }
         },
         "ru" : {
@@ -5207,7 +5207,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Marchează ca necitit"
+            "value" : "Marcați drept necitit"
           }
         },
         "ru" : {
@@ -5314,7 +5314,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Καρφίτσωσε το βιβλίο"
+            "value" : "Καρφίτσωμα βιβλίου"
           }
         },
         "en" : {
@@ -5458,7 +5458,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fixează cartea"
+            "value" : "Fixați cartea"
           }
         },
         "ru" : {
@@ -5709,7 +5709,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Evaluează cartea"
+            "value" : "Evaluați cartea"
           }
         },
         "ru" : {
@@ -5816,7 +5816,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Διάβασε τώρα"
+            "value" : "Ανάγνωση τώρα"
           }
         },
         "en" : {
@@ -5960,7 +5960,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Citește acum"
+            "value" : "Citiți acum"
           }
         },
         "ru" : {
@@ -5972,7 +5972,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Čítať teraz"
+            "value" : "Prečítať teraz"
           }
         },
         "sv" : {
@@ -6067,7 +6067,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Διάβασε εκτός σύνδεσης"
+            "value" : "Ανάγνωση εκτός σύνδεσης"
           }
         },
         "en" : {
@@ -6211,7 +6211,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Citește offline"
+            "value" : "Citiți offline"
           }
         },
         "ru" : {
@@ -6462,7 +6462,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Elimină marcajul"
+            "value" : "Eliminați marcajul"
           }
         },
         "ru" : {
@@ -6713,7 +6713,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Elimină din bibliotecă"
+            "value" : "Eliminați din bibliotecă"
           }
         },
         "ru" : {
@@ -6964,7 +6964,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Continuă lectura"
+            "value" : "Continuați lectura"
           }
         },
         "ru" : {
@@ -7215,7 +7215,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Salvează marcajul"
+            "value" : "Salvați marcajul"
           }
         },
         "ru" : {
@@ -7466,7 +7466,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Salvează citatul"
+            "value" : "Salvați citatul"
           }
         },
         "ru" : {
@@ -7573,7 +7573,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Όρισε στόχο"
+            "value" : "Ορισμός στόχου"
           }
         },
         "en" : {
@@ -7711,13 +7711,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Definir Meta"
+            "value" : "Definir objetivo"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stabilește obiectivul"
+            "value" : "Stabiliți obiectivul"
           }
         },
         "ru" : {
@@ -7824,7 +7824,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Μοιράσου την πρόοδο"
+            "value" : "Κοινοποίηση προόδου"
           }
         },
         "en" : {
@@ -7962,13 +7962,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Partilhar Progresso"
+            "value" : "Partilhar progresso"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Împărtășește progresul"
+            "value" : "Împărtășiți progresul"
           }
         },
         "ru" : {
@@ -8219,7 +8219,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Începe citirea"
+            "value" : "Începeți citirea"
           }
         },
         "ru" : {
@@ -8470,7 +8470,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sincronizează biblioteca"
+            "value" : "Sincronizați biblioteca"
           }
         },
         "ru" : {
@@ -8577,7 +8577,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Κάνε Σημειώσεις"
+            "value" : "Λήψη σημειώσεων"
           }
         },
         "en" : {
@@ -8673,7 +8673,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ескертпелер жасау"
+            "value" : "Ескертпелер жазу"
           }
         },
         "ko" : {
@@ -8721,7 +8721,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Notează"
+            "value" : "Notați"
           }
         },
         "ru" : {
@@ -8972,7 +8972,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Comută pe modul întunecat"
+            "value" : "Comutați pe modul întunecat"
           }
         },
         "ru" : {
@@ -9223,7 +9223,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vezi marcajele"
+            "value" : "Vedeți marcajele"
           }
         },
         "ru" : {
@@ -20863,7 +20863,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добави отметка…"
+            "value" : "Добавете отметка…"
           }
         },
         "ca" : {
@@ -20887,7 +20887,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lesezeichen hinzufügen…"
+            "value" : "Lesezeichen hinzufügen …"
           }
         },
         "el" : {
@@ -20959,7 +20959,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dodaj oznaku…"
+            "value" : "Dodajte oznaku…"
           }
         },
         "hu" : {
@@ -21037,7 +21037,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adaugă un marcaj…"
+            "value" : "Adăugați un marcaj…"
           }
         },
         "ru" : {
@@ -21091,13 +21091,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "新增書籤…"
+            "value" : "新增書籤⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "新增書籤…"
+            "value" : "新增書籤⋯"
           }
         }
       }
@@ -21115,7 +21115,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добави бележка тук…"
+            "value" : "Добавете бележка тук…"
           }
         },
         "ca" : {
@@ -21139,7 +21139,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Füge hier eine Notiz hinzu…"
+            "value" : "Füge hier eine Notiz hinzu …"
           }
         },
         "el" : {
@@ -21211,7 +21211,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dodaj bilješku ovdje…"
+            "value" : "Dodajte bilješku ovdje…"
           }
         },
         "hu" : {
@@ -21289,7 +21289,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adaugă o notă aici…"
+            "value" : "Adăugați o notă aici…"
           }
         },
         "ru" : {
@@ -21301,7 +21301,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pridaj tu poznámku…"
+            "value" : "Pridajte tu poznámku…"
           }
         },
         "sv" : {
@@ -21343,13 +21343,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "此處新增筆記…"
+            "value" : "此處新增筆記⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在這裡新增筆記…"
+            "value" : "在這裡新增筆記⋯"
           }
         }
       }
@@ -21366,7 +21366,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добави цитат…"
+            "value" : "Добавете цитат…"
           }
         },
         "ca" : {
@@ -21390,7 +21390,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zitat hinzufügen…"
+            "value" : "Zitat hinzufügen …"
           }
         },
         "el" : {
@@ -21462,7 +21462,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dodaj citat…"
+            "value" : "Dodajte citat…"
           }
         },
         "hu" : {
@@ -21540,7 +21540,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adaugă citat…"
+            "value" : "Adăugați citat…"
           }
         },
         "ru" : {
@@ -21594,13 +21594,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "新增引用…"
+            "value" : "新增引用⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "新增引文…"
+            "value" : "新增引文⋯"
           }
         }
       }
@@ -21617,7 +21617,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добави отзив…"
+            "value" : "Добавете отзив…"
           }
         },
         "ca" : {
@@ -21641,7 +21641,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bewertung hinzufügen…"
+            "value" : "Bewertung hinzufügen …"
           }
         },
         "el" : {
@@ -21713,7 +21713,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dodaj recenziju…"
+            "value" : "Dodajte recenziju…"
           }
         },
         "hu" : {
@@ -21791,7 +21791,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adaugă recenzie…"
+            "value" : "Adăugați recenzie…"
           }
         },
         "ru" : {
@@ -21821,7 +21821,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yorum ekle…"
+            "value" : "Yorum ekleyin…"
           }
         },
         "uk" : {
@@ -21845,13 +21845,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "新增評論…"
+            "value" : "新增評論⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "新增評論…"
+            "value" : "新增評論⋯"
           }
         }
       }
@@ -21868,7 +21868,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добави тагове…"
+            "value" : "Добавете тагове…"
           }
         },
         "ca" : {
@@ -21892,7 +21892,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tags hinzufügen…"
+            "value" : "Tags hinzufügen …"
           }
         },
         "el" : {
@@ -21964,7 +21964,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dodaj oznake…"
+            "value" : "Dodajte oznake…"
           }
         },
         "hu" : {
@@ -22042,7 +22042,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adaugă etichete…"
+            "value" : "Adăugați etichete…"
           }
         },
         "ru" : {
@@ -22072,7 +22072,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Etiket ekle…"
+            "value" : "Etiket ekleyin…"
           }
         },
         "uk" : {
@@ -22096,13 +22096,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "新增標籤…"
+            "value" : "新增標籤⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "新增標籤…"
+            "value" : "新增標籤⋯"
           }
         }
       }
@@ -22119,7 +22119,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи името на автора…"
+            "value" : "Въведете името на автора…"
           }
         },
         "ca" : {
@@ -22143,7 +22143,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Autorenname eingeben…"
+            "value" : "Autorenname eingeben …"
           }
         },
         "el" : {
@@ -22191,7 +22191,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de l'auteur…"
+            "value" : "Saisir le nom de l'auteur…"
           }
         },
         "fr-CA" : {
@@ -22215,13 +22215,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi ime autora…"
+            "value" : "Unesite ime autora…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a szerző nevét…"
+            "value" : "Adja meg a szerző nevét…"
           }
         },
         "id" : {
@@ -22293,19 +22293,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu numele autorului…"
+            "value" : "Introduceți numele autorului…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи имя автора…"
+            "value" : "Введите имя автора…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj meno autora…"
+            "value" : "Zadajte meno autora…"
           }
         },
         "sv" : {
@@ -22323,7 +22323,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yazarın adını gir…"
+            "value" : "Yazarın adını girin…"
           }
         },
         "uk" : {
@@ -22347,13 +22347,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入作者姓名…"
+            "value" : "輸入作者姓名⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入作者名稱…"
+            "value" : "輸入作者名稱⋯"
           }
         }
       }
@@ -22370,7 +22370,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи заглавието на книгата…"
+            "value" : "Въведете заглавието на книгата…"
           }
         },
         "ca" : {
@@ -22394,7 +22394,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buchtitel eingeben…"
+            "value" : "Buchtitel eingeben …"
           }
         },
         "el" : {
@@ -22442,13 +22442,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le titre du livre…"
+            "value" : "Saisir le titre du livre…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le titre du livre…"
+            "value" : "Entrer le titre du livre…"
           }
         },
         "he" : {
@@ -22466,13 +22466,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi naslov knjige…"
+            "value" : "Unesite naslov knjige…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a könyv címét…"
+            "value" : "Adja meg a könyv címét…"
           }
         },
         "id" : {
@@ -22544,19 +22544,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu titlul cărții…"
+            "value" : "Introduceți titlul cărții…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи название книги…"
+            "value" : "Введите название книги…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj názov knihy…"
+            "value" : "Zadajte názov knihy…"
           }
         },
         "sv" : {
@@ -22574,7 +22574,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kitap adını gir…"
+            "value" : "Kitap adını girin…"
           }
         },
         "uk" : {
@@ -22598,13 +22598,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入書名…"
+            "value" : "輸入書名⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入書名…"
+            "value" : "輸入書名⋯"
           }
         }
       }
@@ -22621,7 +22621,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи името на главата…"
+            "value" : "Въведете името на главата…"
           }
         },
         "ca" : {
@@ -22645,7 +22645,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kapitelname eingeben…"
+            "value" : "Kapitelname eingeben …"
           }
         },
         "el" : {
@@ -22693,13 +22693,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom du chapitre…"
+            "value" : "Saisir le nom du chapitre…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom du chapitre…"
+            "value" : "Entrer le nom du chapitre…"
           }
         },
         "he" : {
@@ -22717,13 +22717,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi ime poglavlja…"
+            "value" : "Unesite ime poglavlja…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a fejezet nevét…"
+            "value" : "Adja meg a fejezet nevét…"
           }
         },
         "id" : {
@@ -22795,19 +22795,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu numele capitolului…"
+            "value" : "Introduceți numele capitolului…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи название главы…"
+            "value" : "Введите название главы…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj názov kapitoly…"
+            "value" : "Zadajte názov kapitoly…"
           }
         },
         "sv" : {
@@ -22825,7 +22825,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bölüm adını gir…"
+            "value" : "Bölüm adını girin…"
           }
         },
         "uk" : {
@@ -22849,13 +22849,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入章節名稱…"
+            "value" : "輸入章節名稱⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入章節名稱…"
+            "value" : "輸入章節名稱⋯"
           }
         }
       }
@@ -22872,7 +22872,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи името на колекцията…"
+            "value" : "Въведете името на колекцията…"
           }
         },
         "ca" : {
@@ -22896,7 +22896,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sammlungsname eingeben…"
+            "value" : "Sammlungsname eingeben …"
           }
         },
         "el" : {
@@ -22944,13 +22944,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de la collection…"
+            "value" : "Saisir le nom de la collection…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de la collection…"
+            "value" : "Entrer le nom de la collection…"
           }
         },
         "he" : {
@@ -22968,13 +22968,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi naziv zbirke…"
+            "value" : "Unesite naziv zbirke…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a gyűjtemény nevét…"
+            "value" : "Adja meg a gyűjtemény nevét…"
           }
         },
         "id" : {
@@ -23046,19 +23046,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu numele colecției…"
+            "value" : "Introduceți numele colecției…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи название коллекции…"
+            "value" : "Введите название коллекции…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj názov kolekcie…"
+            "value" : "Zadajte názov kolekcie…"
           }
         },
         "sv" : {
@@ -23076,7 +23076,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Koleksiyon adını gir…"
+            "value" : "Koleksiyon adını girin…"
           }
         },
         "uk" : {
@@ -23100,13 +23100,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入收藏名稱…"
+            "value" : "輸入收藏名稱⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入收藏名稱…"
+            "value" : "輸入收藏名稱⋯"
           }
         }
       }
@@ -23123,7 +23123,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи жанр…"
+            "value" : "Въведете жанр…"
           }
         },
         "ca" : {
@@ -23147,7 +23147,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Genre eingeben…"
+            "value" : "Genre eingeben …"
           }
         },
         "el" : {
@@ -23195,13 +23195,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez un genre…"
+            "value" : "Saisir un genre…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le genre…"
+            "value" : "Entrer le genre…"
           }
         },
         "he" : {
@@ -23219,13 +23219,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi žanr…"
+            "value" : "Unesite žanr…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a műfajt…"
+            "value" : "Adja meg a műfajt…"
           }
         },
         "id" : {
@@ -23297,19 +23297,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu genul…"
+            "value" : "Introduceți genul…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи жанр…"
+            "value" : "Введите жанр…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj žáner…"
+            "value" : "Zadajte žáner…"
           }
         },
         "sv" : {
@@ -23327,7 +23327,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Türü gir…"
+            "value" : "Türü girin…"
           }
         },
         "uk" : {
@@ -23351,13 +23351,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "請輸入類型…"
+            "value" : "請輸入類型⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入類型…"
+            "value" : "輸入類型⋯"
           }
         }
       }
@@ -23375,7 +23375,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи ISBN…"
+            "value" : "Въведете ISBN…"
           }
         },
         "ca" : {
@@ -23399,13 +23399,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ISBN eingeben…"
+            "value" : "ISBN eingeben …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Βάλε ISBN…"
+            "value" : "Βάλτε ISBN…"
           }
         },
         "en" : {
@@ -23447,13 +23447,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez l'ISBN…"
+            "value" : "Saisir l'ISBN…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez l'ISBN…"
+            "value" : "Entrer l'ISBN…"
           }
         },
         "he" : {
@@ -23471,13 +23471,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi ISBN…"
+            "value" : "Unesite ISBN…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be az ISBN-t…"
+            "value" : "Adja meg az ISBN-t…"
           }
         },
         "id" : {
@@ -23549,19 +23549,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu ISBN…"
+            "value" : "Introduceți ISBN…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи ISBN…"
+            "value" : "Введите ISBN…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj ISBN…"
+            "value" : "Zadajte ISBN…"
           }
         },
         "sv" : {
@@ -23603,13 +23603,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入 ISBN…"
+            "value" : "輸入 ISBN⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入 ISBN…"
+            "value" : "輸入 ISBN⋯"
           }
         }
       }
@@ -23626,7 +23626,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи номер на страницата…"
+            "value" : "Въведете номер на страницата…"
           }
         },
         "ca" : {
@@ -23650,13 +23650,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Seitenzahl eingeben…"
+            "value" : "Seitenzahl eingeben …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Βάλε αριθμό σελίδας…"
+            "value" : "Βάλτε αριθμό σελίδας…"
           }
         },
         "en" : {
@@ -23698,13 +23698,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le numéro de page…"
+            "value" : "Saisir le numéro de page…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le numéro de la page…"
+            "value" : "Entrer le numéro de la page…"
           }
         },
         "he" : {
@@ -23722,13 +23722,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi broj stranice…"
+            "value" : "Unesite broj stranice…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be az oldalszámot…"
+            "value" : "Adja meg az oldalszámot…"
           }
         },
         "id" : {
@@ -23800,19 +23800,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu numărul paginii…"
+            "value" : "Introduceți numărul paginii…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи номер страницы…"
+            "value" : "Введите номер страницы…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj číslo stránky…"
+            "value" : "Zadajte číslo stránky…"
           }
         },
         "sv" : {
@@ -23854,13 +23854,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "請輸入頁碼…"
+            "value" : "請輸入頁碼⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入頁碼…"
+            "value" : "輸入頁碼⋯"
           }
         }
       }
@@ -23877,7 +23877,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи името на издателя…"
+            "value" : "Въведете името на издателя…"
           }
         },
         "ca" : {
@@ -23901,13 +23901,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gib den Verlag ein…"
+            "value" : "Gib den Verlag ein …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Βάλε τον εκδότη…"
+            "value" : "Βάλτε τον εκδότη…"
           }
         },
         "en" : {
@@ -23949,13 +23949,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez l'éditeur…"
+            "value" : "Saisir l'éditeur…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisissez le nom de l'éditeur…"
+            "value" : "Saisir le nom de l'éditeur…"
           }
         },
         "he" : {
@@ -23973,13 +23973,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi izdavača…"
+            "value" : "Unesite izdavača…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a kiadó nevét…"
+            "value" : "Adja meg a kiadó nevét…"
           }
         },
         "id" : {
@@ -24051,19 +24051,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu editura…"
+            "value" : "Introduceți editura…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи издателя…"
+            "value" : "Введите издателя…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj vydavateľa…"
+            "value" : "Zadajte vydavateľa…"
           }
         },
         "sv" : {
@@ -24105,13 +24105,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入出版商名稱…"
+            "value" : "輸入出版商名稱⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入出版社…"
+            "value" : "輸入出版社⋯"
           }
         }
       }
@@ -24128,7 +24128,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи цитат…"
+            "value" : "Въведете цитат…"
           }
         },
         "ca" : {
@@ -24152,13 +24152,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gib das Zitat ein…"
+            "value" : "Gib das Zitat ein …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Βάλε απόσπασμα…"
+            "value" : "Βάλτε απόσπασμα…"
           }
         },
         "en" : {
@@ -24200,13 +24200,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez une citation…"
+            "value" : "Saisir une citation…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisissez la citation…"
+            "value" : "Saisir la citation…"
           }
         },
         "he" : {
@@ -24224,13 +24224,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi citat…"
+            "value" : "Unesite citat…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be az idézetet…"
+            "value" : "Adja meg az idézetet…"
           }
         },
         "id" : {
@@ -24302,19 +24302,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu citatul…"
+            "value" : "Introduceți citatul…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи цитату…"
+            "value" : "Введите цитату…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj citát…"
+            "value" : "Zadajte citát…"
           }
         },
         "sv" : {
@@ -24356,13 +24356,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入引述…"
+            "value" : "輸入引述⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入引文…"
+            "value" : "輸入引文⋯"
           }
         }
       }
@@ -24379,7 +24379,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи цел за четене…"
+            "value" : "Въведете цел за четене…"
           }
         },
         "ca" : {
@@ -24403,13 +24403,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gib das Leseziel ein…"
+            "value" : "Gib das Leseziel ein …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Βάλε τον στόχο ανάγνωσης…"
+            "value" : "Βάλτε τον στόχο ανάγνωσης…"
           }
         },
         "en" : {
@@ -24451,13 +24451,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez votre objectif de lecture…"
+            "value" : "Saisir votre objectif de lecture…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisissez votre objectif de lecture…"
+            "value" : "Saisir votre objectif de lecture…"
           }
         },
         "he" : {
@@ -24475,13 +24475,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi cilj čitanja…"
+            "value" : "Unesite cilj čitanja…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be az olvasási célt…"
+            "value" : "Adja meg az olvasási célt…"
           }
         },
         "id" : {
@@ -24553,19 +24553,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu obiectivul de lectură…"
+            "value" : "Introduceți obiectivul de lectură…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи цель чтения…"
+            "value" : "Введите цель чтения…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj cieľ čítania…"
+            "value" : "Zadajte cieľ čítania…"
           }
         },
         "sv" : {
@@ -24607,13 +24607,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入閱讀目標…"
+            "value" : "輸入閱讀目標⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入閱讀目標…"
+            "value" : "輸入閱讀目標⋯"
           }
         }
       }
@@ -24654,7 +24654,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nach Autor suchen…"
+            "value" : "Nach Autor suchen …"
           }
         },
         "el" : {
@@ -24726,7 +24726,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pretraži autora…"
+            "value" : "Pretražite autora…"
           }
         },
         "hu" : {
@@ -24804,13 +24804,13 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caută autor…"
+            "value" : "Căutați autor…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ищи автора…"
+            "value" : "Ищите автора…"
           }
         },
         "sk" : {
@@ -24858,13 +24858,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋作者…"
+            "value" : "搜尋作者⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋作者…"
+            "value" : "搜尋作者⋯"
           }
         }
       }
@@ -24905,7 +24905,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nach Genre suchen…"
+            "value" : "Nach Genre suchen …"
           }
         },
         "el" : {
@@ -24977,7 +24977,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pretraži prema žanru…"
+            "value" : "Pretražite prema žanru…"
           }
         },
         "hu" : {
@@ -25055,13 +25055,13 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caută după gen…"
+            "value" : "Căutați după gen…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ищи по жанру…"
+            "value" : "Ищите по жанру…"
           }
         },
         "sk" : {
@@ -25109,13 +25109,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "按類型搜尋…"
+            "value" : "按類型搜尋⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "按類型搜尋…"
+            "value" : "按類型搜尋⋯"
           }
         }
       }
@@ -25157,7 +25157,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nach ISBN suchen…"
+            "value" : "Nach ISBN suchen …"
           }
         },
         "el" : {
@@ -25229,7 +25229,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pretraži po ISBN-u…"
+            "value" : "Pretražite po ISBN-u…"
           }
         },
         "hu" : {
@@ -25253,7 +25253,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ISBNで検索..."
+            "value" : "ISBNで検索…"
           }
         },
         "kk" : {
@@ -25307,7 +25307,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caută după ISBN…"
+            "value" : "Căutați după ISBN…"
           }
         },
         "ru" : {
@@ -25361,13 +25361,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "透過ISBN搜尋…"
+            "value" : "透過ISBN搜尋⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "按 ISBN 搜尋…"
+            "value" : "按 ISBN 搜尋⋯"
           }
         }
       }
@@ -25408,7 +25408,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bibliothek durchsuchen…"
+            "value" : "Bibliothek durchsuchen …"
           }
         },
         "el" : {
@@ -25480,7 +25480,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pretraži knjižnicu…"
+            "value" : "Pretražite knjižnicu…"
           }
         },
         "hu" : {
@@ -25558,13 +25558,13 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caută în bibliotecă…"
+            "value" : "Căutați în bibliotecă…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ищи в библиотеке…"
+            "value" : "Ищите в библиотеке…"
           }
         },
         "sk" : {
@@ -25612,13 +25612,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋圖書館…"
+            "value" : "搜尋圖書館⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋書庫…"
+            "value" : "搜尋書庫⋯"
           }
         }
       }
@@ -25636,7 +25636,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Напиши отзив…"
+            "value" : "Напишете отзив…"
           }
         },
         "ca" : {
@@ -25660,7 +25660,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Schreibe eine Bewertung…"
+            "value" : "Schreibe eine Bewertung …"
           }
         },
         "el" : {
@@ -25732,13 +25732,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Napiši recenziju…"
+            "value" : "Napišite recenziju…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írj véleményt…"
+            "value" : "Írjon véleményt…"
           }
         },
         "id" : {
@@ -25756,7 +25756,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "レビューを書く..."
+            "value" : "レビューを書く…"
           }
         },
         "kk" : {
@@ -25810,19 +25810,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scrie o recenzie…"
+            "value" : "Scrieți o recenzie…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Напиши отзыв…"
+            "value" : "Напишите отзыв…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Napíš recenziu…"
+            "value" : "Napíšte recenziu…"
           }
         },
         "sv" : {
@@ -25840,7 +25840,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yorum yaz…"
+            "value" : "Yorum yazın…"
           }
         },
         "uk" : {
@@ -25864,13 +25864,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "寫評論…"
+            "value" : "寫評論⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "寫評論…"
+            "value" : "寫評論⋯"
           }
         }
       }

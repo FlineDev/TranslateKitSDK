@@ -187,7 +187,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rezervă"
+            "value" : "Rezervați"
           }
         },
         "ru" : {
@@ -366,7 +366,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Foglalj most"
+            "value" : "Foglalás most"
           }
         },
         "id" : {
@@ -438,7 +438,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rezervă acum"
+            "value" : "Rezervați acum"
           }
         },
         "ru" : {
@@ -689,7 +689,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Răsfoiește"
+            "value" : "Răsfoiți"
           }
         },
         "ru" : {
@@ -940,7 +940,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sună"
+            "value" : "Apelați"
           }
         },
         "ru" : {
@@ -1191,7 +1191,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Verifică Starea Zborului"
+            "value" : "Verificați Starea Zborului"
           }
         },
         "ru" : {
@@ -1944,7 +1944,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Compară"
+            "value" : "Comparați"
           }
         },
         "ru" : {
@@ -2195,7 +2195,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Descarcă harta offline"
+            "value" : "Descărcați harta offline"
           }
         },
         "ru" : {
@@ -2446,7 +2446,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Explorează"
+            "value" : "Explorați"
           }
         },
         "ru" : {
@@ -2697,7 +2697,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adaugă la favorite"
+            "value" : "Adăugați la favorite"
           }
         },
         "ru" : {
@@ -2948,7 +2948,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Filtrează rezultatele"
+            "value" : "Filtrați rezultatele"
           }
         },
         "ru" : {
@@ -3037,7 +3037,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Najdi v okolí"
+            "value" : "Najít v okolí"
           }
         },
         "da" : {
@@ -3055,7 +3055,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Βρες Κοντινά"
+            "value" : "Εύρεση κοντινών"
           }
         },
         "en" : {
@@ -3199,7 +3199,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Găsește în apropiere"
+            "value" : "Găsiți în apropiere"
           }
         },
         "ru" : {
@@ -3229,7 +3229,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yakındakileri Bul"
+            "value" : "Yakınları Bul"
           }
         },
         "uk" : {
@@ -3306,7 +3306,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Πάρε Οδηγίες"
+            "value" : "Λήψη οδηγιών"
           }
         },
         "en" : {
@@ -3378,7 +3378,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Útvonalterv"
+            "value" : "Útvonaltervek"
           }
         },
         "id" : {
@@ -3450,7 +3450,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Obține direcții"
+            "value" : "Obțineți direcții"
           }
         },
         "ru" : {
@@ -3486,7 +3486,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Отримати напрямки"
+            "value" : "Отримати вказівки"
           }
         },
         "vi" : {
@@ -3701,7 +3701,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Navighează"
+            "value" : "Navighați"
           }
         },
         "ru" : {
@@ -3808,7 +3808,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Σχεδίασε ένα Ταξίδι"
+            "value" : "Σχεδιασμός ταξιδιού"
           }
         },
         "en" : {
@@ -3952,7 +3952,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Planifică o călătorie"
+            "value" : "Planificați o călătorie"
           }
         },
         "ru" : {
@@ -4203,7 +4203,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tipărește biletul"
+            "value" : "Tipăriți biletul"
           }
         },
         "ru" : {
@@ -4310,7 +4310,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Βαθμολόγησε"
+            "value" : "Βαθμολόγηση"
           }
         },
         "en" : {
@@ -4448,13 +4448,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Avaliar"
+            "value" : "Classificar"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Evaluează"
+            "value" : "Evaluați"
           }
         },
         "ru" : {
@@ -4705,7 +4705,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rezervă"
+            "value" : "Rezervați"
           }
         },
         "ru" : {
@@ -4956,7 +4956,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rezervă o masă"
+            "value" : "Rezervați o masă"
           }
         },
         "ru" : {
@@ -5207,7 +5207,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rezervă hotel"
+            "value" : "Rezervați hotel"
           }
         },
         "ru" : {
@@ -5314,7 +5314,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Κάνε κριτική"
+            "value" : "Κριτική"
           }
         },
         "en" : {
@@ -5458,7 +5458,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lasă o recenzie"
+            "value" : "Lăsați o recenzie"
           }
         },
         "ru" : {
@@ -5709,7 +5709,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scanează"
+            "value" : "Scanați"
           }
         },
         "ru" : {
@@ -5960,7 +5960,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scanează cod QR"
+            "value" : "Scanați cod QR"
           }
         },
         "ru" : {
@@ -6067,7 +6067,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Μοιράσου την τοποθεσία"
+            "value" : "Κοινοποίηση τοποθεσίας"
           }
         },
         "en" : {
@@ -6211,7 +6211,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Împărtășește locația"
+            "value" : "Împărtășiți locația"
           }
         },
         "ru" : {
@@ -6318,7 +6318,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ξεκίνησε Πλοήγηση"
+            "value" : "Έναρξη πλοήγησης"
           }
         },
         "en" : {
@@ -6462,7 +6462,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Începe navigația"
+            "value" : "Începeți navigația"
           }
         },
         "ru" : {
@@ -6713,7 +6713,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Urmărește zborul"
+            "value" : "Urmăriți zborul"
           }
         },
         "ru" : {
@@ -6820,7 +6820,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Παρακολούθησε Παραγγελία"
+            "value" : "Παρακολούθηση παραγγελίας"
           }
         },
         "en" : {
@@ -6964,13 +6964,13 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Urmărește comanda"
+            "value" : "Urmăriți comanda"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Отслеживать заказ"
+            "value" : "Отследить заказ"
           }
         },
         "sk" : {
@@ -7071,7 +7071,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Παρακολούθησε την Πρόοδο"
+            "value" : "Παρακολούθηση προόδου"
           }
         },
         "en" : {
@@ -7167,7 +7167,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ілгерілеуді бақылау"
+            "value" : "Прогресті бақылау"
           }
         },
         "ko" : {
@@ -7209,13 +7209,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Acompanhar Progresso"
+            "value" : "Acompanhar progresso"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Urmărește progresul"
+            "value" : "Urmăriți progresul"
           }
         },
         "ru" : {
@@ -7466,7 +7466,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tradu"
+            "value" : "Traduceți"
           }
         },
         "ru" : {
@@ -7717,7 +7717,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Elimină din favorite"
+            "value" : "Eliminați din favorite"
           }
         },
         "ru" : {
@@ -7794,7 +7794,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Преглед на часовата прогноза"
+            "value" : "Виж часовата прогноза"
           }
         },
         "ca" : {
@@ -7824,7 +7824,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Δες Ωριαία Πρόγνωση"
+            "value" : "Προβολή ωριαίας πρόγνωσης"
           }
         },
         "en" : {
@@ -7968,7 +7968,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vezi prognoza orară"
+            "value" : "Vedeți prognoza orară"
           }
         },
         "ru" : {
@@ -8045,7 +8045,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Преглед на обяви"
+            "value" : "Виж обявите"
           }
         },
         "ca" : {
@@ -8075,7 +8075,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Δες Καταχωρίσεις"
+            "value" : "Προβολή καταχωρίσεων"
           }
         },
         "en" : {
@@ -8219,7 +8219,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vezi anunțurile"
+            "value" : "Vedeți anunțurile"
           }
         },
         "ru" : {
@@ -8296,7 +8296,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Преглед на седмичната прогноза"
+            "value" : "Виж седмичната прогноза"
           }
         },
         "ca" : {
@@ -8326,7 +8326,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Δες Εβδομαδιαία Πρόγνωση"
+            "value" : "Προβολή εβδομαδιαίας πρόγνωσης"
           }
         },
         "en" : {
@@ -8470,7 +8470,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vezi prognoza săptămânală"
+            "value" : "Vedeți prognoza săptămânală"
           }
         },
         "ru" : {
@@ -13143,7 +13143,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Conducteur·trice"
+            "value" : "Conducteur"
           }
         },
         "he" : {
@@ -16406,7 +16406,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Voyageur·euse"
+            "value" : "Voyageur"
           }
         },
         "he" : {
@@ -19112,7 +19112,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ve tvé oblasti je varování před extrémním počasím."
+            "value" : "Ve vaší oblasti je varování před extrémním počasím."
           }
         },
         "da" : {
@@ -19202,7 +19202,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Súlyos időjárási figyelmeztetés a környékeden."
+            "value" : "Súlyos időjárási figyelmeztetés a környékén."
           }
         },
         "id" : {
@@ -19256,7 +19256,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ostrzeżenie przed ekstremalnymi warunkami pogodowymi w twoim rejonie."
+            "value" : "Ostrzeżenie przed ekstremalnymi warunkami pogodowymi w Twoim rejonie."
           }
         },
         "pt-BR" : {
@@ -19268,19 +19268,19 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alerta de mau tempo na sua área."
+            "value" : "Alerta de mau tempo na área."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alertă meteo severă în zona ta."
+            "value" : "Alertă meteo severă în zona dvs."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Штормовое предупреждение в вашем районе."
+            "value" : "Штормовое предупреждение в Вашем районе."
           }
         },
         "sk" : {
@@ -19508,7 +19508,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Przed tobą korki. Spodziewaj się opóźnień."
+            "value" : "Przed Tobą korki. Spodziewaj się opóźnień."
           }
         },
         "pt-BR" : {
@@ -19520,13 +19520,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Congestionamento de trânsito à frente. Espera atrasos."
+            "value" : "Congestionamento de trânsito à frente. Espere atrasos."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trafic aglomerat în față. Așteaptă întârzieri."
+            "value" : "Trafic aglomerat în față. Așteptați întârzieri."
           }
         },
         "ru" : {
@@ -19706,13 +19706,13 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A foglalásod megerősítve."
+            "value" : "A foglalása megerősítve."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pemesananmu telah dikonfirmasi."
+            "value" : "Pemesanan Anda telah dikonfirmasi."
           }
         },
         "it" : {
@@ -19772,25 +19772,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A tua reserva foi confirmada."
+            "value" : "A reserva foi confirmada."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rezervarea ta a fost confirmată."
+            "value" : "Rezervarea dvs. a fost confirmată."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Твоя бронь подтверждена."
+            "value" : "Ваша бронь подтверждена."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tvoja rezervácia bola potvrdená."
+            "value" : "Vaša rezervácia bola potvrdená."
           }
         },
         "sv" : {
@@ -19868,7 +19868,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tvůj let byl zpožděn."
+            "value" : "Váš let byl zpožděn."
           }
         },
         "da" : {
@@ -19958,13 +19958,13 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A járatod késik."
+            "value" : "A járata késik."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Penerbanganmu telah ditunda."
+            "value" : "Penerbangan Anda telah ditunda."
           }
         },
         "it" : {
@@ -20024,25 +20024,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "O teu voo foi adiado."
+            "value" : "O voo foi adiado."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zborul tău a fost întârziat."
+            "value" : "Zborul dvs. a fost întârziat."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Твой рейс задерживается."
+            "value" : "Ваш рейс задерживается."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tvoj let bol oneskorený."
+            "value" : "Váš let bol oneskorený."
           }
         },
         "sv" : {
@@ -20120,7 +20120,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tvoje jízda je na cestě."
+            "value" : "Vaše jízda je na cestě."
           }
         },
         "da" : {
@@ -20210,13 +20210,13 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Az autód úton van."
+            "value" : "Az autója úton van."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tumpanganmu sedang dalam perjalanan."
+            "value" : "Tumpangan Anda sedang dalam perjalanan."
           }
         },
         "it" : {
@@ -20276,25 +20276,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "A tua viagem está a caminho."
+            "value" : "A viagem está a caminho."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cursa ta este pe drum."
+            "value" : "Cursa dvs. este pe drum."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Твоя поездка в пути."
+            "value" : "Ваша поездка в пути."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tvoja jazda je na ceste."
+            "value" : "Vaša jazda je na ceste."
           }
         },
         "sv" : {
@@ -20312,7 +20312,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aracın yolda."
+            "value" : "Aracınız yolda."
           }
         },
         "uk" : {
@@ -20359,7 +20359,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Добави забележка за доставка…"
+            "value" : "Добавете забележка за доставка…"
           }
         },
         "ca" : {
@@ -20383,7 +20383,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lieferhinweis hinzufügen…"
+            "value" : "Lieferhinweis hinzufügen …"
           }
         },
         "el" : {
@@ -20455,13 +20455,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dodaj posebne upute za dostavu…"
+            "value" : "Dodajte posebne upute za dostavu…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adj meg szállítási megjegyzést…"
+            "value" : "Szállítási megjegyzés megadása…"
           }
         },
         "id" : {
@@ -20533,7 +20533,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adaugă o notă de livrare…"
+            "value" : "Adăugați o notă de livrare…"
           }
         },
         "ru" : {
@@ -20563,7 +20563,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Teslimat notu ekle…"
+            "value" : "Teslimat notu ekleyin…"
           }
         },
         "uk" : {
@@ -20587,13 +20587,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "新增運送說明…"
+            "value" : "新增運送說明⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "新增送貨備註…"
+            "value" : "新增送貨備註⋯"
           }
         }
       }
@@ -20634,7 +20634,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Route wird berechnet…"
+            "value" : "Route wird berechnet …"
           }
         },
         "el" : {
@@ -20838,13 +20838,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在計算路線…"
+            "value" : "正在計算路線⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在計算路線…"
+            "value" : "正在計算路線⋯"
           }
         }
       }
@@ -20885,7 +20885,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Check-in-Datum…"
+            "value" : "Check-in-Datum …"
           }
         },
         "el" : {
@@ -21089,13 +21089,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "入住日期…"
+            "value" : "入住日期⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "入住日期…"
+            "value" : "入住日期⋯"
           }
         }
       }
@@ -21136,7 +21136,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Check-out-Datum…"
+            "value" : "Check-out-Datum …"
           }
         },
         "el" : {
@@ -21340,13 +21340,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "退房日期…"
+            "value" : "退房日期⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "退房日期…"
+            "value" : "退房日期⋯"
           }
         }
       }
@@ -21363,7 +21363,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Избери категория…"
+            "value" : "Изберете категория…"
           }
         },
         "ca" : {
@@ -21387,7 +21387,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kategorie auswählen…"
+            "value" : "Kategorie auswählen …"
           }
         },
         "el" : {
@@ -21459,13 +21459,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Odaberi kategoriju…"
+            "value" : "Odaberite kategoriju…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Válassz ki egy kategóriát…"
+            "value" : "Válasszon ki egy kategóriát…"
           }
         },
         "id" : {
@@ -21537,13 +21537,13 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alege o categorie…"
+            "value" : "Alegeți o categorie…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Выбери категорию…"
+            "value" : "Выберите категорию…"
           }
         },
         "sk" : {
@@ -21567,7 +21567,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bir kategori seç…"
+            "value" : "Bir kategori seçin…"
           }
         },
         "uk" : {
@@ -21591,13 +21591,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "選擇一個類別…"
+            "value" : "選擇一個類別⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "選擇類別…"
+            "value" : "選擇類別⋯"
           }
         }
       }
@@ -21638,7 +21638,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zielstadt…"
+            "value" : "Zielstadt …"
           }
         },
         "el" : {
@@ -21842,13 +21842,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "目的地城市…"
+            "value" : "目的地城市⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "目的地城市…"
+            "value" : "目的地城市⋯"
           }
         }
       }
@@ -21865,7 +21865,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи адрес…"
+            "value" : "Въведете адрес…"
           }
         },
         "ca" : {
@@ -21889,7 +21889,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adresse eingeben…"
+            "value" : "Adresse eingeben …"
           }
         },
         "el" : {
@@ -21937,7 +21937,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez l'adresse…"
+            "value" : "Saisir l'adresse…"
           }
         },
         "fr-CA" : {
@@ -21961,13 +21961,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi adresu…"
+            "value" : "Unesite adresu…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Add meg a címet…"
+            "value" : "Adja meg a címet…"
           }
         },
         "id" : {
@@ -22039,13 +22039,13 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu adresa…"
+            "value" : "Introduceți adresa…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи адрес…"
+            "value" : "Введите адрес…"
           }
         },
         "sk" : {
@@ -22069,7 +22069,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adres gir…"
+            "value" : "Adres girin…"
           }
         },
         "uk" : {
@@ -22093,13 +22093,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入地址…"
+            "value" : "輸入地址⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入地址…"
+            "value" : "輸入地址⋯"
           }
         }
       }
@@ -22116,7 +22116,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи име на град…"
+            "value" : "Въведете име на град…"
           }
         },
         "ca" : {
@@ -22140,7 +22140,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stadtname eingeben…"
+            "value" : "Stadtname eingeben …"
           }
         },
         "el" : {
@@ -22188,13 +22188,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de la ville…"
+            "value" : "Saisir le nom de la ville…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de la ville…"
+            "value" : "Entrer le nom de la ville…"
           }
         },
         "he" : {
@@ -22212,13 +22212,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi naziv grada…"
+            "value" : "Unesite naziv grada…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a város nevét…"
+            "value" : "Adja meg a város nevét…"
           }
         },
         "id" : {
@@ -22290,19 +22290,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu numele orașului…"
+            "value" : "Introduceți numele orașului…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи название города…"
+            "value" : "Введите название города…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj názov mesta…"
+            "value" : "Zadajte názov mesta…"
           }
         },
         "sv" : {
@@ -22320,7 +22320,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Şehir adını gir…"
+            "value" : "Şehir adını girin…"
           }
         },
         "uk" : {
@@ -22344,13 +22344,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入城市名稱…"
+            "value" : "輸入城市名稱⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入城市名稱…"
+            "value" : "輸入城市名稱⋯"
           }
         }
       }
@@ -22367,7 +22367,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи град или квартал…"
+            "value" : "Въведете град или квартал…"
           }
         },
         "ca" : {
@@ -22391,7 +22391,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stadt oder Nachbarschaft eingeben…"
+            "value" : "Stadt oder Nachbarschaft eingeben …"
           }
         },
         "el" : {
@@ -22439,13 +22439,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez la ville ou le quartier…"
+            "value" : "Saisir la ville ou le quartier…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez la ville ou le quartier…"
+            "value" : "Entrer la ville ou le quartier…"
           }
         },
         "he" : {
@@ -22463,13 +22463,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi grad ili četvrt…"
+            "value" : "Unesite grad ili četvrt…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a város vagy környék nevét…"
+            "value" : "Adja meg a város vagy környék nevét…"
           }
         },
         "id" : {
@@ -22541,19 +22541,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu orașul sau cartierul…"
+            "value" : "Introduceți orașul sau cartierul…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи город или район…"
+            "value" : "Введите город или район…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj mesto alebo štvrť…"
+            "value" : "Zadajte mesto alebo štvrť…"
           }
         },
         "sv" : {
@@ -22571,7 +22571,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Şehir veya mahalle gir…"
+            "value" : "Şehir veya mahalle girin…"
           }
         },
         "uk" : {
@@ -22595,13 +22595,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入城市或鄰里…"
+            "value" : "輸入城市或鄰里⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入城市或地區…"
+            "value" : "輸入城市或地區⋯"
           }
         }
       }
@@ -22618,7 +22618,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи номера за потвърждение…"
+            "value" : "Въведете номера за потвърждение…"
           }
         },
         "ca" : {
@@ -22642,7 +22642,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bestätigungsnummer eingeben…"
+            "value" : "Bestätigungsnummer eingeben …"
           }
         },
         "el" : {
@@ -22690,13 +22690,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le numéro de confirmation…"
+            "value" : "Saisir le numéro de confirmation…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le numéro de confirmation…"
+            "value" : "Entrer le numéro de confirmation…"
           }
         },
         "he" : {
@@ -22714,13 +22714,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi broj potvrde…"
+            "value" : "Unesite broj potvrde…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a visszaigazolási számot…"
+            "value" : "Adja meg a visszaigazolási számot…"
           }
         },
         "id" : {
@@ -22792,19 +22792,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu numărul de confirmare…"
+            "value" : "Introduceți numărul de confirmare…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи номер подтверждения…"
+            "value" : "Введите номер подтверждения…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj číslo potvrdenia…"
+            "value" : "Zadajte číslo potvrdenia…"
           }
         },
         "sv" : {
@@ -22822,7 +22822,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Onay numarasını gir…"
+            "value" : "Onay numarasını girin…"
           }
         },
         "uk" : {
@@ -22846,13 +22846,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入確認號碼…"
+            "value" : "輸入確認號碼⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入確認編號…"
+            "value" : "輸入確認編號⋯"
           }
         }
       }
@@ -22869,7 +22869,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи дестинация…"
+            "value" : "Въведете дестинация…"
           }
         },
         "ca" : {
@@ -22893,7 +22893,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zielort eingeben…"
+            "value" : "Zielort eingeben …"
           }
         },
         "el" : {
@@ -22947,7 +22947,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez la destination…"
+            "value" : "Entrer la destination…"
           }
         },
         "he" : {
@@ -22965,13 +22965,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi odredište…"
+            "value" : "Unesite odredište…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a célt…"
+            "value" : "Adja meg a célt…"
           }
         },
         "id" : {
@@ -23043,19 +23043,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu destinația…"
+            "value" : "Introduceți destinația…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи пункт назначения…"
+            "value" : "Введите пункт назначения…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj cieľ…"
+            "value" : "Zadajte cieľ…"
           }
         },
         "sv" : {
@@ -23073,7 +23073,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Varış noktasını gir…"
+            "value" : "Varış noktasını girin…"
           }
         },
         "uk" : {
@@ -23097,13 +23097,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入目的地…"
+            "value" : "輸入目的地⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入目的地…"
+            "value" : "輸入目的地⋯"
           }
         }
       }
@@ -23120,7 +23120,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи номер на полет…"
+            "value" : "Въведете номер на полет…"
           }
         },
         "ca" : {
@@ -23144,7 +23144,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Flugnummer eingeben…"
+            "value" : "Flugnummer eingeben …"
           }
         },
         "el" : {
@@ -23192,13 +23192,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le numéro de vol…"
+            "value" : "Saisir le numéro de vol…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le numéro de vol…"
+            "value" : "Entrer le numéro de vol…"
           }
         },
         "he" : {
@@ -23216,13 +23216,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi broj leta…"
+            "value" : "Unesite broj leta…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a járatszámot…"
+            "value" : "Adja meg a járatszámot…"
           }
         },
         "id" : {
@@ -23294,19 +23294,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu numărul zborului…"
+            "value" : "Introduceți numărul zborului…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи номер рейса…"
+            "value" : "Введите номер рейса…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj číslo letu…"
+            "value" : "Zadajte číslo letu…"
           }
         },
         "sv" : {
@@ -23324,7 +23324,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Uçuş numarasını gir…"
+            "value" : "Uçuş numarasını girin…"
           }
         },
         "uk" : {
@@ -23348,13 +23348,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入航班號碼…"
+            "value" : "輸入航班號碼⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入航班號碼…"
+            "value" : "輸入航班號碼⋯"
           }
         }
       }
@@ -23371,7 +23371,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи име на хотела…"
+            "value" : "Въведете име на хотела…"
           }
         },
         "ca" : {
@@ -23395,7 +23395,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hotelname eingeben…"
+            "value" : "Hotelname eingeben …"
           }
         },
         "el" : {
@@ -23443,13 +23443,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de l'hôtel…"
+            "value" : "Saisir le nom de l'hôtel…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom de l'hôtel…"
+            "value" : "Entrer le nom de l'hôtel…"
           }
         },
         "he" : {
@@ -23467,13 +23467,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi naziv hotela…"
+            "value" : "Unesite naziv hotela…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a szálloda nevét…"
+            "value" : "Adja meg a szálloda nevét…"
           }
         },
         "id" : {
@@ -23545,19 +23545,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu numele hotelului…"
+            "value" : "Introduceți numele hotelului…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи название отеля…"
+            "value" : "Введите название отеля…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj názov hotela…"
+            "value" : "Zadajte názov hotela…"
           }
         },
         "sv" : {
@@ -23575,7 +23575,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Otel adını gir…"
+            "value" : "Otel adını girin…"
           }
         },
         "uk" : {
@@ -23599,13 +23599,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "請輸入飯店名稱…"
+            "value" : "請輸入飯店名稱⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入酒店名稱…"
+            "value" : "輸入酒店名稱⋯"
           }
         }
       }
@@ -23622,7 +23622,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи номер на паспорта…"
+            "value" : "Въведете номер на паспорта…"
           }
         },
         "ca" : {
@@ -23646,7 +23646,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reisepassnummer eingeben…"
+            "value" : "Reisepassnummer eingeben …"
           }
         },
         "el" : {
@@ -23694,13 +23694,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le numéro de passeport…"
+            "value" : "Saisir le numéro de passeport…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le numéro de passeport…"
+            "value" : "Entrer le numéro de passeport…"
           }
         },
         "he" : {
@@ -23718,13 +23718,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi broj putovnice…"
+            "value" : "Unesite broj putovnice…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be az útlevélszámot…"
+            "value" : "Adja meg az útlevélszámot…"
           }
         },
         "id" : {
@@ -23796,19 +23796,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu numărul pașaportului…"
+            "value" : "Introduceți numărul pașaportului…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи номер паспорта…"
+            "value" : "Введите номер паспорта…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj číslo pasu…"
+            "value" : "Zadajte číslo pasu…"
           }
         },
         "sv" : {
@@ -23826,7 +23826,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pasaport numarasını gir…"
+            "value" : "Pasaport numarasını girin…"
           }
         },
         "uk" : {
@@ -23850,13 +23850,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "請輸入護照號碼…"
+            "value" : "請輸入護照號碼⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入護照號碼…"
+            "value" : "輸入護照號碼⋯"
           }
         }
       }
@@ -23873,7 +23873,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи дати на пътуване…"
+            "value" : "Въведете дати на пътуване…"
           }
         },
         "ca" : {
@@ -23897,7 +23897,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reisedaten eingeben…"
+            "value" : "Reisedaten eingeben …"
           }
         },
         "el" : {
@@ -23945,13 +23945,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez les dates de voyage…"
+            "value" : "Saisir les dates de voyage…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez les dates de voyage…"
+            "value" : "Entrer les dates de voyage…"
           }
         },
         "he" : {
@@ -23969,13 +23969,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi datume putovanja…"
+            "value" : "Unesite datume putovanja…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be az utazás dátumait…"
+            "value" : "Adja meg az utazás dátumait…"
           }
         },
         "id" : {
@@ -24047,19 +24047,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu datele de călătorie…"
+            "value" : "Introduceți datele de călătorie…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи даты поездки…"
+            "value" : "Введите даты поездки…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj dátumy cesty…"
+            "value" : "Zadajte dátumy cesty…"
           }
         },
         "sv" : {
@@ -24077,7 +24077,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Seyahat tarihlerini gir…"
+            "value" : "Seyahat tarihlerini girin…"
           }
         },
         "uk" : {
@@ -24101,13 +24101,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入旅行日期…"
+            "value" : "輸入旅行日期⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入旅行日期…"
+            "value" : "輸入旅行日期⋯"
           }
         }
       }
@@ -24148,7 +24148,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Beste Routen finden…"
+            "value" : "Beste Routen finden …"
           }
         },
         "el" : {
@@ -24352,13 +24352,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "尋找最佳路線…"
+            "value" : "尋找最佳路線⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "尋找最佳路線…"
+            "value" : "尋找最佳路線⋯"
           }
         }
       }
@@ -24375,7 +24375,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Намери наблизо ресторанти…"
+            "value" : "Намерете наблизо ресторанти…"
           }
         },
         "ca" : {
@@ -24387,7 +24387,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Najdi restaurace v okolí…"
+            "value" : "Najděte restaurace v okolí…"
           }
         },
         "da" : {
@@ -24399,7 +24399,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nahegelegene Restaurants finden…"
+            "value" : "Nahegelegene Restaurants finden …"
           }
         },
         "el" : {
@@ -24447,13 +24447,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trouvez des restaurants à proximité…"
+            "value" : "Trouver des restaurants à proximité…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trouvez des restaurants à proximité…"
+            "value" : "Trouver des restaurants à proximité…"
           }
         },
         "he" : {
@@ -24471,7 +24471,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pronađi obližnje restorane…"
+            "value" : "Pronađite obližnje restorane…"
           }
         },
         "hu" : {
@@ -24549,13 +24549,13 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Găsește restaurantele din apropiere…"
+            "value" : "Găsiți restaurantele din apropiere…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Найди рядом рестораны…"
+            "value" : "Найдите рядом рестораны…"
           }
         },
         "sk" : {
@@ -24603,13 +24603,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "尋找附近的餐廳…"
+            "value" : "尋找附近的餐廳⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "尋找附近的餐廳…"
+            "value" : "尋找附近的餐廳⋯"
           }
         }
       }
@@ -24650,7 +24650,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nahegelegene Orte werden geladen…"
+            "value" : "Nahegelegene Orte werden geladen …"
           }
         },
         "el" : {
@@ -24854,13 +24854,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在載入附近的地方…"
+            "value" : "正在載入附近的地方⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在載入附近地點…"
+            "value" : "正在載入附近地點⋯"
           }
         }
       }
@@ -24901,7 +24901,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wettervorhersage wird geladen…"
+            "value" : "Wettervorhersage wird geladen …"
           }
         },
         "el" : {
@@ -25105,13 +25105,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在載入天氣預報…"
+            "value" : "正在載入天氣預報⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在載入天氣預報…"
+            "value" : "正在載入天氣預報⋯"
           }
         }
       }
@@ -25152,7 +25152,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Anzahl der Gäste…"
+            "value" : "Anzahl der Gäste …"
           }
         },
         "el" : {
@@ -25356,13 +25356,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "賓客人數…"
+            "value" : "賓客人數⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "客人數量…"
+            "value" : "客人數量⋯"
           }
         }
       }

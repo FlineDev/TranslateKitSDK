@@ -187,7 +187,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aliniază"
+            "value" : "Aliniați"
           }
         },
         "ru" : {
@@ -438,7 +438,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aranjează"
+            "value" : "Aranjați"
           }
         },
         "ru" : {
@@ -689,7 +689,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Amestecă"
+            "value" : "Amestecați"
           }
         },
         "ru" : {
@@ -940,7 +940,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Decupează"
+            "value" : "Decupați"
           }
         },
         "ru" : {
@@ -1191,7 +1191,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Personalizează"
+            "value" : "Personalizați"
           }
         },
         "ru" : {
@@ -1442,7 +1442,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Duplică"
+            "value" : "Duplicați"
           }
         },
         "ru" : {
@@ -1693,7 +1693,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Umple"
+            "value" : "Umpleți"
           }
         },
         "ru" : {
@@ -1944,7 +1944,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Întoarce"
+            "value" : "Întoarceți"
           }
         },
         "ru" : {
@@ -2195,7 +2195,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Grupează"
+            "value" : "Grupați"
           }
         },
         "ru" : {
@@ -2446,7 +2446,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Maschează"
+            "value" : "Maschați"
           }
         },
         "ru" : {
@@ -2697,7 +2697,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Oglindește"
+            "value" : "Oglindiți"
           }
         },
         "ru" : {
@@ -2882,7 +2882,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Atur"
+            "value" : "Pesan"
           }
         },
         "it" : {
@@ -3199,7 +3199,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lipește"
+            "value" : "Lipiți"
           }
         },
         "ru" : {
@@ -3450,7 +3450,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tipărește"
+            "value" : "Tipăriți"
           }
         },
         "ru" : {
@@ -3701,7 +3701,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Redimensionează"
+            "value" : "Redimensionați"
           }
         },
         "ru" : {
@@ -3952,7 +3952,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rotește"
+            "value" : "Rotiți"
           }
         },
         "ru" : {
@@ -4203,7 +4203,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scalează"
+            "value" : "Scalați"
           }
         },
         "ru" : {
@@ -4454,7 +4454,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Setează culoarea"
+            "value" : "Setați culoarea"
           }
         },
         "ru" : {
@@ -4705,7 +4705,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Schițează"
+            "value" : "Schițați"
           }
         },
         "ru" : {
@@ -4956,7 +4956,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aplică contur"
+            "value" : "Aplicați contur"
           }
         },
         "ru" : {
@@ -5207,7 +5207,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Transformă"
+            "value" : "Transformați"
           }
         },
         "ru" : {
@@ -5458,7 +5458,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trunchiază"
+            "value" : "Trunchiați"
           }
         },
         "ru" : {
@@ -5709,7 +5709,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Degrupează"
+            "value" : "Degrupați"
           }
         },
         "ru" : {
@@ -18100,7 +18100,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Работата ти се запазва."
+            "value" : "Работата Ви се запазва."
           }
         },
         "ca" : {
@@ -18112,7 +18112,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tvoje práce se ukládá."
+            "value" : "Vaše práce se ukládá."
           }
         },
         "da" : {
@@ -18178,7 +18178,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ton travail est en cours de sauvegarde."
+            "value" : "Votre travail est en cours de sauvegarde."
           }
         },
         "he" : {
@@ -18196,19 +18196,19 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tvoj rad se sprema."
+            "value" : "Vaš rad se sprema."
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Munkád mentése folyamatban van."
+            "value" : "Munkája mentése folyamatban van."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pekerjaanmu sedang disimpan."
+            "value" : "Pekerjaan Anda sedang disimpan."
           }
         },
         "it" : {
@@ -18268,25 +18268,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "O teu trabalho está a ser guardado."
+            "value" : "O trabalho está a ser guardado."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lucrul tău este în curs de salvare."
+            "value" : "Lucrul dvs. este în curs de salvare."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Твоя работа сохраняется."
+            "value" : "Ваша работа сохраняется."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tvoja práca sa ukladá."
+            "value" : "Vaša práca sa ukladá."
           }
         },
         "sv" : {
@@ -18375,7 +18375,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Deckkraft anpassen…"
+            "value" : "Deckkraft anpassen …"
           }
         },
         "el" : {
@@ -18429,7 +18429,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ajuste l'opacité…"
+            "value" : "Ajuster l'opacité…"
           }
         },
         "he" : {
@@ -18447,7 +18447,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Podesi neprozirnost…"
+            "value" : "Podesite neprozirnost…"
           }
         },
         "hu" : {
@@ -18525,7 +18525,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ajustează opacitatea…"
+            "value" : "Ajustați opacitatea…"
           }
         },
         "ru" : {
@@ -18537,7 +18537,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Uprav nepriehľadnosť…"
+            "value" : "Upravte nepriehľadnosť…"
           }
         },
         "sv" : {
@@ -18579,13 +18579,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "調整不透明度…"
+            "value" : "調整不透明度⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "調整不透明度…"
+            "value" : "調整不透明度⋯"
           }
         }
       }
@@ -18602,7 +18602,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Избери размер на четката…"
+            "value" : "Изберете размер на четката…"
           }
         },
         "ca" : {
@@ -18626,7 +18626,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pinselgröße auswählen…"
+            "value" : "Pinselgröße auswählen …"
           }
         },
         "el" : {
@@ -18674,13 +18674,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Choisissez la taille du pinceau…"
+            "value" : "Choisir la taille du pinceau…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Choisis la taille du pinceau…"
+            "value" : "Choisir la taille du pinceau…"
           }
         },
         "he" : {
@@ -18698,13 +18698,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Odaberi veličinu kista…"
+            "value" : "Odaberite veličinu kista…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Válaszd ki az ecsetméretet…"
+            "value" : "Válassza ki az ecsetméretet…"
           }
         },
         "id" : {
@@ -18776,19 +18776,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alege dimensiunea pensulei…"
+            "value" : "Alegeți dimensiunea pensulei…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Выбери размер кисти…"
+            "value" : "Выберите размер кисти…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vyber veľkosť štetca…"
+            "value" : "Vyberte veľkosť štetca…"
           }
         },
         "sv" : {
@@ -18806,7 +18806,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fırça boyutunu seç…"
+            "value" : "Fırça boyutunu seçin…"
           }
         },
         "uk" : {
@@ -18830,13 +18830,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "選擇畫筆大小…"
+            "value" : "選擇畫筆大小⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "選擇畫筆大小…"
+            "value" : "選擇畫筆大小⋯"
           }
         }
       }
@@ -18853,7 +18853,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Избери цвят…"
+            "value" : "Изберете цвят…"
           }
         },
         "ca" : {
@@ -18877,7 +18877,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Farbe auswählen…"
+            "value" : "Farbe auswählen …"
           }
         },
         "el" : {
@@ -18925,13 +18925,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Choisissez la couleur…"
+            "value" : "Choisir la couleur…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Choisis la couleur…"
+            "value" : "Choisir la couleur…"
           }
         },
         "he" : {
@@ -18949,13 +18949,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Odaberi boju…"
+            "value" : "Odaberite boju…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Válaszd ki a színt…"
+            "value" : "Válassza ki a színt…"
           }
         },
         "id" : {
@@ -19027,19 +19027,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alege culoarea…"
+            "value" : "Alegeți culoarea…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Выбери цвет…"
+            "value" : "Выберите цвет…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vyber farbu…"
+            "value" : "Vyberte farbu…"
           }
         },
         "sv" : {
@@ -19057,7 +19057,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bir renk seç…"
+            "value" : "Bir renk seçin…"
           }
         },
         "uk" : {
@@ -19081,13 +19081,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "選擇顏色…"
+            "value" : "選擇顏色⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "選擇顏色…"
+            "value" : "選擇顏色⋯"
           }
         }
       }
@@ -19104,7 +19104,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Избери семейство шрифтове…"
+            "value" : "Изберете семейство шрифтове…"
           }
         },
         "ca" : {
@@ -19128,7 +19128,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Schriftfamilie auswählen…"
+            "value" : "Schriftfamilie auswählen …"
           }
         },
         "el" : {
@@ -19176,13 +19176,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Choisissez la famille de police…"
+            "value" : "Choisir la famille de police…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Choisis la famille de police…"
+            "value" : "Choisir la famille de police…"
           }
         },
         "he" : {
@@ -19200,13 +19200,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Odaberi obitelj fonta…"
+            "value" : "Odaberite obitelj fonta…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Válaszd ki a betűcsaládot…"
+            "value" : "Válassza ki a betűcsaládot…"
           }
         },
         "id" : {
@@ -19278,19 +19278,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alege familia de fonturi…"
+            "value" : "Alegeți familia de fonturi…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Выбери семейство шрифтов…"
+            "value" : "Выберите семейство шрифтов…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vyber rodinu písma…"
+            "value" : "Vyberte rodinu písma…"
           }
         },
         "sv" : {
@@ -19308,7 +19308,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Yazı tipini seç…"
+            "value" : "Yazı tipini seçin…"
           }
         },
         "uk" : {
@@ -19332,13 +19332,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "選擇字型系列…"
+            "value" : "選擇字型系列⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "選擇字型系列…"
+            "value" : "選擇字型系列⋯"
           }
         }
       }
@@ -19355,7 +19355,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Избери стил на слоя…"
+            "value" : "Изберете стил на слоя…"
           }
         },
         "ca" : {
@@ -19379,7 +19379,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ebenenstil auswählen…"
+            "value" : "Ebenenstil auswählen …"
           }
         },
         "el" : {
@@ -19427,13 +19427,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Choisissez le style de calque…"
+            "value" : "Choisir le style de calque…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Choisis le style de couche…"
+            "value" : "Choisir le style de couche…"
           }
         },
         "he" : {
@@ -19451,13 +19451,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Odaberi stil sloja…"
+            "value" : "Odaberite stil sloja…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Válaszd ki a rétegstílust…"
+            "value" : "Válassza ki a rétegstílust…"
           }
         },
         "id" : {
@@ -19529,19 +19529,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alege stilul stratului…"
+            "value" : "Alegeți stilul stratului…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Выбери стиль слоя…"
+            "value" : "Выберите стиль слоя…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vyber štýl vrstvy…"
+            "value" : "Vyberte štýl vrstvy…"
           }
         },
         "sv" : {
@@ -19559,7 +19559,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Katman stilini seç…"
+            "value" : "Katman stilini seçin…"
           }
         },
         "uk" : {
@@ -19583,13 +19583,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "選擇圖層樣式…"
+            "value" : "選擇圖層樣式⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "選擇圖層樣式…"
+            "value" : "選擇圖層樣式⋯"
           }
         }
       }
@@ -19606,7 +19606,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Създай нов слой…"
+            "value" : "Създайте нов слой…"
           }
         },
         "ca" : {
@@ -19630,7 +19630,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Neue Ebene erstellen…"
+            "value" : "Neue Ebene erstellen …"
           }
         },
         "el" : {
@@ -19684,7 +19684,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Crée une nouvelle couche…"
+            "value" : "Créer une nouvelle couche…"
           }
         },
         "he" : {
@@ -19702,7 +19702,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Izradi novi sloj…"
+            "value" : "Izradite novi sloj…"
           }
         },
         "hu" : {
@@ -19780,7 +19780,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Creează strat nou…"
+            "value" : "Creați strat nou…"
           }
         },
         "ru" : {
@@ -19792,7 +19792,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vytvor novú vrstvu…"
+            "value" : "Vytvorte novú vrstvu…"
           }
         },
         "sv" : {
@@ -19834,13 +19834,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "建立新圖層…"
+            "value" : "建立新圖層⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "建立新圖層…"
+            "value" : "建立新圖層⋯"
           }
         }
       }
@@ -19857,7 +19857,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи размерите на работното платно…"
+            "value" : "Въведете размерите на работното платно…"
           }
         },
         "ca" : {
@@ -19869,7 +19869,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej rozměry plátna…"
+            "value" : "Zadejte rozměry plátna…"
           }
         },
         "da" : {
@@ -19881,7 +19881,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abmessungen der Zeichenfläche eingeben…"
+            "value" : "Abmessungen der Zeichenfläche eingeben …"
           }
         },
         "el" : {
@@ -19929,13 +19929,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez les dimensions du plan de travail…"
+            "value" : "Saisir les dimensions du plan de travail…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entre les dimensions du plan de travail…"
+            "value" : "Entrer les dimensions du plan de travail…"
           }
         },
         "he" : {
@@ -19953,7 +19953,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi dimenzije umjetničke površine…"
+            "value" : "Unesite dimenzije umjetničke površine…"
           }
         },
         "hu" : {
@@ -20031,19 +20031,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu dimensiunile planșei…"
+            "value" : "Introduceți dimensiunile planșei…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи размеры артборда…"
+            "value" : "Введите размеры артборда…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj rozmery pracovnej plochy…"
+            "value" : "Zadajte rozmery pracovnej plochy…"
           }
         },
         "sv" : {
@@ -20061,7 +20061,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sanat tahtası boyutlarını gir…"
+            "value" : "Sanat tahtası boyutlarını girin…"
           }
         },
         "uk" : {
@@ -20085,13 +20085,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入畫布尺寸…"
+            "value" : "輸入畫布尺寸⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入畫板尺寸…"
+            "value" : "輸入畫板尺寸⋯"
           }
         }
       }
@@ -20108,7 +20108,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи HEX цвят…"
+            "value" : "Въведете HEX цвят…"
           }
         },
         "ca" : {
@@ -20120,7 +20120,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej hexadecimální barvu…"
+            "value" : "Zadejte hexadecimální barvu…"
           }
         },
         "da" : {
@@ -20132,7 +20132,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hex-Farbe eingeben…"
+            "value" : "Hex-Farbe eingeben …"
           }
         },
         "el" : {
@@ -20180,13 +20180,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez la couleur hexadécimale…"
+            "value" : "Saisir la couleur hexadécimale…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entre la couleur hexadécimale…"
+            "value" : "Entrer la couleur hexadécimale…"
           }
         },
         "he" : {
@@ -20204,13 +20204,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi hex boju…"
+            "value" : "Unesite hex boju…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a HEX színt…"
+            "value" : "Adja meg a HEX színt…"
           }
         },
         "id" : {
@@ -20282,19 +20282,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu codul de culoare hex…"
+            "value" : "Introduceți codul de culoare hex…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи шестнадцатеричный цвет…"
+            "value" : "Введите шестнадцатеричный цвет…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj hex kód farby…"
+            "value" : "Zadajte hex kód farby…"
           }
         },
         "sv" : {
@@ -20312,7 +20312,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hex rengini gir…"
+            "value" : "Hex rengini girin…"
           }
         },
         "uk" : {
@@ -20336,13 +20336,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "請輸入十六進位顏色…"
+            "value" : "請輸入十六進位顏色⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入十六進制顏色…"
+            "value" : "輸入十六進制顏色⋯"
           }
         }
       }
@@ -20359,7 +20359,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи размери на изображението…"
+            "value" : "Въведете размери на изображението…"
           }
         },
         "ca" : {
@@ -20371,7 +20371,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej rozměry obrázku…"
+            "value" : "Zadejte rozměry obrázku…"
           }
         },
         "da" : {
@@ -20383,7 +20383,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bildabmessungen eingeben…"
+            "value" : "Bildabmessungen eingeben …"
           }
         },
         "el" : {
@@ -20431,13 +20431,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez les dimensions de l'image…"
+            "value" : "Saisir les dimensions de l'image…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entre les dimensions de l'image…"
+            "value" : "Entrer les dimensions de l'image…"
           }
         },
         "he" : {
@@ -20455,13 +20455,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi dimenzije slike…"
+            "value" : "Unesite dimenzije slike…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a kép méreteit…"
+            "value" : "Adja meg a kép méreteit…"
           }
         },
         "id" : {
@@ -20533,19 +20533,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu dimensiunile imaginii…"
+            "value" : "Introduceți dimensiunile imaginii…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи размеры изображения…"
+            "value" : "Введите размеры изображения…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj rozmery obrázka…"
+            "value" : "Zadajte rozmery obrázka…"
           }
         },
         "sv" : {
@@ -20563,7 +20563,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Görsel boyutlarını gir…"
+            "value" : "Görsel boyutlarını girin…"
           }
         },
         "uk" : {
@@ -20587,13 +20587,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "請輸入圖片尺寸…"
+            "value" : "請輸入圖片尺寸⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入圖片尺寸…"
+            "value" : "輸入圖片尺寸⋯"
           }
         }
       }
@@ -20610,7 +20610,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи име на слоя…"
+            "value" : "Въведете име на слоя…"
           }
         },
         "ca" : {
@@ -20622,7 +20622,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej název vrstvy…"
+            "value" : "Zadejte název vrstvy…"
           }
         },
         "da" : {
@@ -20634,13 +20634,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ebenenname eingeben…"
+            "value" : "Ebenenname eingeben …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Γράψε όνομα επιπέδου…"
+            "value" : "Γράψτε όνομα επιπέδου…"
           }
         },
         "en" : {
@@ -20682,13 +20682,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entrez le nom du calque…"
+            "value" : "Saisir le nom du calque…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entre le nom de la couche…"
+            "value" : "Entrer le nom de la couche…"
           }
         },
         "he" : {
@@ -20706,13 +20706,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi naziv sloja…"
+            "value" : "Unesite naziv sloja…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a réteg nevét…"
+            "value" : "Adja meg a réteg nevét…"
           }
         },
         "id" : {
@@ -20784,19 +20784,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu numele stratului…"
+            "value" : "Introduceți numele stratului…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи имя слоя…"
+            "value" : "Введите имя слоя…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj názov vrstvy…"
+            "value" : "Zadajte názov vrstvy…"
           }
         },
         "sv" : {
@@ -20814,7 +20814,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Katman adını gir…"
+            "value" : "Katman adını girin…"
           }
         },
         "uk" : {
@@ -20838,13 +20838,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "請輸入圖層名稱…"
+            "value" : "請輸入圖層名稱⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入圖層名稱…"
+            "value" : "輸入圖層名稱⋯"
           }
         }
       }
@@ -20861,7 +20861,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи текст…"
+            "value" : "Въведете текст…"
           }
         },
         "ca" : {
@@ -20873,7 +20873,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej text…"
+            "value" : "Zadejte text…"
           }
         },
         "da" : {
@@ -20885,7 +20885,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Text eingeben…"
+            "value" : "Text eingeben …"
           }
         },
         "el" : {
@@ -20939,7 +20939,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entre le texte…"
+            "value" : "Entrer le texte…"
           }
         },
         "he" : {
@@ -20957,13 +20957,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi tekst…"
+            "value" : "Unesite tekst…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a szöveget…"
+            "value" : "Adja meg a szöveget…"
           }
         },
         "id" : {
@@ -21035,19 +21035,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu textul…"
+            "value" : "Introduceți textul…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи текст…"
+            "value" : "Введите текст…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj text…"
+            "value" : "Zadajte text…"
           }
         },
         "sv" : {
@@ -21089,13 +21089,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入文字…"
+            "value" : "輸入文字⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入文字…"
+            "value" : "輸入文字⋯"
           }
         }
       }
@@ -21136,7 +21136,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Export wird durchgeführt…"
+            "value" : "Export wird durchgeführt …"
           }
         },
         "el" : {
@@ -21340,13 +21340,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "匯出進行中…"
+            "value" : "匯出進行中⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在匯出…"
+            "value" : "正在匯出⋯"
           }
         }
       }
@@ -21363,7 +21363,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи текст тук…"
+            "value" : "Въведете текст тук…"
           }
         },
         "ca" : {
@@ -21375,7 +21375,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vlož text sem…"
+            "value" : "Vložte text sem…"
           }
         },
         "da" : {
@@ -21387,7 +21387,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Text hier einfügen…"
+            "value" : "Text hier einfügen …"
           }
         },
         "el" : {
@@ -21435,13 +21435,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insérez le texte ici…"
+            "value" : "Insérer le texte ici…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insère le texte ici…"
+            "value" : "Insérer le texte ici…"
           }
         },
         "he" : {
@@ -21459,7 +21459,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Umetni tekst ovdje…"
+            "value" : "Umetnite tekst ovdje…"
           }
         },
         "hu" : {
@@ -21537,19 +21537,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu text aici…"
+            "value" : "Introduceți text aici…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Вставь текст сюда…"
+            "value" : "Вставьте текст сюда…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj text sem…"
+            "value" : "Zadajte text sem…"
           }
         },
         "sv" : {
@@ -21591,13 +21591,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在這裡插入文字…"
+            "value" : "在這裡插入文字⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在此插入文字…"
+            "value" : "在此插入文字⋯"
           }
         }
       }
@@ -21614,7 +21614,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Избери цвят…"
+            "value" : "Изберете цвят…"
           }
         },
         "ca" : {
@@ -21626,7 +21626,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vyber barvu…"
+            "value" : "Vyberte barvu…"
           }
         },
         "da" : {
@@ -21638,13 +21638,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wähle eine Farbe…"
+            "value" : "Wähle eine Farbe …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Επίλεξε ένα χρώμα…"
+            "value" : "Επιλέξτε ένα χρώμα…"
           }
         },
         "en" : {
@@ -21686,13 +21686,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Choisissez une couleur…"
+            "value" : "Choisir une couleur…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Choisis une couleur…"
+            "value" : "Choisir une couleur…"
           }
         },
         "he" : {
@@ -21710,7 +21710,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Odaberi boju…"
+            "value" : "Odaberite boju…"
           }
         },
         "hu" : {
@@ -21788,19 +21788,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alege o culoare…"
+            "value" : "Alegeți o culoare…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Выбери цвет…"
+            "value" : "Выберите цвет…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vyber farbu…"
+            "value" : "Vyberte farbu…"
           }
         },
         "sv" : {
@@ -21818,7 +21818,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bir renk seç…"
+            "value" : "Bir renk seçin…"
           }
         },
         "uk" : {
@@ -21842,13 +21842,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "選擇顏色…"
+            "value" : "選擇顏色⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "選擇顏色…"
+            "value" : "選擇顏色⋯"
           }
         }
       }
@@ -21889,7 +21889,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vorschau wird gerendert…"
+            "value" : "Vorschau wird gerendert …"
           }
         },
         "el" : {
@@ -22093,13 +22093,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在渲染預覽…"
+            "value" : "正在渲染預覽⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在渲染預覽…"
+            "value" : "正在渲染預覽⋯"
           }
         }
       }
@@ -22140,7 +22140,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Schriften suchen…"
+            "value" : "Schriften suchen …"
           }
         },
         "el" : {
@@ -22212,7 +22212,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pretraži fontove…"
+            "value" : "Pretražite fontove…"
           }
         },
         "hu" : {
@@ -22290,19 +22290,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caută fonturi…"
+            "value" : "Căutați fonturi…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ищи шрифты…"
+            "value" : "Ищите шрифты…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hľadaj písma…"
+            "value" : "Hľadajte písma…"
           }
         },
         "sv" : {
@@ -22344,13 +22344,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋字型中…"
+            "value" : "搜尋字型中⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋字型…"
+            "value" : "搜尋字型⋯"
           }
         }
       }
@@ -22379,7 +22379,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nastav velikost plátna…"
+            "value" : "Nastavte velikost plátna…"
           }
         },
         "da" : {
@@ -22391,7 +22391,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Leinwandgröße festlegen…"
+            "value" : "Leinwandgröße festlegen …"
           }
         },
         "el" : {
@@ -22445,7 +22445,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Définis la taille du canevas…"
+            "value" : "Définir la taille du canevas…"
           }
         },
         "he" : {
@@ -22463,7 +22463,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Postavi veličinu platna…"
+            "value" : "Postavite veličinu platna…"
           }
         },
         "hu" : {
@@ -22541,7 +22541,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stabilește dimensiunea pânzei…"
+            "value" : "Stabiliți dimensiunea pânzei…"
           }
         },
         "ru" : {
@@ -22553,7 +22553,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nastav veľkosť plátna…"
+            "value" : "Nastavte veľkosť plátna…"
           }
         },
         "sv" : {
@@ -22595,13 +22595,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "設定畫布大小…"
+            "value" : "設定畫布大小⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "設定畫布大小…"
+            "value" : "設定畫布大小⋯"
           }
         }
       }
@@ -22630,7 +22630,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nastav neprůhlednost vrstvy…"
+            "value" : "Nastavte neprůhlednost vrstvy…"
           }
         },
         "da" : {
@@ -22642,7 +22642,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Deckkraft der Ebene festlegen…"
+            "value" : "Deckkraft der Ebene festlegen …"
           }
         },
         "el" : {
@@ -22696,7 +22696,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Définis l'opacité de la couche…"
+            "value" : "Définir l'opacité de la couche…"
           }
         },
         "he" : {
@@ -22714,7 +22714,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Postavi neprozirnost sloja…"
+            "value" : "Postavite neprozirnost sloja…"
           }
         },
         "hu" : {
@@ -22792,7 +22792,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stabilește opacitatea stratului…"
+            "value" : "Stabiliți opacitatea stratului…"
           }
         },
         "ru" : {
@@ -22804,7 +22804,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nastav nepriehľadnosť vrstvy…"
+            "value" : "Nastavte nepriehľadnosť vrstvy…"
           }
         },
         "sv" : {
@@ -22846,13 +22846,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "設定圖層不透明度…"
+            "value" : "設定圖層不透明度⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "設定圖層不透明度…"
+            "value" : "設定圖層不透明度⋯"
           }
         }
       }
@@ -22881,7 +22881,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nastav tloušťku tahu…"
+            "value" : "Nastavte tloušťku tahu…"
           }
         },
         "da" : {
@@ -22893,7 +22893,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Linienstärke festlegen…"
+            "value" : "Linienstärke festlegen …"
           }
         },
         "el" : {
@@ -22947,7 +22947,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Définis l'épaisseur du trait…"
+            "value" : "Définir l'épaisseur du trait…"
           }
         },
         "he" : {
@@ -22965,7 +22965,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Postavi debljinu obruba…"
+            "value" : "Postavite debljinu obruba…"
           }
         },
         "hu" : {
@@ -23043,7 +23043,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stabilește lățimea conturului…"
+            "value" : "Stabiliți lățimea conturului…"
           }
         },
         "ru" : {
@@ -23055,7 +23055,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nastav šírku ťahu…"
+            "value" : "Nastavte šírku ťahu…"
           }
         },
         "sv" : {
@@ -23097,13 +23097,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "設定筆畫寬度…"
+            "value" : "設定筆畫寬度⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "設定描邊寬度…"
+            "value" : "設定描邊寬度⋯"
           }
         }
       }
@@ -23120,7 +23120,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Посочи размерите…"
+            "value" : "Посочете размерите…"
           }
         },
         "ca" : {
@@ -23132,7 +23132,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Uveď rozměry…"
+            "value" : "Uveďte rozměry…"
           }
         },
         "da" : {
@@ -23144,7 +23144,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Maße angeben…"
+            "value" : "Maße angeben …"
           }
         },
         "el" : {
@@ -23216,7 +23216,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Odredi dimenzije…"
+            "value" : "Odredite dimenzije…"
           }
         },
         "hu" : {
@@ -23294,19 +23294,19 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Specifică dimensiunile…"
+            "value" : "Specificați dimensiunile…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Укажи размеры…"
+            "value" : "Укажите размеры…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Urči rozmery…"
+            "value" : "Určite rozmery…"
           }
         },
         "sv" : {
@@ -23324,7 +23324,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Boyutları belirt…"
+            "value" : "Boyutları belirtin…"
           }
         },
         "uk" : {
@@ -23348,13 +23348,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "指定尺寸…"
+            "value" : "指定尺寸⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "指定尺寸…"
+            "value" : "指定尺寸⋯"
           }
         }
       }
@@ -23371,7 +23371,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Напиши, за да търсиш шрифтове…"
+            "value" : "Напишете, за да търсите шрифтове…"
           }
         },
         "ca" : {
@@ -23383,7 +23383,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej pro hledání písem…"
+            "value" : "Začněte psát pro hledání písem…"
           }
         },
         "da" : {
@@ -23395,13 +23395,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tippe, um Schriftarten zu suchen…"
+            "value" : "Tippe, um Schriftarten zu suchen …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Πληκτρολόγησε για αναζήτηση γραμματοσειρών…"
+            "value" : "Πληκτρολογήστε για αναζήτηση γραμματοσειρών…"
           }
         },
         "en" : {
@@ -23443,13 +23443,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tapez pour rechercher des polices…"
+            "value" : "Taper pour rechercher des polices…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tape pour rechercher des polices…"
+            "value" : "Taper pour rechercher des polices…"
           }
         },
         "he" : {
@@ -23467,13 +23467,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Upiši za pretraživanje fontova…"
+            "value" : "Upišite za pretraživanje fontova…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írj a betűtípusok kereséséhez…"
+            "value" : "Írjon a betűtípusok kereséséhez…"
           }
         },
         "id" : {
@@ -23539,25 +23539,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduzir para pesquisar fontes…"
+            "value" : "Escreva para pesquisar fontes…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Scrie pentru a căuta fonturi…"
+            "value" : "Scrieți pentru a căuta fonturi…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи для поиска шрифтов…"
+            "value" : "Введите для поиска шрифтов…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Začni písať na vyhľadanie písiem…"
+            "value" : "Začnite písať na vyhľadanie písiem…"
           }
         },
         "sv" : {
@@ -23599,13 +23599,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入以搜尋字型…"
+            "value" : "輸入以搜尋字型⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入以搜尋字型…"
+            "value" : "輸入以搜尋字型⋯"
           }
         }
       }

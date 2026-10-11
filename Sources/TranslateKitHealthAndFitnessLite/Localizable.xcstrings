@@ -266,7 +266,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Достигна целта за активни минути!"
+            "value" : "Достигнахте целта за активни минути!"
           }
         },
         "ca" : {
@@ -530,7 +530,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skoro tam jsi!"
+            "value" : "Už to skoro máte!"
           }
         },
         "da" : {
@@ -548,7 +548,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Σχεδόν έφτασες!"
+            "value" : "Σχεδόν φτάσατε!"
           }
         },
         "en" : {
@@ -590,7 +590,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Presque arrivé·e !"
+            "value" : "Vous y êtes presque !"
           }
         },
         "fr-CA" : {
@@ -620,7 +620,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Majdnem ott vagy!"
+            "value" : "Majdnem ott van!"
           }
         },
         "id" : {
@@ -704,7 +704,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Už si skoro tam!"
+            "value" : "Už ste skoro tam!"
           }
         },
         "sv" : {
@@ -722,13 +722,13 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Neredeyse oradasın!"
+            "value" : "Neredeyse oradasınız!"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ти майже там!"
+            "value" : "Майже там!"
           }
         },
         "vi" : {
@@ -770,7 +770,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Вдъхни дълбоко и се отпусни."
+            "value" : "Вдъхнете дълбоко и се отпуснете."
           }
         },
         "ca" : {
@@ -782,7 +782,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zhluboka se nadechni a uvolni se."
+            "value" : "Zhluboka se nadechněte a uvolněte se."
           }
         },
         "da" : {
@@ -800,7 +800,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Εισέπνευσε βαθιά και χαλάρωσε."
+            "value" : "Εισπνεύστε βαθιά και χαλαρώστε."
           }
         },
         "en" : {
@@ -842,13 +842,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inspire profondément et détends-toi."
+            "value" : "Inspirez profondément et détendez-vous."
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inspire profondément et détends-toi."
+            "value" : "Inspirez profondément et détendez-vous."
           }
         },
         "he" : {
@@ -872,7 +872,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Lélegezz mélyen, és lazíts."
+            "value" : "Lélegezzen mélyen, és lazítson."
           }
         },
         "id" : {
@@ -896,7 +896,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Терең тыныс алып, демал."
+            "value" : "Терең тыныс алып, демалыңыз."
           }
         },
         "ko" : {
@@ -938,25 +938,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Inspira profundamente e relaxa."
+            "value" : "Inspire profundamente e relaxe."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Respiră adânc și relaxează-te."
+            "value" : "Respirați adânc și relaxați-vă."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Глубоко вдохни и расслабься."
+            "value" : "Глубоко вдохните и расслабьтесь."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hlboko sa nadýchni a uvoľni sa."
+            "value" : "Hlboko sa nadýchnite a uvoľnite sa."
           }
         },
         "sv" : {
@@ -974,13 +974,13 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Derin bir nefes al ve rahatla."
+            "value" : "Derin bir nefes alın ve rahatlayın."
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Глибоко вдихни і розслабся."
+            "value" : "Глибоко вдихніть і розслабтеся."
           }
         },
         "vi" : {
@@ -1034,7 +1034,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gratulujeme k dokončení tvého tréninku!"
+            "value" : "Gratulujeme k dokončení vašeho tréninku!"
           }
         },
         "da" : {
@@ -1052,7 +1052,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Συγχαρητήρια που ολοκλήρωσες την προπόνησή σου!"
+            "value" : "Συγχαρητήρια που ολοκληρώσατε την προπόνησή σας!"
           }
         },
         "en" : {
@@ -1094,13 +1094,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Félicitations pour avoir terminé ton entraînement !"
+            "value" : "Félicitations pour avoir terminé votre entraînement !"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Félicitations pour avoir complété ton entraînement !"
+            "value" : "Félicitations pour avoir complété votre entraînement !"
           }
         },
         "he" : {
@@ -1124,13 +1124,13 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gratulálunk az edzésed befejezéséhez!"
+            "value" : "Gratulálunk az edzése befejezéséhez!"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Selamat telah menyelesaikan latihanmu!"
+            "value" : "Selamat telah menyelesaikan latihan Anda!"
           }
         },
         "it" : {
@@ -1190,7 +1190,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Parabéns por concluires o teu treino!"
+            "value" : "Parabéns por concluir o treino!"
           }
         },
         "ro" : {
@@ -1208,7 +1208,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gratulujeme k dokončeniu tvojho tréningu!"
+            "value" : "Gratulujeme k dokončeniu vášho tréningu!"
           }
         },
         "sv" : {
@@ -1226,7 +1226,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Egzersizini tamamladığın için tebrikler!"
+            "value" : "Egzersizinizi tamamladığınız için tebrikler!"
           }
         },
         "uk" : {
@@ -1886,7 +1886,7 @@
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hari beruntun tercapai!"
+            "value" : "Streak harian tercapai!"
           }
         },
         "it" : {
@@ -2030,7 +2030,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Пий вода, за да поддържаш добра хидратация."
+            "value" : "Пийте вода, за да поддържате добра хидратация."
           }
         },
         "ca" : {
@@ -2042,7 +2042,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pij vodu, ať zůstaneš hydratovaný/á."
+            "value" : "Pijte vodu, abyste zůstali hydratovaní."
           }
         },
         "da" : {
@@ -2060,7 +2060,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Πιες νερό για να παραμείνεις ενυδατωμένος/η."
+            "value" : "Πιείτε νερό για να παραμείνετε ενυδατωμένοι."
           }
         },
         "en" : {
@@ -2102,13 +2102,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bois de l'eau pour rester hydraté·e."
+            "value" : "Buvez de l'eau pour bien vous hydrater."
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bois de l'eau pour rester hydraté."
+            "value" : "Buvez de l'eau pour rester hydraté."
           }
         },
         "he" : {
@@ -2132,7 +2132,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Igyál vizet, hogy hidratált maradj!"
+            "value" : "Igyon vizet, hogy hidratált maradjon!"
           }
         },
         "id" : {
@@ -2156,7 +2156,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сусызданбау үшін су іш!"
+            "value" : "Сусызданбау үшін су ішіңіз!"
           }
         },
         "ko" : {
@@ -2198,25 +2198,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bebe água para te manteres hidratado."
+            "value" : "Beba água para se manter hidratado."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bea apă pentru a rămâne hidratat."
+            "value" : "Beți apă pentru a rămâne hidratat."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Пей воду, чтобы не обезвоживаться."
+            "value" : "Пейте воду, чтобы не обезвоживаться."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pi vodu, aby si zostal hydratovaný."
+            "value" : "Pite vodu, aby ste zostali hydratovaní."
           }
         },
         "sv" : {
@@ -2234,13 +2234,13 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Susuz kalmamak için su iç."
+            "value" : "Susuz kalmamak için su için."
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Пий воду, щоб не зневоднитися."
+            "value" : "Пийте воду, щоб не зневоднитися."
           }
         },
         "vi" : {
@@ -2282,7 +2282,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Приготви се за тренировката си."
+            "value" : "Пригответе се за тренировката си."
           }
         },
         "ca" : {
@@ -2294,7 +2294,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Připrav se na svůj trénink."
+            "value" : "Připravte se na svůj trénink."
           }
         },
         "da" : {
@@ -2312,7 +2312,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ετοιμάσου για την προπόνησή σου."
+            "value" : "Ετοιμαστείτε για την προπόνησή σας."
           }
         },
         "en" : {
@@ -2354,13 +2354,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Prépare-toi pour ton entraînement."
+            "value" : "Préparez-vous pour votre entraînement."
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Prépare-toi pour ton entraînement."
+            "value" : "Préparez-vous pour votre entraînement."
           }
         },
         "he" : {
@@ -2384,13 +2384,13 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Készülj fel az edzésedre."
+            "value" : "Készüljön fel az edzésére."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bersiaplah untuk latihanmu."
+            "value" : "Bersiaplah untuk latihan Anda."
           }
         },
         "it" : {
@@ -2450,25 +2450,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Prepara-te para o teu treino."
+            "value" : "Prepare-se para o treino."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pregătește-te pentru antrenament."
+            "value" : "Pregătiți-vă pentru antrenament."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Приготовься к тренировке."
+            "value" : "Приготовьтесь к тренировке."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Priprav sa na svoj tréning."
+            "value" : "Pripravte sa na svoj tréning."
           }
         },
         "sv" : {
@@ -2486,13 +2486,13 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Antrenmanına hazırlan."
+            "value" : "Antrenmanınıza hazırlanın."
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Підготуйся до тренування."
+            "value" : "Підготуйтеся до тренування."
           }
         },
         "vi" : {
@@ -2534,7 +2534,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Страхотна работа, че остана активен/на днес!"
+            "value" : "Страхотна работа, че останахте активни днес!"
           }
         },
         "ca" : {
@@ -2546,7 +2546,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skvělá práce, že jsi dnes zůstal/a aktivní!"
+            "value" : "Skvělá práce, dnes jste zůstali aktivní!"
           }
         },
         "da" : {
@@ -2564,7 +2564,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Μπράβο που παρέμεινες ενεργός/ή σήμερα!"
+            "value" : "Μπράβο που παραμείνατε ενεργοί σήμερα!"
           }
         },
         "en" : {
@@ -2606,13 +2606,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bravo d'être resté·e actif·ve aujourd'hui !"
+            "value" : "Bravo pour votre activité aujourd'hui !"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Super job, tu es resté actif aujourd'hui !"
+            "value" : "Super job, vous êtes resté actif aujourd'hui !"
           }
         },
         "he" : {
@@ -2636,7 +2636,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Szuper, hogy ma aktív maradtál!"
+            "value" : "Szuper, hogy ma aktív maradt!"
           }
         },
         "id" : {
@@ -2660,7 +2660,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Бүгін белсенді болғаның керемет!"
+            "value" : "Бүгін белсенді болғаныңыз керемет!"
           }
         },
         "ko" : {
@@ -2690,7 +2690,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Świetna robota, dziś byłaś/byłeś aktywna/aktywny!"
+            "value" : "Świetna robota – dziś udało Ci się zachować aktywność!"
           }
         },
         "pt-BR" : {
@@ -2702,13 +2702,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ótimo trabalho a manteres-te ativo hoje!"
+            "value" : "Ótimo trabalho a manter-se ativo hoje!"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Felicitări pentru că ai fost activ astăzi!"
+            "value" : "Felicitări pentru că ați fost activ astăzi!"
           }
         },
         "ru" : {
@@ -2720,7 +2720,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skvelá práca, že si dnešný deň zostal aktívny!"
+            "value" : "Skvelá práca, dnes ste zostali aktívni!"
           }
         },
         "sv" : {
@@ -2738,13 +2738,13 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bugün aktif kaldığın için harika iş çıkardın!"
+            "value" : "Bugün aktif kaldığınız için harika iş çıkardınız!"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Молодець, що залишаєшся активним сьогодні!"
+            "value" : "Чудово, що ви залишаєтеся активними сьогодні!"
           }
         },
         "vi" : {
@@ -2786,7 +2786,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Време е за тренировката ти."
+            "value" : "Време е за тренировката Ви."
           }
         },
         "ca" : {
@@ -2798,7 +2798,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Je čas začít tvůj trénink."
+            "value" : "Je čas začít váš trénink."
           }
         },
         "da" : {
@@ -2816,7 +2816,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ήρθε η ώρα για την προπόνησή σου."
+            "value" : "Ήρθε η ώρα για την προπόνησή σας."
           }
         },
         "en" : {
@@ -2858,13 +2858,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Il est temps de commencer ton entraînement."
+            "value" : "Il est temps de commencer votre entraînement."
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "C'est le temps de ton entraînement."
+            "value" : "C'est le temps de votre entraînement."
           }
         },
         "he" : {
@@ -2888,13 +2888,13 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Itt az ideje az edzésednek."
+            "value" : "Itt az ideje az edzésének."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saatnya untuk latihanmu."
+            "value" : "Saatnya untuk latihan Anda."
           }
         },
         "it" : {
@@ -2942,7 +2942,7 @@
         "pl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Czas na twój trening."
+            "value" : "Czas na Twój trening."
           }
         },
         "pt-BR" : {
@@ -2954,7 +2954,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Está na hora do teu treino."
+            "value" : "Está na hora do treino."
           }
         },
         "ro" : {
@@ -2966,13 +2966,13 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Время для твоей тренировки."
+            "value" : "Время для Вашей тренировки."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Je čas na tvoj tréning."
+            "value" : "Je čas na váš tréning."
           }
         },
         "sv" : {
@@ -2990,13 +2990,13 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Antrenmanına başlama zamanı."
+            "value" : "Antrenmanınıza başlama zamanı."
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Час почати твоє тренування."
+            "value" : "Час почати ваше тренування."
           }
         },
         "vi" : {
@@ -3038,7 +3038,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Продължавай с прекрасната работа!"
+            "value" : "Продължавайте с прекрасната работа!"
           }
         },
         "ca" : {
@@ -3050,7 +3050,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pokračuj ve skvělé práci!"
+            "value" : "Pokračujte ve skvělé práci!"
           }
         },
         "da" : {
@@ -3068,7 +3068,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Συνέχισε την καλή δουλειά!"
+            "value" : "Συνεχίστε την καλή δουλειά!"
           }
         },
         "en" : {
@@ -3110,13 +3110,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Continue comme ça !"
+            "value" : "Continuez comme ça !"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Continue comme ça !"
+            "value" : "Continuez comme ça !"
           }
         },
         "he" : {
@@ -3140,13 +3140,13 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Folytasd a szuper munkát!"
+            "value" : "Folytassa a szuper munkát!"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Teruskan kerja hebatmu!"
+            "value" : "Teruskan kerja hebat Anda!"
           }
         },
         "it" : {
@@ -3206,25 +3206,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Continua com o bom trabalho!"
+            "value" : "Continue com o bom trabalho!"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ține-o tot așa!"
+            "value" : "Țineți-o tot așa!"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Продолжай в том же духе!"
+            "value" : "Продолжайте в том же духе!"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pokračuj v skvelej práci!"
+            "value" : "Pokračujte v skvelej práci!"
           }
         },
         "sv" : {
@@ -3242,13 +3242,13 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Harika çalışmaya devam et!"
+            "value" : "Harika çalışmaya devam edin!"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Продовжуй в тому ж дусі!"
+            "value" : "Продовжуйте в тому ж дусі!"
           }
         },
         "vi" : {
@@ -3290,7 +3290,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Поддържай правилна форма по време на упражнения."
+            "value" : "Поддържайте правилна форма по време на упражнения."
           }
         },
         "ca" : {
@@ -3302,7 +3302,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Udržuj správnou techniku během cvičení."
+            "value" : "Udržujte správnou techniku během cvičení."
           }
         },
         "da" : {
@@ -3320,7 +3320,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Διατήρησε τη σωστή στάση κατά τη διάρκεια της άσκησης."
+            "value" : "Διατηρήστε τη σωστή στάση κατά τη διάρκεια της άσκησης."
           }
         },
         "en" : {
@@ -3362,13 +3362,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Maintiens une bonne posture pendant l'exercice."
+            "value" : "Maintenez une bonne posture pendant l'exercice."
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Maintiens une bonne posture pendant l'exercice."
+            "value" : "Maintenez une bonne posture pendant l'exercice."
           }
         },
         "he" : {
@@ -3392,7 +3392,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tartsd meg a megfelelő formát edzés közben."
+            "value" : "Tartsa meg a megfelelő formát edzés közben."
           }
         },
         "id" : {
@@ -3416,7 +3416,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Жаттығу кезінде дұрыс форманы сақта."
+            "value" : "Жаттығу кезінде дұрыс форманы сақтаңыз."
           }
         },
         "ko" : {
@@ -3458,25 +3458,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mantém a forma correta durante o exercício."
+            "value" : "Mantenha a forma correta durante o exercício."
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Menține o formă corectă în timpul exercițiilor."
+            "value" : "Mențineți o formă corectă în timpul exercițiilor."
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Следи за правильной техникой во время упражнений."
+            "value" : "Следите за правильной техникой во время упражнений."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Udržuj správny postoj počas cvičenia."
+            "value" : "Udržiavajte správny postoj počas cvičenia."
           }
         },
         "sv" : {
@@ -3494,13 +3494,13 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Egzersiz sırasında doğru formu koru."
+            "value" : "Egzersiz sırasında doğru formu koruyun."
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Дотримуйся правильної форми під час вправ."
+            "value" : "Дотримуйтеся правильної форми під час вправ."
           }
         },
         "vi" : {
@@ -3542,7 +3542,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Време е да пиеш малко вода!"
+            "value" : "Време е да пиете малко вода!"
           }
         },
         "ca" : {
@@ -3572,7 +3572,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ήρθε η ώρα να πιεις λίγο νερό!"
+            "value" : "Ήρθε η ώρα να πιείτε λίγο νερό!"
           }
         },
         "en" : {
@@ -3638,13 +3638,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vrijeme je za piti vodu!"
+            "value" : "Vrijeme je da popijete vodu!"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Itt az ideje, hogy igyál egy kis vizet!"
+            "value" : "Itt az ideje, hogy igyon egy kis vizet!"
           }
         },
         "id" : {
@@ -3716,7 +3716,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Este timpul să bei puțină apă!"
+            "value" : "Este timpul să beți puțină apă!"
           }
         },
         "ru" : {
@@ -3794,7 +3794,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Време е да станеш активен/на!"
+            "value" : "Време е да станете активни!"
           }
         },
         "ca" : {
@@ -3824,7 +3824,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ήρθε η ώρα να γίνεις ενεργός/ή!"
+            "value" : "Ήρθε η ώρα να γίνετε ενεργοί!"
           }
         },
         "en" : {
@@ -3866,7 +3866,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Il est temps de t'activer !"
+            "value" : "Il est temps de vous activer !"
           }
         },
         "fr-CA" : {
@@ -3968,7 +3968,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Este timpul să te activezi!"
+            "value" : "Este timpul să vă activați!"
           }
         },
         "ru" : {
@@ -4004,7 +4004,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Час стати активним!"
+            "value" : "Час активізуватися!"
           }
         },
         "vi" : {
@@ -4219,7 +4219,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adaugă măsurare"
+            "value" : "Adăugați măsurare"
           }
         },
         "ru" : {
@@ -4470,7 +4470,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adaugă poză"
+            "value" : "Adăugați poză"
           }
         },
         "ru" : {
@@ -4721,7 +4721,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adaugă antrenament"
+            "value" : "Adăugați antrenament"
           }
         },
         "ru" : {
@@ -4972,7 +4972,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Începe antrenamentul"
+            "value" : "Începeți antrenamentul"
           }
         },
         "ru" : {
@@ -5223,7 +5223,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Anulează antrenamentul"
+            "value" : "Anulați antrenamentul"
           }
         },
         "ru" : {
@@ -5402,7 +5402,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Teljesítve"
+            "value" : "Befejezés"
           }
         },
         "id" : {
@@ -5468,13 +5468,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Concluído"
+            "value" : "Concluir"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Finalizează"
+            "value" : "Finalizați"
           }
         },
         "ru" : {
@@ -5510,7 +5510,7 @@
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Виконано"
+            "value" : "Завершити"
           }
         },
         "vi" : {
@@ -5725,7 +5725,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Creează sarcină"
+            "value" : "Creați sarcină"
           }
         },
         "ru" : {
@@ -5976,7 +5976,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Încheie exercițiul"
+            "value" : "Încheiați exercițiul"
           }
         },
         "ru" : {
@@ -6227,7 +6227,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Încheie antrenamentul"
+            "value" : "Încheiați antrenamentul"
           }
         },
         "ru" : {
@@ -6478,7 +6478,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu greutatea"
+            "value" : "Introduceți greutatea"
           }
         },
         "ru" : {
@@ -6555,7 +6555,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Генериране на отчет"
+            "value" : "Генерирай отчет"
           }
         },
         "ca" : {
@@ -6585,7 +6585,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Δημιουργία Αναφοράς"
+            "value" : "Δημιουργία αναφοράς"
           }
         },
         "en" : {
@@ -6651,7 +6651,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Generiraj izvještaj"
+            "value" : "Generiraj izvješće"
           }
         },
         "hu" : {
@@ -6729,7 +6729,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Generează raport"
+            "value" : "Generați raport"
           }
         },
         "ru" : {
@@ -6980,7 +6980,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alătură-te provocării"
+            "value" : "Alăturați-vă provocării"
           }
         },
         "ru" : {
@@ -7057,7 +7057,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Записване на хранене"
+            "value" : "Запиши хранене"
           }
         },
         "ca" : {
@@ -7231,7 +7231,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Înregistrează masa"
+            "value" : "Înregistrați masa"
           }
         },
         "ru" : {
@@ -7482,7 +7482,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Înregistrează apa"
+            "value" : "Înregistrați apa"
           }
         },
         "ru" : {
@@ -7661,7 +7661,7 @@
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Megjelölés késznek"
+            "value" : "Késznek jelölés"
           }
         },
         "id" : {
@@ -7733,7 +7733,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Marchează ca finalizat"
+            "value" : "Marchați ca finalizat"
           }
         },
         "ru" : {
@@ -7822,7 +7822,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Změřit"
+            "value" : "Měřit"
           }
         },
         "da" : {
@@ -7984,7 +7984,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Măsoară"
+            "value" : "Măsurați"
           }
         },
         "ru" : {
@@ -8235,7 +8235,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Meditează"
+            "value" : "Meditați"
           }
         },
         "ru" : {
@@ -8438,7 +8438,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Мониторинг жасау"
+            "value" : "Бақылау"
           }
         },
         "ko" : {
@@ -8486,7 +8486,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Monitorizează"
+            "value" : "Monitorizați"
           }
         },
         "ru" : {
@@ -8498,7 +8498,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Monitorovať"
+            "value" : "Sledovať"
           }
         },
         "sv" : {
@@ -8737,7 +8737,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pauzează antrenamentul"
+            "value" : "Pauzați antrenamentul"
           }
         },
         "ru" : {
@@ -8988,7 +8988,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Înregistrează"
+            "value" : "Înregistrați"
           }
         },
         "ru" : {
@@ -9233,13 +9233,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Repetir Exercício"
+            "value" : "Repetir exercício"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Repetă exercițiul"
+            "value" : "Repetați exercițiul"
           }
         },
         "ru" : {
@@ -9346,7 +9346,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Αναφορά Προβλήματος"
+            "value" : "Αναφορά προβλήματος"
           }
         },
         "en" : {
@@ -9490,7 +9490,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Raportează o problemă"
+            "value" : "Raportați o problemă"
           }
         },
         "ru" : {
@@ -9597,7 +9597,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ζήτηση Πρόσβασης"
+            "value" : "Αίτημα πρόσβασης"
           }
         },
         "en" : {
@@ -9741,7 +9741,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cere acces"
+            "value" : "Cereți acces"
           }
         },
         "ru" : {
@@ -9992,7 +9992,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Resetează progresul"
+            "value" : "Resetați progresul"
           }
         },
         "ru" : {
@@ -10069,7 +10069,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Възобновяване на тренировката"
+            "value" : "Продължи тренировката"
           }
         },
         "ca" : {
@@ -10243,7 +10243,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Continuă antrenamentul"
+            "value" : "Continuați antrenamentul"
           }
         },
         "ru" : {
@@ -10320,7 +10320,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Преглед на напредъка"
+            "value" : "Прегледай напредъка"
           }
         },
         "ca" : {
@@ -10494,7 +10494,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Revizuiește progresul"
+            "value" : "Revizuiți progresul"
           }
         },
         "ru" : {
@@ -10524,7 +10524,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "İlerlemeni Gözden Geçir"
+            "value" : "İlerlemeyi Gözden Geçir"
           }
         },
         "uk" : {
@@ -10739,13 +10739,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Guardar Vídeo"
+            "value" : "Guardar vídeo"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Salvează clipul video"
+            "value" : "Salvați clipul video"
           }
         },
         "ru" : {
@@ -10852,7 +10852,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Όρισε στόχο"
+            "value" : "Ορισμός στόχου"
           }
         },
         "en" : {
@@ -10990,13 +10990,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Definir Objetivo"
+            "value" : "Definir objetivo"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stabilește obiectivul"
+            "value" : "Stabiliți obiectivul"
           }
         },
         "ru" : {
@@ -11103,7 +11103,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Όρισε Υπενθύμιση"
+            "value" : "Ορισμός υπενθύμισης"
           }
         },
         "en" : {
@@ -11199,7 +11199,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Еске салуды орнату"
+            "value" : "Еске салу орнату"
           }
         },
         "ko" : {
@@ -11247,7 +11247,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Setează un memento"
+            "value" : "Setați un memento"
           }
         },
         "ru" : {
@@ -11498,7 +11498,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sari peste exercițiu"
+            "value" : "Săriți peste exercițiu"
           }
         },
         "ru" : {
@@ -11605,7 +11605,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ξεκίνησε Άσκηση"
+            "value" : "Έναρξη άσκησης"
           }
         },
         "en" : {
@@ -11743,13 +11743,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Iniciar Exercício"
+            "value" : "Iniciar exercício"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Începe exercițiul"
+            "value" : "Începeți exercițiul"
           }
         },
         "ru" : {
@@ -11856,7 +11856,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ξεκίνησε Προπόνηση"
+            "value" : "Έναρξη προπόνησης"
           }
         },
         "en" : {
@@ -12000,7 +12000,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Începe antrenamentul"
+            "value" : "Începeți antrenamentul"
           }
         },
         "ru" : {
@@ -12251,7 +12251,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Oprește exercițiul"
+            "value" : "Opriți exercițiul"
           }
         },
         "ru" : {
@@ -12358,7 +12358,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Παρακολούθησε Θερμίδες"
+            "value" : "Παρακολούθηση θερμίδων"
           }
         },
         "en" : {
@@ -12502,7 +12502,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Urmărește caloriile"
+            "value" : "Urmăriți caloriile"
           }
         },
         "ru" : {
@@ -12753,7 +12753,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Urmărește somnul"
+            "value" : "Urmăriți somnul"
           }
         },
         "ru" : {
@@ -12830,7 +12830,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Проследяване на теглото"
+            "value" : "Следи теглото"
           }
         },
         "ca" : {
@@ -13004,7 +13004,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Urmărește greutatea"
+            "value" : "Urmăriți greutatea"
           }
         },
         "ru" : {
@@ -20636,7 +20636,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trainingsdetails hinzufügen…"
+            "value" : "Trainingsdetails hinzufügen …"
           }
         },
         "el" : {
@@ -20684,7 +20684,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ajoute des détails d'entraînement…"
+            "value" : "Ajouter des détails d'entraînement…"
           }
         },
         "fr-CA" : {
@@ -20708,7 +20708,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dodaj pojedinosti vježbe…"
+            "value" : "Dodajte pojedinosti vježbe…"
           }
         },
         "hu" : {
@@ -20786,7 +20786,7 @@
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Adaugă detalii despre antrenament…"
+            "value" : "Adăugați detalii despre antrenament…"
           }
         },
         "ru" : {
@@ -20798,7 +20798,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pridaj podrobnosti o tréningu…"
+            "value" : "Pridajte podrobnosti o tréningu…"
           }
         },
         "sv" : {
@@ -20816,7 +20816,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Antrenman detaylarını ekle…"
+            "value" : "Antrenman detaylarını ekleyin…"
           }
         },
         "uk" : {
@@ -20840,13 +20840,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "添加運動詳情…"
+            "value" : "添加運動詳情⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "新增訓練詳情…"
+            "value" : "新增訓練詳情⋯"
           }
         }
       }
@@ -20887,7 +20887,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Training analysieren…"
+            "value" : "Training analysieren …"
           }
         },
         "el" : {
@@ -21091,13 +21091,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在分析運動數據…"
+            "value" : "正在分析運動數據⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在分析訓練數據…"
+            "value" : "正在分析訓練數據⋯"
           }
         }
       }
@@ -21138,7 +21138,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kalorien werden berechnet…"
+            "value" : "Kalorien werden berechnet …"
           }
         },
         "el" : {
@@ -21342,13 +21342,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在計算卡路里…"
+            "value" : "正在計算卡路里⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在計算卡路里…"
+            "value" : "正在計算卡路里⋯"
           }
         }
       }
@@ -21365,7 +21365,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи тип дейност…"
+            "value" : "Въведете тип дейност…"
           }
         },
         "ca" : {
@@ -21377,7 +21377,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej typ aktivity…"
+            "value" : "Zadejte typ aktivity…"
           }
         },
         "da" : {
@@ -21389,7 +21389,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aktivitätstyp eingeben…"
+            "value" : "Aktivitätstyp eingeben …"
           }
         },
         "el" : {
@@ -21437,13 +21437,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entre le type d'activité…"
+            "value" : "Saisir le type d'activité…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entre le type d'activité…"
+            "value" : "Entrer le type d'activité…"
           }
         },
         "he" : {
@@ -21461,7 +21461,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi tip aktivnosti…"
+            "value" : "Unesite tip aktivnosti…"
           }
         },
         "hu" : {
@@ -21533,25 +21533,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduz o tipo de atividade…"
+            "value" : "Introduza o tipo de atividade…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu tipul de activitate…"
+            "value" : "Introduceți tipul de activitate…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи тип активности…"
+            "value" : "Введите тип активности…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj typ aktivity…"
+            "value" : "Zadajte typ aktivity…"
           }
         },
         "sv" : {
@@ -21569,7 +21569,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Etkinlik türünü gir…"
+            "value" : "Etkinlik türünü girin…"
           }
         },
         "uk" : {
@@ -21593,13 +21593,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入活動類型…"
+            "value" : "輸入活動類型⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入活動類型…"
+            "value" : "輸入活動類型⋯"
           }
         }
       }
@@ -21616,7 +21616,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи текущото тегло…"
+            "value" : "Въведете текущото тегло…"
           }
         },
         "ca" : {
@@ -21628,7 +21628,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej aktuální hmotnost…"
+            "value" : "Zadejte aktuální hmotnost…"
           }
         },
         "da" : {
@@ -21640,7 +21640,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Aktuelles Gewicht eingeben…"
+            "value" : "Aktuelles Gewicht eingeben …"
           }
         },
         "el" : {
@@ -21688,13 +21688,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entre ton poids actuel…"
+            "value" : "Saisir votre poids actuel…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entre le poids actuel…"
+            "value" : "Entrer le poids actuel…"
           }
         },
         "he" : {
@@ -21712,13 +21712,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi trenutnu težinu…"
+            "value" : "Unesite trenutnu težinu…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a jelenlegi testsúlyt…"
+            "value" : "Adja meg a jelenlegi testsúlyt…"
           }
         },
         "id" : {
@@ -21784,25 +21784,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduz o peso atual…"
+            "value" : "Introduza o peso atual…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu greutatea curentă…"
+            "value" : "Introduceți greutatea curentă…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи текущий вес…"
+            "value" : "Введите текущий вес…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj aktuálnu hmotnosť…"
+            "value" : "Zadajte aktuálnu hmotnosť…"
           }
         },
         "sv" : {
@@ -21820,7 +21820,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mevcut ağırlığı gir…"
+            "value" : "Mevcut ağırlığı girin…"
           }
         },
         "uk" : {
@@ -21844,13 +21844,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入當前體重…"
+            "value" : "輸入當前體重⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入目前體重…"
+            "value" : "輸入目前體重⋯"
           }
         }
       }
@@ -21867,7 +21867,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи целта за дневни стъпки…"
+            "value" : "Въведете целта за дневни стъпки…"
           }
         },
         "ca" : {
@@ -21879,7 +21879,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej denní cíl kroků…"
+            "value" : "Zadejte denní cíl kroků…"
           }
         },
         "da" : {
@@ -21891,7 +21891,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tägliches Schrittziel eingeben…"
+            "value" : "Tägliches Schrittziel eingeben …"
           }
         },
         "el" : {
@@ -21939,13 +21939,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entre ton objectif quotidien de pas…"
+            "value" : "Saisir votre objectif quotidien de pas…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entre l'objectif quotidien de pas…"
+            "value" : "Entrer l'objectif quotidien de pas…"
           }
         },
         "he" : {
@@ -21963,13 +21963,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi dnevni cilj koraka…"
+            "value" : "Unesite dnevni cilj koraka…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a napi lépésszámcélt…"
+            "value" : "Adja meg a napi lépésszámcélt…"
           }
         },
         "id" : {
@@ -22035,25 +22035,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduz a meta diária de passos…"
+            "value" : "Introduza a meta diária de passos…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu obiectivul zilnic de pași…"
+            "value" : "Introduceți obiectivul zilnic de pași…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи ежедневную цель по шагам…"
+            "value" : "Введите ежедневную цель по шагам…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj denný cieľ krokov…"
+            "value" : "Zadajte denný cieľ krokov…"
           }
         },
         "sv" : {
@@ -22071,7 +22071,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Günlük adım hedefini gir…"
+            "value" : "Günlük adım hedefini girin…"
           }
         },
         "uk" : {
@@ -22095,13 +22095,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入每日步數目標…"
+            "value" : "輸入每日步數目標⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入每日步數目標…"
+            "value" : "輸入每日步數目標⋯"
           }
         }
       }
@@ -22118,7 +22118,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи продължителността на упражнението…"
+            "value" : "Въведете продължителността на упражнението…"
           }
         },
         "ca" : {
@@ -22130,7 +22130,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej délku cvičení…"
+            "value" : "Zadejte délku cvičení…"
           }
         },
         "da" : {
@@ -22142,7 +22142,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Übungsdauer eingeben…"
+            "value" : "Übungsdauer eingeben …"
           }
         },
         "el" : {
@@ -22190,13 +22190,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entre la durée de l'exercice…"
+            "value" : "Saisir la durée de l'exercice…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entre la durée de l'exercice…"
+            "value" : "Entrer la durée de l'exercice…"
           }
         },
         "he" : {
@@ -22214,13 +22214,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi trajanje vježbanja…"
+            "value" : "Unesite trajanje vježbanja…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a gyakorlat időtartamát…"
+            "value" : "Adja meg a gyakorlat időtartamát…"
           }
         },
         "id" : {
@@ -22286,25 +22286,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduz a duração do exercício…"
+            "value" : "Introduza a duração do exercício…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu durata exercițiului…"
+            "value" : "Introduceți durata exercițiului…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи продолжительность тренировки…"
+            "value" : "Введите продолжительность тренировки…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj trvanie cvičenia…"
+            "value" : "Zadajte trvanie cvičenia…"
           }
         },
         "sv" : {
@@ -22322,7 +22322,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Egzersiz süresini gir…"
+            "value" : "Egzersiz süresini girin…"
           }
         },
         "uk" : {
@@ -22346,13 +22346,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入運動時間…"
+            "value" : "輸入運動時間⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入運動持續時間…"
+            "value" : "輸入運動持續時間⋯"
           }
         }
       }
@@ -22369,7 +22369,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи сърдечен ритъм…"
+            "value" : "Въведете сърдечен ритъм…"
           }
         },
         "ca" : {
@@ -22381,7 +22381,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej srdeční tep…"
+            "value" : "Zadejte srdeční tep…"
           }
         },
         "da" : {
@@ -22393,7 +22393,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Herzfrequenz eingeben…"
+            "value" : "Herzfrequenz eingeben …"
           }
         },
         "el" : {
@@ -22441,13 +22441,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entre ta fréquence cardiaque…"
+            "value" : "Saisir votre fréquence cardiaque…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entre la fréquence cardiaque…"
+            "value" : "Entrer la fréquence cardiaque…"
           }
         },
         "he" : {
@@ -22465,13 +22465,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi broj otkucaja srca…"
+            "value" : "Unesite broj otkucaja srca…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a pulzusszámot…"
+            "value" : "Adja meg a pulzusszámot…"
           }
         },
         "id" : {
@@ -22537,25 +22537,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduz a frequência cardíaca…"
+            "value" : "Introduza a frequência cardíaca…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu frecvența cardiacă…"
+            "value" : "Introduceți frecvența cardiacă…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи частоту сердечных сокращений…"
+            "value" : "Введите частоту сердечных сокращений…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj srdcový tep…"
+            "value" : "Zadajte srdcový tep…"
           }
         },
         "sv" : {
@@ -22573,7 +22573,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kalp atış hızını gir…"
+            "value" : "Kalp atış hızını girin…"
           }
         },
         "uk" : {
@@ -22597,13 +22597,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "請輸入心跳率…"
+            "value" : "請輸入心跳率⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入心率…"
+            "value" : "輸入心率⋯"
           }
         }
       }
@@ -22620,7 +22620,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи височина…"
+            "value" : "Въведете височина…"
           }
         },
         "ca" : {
@@ -22632,7 +22632,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej výšku…"
+            "value" : "Zadejte výšku…"
           }
         },
         "da" : {
@@ -22644,7 +22644,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Größe eingeben…"
+            "value" : "Größe eingeben …"
           }
         },
         "el" : {
@@ -22692,13 +22692,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entre ta taille…"
+            "value" : "Saisir votre taille…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entre la taille…"
+            "value" : "Entrer la taille…"
           }
         },
         "he" : {
@@ -22716,13 +22716,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi visinu…"
+            "value" : "Unesite visinu…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a magasságot…"
+            "value" : "Adja meg a magasságot…"
           }
         },
         "id" : {
@@ -22788,25 +22788,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduz a altura…"
+            "value" : "Introduza a altura…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu înălțimea…"
+            "value" : "Introduceți înălțimea…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи рост…"
+            "value" : "Введите рост…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj výšku…"
+            "value" : "Zadajte výšku…"
           }
         },
         "sv" : {
@@ -22824,7 +22824,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Boyu gir…"
+            "value" : "Boyu girin…"
           }
         },
         "uk" : {
@@ -22848,13 +22848,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "請輸入身高…"
+            "value" : "請輸入身高⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入身高…"
+            "value" : "輸入身高⋯"
           }
         }
       }
@@ -22871,7 +22871,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи детайли за ястието…"
+            "value" : "Въведете детайли за ястието…"
           }
         },
         "ca" : {
@@ -22883,7 +22883,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej údaje o jídle…"
+            "value" : "Zadejte údaje o jídle…"
           }
         },
         "da" : {
@@ -22895,13 +22895,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mahlzeitdetails eingeben…"
+            "value" : "Mahlzeitdetails eingeben …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Βάλε λεπτομέρειες γεύματος…"
+            "value" : "Βάλτε λεπτομέρειες γεύματος…"
           }
         },
         "en" : {
@@ -22943,13 +22943,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entre les détails du repas…"
+            "value" : "Saisir les détails du repas…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entre les détails du repas…"
+            "value" : "Entrer les détails du repas…"
           }
         },
         "he" : {
@@ -22967,13 +22967,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi detalje obroka…"
+            "value" : "Unesite detalje obroka…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be az étkezés részleteit…"
+            "value" : "Adja meg az étkezés részleteit…"
           }
         },
         "id" : {
@@ -23039,25 +23039,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduz os detalhes da refeição…"
+            "value" : "Introduza os detalhes da refeição…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu detaliile mesei…"
+            "value" : "Introduceți detaliile mesei…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи детали приема пищи…"
+            "value" : "Введите детали приема пищи…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj podrobnosti o jedle…"
+            "value" : "Zadajte podrobnosti o jedle…"
           }
         },
         "sv" : {
@@ -23075,7 +23075,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Öğün detaylarını gir…"
+            "value" : "Öğün detaylarını girin…"
           }
         },
         "uk" : {
@@ -23099,13 +23099,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "請輸入餐點詳情…"
+            "value" : "請輸入餐點詳情⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入餐點詳情…"
+            "value" : "輸入餐點詳情⋯"
           }
         }
       }
@@ -23122,7 +23122,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи повторения…"
+            "value" : "Въведете повторения…"
           }
         },
         "ca" : {
@@ -23134,7 +23134,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej počet opakování…"
+            "value" : "Zadejte počet opakování…"
           }
         },
         "da" : {
@@ -23146,13 +23146,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gib die Wiederholungen ein…"
+            "value" : "Gib die Wiederholungen ein …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Βάλε επαναλήψεις…"
+            "value" : "Βάλτε επαναλήψεις…"
           }
         },
         "en" : {
@@ -23194,13 +23194,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entre le nombre de répétitions…"
+            "value" : "Saisir le nombre de répétitions…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisis le nombre de répétitions…"
+            "value" : "Saisir le nombre de répétitions…"
           }
         },
         "he" : {
@@ -23218,13 +23218,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi broj ponavljanja…"
+            "value" : "Unesite broj ponavljanja…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be az ismétlések számát…"
+            "value" : "Adja meg az ismétlések számát…"
           }
         },
         "id" : {
@@ -23290,25 +23290,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduz o número de repetições…"
+            "value" : "Introduza o número de repetições…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu repetările…"
+            "value" : "Introduceți repetările…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи повторения…"
+            "value" : "Введите повторения…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj počet opakovaní…"
+            "value" : "Zadajte počet opakovaní…"
           }
         },
         "sv" : {
@@ -23326,7 +23326,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tekrar sayısını gir…"
+            "value" : "Tekrar sayısını girin…"
           }
         },
         "uk" : {
@@ -23350,13 +23350,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入重複次數…"
+            "value" : "輸入重複次數⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入重複次數…"
+            "value" : "輸入重複次數⋯"
           }
         }
       }
@@ -23373,7 +23373,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи серии…"
+            "value" : "Въведете серии…"
           }
         },
         "ca" : {
@@ -23385,7 +23385,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej počet sad…"
+            "value" : "Zadejte počet sad…"
           }
         },
         "da" : {
@@ -23397,13 +23397,13 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gib die Sätze ein…"
+            "value" : "Gib die Sätze ein …"
           }
         },
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Βάλε σετ…"
+            "value" : "Βάλτε σετ…"
           }
         },
         "en" : {
@@ -23445,13 +23445,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entre le nombre de séries…"
+            "value" : "Saisir le nombre de séries…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisis le nombre de séries…"
+            "value" : "Saisir le nombre de séries…"
           }
         },
         "he" : {
@@ -23469,13 +23469,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi setove…"
+            "value" : "Unesite setove…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a szettek számát…"
+            "value" : "Adja meg a szettek számát…"
           }
         },
         "id" : {
@@ -23541,25 +23541,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduz o número de séries…"
+            "value" : "Introduza o número de séries…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu seturile…"
+            "value" : "Introduceți seturile…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи подходы…"
+            "value" : "Введите подходы…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj počet sérií…"
+            "value" : "Zadajte počet sérií…"
           }
         },
         "sv" : {
@@ -23577,7 +23577,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Setleri gir…"
+            "value" : "Setleri girin…"
           }
         },
         "uk" : {
@@ -23601,13 +23601,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入組數…"
+            "value" : "輸入組數⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入組數…"
+            "value" : "輸入組數⋯"
           }
         }
       }
@@ -23624,7 +23624,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи целево тегло…"
+            "value" : "Въведете целево тегло…"
           }
         },
         "ca" : {
@@ -23636,7 +23636,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej cílovou váhu…"
+            "value" : "Zadejte cílovou váhu…"
           }
         },
         "da" : {
@@ -23648,7 +23648,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gib das Zielgewicht ein…"
+            "value" : "Gib das Zielgewicht ein …"
           }
         },
         "el" : {
@@ -23696,13 +23696,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entre ton poids cible…"
+            "value" : "Saisir votre poids cible…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Saisis le poids cible…"
+            "value" : "Saisir le poids cible…"
           }
         },
         "he" : {
@@ -23720,13 +23720,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi ciljnu težinu…"
+            "value" : "Unesite ciljnu težinu…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a célsúlyt…"
+            "value" : "Adja meg a célsúlyt…"
           }
         },
         "id" : {
@@ -23792,25 +23792,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduz o peso alvo…"
+            "value" : "Introduza o peso alvo…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu greutatea țintă…"
+            "value" : "Introduceți greutatea țintă…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи целевой вес…"
+            "value" : "Введите целевой вес…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj cieľovú hmotnosť…"
+            "value" : "Zadajte cieľovú hmotnosť…"
           }
         },
         "sv" : {
@@ -23828,7 +23828,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hedef kiloyu gir…"
+            "value" : "Hedef kiloyu girin…"
           }
         },
         "uk" : {
@@ -23852,13 +23852,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入目標體重…"
+            "value" : "輸入目標體重⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入目標體重…"
+            "value" : "輸入目標體重⋯"
           }
         }
       }
@@ -23875,7 +23875,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи количество вода…"
+            "value" : "Въведете количество вода…"
           }
         },
         "ca" : {
@@ -23887,7 +23887,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej množství vody…"
+            "value" : "Zadejte množství vody…"
           }
         },
         "da" : {
@@ -23899,7 +23899,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wassermenge eingeben…"
+            "value" : "Wassermenge eingeben …"
           }
         },
         "el" : {
@@ -23947,13 +23947,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entre la quantité d'eau…"
+            "value" : "Saisir la quantité d'eau…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entre la quantité d'eau…"
+            "value" : "Entrer la quantité d'eau…"
           }
         },
         "he" : {
@@ -23971,13 +23971,13 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi količinu vode…"
+            "value" : "Unesite količinu vode…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Írd be a vízmennyiséget…"
+            "value" : "Adja meg a vízmennyiséget…"
           }
         },
         "id" : {
@@ -24043,25 +24043,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduz a quantidade de água…"
+            "value" : "Introduza a quantidade de água…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu cantitatea de apă…"
+            "value" : "Introduceți cantitatea de apă…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи количество воды…"
+            "value" : "Введите количество воды…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj množstvo vody…"
+            "value" : "Zadajte množstvo vody…"
           }
         },
         "sv" : {
@@ -24079,7 +24079,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Su miktarını gir…"
+            "value" : "Su miktarını girin…"
           }
         },
         "uk" : {
@@ -24103,13 +24103,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入水量…"
+            "value" : "輸入水量⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入水量…"
+            "value" : "輸入水量⋯"
           }
         }
       }
@@ -24126,7 +24126,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Въведи продължителност на тренировката…"
+            "value" : "Въведете продължителност на тренировката…"
           }
         },
         "ca" : {
@@ -24138,7 +24138,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadej dobu tréninku…"
+            "value" : "Zadejte dobu tréninku…"
           }
         },
         "da" : {
@@ -24150,7 +24150,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trainingsdauer eingeben…"
+            "value" : "Trainingsdauer eingeben …"
           }
         },
         "el" : {
@@ -24198,13 +24198,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entre la durée de l'entraînement…"
+            "value" : "Saisir la durée de l'entraînement…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Entre la durée de l'entraînement…"
+            "value" : "Entrer la durée de l'entraînement…"
           }
         },
         "he" : {
@@ -24222,7 +24222,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Unesi trajanje vježbanja…"
+            "value" : "Unesite trajanje vježbanja…"
           }
         },
         "hu" : {
@@ -24294,25 +24294,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introduz a duração do treino…"
+            "value" : "Introduza a duração do treino…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Introdu durata antrenamentului…"
+            "value" : "Introduceți durata antrenamentului…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Введи длительность тренировки…"
+            "value" : "Введите длительность тренировки…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zadaj trvanie tréningu…"
+            "value" : "Zadajte trvanie tréningu…"
           }
         },
         "sv" : {
@@ -24330,7 +24330,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Antrenman süresini gir…"
+            "value" : "Antrenman süresini girin…"
           }
         },
         "uk" : {
@@ -24354,13 +24354,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入運動時長…"
+            "value" : "輸入運動時長⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "輸入訓練持續時間…"
+            "value" : "輸入訓練持續時間⋯"
           }
         }
       }
@@ -24377,7 +24377,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Намери упражнение…"
+            "value" : "Намерете упражнение…"
           }
         },
         "ca" : {
@@ -24389,7 +24389,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Najdi cvičení…"
+            "value" : "Najděte cvičení…"
           }
         },
         "da" : {
@@ -24401,7 +24401,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Eine Übung finden…"
+            "value" : "Eine Übung finden …"
           }
         },
         "el" : {
@@ -24449,13 +24449,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trouve un exercice…"
+            "value" : "Trouver un exercice…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Trouve un exercice…"
+            "value" : "Trouver un exercice…"
           }
         },
         "he" : {
@@ -24473,7 +24473,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pronađi vježbu…"
+            "value" : "Pronađite vježbu…"
           }
         },
         "hu" : {
@@ -24545,13 +24545,13 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Encontra um exercício…"
+            "value" : "Encontre um exercício…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Caută un exercițiu…"
+            "value" : "Căutați un exercițiu…"
           }
         },
         "ru" : {
@@ -24563,7 +24563,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nájdi cvičenie…"
+            "value" : "Nájdite cvičenie…"
           }
         },
         "sv" : {
@@ -24605,13 +24605,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "搜尋運動…"
+            "value" : "搜尋運動⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "尋找運動…"
+            "value" : "尋找運動⋯"
           }
         }
       }
@@ -24628,7 +24628,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Запиши храната си…"
+            "value" : "Запишете храната си…"
           }
         },
         "ca" : {
@@ -24640,7 +24640,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zaznamenej své jídlo…"
+            "value" : "Zaznamenejte své jídlo…"
           }
         },
         "da" : {
@@ -24652,7 +24652,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Essen protokollieren…"
+            "value" : "Essen protokollieren …"
           }
         },
         "el" : {
@@ -24700,13 +24700,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Enregistre ton repas…"
+            "value" : "Enregistrer votre repas…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Enregistre ton repas…"
+            "value" : "Enregistrer votre repas…"
           }
         },
         "he" : {
@@ -24724,19 +24724,19 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zabilježi obrok…"
+            "value" : "Zabilježite obrok…"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ételed rögzítése…"
+            "value" : "Étkezés rögzítése…"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Catat makananmu…"
+            "value" : "Catat makanan Anda…"
           }
         },
         "it" : {
@@ -24796,25 +24796,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Regista a tua refeição…"
+            "value" : "Registe a refeição…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Notează masa ta…"
+            "value" : "Notați masa…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Запиши прием пищи…"
+            "value" : "Запишите прием пищи…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zaznamenaj svoje jedlo…"
+            "value" : "Zaznamenajte svoje jedlo…"
           }
         },
         "sv" : {
@@ -24832,13 +24832,13 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Öğününü kaydet…"
+            "value" : "Öğününüzü kaydedin…"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Запиши свій прийом їжі…"
+            "value" : "Запишіть свій прийом їжі…"
           }
         },
         "vi" : {
@@ -24856,13 +24856,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "記錄你的餐點…"
+            "value" : "記錄你的餐點⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "記錄你的餐點…"
+            "value" : "記錄你的餐點⋯"
           }
         }
       }
@@ -24903,7 +24903,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Workout aufnehmen…"
+            "value" : "Workout aufnehmen …"
           }
         },
         "el" : {
@@ -25107,13 +25107,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在記錄運動…"
+            "value" : "正在記錄運動⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "正在記錄訓練…"
+            "value" : "正在記錄訓練⋯"
           }
         }
       }
@@ -25130,7 +25130,7 @@
         "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Определи фитнес цел…"
+            "value" : "Определете фитнес цел…"
           }
         },
         "ca" : {
@@ -25142,7 +25142,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nastav fitness cíl…"
+            "value" : "Nastavte fitness cíl…"
           }
         },
         "da" : {
@@ -25154,7 +25154,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ein Fitnessziel setzen…"
+            "value" : "Ein Fitnessziel setzen …"
           }
         },
         "el" : {
@@ -25202,13 +25202,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Définis un objectif de fitness…"
+            "value" : "Définir un objectif de fitness…"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Fixe un objectif de condition physique…"
+            "value" : "Fixer un objectif de condition physique…"
           }
         },
         "he" : {
@@ -25226,7 +25226,7 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Postavi cilj fitnesa…"
+            "value" : "Postavite cilj fitnesa…"
           }
         },
         "hu" : {
@@ -25298,25 +25298,25 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Define um objetivo de fitness…"
+            "value" : "Defina um objetivo de fitness…"
           }
         },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Stabilește un obiectiv de fitness…"
+            "value" : "Stabiliți un obiectiv de fitness…"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Установи фитнес-цель…"
+            "value" : "Установите фитнес-цель…"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nastav cieľ kondície…"
+            "value" : "Nastavte cieľ kondície…"
           }
         },
         "sv" : {
@@ -25334,7 +25334,7 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bir fitness hedefi belirle…"
+            "value" : "Bir fitness hedefi belirleyin…"
           }
         },
         "uk" : {
@@ -25358,13 +25358,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "設定健身目標…"
+            "value" : "設定健身目標⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "設定健身目標…"
+            "value" : "設定健身目標⋯"
           }
         }
       }
@@ -25405,7 +25405,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Schritte verfolgen…"
+            "value" : "Schritte verfolgen …"
           }
         },
         "el" : {
@@ -25609,13 +25609,13 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "計步中…"
+            "value" : "計步中⋯"
           }
         },
         "zh-HK" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "追蹤步數…"
+            "value" : "追蹤步數⋯"
           }
         }
       }
@@ -25645,7 +25645,7 @@
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Skvělá práce, splnil/a jsi svůj cíl!"
+            "value" : "Skvělá práce, splnili jste svůj cíl!"
           }
         },
         "da" : {
@@ -25663,7 +25663,7 @@
         "el" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Μπράβο για την επίτευξη του στόχου σου!"
+            "value" : "Μπράβο για την επίτευξη του στόχου σας!"
           }
         },
         "en" : {
@@ -25705,13 +25705,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bien joué pour avoir atteint ton objectif !"
+            "value" : "Bien joué pour avoir atteint votre objectif !"
           }
         },
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bien joué pour avoir atteint ton objectif !"
+            "value" : "Bien joué pour avoir atteint votre objectif !"
           }
         },
         "he" : {
@@ -25729,19 +25729,19 @@
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dobro odrađeno, ostvario/la si svoj cilj!"
+            "value" : "Dobro odrađeno, ostvarili ste svoj cilj!"
           }
         },
         "hu" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ügyes vagy, elérted a célod!"
+            "value" : "Ügyes, elérte a célját!"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Selamat atas tercapainya tujuanmu!"
+            "value" : "Selamat atas tercapainya tujuan Anda!"
           }
         },
         "it" : {
@@ -25759,7 +25759,7 @@
         "kk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Мақсатыңа жеткеніңмен құттықтаймыз!"
+            "value" : "Мақсатыңызға жеткеніңізбен құттықтаймыз!"
           }
         },
         "ko" : {
@@ -25801,7 +25801,7 @@
         "pt-PT" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bem feito por alcançar o teu objetivo!"
+            "value" : "Bem feito por alcançar o objetivo!"
           }
         },
         "ro" : {
@@ -25819,7 +25819,7 @@
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gratulujeme, podarilo sa ti splniť cieľ!"
+            "value" : "Gratulujeme, podarilo sa vám splniť cieľ!"
           }
         },
         "sv" : {
@@ -25837,13 +25837,13 @@
         "tr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hedefine ulaşman harika!"
+            "value" : "Hedefinize ulaşmanız harika!"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Молодець, ти досяг(ла) своєї мети!"
+            "value" : "Чудово, ви досягли своєї мети!"
           }
         },
         "vi" : {

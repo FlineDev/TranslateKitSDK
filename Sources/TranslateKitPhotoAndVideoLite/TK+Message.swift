@@ -36,7 +36,7 @@ extension TK.Message {
    public static var convertingFileFormatDots: String {
       String(
          localized: "TK.Message.convertingFileFormatDots",
-         defaultValue: "Converting file format...",
+         defaultValue: "Converting file format…",
          bundle: .module,
          comment: "Message displayed when a file format is being converted"
       )
@@ -56,7 +56,7 @@ extension TK.Message {
    public static var editingInProgressDots: String {
       String(
          localized: "TK.Message.editingInProgressDots",
-         defaultValue: "Editing in progress...",
+         defaultValue: "Editing in progress…",
          bundle: .module,
          comment: "Message displayed while editing is in progress"
       )
@@ -136,7 +136,7 @@ extension TK.Message {
    public static var processingLargeMediaFileDots: String {
       String(
          localized: "TK.Message.processingLargeMediaFileDots",
-         defaultValue: "Processing large media file...",
+         defaultValue: "Processing large media file…",
          bundle: .module,
          comment: "Message displayed while processing a large file"
       )
