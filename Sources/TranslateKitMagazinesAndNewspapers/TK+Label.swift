@@ -252,6 +252,16 @@ extension TK.Label {
       )
    }
 
+   /// "Sections" - Use for multiple categories or parts within a publication
+   public static var sections: String {
+      String(
+         localized: "TK.Label.sections",
+         defaultValue: "Sections",
+         bundle: .module,
+         comment: "Use for multiple categories or parts within a publication"
+      )
+   }
+
    /// "Subscriptions" - Use for managing or subscribing to content or services
    public static var subscriptions: String {
       String(
