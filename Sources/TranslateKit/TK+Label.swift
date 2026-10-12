@@ -98,6 +98,36 @@ extension TK {
          )
       }
 
+      /// "Bottom" - Use for an option or label naming the bottom position
+      public static var bottom: String {
+         String(
+            localized: "TK.Label.bottom",
+            defaultValue: "Bottom",
+            bundle: .module,
+            comment: "Use for an option or label naming the bottom position"
+         )
+      }
+
+      /// "Bottom Left" - Use for an option or label naming the bottom left corner
+      public static var bottomLeft: String {
+         String(
+            localized: "TK.Label.bottomLeft",
+            defaultValue: "Bottom Left",
+            bundle: .module,
+            comment: "Use for an option or label naming the bottom left corner"
+         )
+      }
+
+      /// "Bottom Right" - Use for an option or label naming the bottom right corner
+      public static var bottomRight: String {
+         String(
+            localized: "TK.Label.bottomRight",
+            defaultValue: "Bottom Right",
+            bundle: .module,
+            comment: "Use for an option or label naming the bottom right corner"
+         )
+      }
+
       /// "Category" - Use for a single classification of content
       public static var category: String {
          String(localized: "TK.Label.category", defaultValue: "Category", bundle: .module, comment: "Use for a single classification of content")
@@ -258,9 +288,39 @@ extension TK {
          String(localized: "TK.Label.language", defaultValue: "Language", bundle: .module, comment: "Use for localization or translation preferences")
       }
 
+      /// "Large" - Use for an option or label naming the large size
+      public static var large: String {
+         String(
+            localized: "TK.Label.large",
+            defaultValue: "Large",
+            bundle: .module,
+            comment: "Use for an option or label naming the large size"
+         )
+      }
+
+      /// "Left" - Use for an option or label naming the left side
+      public static var left: String {
+         String(
+            localized: "TK.Label.left",
+            defaultValue: "Left",
+            bundle: .module,
+            comment: "Use for an option or label naming the left side"
+         )
+      }
+
       /// "Location" - Use for GPS or user-specified place tracking
       public static var location: String {
          String(localized: "TK.Label.location", defaultValue: "Location", bundle: .module, comment: "Use for GPS or user-specified place tracking")
+      }
+
+      /// "Medium" - Use for an option or label naming the medium size
+      public static var medium: String {
+         String(
+            localized: "TK.Label.medium",
+            defaultValue: "Medium",
+            bundle: .module,
+            comment: "Use for an option or label naming the medium size"
+         )
       }
 
       /// "Menu" - Use for navigation or option lists
@@ -388,6 +448,16 @@ extension TK {
          String(localized: "TK.Label.required", defaultValue: "Required", bundle: .module, comment: "Use for fields or inputs that must be completed")
       }
 
+      /// "Right" - Use for an option or label naming the right side
+      public static var right: String {
+         String(
+            localized: "TK.Label.right",
+            defaultValue: "Right",
+            bundle: .module,
+            comment: "Use for an option or label naming the right side"
+         )
+      }
+
       /// "Search" - Noun – Use to label input fields related to finding content
       public static var search: String {
          String(
@@ -426,6 +496,16 @@ extension TK {
       /// "Size" - Use for dimensions or file size indicators
       public static var size: String {
          String(localized: "TK.Label.size", defaultValue: "Size", bundle: .module, comment: "Use for dimensions or file size indicators")
+      }
+
+      /// "Small" - Use for an option or label naming the small size
+      public static var small: String {
+         String(
+            localized: "TK.Label.small",
+            defaultValue: "Small",
+            bundle: .module,
+            comment: "Use for an option or label naming the small size"
+         )
       }
 
       /// "Source" - Use for content origin or data input sources
@@ -486,6 +566,36 @@ extension TK {
       /// "Title" - Use for headlines and label elements
       public static var title: String {
          String(localized: "TK.Label.title", defaultValue: "Title", bundle: .module, comment: "Use for headlines and label elements")
+      }
+
+      /// "Top" - Use for an option or label naming the top position
+      public static var top: String {
+         String(
+            localized: "TK.Label.top",
+            defaultValue: "Top",
+            bundle: .module,
+            comment: "Use for an option or label naming the top position"
+         )
+      }
+
+      /// "Top Left" - Use for an option or label naming the top left corner
+      public static var topLeft: String {
+         String(
+            localized: "TK.Label.topLeft",
+            defaultValue: "Top Left",
+            bundle: .module,
+            comment: "Use for an option or label naming the top left corner"
+         )
+      }
+
+      /// "Top Right" - Use for an option or label naming the top right corner
+      public static var topRight: String {
+         String(
+            localized: "TK.Label.topRight",
+            defaultValue: "Top Right",
+            bundle: .module,
+            comment: "Use for an option or label naming the top right corner"
+         )
       }
 
       /// "Total" - Use for displaying sum or overall values

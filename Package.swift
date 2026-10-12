@@ -171,7 +171,7 @@ let package = Package(
       ),
       .testTarget(
          name: "TranslateKitTests",
-         dependencies: ["TranslateKit", "TranslateKitBusiness", "TranslateKitFinance"]
+         dependencies: ["TranslateKit", "TranslateKitBusiness", "TranslateKitFinance", "TranslateKitGraphicsAndDesign"]
       ),
    ]
 )
