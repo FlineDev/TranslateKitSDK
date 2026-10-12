@@ -227,6 +227,16 @@ extension TK.Label {
       )
    }
 
+   /// "Transparency" - Use for the setting that controls how see-through a layer, shape or color is
+   public static var transparency: String {
+      String(
+         localized: "TK.Label.transparency",
+         defaultValue: "Transparency",
+         bundle: .module,
+         comment: "Use for the setting that controls how see-through a layer, shape or color is"
+      )
+   }
+
    /// "Vector" - Use for graphics defined by paths or mathematical expressions
    public static var vector: String {
       String(
