@@ -92,6 +92,16 @@ extension TK.Label {
       String(localized: "TK.Label.student", defaultValue: "Student", bundle: .module, comment: "Use to refer to a person engaged in learning")
    }
 
+   /// "Subjects" - Use when referring to multiple topics or disciplines of study
+   public static var subjects: String {
+      String(
+         localized: "TK.Label.subjects",
+         defaultValue: "Subjects",
+         bundle: .module,
+         comment: "Use when referring to multiple topics or disciplines of study"
+      )
+   }
+
    /// "Teacher" - Use to refer to a person providing instruction
    public static var teacher: String {
       String(localized: "TK.Label.teacher", defaultValue: "Teacher", bundle: .module, comment: "Use to refer to a person providing instruction")
