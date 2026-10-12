@@ -3354,7 +3354,7 @@
         "fr-CA" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Communiquer avec le service d’assistance"
+            "value" : "Contacter l’assistance"
           }
         },
         "he" : {
@@ -3390,7 +3390,7 @@
         "it" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Contatta l'assistenza"
+            "value" : "Contatta l’assistenza"
           }
         },
         "ja" : {
