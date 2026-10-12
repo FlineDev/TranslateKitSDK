@@ -1,6 +1,6 @@
 # Migrating from 1.x
 
-TranslateKit 2.0 removes the `#tk` / `#tkm` macros and the `Lite` variants. The package no longer depends on swift-syntax, so Xcode and CI never ask to "Trust & Enable" a macro, and builds are faster. The pre-localized strings (`TK.Action.save` and friends) work exactly as before.
+TranslateKit 2.0 removes the `#tk` / `#tkm` macros and the `Lite` variants. The macro saved typing, which matters little now that most code is written with AI assistance, while every project paid for it with Xcode's "Trust & Enable" prompt. The package no longer depends on swift-syntax, so Xcode and CI never ask to trust a macro, and builds are faster. The pre-localized strings (`TK.Action.save` and friends) work exactly as before.
 
 ## If you used a `Lite` product
 
