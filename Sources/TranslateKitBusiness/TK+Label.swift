@@ -187,13 +187,13 @@ extension TK.Label {
       String(localized: "TK.Label.meeting", defaultValue: "Meeting", bundle: .module, comment: "Use for a scheduled business meeting or appointment")
    }
 
-   /// "Ordered" - Use for showing an order's status
+   /// "Ordered" - Use as a status showing that something has been ordered
    public static var ordered: String {
       String(
          localized: "TK.Label.ordered",
          defaultValue: "Ordered",
          bundle: .module,
-         comment: "Use for showing an order's status"
+         comment: "Use as a status showing that something has been ordered"
       )
    }
 
@@ -257,13 +257,13 @@ extension TK.Label {
       )
    }
 
-   /// "Validated" - Use for showing a validated status
+   /// "Validated" - Use as a status showing that something has been checked and approved
    public static var validated: String {
       String(
          localized: "TK.Label.validated",
          defaultValue: "Validated",
          bundle: .module,
-         comment: "Use for showing a validated status"
+         comment: "Use as a status showing that something has been checked and approved"
       )
    }
 
