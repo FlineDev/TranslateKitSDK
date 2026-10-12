@@ -6,7 +6,7 @@
 
 What SF Symbols is for Icons, TranslateKit is for Text!
 
-Eliminate localization overhead in your Swift apps with 2000+ pre-localized strings and semantic key generation. Make app localization simple, accurate, and delightful.
+Eliminate localization overhead in your Swift apps with 2000+ pre-localized strings. Make app localization simple, accurate, and delightful.
 
 ## Key Features
 
@@ -34,36 +34,12 @@ Discovering the right translations is effortless with autocompletion – type `T
 
 ![Showcasing Autocompletion in Xcode](https://github.com/FlineDev/TranslateKit/blob/main/Images/Autocomplete.jpeg?raw=true)
 
-### 2. Smart Key Generation
-The `#tk` macro eliminates the tedious work of manual key management by automatically generating semantic keys based on code context:
-
-```swift
-struct SettingsView: View {
-  let documentName: String
-    
-  var body: some View {
-    // Generates key: SettingsView.Body.saveChanges
-    Button(#tk("Save Changes")) { handleSave() }
-        
-    // Add context with 'c' parameter to help translators
-    Text(#tk("Save changes to \(documentName)?", 
-             c: "e.g. 'Save changes to MyNumbers.csv'"))
-  }
-}
-```
-
-String Catalogs made it challenging to maintain best practices from the Strings-file era, where using semantic keys helped group related translations. The macro brings back this advantage while keeping String Catalogs' benefits - you get semantic keys without writing verbose `String(localized:defaultValue:comment:)` calls:
-
-![Macro Expansion in Xcode](https://github.com/FlineDev/TranslateKit/blob/main/Images/MacroExpansion.jpeg?raw=true)
-
-You can see in the image what the simple `#tk` macro call expands to, adding an auto-derived key. These semantic keys help group related translations and provide crucial context to translators and translation tools (like the [TranslateKit Mac app](https://translatekit.app)), leading to more accurate translations while making your localization files easier to maintain.
-
 ### Core Strings & Category-Specific Extensions
 
 To keep TranslateKit lightweight while providing comprehensive coverage, the 2,000+ pre-localized strings are organized into two tiers:
 
 1. **Core Strings (250+):**  
-   Included in the base `TranslateKit` package, these strings are commonly used across all kinds of apps, making them universally applicable.
+   Included in the base `TranslateKit` product, these strings are commonly used across all kinds of apps, making them universally applicable.
 
 2. **Category-Specific Extensions (~100 per category):**  
    Each of the **26 App Store categories** has an additional module with strings tailored to that category. For example:
@@ -75,44 +51,32 @@ To keep TranslateKit lightweight while providing comprehensive coverage, the 2,0
 
 With this modular approach, TranslateKit remains lightweight, adding only ~1MB to your app, making it suitable for any project – big or small.
 
-## Swift Package Usage
+## Installation
 
-For Swift packages, use `#tkm` instead of `#tk` to reference the correct String Catalog file:
+Add the package with Swift Package Manager:
 
-1. Add `defaultLocalization` to your manifest:
 ```swift
-let package = Package(
-   name: "FormKit",
-   defaultLocalization: "en",
-   // ...
+.package(url: "https://github.com/FlineDev/TranslateKitSDK.git", from: "2.0.0")
+```
+
+Then add the product that fits your app – the core `TranslateKit` or one of the category modules, which already include the core strings:
+
+```swift
+.target(
+   name: "MyApp",
+   dependencies: [
+      .product(name: "TranslateKitFinance", package: "TranslateKitSDK")  // or "TranslateKit" for the core strings only
+   ]
 )
 ```
 
-2. Add `Localizable.xcstrings` to your module (right-click folder > "New File from Template…" > String Catalog)
+In Xcode, use *File > Add Package Dependencies…* and pick the same product. Then `import TranslateKit` (or e.g. `import TranslateKitFinance`) and use the static properties, e.g. `TK.Action.save`.
 
-3. Use the `#tkm` macro with optional comment:
-```swift
-struct FormValidator {
-   static func validatePassword(_ password: String) -> String? {
-       guard password.count >= 8 else {
-           return #tkm("Password must be at least 8 characters")
-       }
-       return nil
-   }
-}
-```
+The package has no dependencies and no macros, so Xcode and CI never ask you to trust anything.
 
-Common reasons to localize Swift packages are that they may contain UI elements (e.g. modularized apps) or that they might provide error descriptions, which should be localized in most cases.
+## Migrating from 1.x
 
-## Solving Macro Trust Issues in Xcode Cloud
-
-If you're using Xcode Cloud or experiencing issues with macro trust, check out our guide [Solving Swift Macro Trust Issues in Xcode Cloud Builds](https://www.fline.dev/solving-swift-macro-trust-issues-in-xcode-cloud-builds/). This article explains how to properly configure your build settings when CI systems don't automatically trust macro packages.
-
-## Using TranslateKit without Macros
-
-If you don't want to use the `tk` macro but still profit from the community-driven common strings in your app, you can also opt for one of the `Lite` targets instead of the regular ones. For example, instead of adding and importing the `TranslateKit` target to your app, you can instead add & import `TranslateKitLite`. For category-specific variants, instead of something like `TranslateKitGames`, use `TranslateKitGamesLite`.
-
-The `Lite` variants of the targets ensure that Xcode (and CI workflows) won't ask you to "Trust & Enable" macros in TranslateKit. But they also lack the added context you get when using `#tk` macro. We include these macros by default because we recommend everyone using them, but the `Lite` targets give you a way to opt-out when needed.
+Version 2.0 removed the `#tk` / `#tkm` macros and the `Lite` variants (`TranslateKitLite` is now simply `TranslateKit`). See the [migration guide](MigrationGuide.md) – it includes a prompt that lets an AI assistant convert your macro calls without losing existing translations.
 
 ## Contributing
 
