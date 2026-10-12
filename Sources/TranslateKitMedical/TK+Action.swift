@@ -47,16 +47,6 @@ extension TK.Action {
       )
    }
 
-   /// "Contact Support" - Use for reaching out to customer support
-   public static var contactSupport: String {
-      String(
-         localized: "TK.Action.contactSupport",
-         defaultValue: "Contact Support",
-         bundle: .module,
-         comment: "Use for reaching out to customer support"
-      )
-   }
-
    /// "Delete Report" - Use for removing a medical report from the system
    public static var deleteReport: String {
       String(
